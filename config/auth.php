@@ -34,11 +34,53 @@ return [
     | Supported: "session"
     |
     */
-
     'guards' => [
+        // Default guard for regular users
         'web' => [
             'driver' => 'session',
             'provider' => 'users',
+        ],
+    
+        // Guard for the admin users
+        'admin' => [
+            'driver' => 'session',
+            'provider' => 'admins',
+        ],
+    
+        // Guard for the suppliers
+        'supplier' => [
+            'driver' => 'session',
+            'provider' => 'suppliers',
+        ],
+    
+        // Guard for the buyers
+        'buyer' => [
+            'driver' => 'session',
+            'provider' => 'buyers',
+        ],
+    
+        // Guard for marketing executives
+        'marketing' => [
+            'driver' => 'session',
+            'provider' => 'marketing_executives',
+        ],
+    
+        // Guard for quality checkers
+        'quality-checker' => [
+            'driver' => 'session',
+            'provider' => 'quality_checkers',
+        ],
+    
+        // Guard for customer support
+        'customer-support' => [
+            'driver' => 'session',
+            'provider' => 'customer_supports',
+        ],
+    
+        // Guard for inventory managers
+        'inventory-manager' => [
+            'driver' => 'session',
+            'provider' => 'inventory_managers',
         ],
     ],
 
@@ -60,16 +102,55 @@ return [
     */
 
     'providers' => [
+        // Default user provider for regular users
         'users' => [
             'driver' => 'eloquent',
             'model' => App\Models\User::class,
         ],
-
-        // 'users' => [
-        //     'driver' => 'database',
-        //     'table' => 'users',
-        // ],
+    
+        // User provider for admins
+        'admins' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\Admin::class, // Replace 'App\Models\Admin' with the actual path to your Admin model.
+        ],
+    
+        // User provider for suppliers
+        'suppliers' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\Supplier::class, // Replace 'App\Models\Supplier' with the actual path to your Supplier model.
+        ],
+    
+        // User provider for buyers
+        'buyers' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\Buyer::class, // Replace 'App\Models\Buyer' with the actual path to your Buyer model.
+        ],
+    
+        // User provider for marketing executives
+        'marketing_executives' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\MarketingExecutive::class, // Replace 'App\Models\MarketingExecutive' with the actual path to your MarketingExecutive model.
+        ],
+    
+        // User provider for quality checkers
+        'quality_checkers' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\QualityChecker::class, // Replace 'App\Models\QualityChecker' with the actual path to your QualityChecker model.
+        ],
+    
+        // User provider for customer support
+        'customer_supports' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\CustomerSupport::class, // Replace 'App\Models\CustomerSupport' with the actual path to your CustomerSupport model.
+        ],
+    
+        // User provider for inventory managers
+        'inventory_managers' => [
+            'driver' => 'eloquent',
+            'model' => App\Models\InventoryManager::class, // Replace 'App\Models\InventoryManager' with the actual path to your InventoryManager model.
+        ],
     ],
+    
 
     /*
     |--------------------------------------------------------------------------
