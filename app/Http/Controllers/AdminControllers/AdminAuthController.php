@@ -11,25 +11,29 @@ class AdminAuthController extends Controller
     // Show login form
     public function showLoginForm()
     {
-        return view('admin.login');
+        return view('admin.pages.login');
     }
 
-    // Handle login form submission
     public function login(Request $request)
     {
-        $credentials = $request->validate([
+        $request->validate([
             'email' => 'required|email',
             'password' => 'required',
         ]);
-
+    
+        $credentials = $request->only('email', 'password');
+    
         if (Auth::guard('admin')->attempt($credentials)) {
             // Authentication passed
             return redirect()->route('admin.dashboard');
         } else {
             // Authentication failed
-            return redirect()->route('admin.login')->with('error', 'Invalid credentials');
+            return redirect()->route('admin.login')
+                ->withInput($request->only('email')) // Set old email value
+                ->withErrors(['login' => 'Invalid credentials']);
         }
     }
+    
 
     // Logout
     public function logout(Request $request)

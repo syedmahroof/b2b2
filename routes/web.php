@@ -3,6 +3,10 @@
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\AdminControllers\AdminAuthController;
+use App\Http\Controllers\AdminControllers\AdminBuyerController;
+use App\Http\Controllers\AdminControllers\AdminSupplierController;
+
+
 use App\Http\Controllers\AdminControllers\AdminController;
 use App\Http\Controllers\SupplierControllers\SupplierAuthController;
 use App\Http\Controllers\SupplierControllers\SupplierController;
@@ -42,13 +46,39 @@ Route::prefix('admin')->group(function () {
     // Show login form
     Route::get('/login', [AdminAuthController::class, 'showLoginForm'])->name('admin.login');
     // Handle login form submission
-    Route::post('/login', [AdminAuthController::class, 'login']);
-    // Other admin routes can be defined here
-    Route::middleware('auth.user')->group(function () {
+    Route::post('/login-post', [AdminAuthController::class, 'login'])->name('admin.post.login');
+
+    // Middleware for routes that require admin authentication
+    Route::middleware('admin.guard')->group(function () {
         // Dashboard route
         Route::get('/dashboard', [AdminController::class, 'dashboard'])->name('admin.dashboard');
+
+      
+        Route::get('/admin/buyer', [AdminBuyerController::class, 'index'])->name('admin.buyer.list');
+        Route::get('/admin/product', [AdminBuyerController::class, 'index'])->name('admin.products.list');
+        Route::get('/admin/ticket', [AdminBuyerController::class, 'index'])->name('admin.tickets.list');
+
+        
+        Route::group(['namespace' => 'AdminControllers', 'prefix' => 'admin'], function () {
+            Route::get('/suppliers', [AdminSupplierController::class, 'index'])->name('admin.suppliers.index');
+            Route::get('/suppliers/create', [AdminSupplierController::class, 'create'])->name('admin.suppliers.create');
+            Route::post('/suppliers', [AdminSupplierController::class, 'store'])->name('admin.suppliers.store');
+            Route::get('/suppliers/{id}/edit', [AdminSupplierController::class, 'edit'])->name('admin.suppliers.edit');
+            Route::put('/suppliers/{id}', [AdminSupplierController::class, 'update'])->name('admin.suppliers.update');
+            Route::delete('/suppliers/{id}', [AdminSupplierController::class, 'destroy'])->name('admin.suppliers.destroy');
+            
+            // Your additional route
+            Route::get('/supplier', [AdminSupplierController::class, 'index'])->name('admin.supplier.list');
+        });
+  
+        
+
+
+
         // Logout route
-        Route::post('/logout', [AdminAuthController::class, 'logout'])->name('admin.logout');
+        Route::any('/logout', [AdminAuthController::class, 'logout'])->name('admin.logout');
+
+        
     });
 });
 

@@ -5,10 +5,10 @@ namespace App\Http\Controllers\AdminControllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-class AdminController extends Controller
+class AdminBuyerController extends Controller
 {
      // Show home page
-     public function dashboard()
+     public function index()
      {
         return view('admin.pages.dashboard');
      }

@@ -36,6 +36,7 @@ class Kernel extends HttpKernel
             \Illuminate\View\Middleware\ShareErrorsFromSession::class,
             \App\Http\Middleware\VerifyCsrfToken::class,
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
+            // \App\Http\Middleware\AdminGuardMiddleware::class
         ],
 
         'api' => [
@@ -64,5 +65,11 @@ class Kernel extends HttpKernel
         'signed' => \App\Http\Middleware\ValidateSignature::class,
         'throttle' => \Illuminate\Routing\Middleware\ThrottleRequests::class,
         'verified' => \Illuminate\Auth\Middleware\EnsureEmailIsVerified::class,
+        'admin.guard' => \App\Http\Middleware\AdminGuardMiddleware::class,
     ];
+
+    // protected $routeMiddleware = [
+    //     // Other middleware...
+    //     'admin.guard' => \App\Http\Middleware\AdminGuardMiddleware::class,
+    // ];
 }
