@@ -5,18 +5,18 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class ProductAttribute extends Model
+class SupplierNotification extends Model
 {
     use HasFactory;
 
     protected $fillable = [
-        'product_id',
-        'name',
-        'value',
+        'supplier_id',
+        'title',
+        'content',
     ];
 
-    public function product()
+    public function supplier()
     {
-        return $this->belongsTo(Product::class);
+        return $this->belongsTo(Supplier::class);
     }
 }

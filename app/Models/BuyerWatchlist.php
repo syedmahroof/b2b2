@@ -5,15 +5,19 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class ProductAttribute extends Model
+class BuyerWatchlist extends Model
 {
     use HasFactory;
 
     protected $fillable = [
+        'buyer_id',
         'product_id',
-        'name',
-        'value',
     ];
+
+    public function buyer()
+    {
+        return $this->belongsTo(Buyer::class);
+    }
 
     public function product()
     {

@@ -13,6 +13,10 @@ return new class extends Migration
     {
         Schema::create('buyers', function (Blueprint $table) {
             $table->id();
+            $table->string('name');
+            $table->string('email')->unique();
+            $table->string('password');
+            // Add more columns specific to buyers
             $table->timestamps();
         });
     }

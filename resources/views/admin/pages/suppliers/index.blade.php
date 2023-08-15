@@ -286,8 +286,8 @@
                                     <!--end::Svg Icon-->Export</button>
                                 <!--end::Export-->
                                 <!--begin::Add user-->
-                                <button type="button" class="btn btn-primary" data-bs-toggle="modal"
-                                    data-bs-target="#kt_modal_add_user">
+                                <a type="button" class="btn btn-primary"  href="{{route('admin.suppliers.create')}}"
+                                    >
                                     <!--begin::Svg Icon | path: icons/duotune/arrows/arr075.svg-->
                                     <span class="svg-icon svg-icon-2">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
@@ -299,7 +299,7 @@
                                                 rx="1" fill="black" />
                                         </svg>
                                     </span>
-                                    <!--end::Svg Icon-->Add User</button>
+                                    <!--end::Svg Icon-->Add Supplier</a>
                                 <!--end::Add user-->
                             </div>
                             <!--end::Toolbar-->
