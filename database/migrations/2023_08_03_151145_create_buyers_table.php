@@ -16,6 +16,17 @@ return new class extends Migration
             $table->string('name');
             $table->string('email')->unique();
             $table->string('password');
+            $table->string('company_name')->nullable();
+            $table->string('contact_person_name')->nullable();
+            $table->string('contact_person_email')->nullable();
+            $table->string('contact_person_phone')->nullable();
+            $table->text('billing_address')->nullable();
+            $table->text('shipping_address')->nullable();
+            $table->string('preferred_payment_method')->nullable();
+            $table->string('preferred_communication_method')->nullable();
+            $table->text('notes')->nullable();
+            $table->timestamp('last_login')->nullable();
+            $table->integer('points')->default(0);
             // Add more columns specific to buyers
             $table->timestamps();
         });

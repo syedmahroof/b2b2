@@ -1,0 +1,958 @@
+<?php include 'common/header.php';?>
+<?php include 'common/sidebar.php';?>
+<div class="d-flex flex-column  container-fluid">
+	<!--begin::Toolbar-->
+	<div class="toolbar mb-2 mb-lg-7" id="kt_toolbar">
+		<!--begin::Page title-->
+		<div class="page-title d-flex flex-column me-3">
+			<!--begin::Title-->
+			<h1 class="d-flex text-dark fw-bold my-1 fs-3">Order Profile </h1>
+			<!--end::Title-->
+			<!--begin::Breadcrumb-->
+
+			<!--end::Breadcrumb-->
+		</div>
+		<!--end::Page title-->
+
+	</div>
+	<!--end::Toolbar-->
+	<!--begin::Post-->
+
+
+	<div class="content flex-column-fluid" id="kt_content">
+		<!--begin::Navbar-->
+		<div class="card mb-6 mb-xl-9">
+			<div class="card-body pt-9 pb-0">
+				<!--begin::Details-->
+				<div class="d-flex flex-wrap flex-sm-nowrap mb-6">
+					<!--begin::Image-->
+					<div
+						class="d-flex flex-center flex-shrink-0 bg-light rounded w-100px h-100px w-lg-150px h-lg-150px me-7 mb-4">
+						<img class="mw-50px mw-lg-75px" src="assets/media/svg/brand-logos/volicity-9.svg" alt="image" />
+					</div>
+					<!--end::Image-->
+					<!--begin::Wrapper-->
+					<div class="flex-grow-1">
+						<!--begin::Head-->
+						<div class="d-flex justify-content-between align-items-start flex-wrap mb-2">
+							<!--begin::Details-->
+							<div class="d-flex flex-column">
+								<!--begin::Status-->
+								<div class="d-flex align-items-center mb-1">
+									<a href="#" class="text-gray-800 text-hover-primary fs-2 fw-bold me-3"><?= $order['order_ref_no'] ?></a>
+									<span class="badge badge-light-success me-auto">In Progress</span>
+								</div>
+								<!--end::Status-->
+								<!--begin::Description-->
+								<div class="d-flex flex-wrap fw-semibold mb-4 fs-5 text-gray-400">Customer : <?= $order['cust_name'] ?></div>
+								<!--end::Description-->
+							</div>
+							<!--end::Details-->
+							<!--begin::Actions-->
+							<div class="d-flex mb-4">
+								<!-- <a href="#" class="btn btn-sm btn-bg-light btn-active-color-primary me-3"
+									data-bs-toggle="modal" data-bs-target="#kt_modal_users_search">Add User</a> -->
+								<a href="#" class="btn btn-sm btn-primary me-3" data-bs-toggle="modal"
+									data-bs-target="">Edit Order</a>
+								<!--begin::Menu-->
+								<div class="me-0">
+									<button class="btn btn-sm btn-icon btn-bg-light btn-active-color-primary"
+										data-kt-menu-trigger="click" data-kt-menu-placement="bottom-end">
+										<i class="bi bi-three-dots fs-3"></i>
+									</button>
+									<!--begin::Menu 3-->
+									<div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-800 menu-state-bg-light-primary fw-semibold w-200px py-3"
+										data-kt-menu="true">
+										<!--begin::Heading-->
+										<div class="menu-item px-3">
+											<div class="menu-content text-muted pb-2 px-3 fs-7 text-uppercase">Payments
+											</div>
+										</div>
+										<!--end::Heading-->
+										<!--begin::Menu item-->
+										<div class="menu-item px-3">
+											<a href="#" class="menu-link px-3">Create Invoice</a>
+										</div>
+										<!--end::Menu item-->
+										<!--begin::Menu item-->
+										<div class="menu-item px-3">
+											<a href="#" class="menu-link flex-stack px-3">Create Payment
+												<i class="fas fa-exclamation-circle ms-2 fs-7" data-bs-toggle="tooltip"
+													title="Specify a target name for future usage and reference"></i></a>
+										</div>
+										<!--end::Menu item-->
+										<!--begin::Menu item-->
+										<div class="menu-item px-3">
+											<a href="#" class="menu-link px-3">Generate Bill</a>
+										</div>
+										<!--end::Menu item-->
+										<!--begin::Menu item-->
+										<div class="menu-item px-3" data-kt-menu-trigger="hover"
+											data-kt-menu-placement="right-end">
+											<a href="#" class="menu-link px-3">
+												<span class="menu-title">Subscription</span>
+												<span class="menu-arrow"></span>
+											</a>
+											<!--begin::Menu sub-->
+											<div class="menu-sub menu-sub-dropdown w-175px py-4">
+												<!--begin::Menu item-->
+												<div class="menu-item px-3">
+													<a href="#" class="menu-link px-3">Plans</a>
+												</div>
+												<!--end::Menu item-->
+												<!--begin::Menu item-->
+												<div class="menu-item px-3">
+													<a href="#" class="menu-link px-3">Billing</a>
+												</div>
+												<!--end::Menu item-->
+												<!--begin::Menu item-->
+												<div class="menu-item px-3">
+													<a href="#" class="menu-link px-3">Statements</a>
+												</div>
+												<!--end::Menu item-->
+												<!--begin::Menu separator-->
+												<div class="separator my-2"></div>
+												<!--end::Menu separator-->
+												<!--begin::Menu item-->
+												<div class="menu-item px-3">
+													<div class="menu-content px-3">
+														<!--begin::Switch-->
+														<label
+															class="form-check form-switch form-check-custom form-check-solid">
+															<!--begin::Input-->
+															<input class="form-check-input w-30px h-20px"
+																type="checkbox" value="1" checked="checked"
+																name="notifications" />
+															<!--end::Input-->
+															<!--end::Label-->
+															<span
+																class="form-check-label text-muted fs-6">Recuring</span>
+															<!--end::Label-->
+														</label>
+														<!--end::Switch-->
+													</div>
+												</div>
+												<!--end::Menu item-->
+											</div>
+											<!--end::Menu sub-->
+										</div>
+										<!--end::Menu item-->
+										<!--begin::Menu item-->
+										<div class="menu-item px-3 my-1">
+											<a href="#" class="menu-link px-3">Settings</a>
+										</div>
+										<!--end::Menu item-->
+									</div>
+									<!--end::Menu 3-->
+								</div>
+								<!--end::Menu-->
+							</div>
+							<!--end::Actions-->
+						</div>
+						<!--end::Head-->
+						<!--begin::Info-->
+						<div class="d-flex flex-wrap justify-content-start">
+							<!--begin::Stats-->
+							<div class="d-flex flex-wrap">
+								<!--begin::Stat-->
+								<div
+									class="border border-gray-300 border-dashed rounded min-w-125px py-3 px-4 me-6 mb-3">
+									<!--begin::Number-->
+									<div class="d-flex align-items-center">
+										<div class="fs-4 fw-bold">29 Jan, 2022</div>
+									</div>
+									<!--end::Number-->
+									<!--begin::Label-->
+									<div class="fw-semibold fs-6 text-gray-400">Due Date</div>
+									<!--end::Label-->
+								</div>
+								<!--end::Stat-->
+								<!--begin::Stat-->
+								<div
+									class="border border-gray-300 border-dashed rounded min-w-125px py-3 px-4 me-6 mb-3">
+									<!--begin::Number-->
+									<div class="d-flex align-items-center">
+										<!--begin::Svg Icon | path: icons/duotune/arrows/arr065.svg-->
+										<span class="svg-icon svg-icon-3 svg-icon-danger me-2">
+											<svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+												xmlns="http://www.w3.org/2000/svg">
+												<rect opacity="0.5" x="11" y="18" width="13" height="2" rx="1"
+													transform="rotate(-90 11 18)" fill="currentColor" />
+												<path
+													d="M11.4343 15.4343L7.25 11.25C6.83579 10.8358 6.16421 10.8358 5.75 11.25C5.33579 11.6642 5.33579 12.3358 5.75 12.75L11.2929 18.2929C11.6834 18.6834 12.3166 18.6834 12.7071 18.2929L18.25 12.75C18.6642 12.3358 18.6642 11.6642 18.25 11.25C17.8358 10.8358 17.1642 10.8358 16.75 11.25L12.5657 15.4343C12.2533 15.7467 11.7467 15.7467 11.4343 15.4343Z"
+													fill="currentColor" />
+											</svg>
+										</span>
+										<!--end::Svg Icon-->
+										<div class="fs-4 fw-bold" data-kt-countup="true" data-kt-countup-value="75">0
+										</div>
+									</div>
+									<!--end::Number-->
+									<!--begin::Label-->
+									<div class="fw-semibold fs-6 text-gray-400">Open Tasks</div>
+									<!--end::Label-->
+								</div>
+								<!--end::Stat-->
+								<!--begin::Stat-->
+								<div
+									class="border border-gray-300 border-dashed rounded min-w-125px py-3 px-4 me-6 mb-3">
+									<!--begin::Number-->
+									<div class="d-flex align-items-center">
+										<!--begin::Svg Icon | path: icons/duotune/arrows/arr066.svg-->
+										<span class="svg-icon svg-icon-3 svg-icon-success me-2">
+											<svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+												xmlns="http://www.w3.org/2000/svg">
+												<rect opacity="0.5" x="13" y="6" width="13" height="2" rx="1"
+													transform="rotate(90 13 6)" fill="currentColor" />
+												<path
+													d="M12.5657 8.56569L16.75 12.75C17.1642 13.1642 17.8358 13.1642 18.25 12.75C18.6642 12.3358 18.6642 11.6642 18.25 11.25L12.7071 5.70711C12.3166 5.31658 11.6834 5.31658 11.2929 5.70711L5.75 11.25C5.33579 11.6642 5.33579 12.3358 5.75 12.75C6.16421 13.1642 6.83579 13.1642 7.25 12.75L11.4343 8.56569C11.7467 8.25327 12.2533 8.25327 12.5657 8.56569Z"
+													fill="currentColor" />
+											</svg>
+										</span>
+										<!--end::Svg Icon-->
+										<div class="fs-4 fw-bold" data-kt-countup="true" data-kt-countup-value="15000"
+											data-kt-countup-prefix="$">0</div>
+									</div>
+									<!--end::Number-->
+									<!--begin::Label-->
+									<div class="fw-semibold fs-6 text-gray-400">Budget Spent</div>
+									<!--end::Label-->
+								</div>
+								<!--end::Stat-->
+							</div>
+							
+						</div>
+						<!--end::Info-->
+					</div>
+					<!--end::Wrapper-->
+				</div>
+				<!--end::Details-->
+				<div class="separator"></div>
+				
+			
+				<!--begin::Nav-->
+				<ul class="nav nav-stretch nav-line-tabs nav-line-tabs-2x border-transparent fs-5 fw-bold">
+					<!--begin::Nav item-->
+					
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6 active"  data-bs-toggle="tab" href="#kt_ecommerce_sales_order_summary" 
+							>Overview</a>
+					</li>
+					<!--end::Nav item-->
+					<!--begin::Nav item-->
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6"
+							data-bs-toggle="tab" href="#kt_ecommerce_sales_order_summary" >Quotation</a>
+					</li>
+					<!--end::Nav item-->
+					<!--begin::Nav item-->
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6"
+							data-bs-toggle="tab" href="#kt_ecommerce_sales_order_summary" >LPO</a>
+					</li>
+					<!--end::Nav item-->
+					<!--begin::Nav item-->
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6"
+							data-bs-toggle="tab" href="#kt_ecommerce_sales_order_summary" >Permit</a>
+					</li>
+					<!--end::Nav item-->
+					<!--begin::Nav item-->
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6"
+							data-bs-toggle="tab" href="#kt_ecommerce_sales_order_summary" >NOC</a>
+					</li>
+					<!--end::Nav item-->
+					<!--begin::Nav item-->
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6"
+							data-bs-toggle="tab" href="#kt_ecommerce_sales_order_summary" >Replacement</a>
+					</li>
+					<!--end::Nav item-->
+					<!--begin::Nav item-->
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6"
+							href="../../demo14/dist/apps/projects/settings.html">Close Contact</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6"
+							href="../../demo14/dist/apps/projects/settings.html">Fuel Report</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6"
+							href="../../demo14/dist/apps/projects/settings.html">Service Report</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link text-active-primary py-5 me-6"
+							href="../../demo14/dist/apps/projects/settings.html">Invoice Details</a>
+					</li>
+					<!--end::Nav item-->
+				</ul>
+				<!--end::Nav-->
+			</div>
+		</div>
+		<!--end::Navbar-->
+		<!--begin::Row-->
+		<div class="row g-6 g-xl-9">
+			
+			
+		
+		</div>
+		
+	
+	</div>
+	
+	
+	<div class="tab-content">
+										<!--begin::Tab pane-->
+										<div class="tab-pane fade show active" id="kt_ecommerce_sales_order_summary" role="tab-panel">
+											<!--begin::Orders-->
+											<div class="d-flex flex-column gap-7 gap-lg-10">
+												<div class="d-flex flex-column flex-xl-row gap-7 gap-lg-10">
+													<!--begin::Payment address-->
+													<div class="card card-flush py-4 flex-row-fluid overflow-hidden">
+														<!--begin::Background-->
+														<div class="position-absolute top-0 end-0 opacity-10 pe-none text-end">
+															<img src="assets/media/icons/duotune/ecommerce/ecm001.svg" class="w-175px" />
+														</div>
+														<!--end::Background-->
+														<!--begin::Card header-->
+														<div class="card-header">
+															<div class="card-title">
+																<h2>Payment Address</h2>
+															</div>
+														</div>
+														<!--end::Card header-->
+														<!--begin::Card body-->
+														<div class="card-body pt-0">Unit 1/23 Hastings Road,
+														<br />Melbourne 3000,
+														<br />Victoria,
+														<br />Australia.</div>
+														<!--end::Card body-->
+													</div>
+													<!--end::Payment address-->
+													<!--begin::Shipping address-->
+													<div class="card card-flush py-4 flex-row-fluid overflow-hidden">
+														<!--begin::Background-->
+														<div class="position-absolute top-0 end-0 opacity-10 pe-none text-end">
+															<img src="assets/media/icons/duotune/ecommerce/ecm006.svg" class="w-175px" />
+														</div>
+														<!--end::Background-->
+														<!--begin::Card header-->
+														<div class="card-header">
+															<div class="card-title">
+																<h2>Shipping Address</h2>
+															</div>
+														</div>
+														<!--end::Card header-->
+														<!--begin::Card body-->
+														<div class="card-body pt-0">Unit 1/23 Hastings Road,
+														<br />Melbourne 3000,
+														<br />Victoria,
+														<br />Australia.</div>
+														<!--end::Card body-->
+													</div>
+													<!--end::Shipping address-->
+												</div>
+											
+											</div>
+											<!--end::Orders-->
+										</div>
+										<!--end::Tab pane-->
+										<!--begin::Tab pane-->
+										<div class="tab-pane fade" id="kt_ecommerce_sales_order_history" role="tab-panel">
+											<!--begin::Orders-->
+											<div class="d-flex flex-column gap-7 gap-lg-10">
+												<!--begin::Order history-->
+												<div class="card card-flush py-4 flex-row-fluid">
+													<!--begin::Card header-->
+													<div class="card-header">
+														<div class="card-title">
+															<h2>Order History</h2>
+														</div>
+													</div>
+													<!--end::Card header-->
+													<!--begin::Card body-->
+													<div class="card-body pt-0">
+														<div class="table-responsive">
+															<!--begin::Table-->
+															<table class="table align-middle table-row-dashed fs-6 gy-5 mb-0">
+																<!--begin::Table head-->
+																<thead>
+																	<tr class="text-start text-gray-400 fw-bold fs-7 text-uppercase gs-0">
+																		<th class="min-w-100px">Date Added</th>
+																		<th class="min-w-175px">Comment</th>
+																		<th class="min-w-70px">Order Status</th>
+																		<th class="min-w-100px">Customer Notifed</th>
+																	</tr>
+																</thead>
+																<!--end::Table head-->
+																<!--begin::Table body-->
+																<tbody class="fw-semibold text-gray-600">
+																	<tr>
+																		<!--begin::Date-->
+																		<td>18/08/2022</td>
+																		<!--end::Date-->
+																		<!--begin::Comment-->
+																		<td>Order completed</td>
+																		<!--end::Comment-->
+																		<!--begin::Status-->
+																		<td>
+																			<!--begin::Badges-->
+																			<div class="badge badge-light-success">Completed</div>
+																			<!--end::Badges-->
+																		</td>
+																		<!--end::Status-->
+																		<!--begin::Customer Notified-->
+																		<td>No</td>
+																		<!--end::Customer Notified-->
+																	</tr>
+																	<tr>
+																		<!--begin::Date-->
+																		<td>17/08/2022</td>
+																		<!--end::Date-->
+																		<!--begin::Comment-->
+																		<td>Order received by customer</td>
+																		<!--end::Comment-->
+																		<!--begin::Status-->
+																		<td>
+																			<!--begin::Badges-->
+																			<div class="badge badge-light-success">Delivered</div>
+																			<!--end::Badges-->
+																		</td>
+																		<!--end::Status-->
+																		<!--begin::Customer Notified-->
+																		<td>Yes</td>
+																		<!--end::Customer Notified-->
+																	</tr>
+																	<tr>
+																		<!--begin::Date-->
+																		<td>16/08/2022</td>
+																		<!--end::Date-->
+																		<!--begin::Comment-->
+																		<td>Order shipped from warehouse</td>
+																		<!--end::Comment-->
+																		<!--begin::Status-->
+																		<td>
+																			<!--begin::Badges-->
+																			<div class="badge badge-light-primary">Delivering</div>
+																			<!--end::Badges-->
+																		</td>
+																		<!--end::Status-->
+																		<!--begin::Customer Notified-->
+																		<td>Yes</td>
+																		<!--end::Customer Notified-->
+																	</tr>
+																	<tr>
+																		<!--begin::Date-->
+																		<td>15/08/2022</td>
+																		<!--end::Date-->
+																		<!--begin::Comment-->
+																		<td>Payment received</td>
+																		<!--end::Comment-->
+																		<!--begin::Status-->
+																		<td>
+																			<!--begin::Badges-->
+																			<div class="badge badge-light-primary">Processing</div>
+																			<!--end::Badges-->
+																		</td>
+																		<!--end::Status-->
+																		<!--begin::Customer Notified-->
+																		<td>No</td>
+																		<!--end::Customer Notified-->
+																	</tr>
+																	<tr>
+																		<!--begin::Date-->
+																		<td>14/08/2022</td>
+																		<!--end::Date-->
+																		<!--begin::Comment-->
+																		<td>Pending payment</td>
+																		<!--end::Comment-->
+																		<!--begin::Status-->
+																		<td>
+																			<!--begin::Badges-->
+																			<div class="badge badge-light-warning">Pending</div>
+																			<!--end::Badges-->
+																		</td>
+																		<!--end::Status-->
+																		<!--begin::Customer Notified-->
+																		<td>No</td>
+																		<!--end::Customer Notified-->
+																	</tr>
+																	<tr>
+																		<!--begin::Date-->
+																		<td>13/08/2022</td>
+																		<!--end::Date-->
+																		<!--begin::Comment-->
+																		<td>Payment method updated</td>
+																		<!--end::Comment-->
+																		<!--begin::Status-->
+																		<td>
+																			<!--begin::Badges-->
+																			<div class="badge badge-light-warning">Pending</div>
+																			<!--end::Badges-->
+																		</td>
+																		<!--end::Status-->
+																		<!--begin::Customer Notified-->
+																		<td>No</td>
+																		<!--end::Customer Notified-->
+																	</tr>
+																	<tr>
+																		<!--begin::Date-->
+																		<td>12/08/2022</td>
+																		<!--end::Date-->
+																		<!--begin::Comment-->
+																		<td>Payment method expired</td>
+																		<!--end::Comment-->
+																		<!--begin::Status-->
+																		<td>
+																			<!--begin::Badges-->
+																			<div class="badge badge-light-danger">Failed</div>
+																			<!--end::Badges-->
+																		</td>
+																		<!--end::Status-->
+																		<!--begin::Customer Notified-->
+																		<td>Yes</td>
+																		<!--end::Customer Notified-->
+																	</tr>
+																	<tr>
+																		<!--begin::Date-->
+																		<td>11/08/2022</td>
+																		<!--end::Date-->
+																		<!--begin::Comment-->
+																		<td>Pending payment</td>
+																		<!--end::Comment-->
+																		<!--begin::Status-->
+																		<td>
+																			<!--begin::Badges-->
+																			<div class="badge badge-light-warning">Pending</div>
+																			<!--end::Badges-->
+																		</td>
+																		<!--end::Status-->
+																		<!--begin::Customer Notified-->
+																		<td>No</td>
+																		<!--end::Customer Notified-->
+																	</tr>
+																	<tr>
+																		<!--begin::Date-->
+																		<td>10/08/2022</td>
+																		<!--end::Date-->
+																		<!--begin::Comment-->
+																		<td>Order received</td>
+																		<!--end::Comment-->
+																		<!--begin::Status-->
+																		<td>
+																			<!--begin::Badges-->
+																			<div class="badge badge-light-warning">Pending</div>
+																			<!--end::Badges-->
+																		</td>
+																		<!--end::Status-->
+																		<!--begin::Customer Notified-->
+																		<td>Yes</td>
+																		<!--end::Customer Notified-->
+																	</tr>
+																</tbody>
+																<!--end::Table head-->
+															</table>
+															<!--end::Table-->
+														</div>
+													</div>
+													<!--end::Card body-->
+												</div>
+												<!--end::Order history-->
+												<!--begin::Order data-->
+												<div class="card card-flush py-4 flex-row-fluid">
+													<!--begin::Card header-->
+													<div class="card-header">
+														<div class="card-title">
+															<h2>Order Data</h2>
+														</div>
+													</div>
+													<!--end::Card header-->
+													<!--begin::Card body-->
+													<div class="card-body pt-0">
+														<div class="table-responsive">
+															<!--begin::Table-->
+															<table class="table align-middle table-row-bordered mb-0 fs-6 gy-5">
+																<!--begin::Table body-->
+																<tbody class="fw-semibold text-gray-600">
+																	<!--begin::IP address-->
+																	<tr>
+																		<td class="text-muted">IP Address</td>
+																		<td class="fw-bold text-end">172.68.221.26</td>
+																	</tr>
+																	<!--end::IP address-->
+																	<!--begin::Forwarded IP-->
+																	<tr>
+																		<td class="text-muted">Forwarded IP</td>
+																		<td class="fw-bold text-end">89.201.163.49</td>
+																	</tr>
+																	<!--end::Forwarded IP-->
+																	<!--begin::User agent-->
+																	<tr>
+																		<td class="text-muted">User Agent</td>
+																		<td class="fw-bold text-end">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36</td>
+																	</tr>
+																	<!--end::User agent-->
+																	<!--begin::Accept language-->
+																	<tr>
+																		<td class="text-muted">Accept Language</td>
+																		<td class="fw-bold text-end">en-GB,en-US;q=0.9,en;q=0.8</td>
+																	</tr>
+																	<!--end::Accept language-->
+																</tbody>
+																<!--end::Table body-->
+															</table>
+															<!--end::Table-->
+														</div>
+													</div>
+													<!--end::Card body-->
+												</div>
+												<!--end::Order data-->
+											</div>
+											<!--end::Orders-->
+										</div>
+										<!--end::Tab pane-->
+									</div>
+
+
+
+	<div class="content" id="kt_content">
+		<!--begin::Layout-->
+		<div class="row">
+			<!--begin::Sidebar-->
+			<div class="col-md-4">
+				<!--begin::Card-->
+				<div class="card mb-2 " id="detail_div" style="/*background-color: #F6E5CA*/">
+					<!--begin::Card body-->
+					<div class="card-body">
+						<!--begin::Summary-->
+						<!--begin::User Info-->
+
+
+
+						<!--begin::Item-->
+						<input type="hidden" class="form-control form-control-solid" value="<?php echo $_GET['id']; ?>"
+							placeholder="" name="name" id="people_id" />
+
+
+
+
+						<!--end::User Info-->
+						<!--end::Summary-->
+						<!--begin::Details toggle-->
+						<div class="d-flex flex-stack fs-4 py-3">
+							<div class="fw-bold rotate collapsible" data-bs-toggle="collapse"
+								href="#kt_user_view_details" role="button" aria-expanded="false"
+								aria-controls="kt_user_view_details">Basic Details
+								<span class="ms-2 rotate-180">
+									<!--begin::Svg Icon | path: icons/duotune/arrows/arr072.svg-->
+									<span class="svg-icon svg-icon-3">
+										<svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+											xmlns="http://www.w3.org/2000/svg">
+											<path
+												d="M11.4343 12.7344L7.25 8.55005C6.83579 8.13583 6.16421 8.13584 5.75 8.55005C5.33579 8.96426 5.33579 9.63583 5.75 10.05L11.2929 15.5929C11.6834 15.9835 12.3166 15.9835 12.7071 15.5929L18.25 10.05C18.6642 9.63584 18.6642 8.96426 18.25 8.55005C17.8358 8.13584 17.1642 8.13584 16.75 8.55005L12.5657 12.7344C12.2533 13.0468 11.7467 13.0468 11.4343 12.7344Z"
+												fill="currentColor" />
+										</svg>
+									</span>
+									<!--end::Svg Icon-->
+								</span>
+							</div>
+							<span data-bs-toggle="tooltip" data-bs-trigger="hover" title="Edit Profile">
+								<a onclick="getedit()" class="btn btn-sm btn-light-primary">Edit</a>
+							</span>
+						</div>
+						<!--end::Details toggle-->
+						<div class="separator"></div>
+						<!--begin::Details content-->
+						<div id="kt_user_view_details" class="collapse show">
+							<div class="pb-5 fs-6">
+								<!--begin::Details item-->
+								<div class="fw-bold mt-5">Order Type</div>
+								<div id="ordtype"></div>
+								<div class="fw-bold mt-5">Company Name</div>
+								<div class="text-gray-600" id="firm"></div>
+
+								<div class="fw-bold mt-5">Order Ref No</div>
+								<div class="text-gray-600" id="refno"></div>
+								<div class="fw-bold mt-5">Vehicle Type</div>
+								<div class="text-gray-600" id="vtype"></div>
+								<!--begin::Details item-->
+								<div class="fw-bold mt-5">Area</div>
+								<div class="text-gray-600">
+									<a class="text-gray-600 text-hover-primary" id="area"></a>
+								</div>
+								<div class="fw-bold mt-5">Project</div>
+								<div class="text-gray-600">
+									<a class="text-gray-600 text-hover-primary" id="project"></a>
+								</div>
+								<div class="fw-bold mt-5">Site No</div>
+								<div class="text-gray-600">
+									<a class="text-gray-600 text-hover-primary" id="site"></a>
+								</div>
+								<div class="fw-bold mt-5">Contact</div>
+								<div class="text-gray-600" id="contactperson"></div>
+								<div class="fw-bold mt-5">Mobile</div>
+								<div class="text-gray-600">
+									<a class="text-gray-600 text-hover-primary" id="contactno"></a>
+								</div>
+								<div class="fw-bold mt-5">Order By</div>
+								<div class="text-gray-600">
+									<a class="text-gray-600 text-hover-primary" id="economic_id"></a>
+								</div>
+								<div class="fw-bold mt-5">Mobile</div>
+								<div class="text-gray-600" id="labour_person_no"></div>
+								<div class="fw-bold mt-5">Contact</div>
+								<div class="text-gray-600" id="labour_person_no"></div>
+								<div class="fw-bold mt-5">Rate</div>
+								<div class="text-gray-600">
+									<a class="text-gray-600 text-hover-primary" id="uid_no"></a>
+								</div>
+								<div class="fw-bold mt-5">Salik</div>
+								<div class="text-gray-600">
+									<a class="text-gray-600 text-hover-primary" id="economic_id"></a>
+								</div>
+								<div class="fw-bold mt-5">Fine</div>
+								<div class="text-gray-600" id="labour_person_no"></div>
+								<div class="fw-bold mt-5">Excess</div>
+								<div class="text-gray-600" id="labour_person_no"></div>
+							</div>
+						</div>
+
+
+
+
+
+
+
+					</div>
+					<!--end::Card body-->
+				</div>
+				<!--end::Card-->
+
+			</div>
+			<!--end::Sidebar-->
+			<!--begin::Content-->
+			<div class="col-md-8">
+				<!--begin::Card-->
+				<div class="row">
+					<div class="col-md-9 mb-3" id="closecontract_div">
+						<!--begin::Card-->
+						<div class="card h-70" id="closecontract_div" style="background-color: #ffe3dd">
+							<h3 class=" m-3">Close Contract Details</h3>
+							<!--begin::Card body-->
+							<div class="card-body p-2">
+
+								<!--begin::Details content-->
+								<div id="kt_user_view_details2" class="collapse show">
+									<div class="pb-5 ">
+										<!--begin::Details item-->
+										<div class="fw-bold mt-2">Rental Location</div>
+										<div id="eid"></div>
+										<!--begin::Details item-->
+										<!-- <div class="fw-bold mt-2">Chassis</div>
+                        								<div class="text-gray-600" id="chasis_no"></div> -->
+										<!--begin::Details item-->
+										<div class="fw-bold mt-2">Check-in Date</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<div class="fw-bold mt-2">Check-in Time</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<div class="fw-bold mt-2">Odometer</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<div class="fw-bold mt-2">Kms</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<div class="fw-bold mt-2">Fuel Level</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<!--begin::Details item-->
+
+
+
+
+
+									</div>
+								</div>
+								<!--end::Details content-->
+							</div>
+							<!--end::Card body-->
+						</div>
+						<!--end::Card-->
+
+					</div>
+					<!--start aishu-->
+					<div class="col-md-9 mb-3" id="replacement_div">
+						<!--begin::Card-->
+						<div class="card h-90" id="replacement_div" style="background-color: #ffe3dd">
+							<h3 class=" m-3">Replacement</h3>
+							<!--begin::Card body-->
+							<div class="card-body p-2">
+
+								<!--begin::Details content-->
+								<div id="kt_user_view_details2" class="collapse show">
+									<div class="pb-5 ">
+										<!--begin::Details item-->
+										<div class="fw-bold mt-2">Check-out Location</div>
+										<div id="eid"></div>
+										<!--begin::Details item-->
+										<!-- <div class="fw-bold mt-2">Chassis</div>
+                        								<div class="text-gray-600" id="chasis_no"></div> -->
+										<!--begin::Details item-->
+										<div class="fw-bold mt-2">Check-out Date</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<div class="fw-bold mt-2">Check-out Time</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<div class="fw-bold mt-2">Odometer</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<div class="fw-bold mt-2">Kms</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<div class="fw-bold mt-2">Fuel Level</div>
+										<div class="text-gray-600">
+											<a class="text-gray-600 text-hover-primary" id="eid_expiry"></a>
+										</div>
+										<!--begin::Details item-->
+
+
+
+
+
+									</div>
+								</div>
+								<!--end::Details content-->
+							</div>
+							<!--end::Card body-->
+						</div>
+						<!--end::Card-->
+
+					</div>
+					<!--end aishu-->
+
+					<div class="col-md-3 mb-3">
+						<!--begin::Card-->
+						<div class="card h-100" id="detail_div">
+							<!--begin::Card body-->
+							<div class="card-body p-2">
+
+								<div>
+									<button type="button"
+										class="btn btn-danger py-2 mb-2  btn-block w-100">Quotation</button>
+									<button type="button" class="btn btn-danger py-2 mb-2 btn-block w-100">LPO</button>
+									<button type="button"
+										class="btn btn-danger py-2 mb-2 btn-block w-100">Contract</button>
+									<button type="button"
+										class="btn btn-danger py-2 mb-2 btn-block w-100">Permit</button>
+									<button type="button" class="btn btn-danger py-2 mb-2 btn-block w-100">NOC</button>
+									<button type="button" class="btn btn-danger py-2 mb-2 btn-block w-100"
+										onclick="get_replacement(<?php echo $_GET['id']; ?>)">Replacement</button>
+									<button type="button" class="btn btn-danger py-2 mb-2 btn-block w-100"
+										onclick="get_closecontract(<?php echo $_GET['id']; ?>)">Close Contract</button>
+									<button type="button" class="btn btn-danger py-2 mb-2 btn-block w-100">Fuel
+										Report</button>
+									<button type="button" class="btn btn-danger py-2 mb-2 btn-block w-100">Invoice
+										Details</button>
+									<button type="button" class="btn btn-danger py-2 mb-2 btn-block w-100">Service
+										Report</button>
+
+								</div>
+							</div>
+							<!--end::Card body-->
+						</div>
+						<!--end::Card-->
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<!--end::Card-->
+
+		</div>
+		<!--end::Layout-->
+
+	</div>
+	<!--end::Post-->
+
+	<?php include 'common/footer.php';?>
+
+	<script type="text/javascript">
+		function edit() {
+			var vid = '<?php echo $_GET['id']; ?>';
+			window.location.href = "<?php echo base_url()?>Order/add?id=" + vid;
+		}
+		var id = '<?php echo $_GET['id']; ?>';
+		load_detail(id);
+		function load_detail(id) {
+			$("#replacement_div").show();
+			$("#closecontract_div").hide();
+			$.ajax({
+				url: "<?php echo base_url()?>Order/getordermaster",
+				type: 'post',
+				dataType: "json",
+				data: {
+					oid: id
+				},
+
+				success:
+					function (data) {
+						// $('#kt_modal_add_vehicle').modal('toggle');
+						if (data != "0") {
+							console.log(data);
+							$("#ordtype").html(data.otypename);
+							$("#firm").html(data.order_ref_no);
+							$("#refno").html(data.order_ref_no);
+							$("#project").html(data.project);
+							$("#site").html(data.site);
+							$("#contactperson").html(data.order_contact_person);
+							$("#contactno").html(data.order_contact_number);
+
+
+							/*   $("#custname").html(data.cust_name);
+							  $("#pageno").html(data.page_no);
+							  
+							   $("#tripfrom").html(data.trip_from);
+							   $("#tripto").html(data.trip_to);
+							  
+								var da2= data.hire_date;
+						var dad2=da2.split('-');
+						  var du2=dad2[2]+"/"+dad2[1]+"/"+dad2[0];
+							   $("#hiredate").html(du2);
+							   $("#offhiredate").html(data.offhire_date);*/
+
+
+						}
+					}
+
+			});
+
+		}
+
+
+		function get_replacement(id) {
+			$("#replacement_div").show();
+			$("#closecontract_div").hide();
+			load_detail(id);
+		}
+		function get_closecontract(id) {
+			// alert(id);
+			$("#closecontract_div").show();
+			$("#replacement_div").hide();
+
+		}
+	</script>

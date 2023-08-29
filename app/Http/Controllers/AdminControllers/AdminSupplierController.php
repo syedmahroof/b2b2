@@ -8,11 +8,16 @@ use App\Models\Supplier;
 
 class AdminSupplierController extends Controller
 {
+    public function show($id)
+    {
+        $supplier = Supplier::findOrFail($id);
+        return view('admin.supplier-details', compact('supplier'));
+    }
     // Show home page
     public function index()
     {
         // Retrieve all suppliers from the database
-        $suppliers = Supplier::all();
+        $suppliers = Supplier::paginate(10); 
 
         return view('admin.pages.suppliers.index', compact('suppliers'));
     }

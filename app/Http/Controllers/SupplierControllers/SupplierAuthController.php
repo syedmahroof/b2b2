@@ -11,7 +11,7 @@ class SupplierAuthController extends Controller
     // Show login form
     public function showLoginForm()
     {
-        return view('supplier.login');
+        return view('supplier.pages.login');
     }
 
     // Handle login form submission

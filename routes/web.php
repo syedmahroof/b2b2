@@ -23,6 +23,11 @@ use App\Http\Controllers\InventoryManagementControllers\InventoryManagerControll
 
 
     Route::get('/', [BuyerController::class, 'index'])->name('buyer.home');
+    Route::get('/products', [BuyerController::class, 'products'])->name('buyer.products');
+    Route::get('/product_details', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
+
+    // Route::get('/product_details/{id}', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
+    // Route::get('/product_details/{id}', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
 
 // Route::prefix('buyer')->group(function () {
     // Show login form
@@ -32,8 +37,6 @@ use App\Http\Controllers\InventoryManagementControllers\InventoryManagerControll
     // Other buyer routes can be defined here
     Route::middleware('auth.user')->group(function () {
         // Dashboard route
-       
-        
         Route::get('/home', [BuyerController::class, 'home'])->name('buyer.dashboard');
         // Logout route
         Route::post('/logout', [BuyerAuthController::class, 'logout'])->name('buyer.logout');
@@ -66,6 +69,7 @@ Route::prefix('admin')->group(function () {
             Route::get('/suppliers/{id}/edit', [AdminSupplierController::class, 'edit'])->name('admin.suppliers.edit');
             Route::put('/suppliers/{id}', [AdminSupplierController::class, 'update'])->name('admin.suppliers.update');
             Route::delete('/suppliers/{id}', [AdminSupplierController::class, 'destroy'])->name('admin.suppliers.destroy');
+            Route::get('/show-suppliers/{id}', [AdminSupplierController::class, 'show'])->name('admin.suppliers.show');
             
             // Your additional route
             Route::get('/supplier', [AdminSupplierController::class, 'index'])->name('admin.supplier.list');
@@ -87,9 +91,9 @@ Route::prefix('supplier')->group(function () {
     // Show login form
     Route::get('/login', [SupplierAuthController::class, 'showLoginForm'])->name('supplier.login');
     // Handle login form submission
-    Route::post('/login', [SupplierAuthController::class, 'login']);
+    Route::post('/login-post', [SupplierAuthController::class, 'login'])->name('supplier.post.login');
     // Other supplier routes can be defined here
-    Route::middleware('auth.user')->group(function () {
+    Route::middleware('supplier.guard')->group(function () {
         // Dashboard route
         Route::get('/dashboard', [SupplierController::class, 'dashboard'])->name('supplier.dashboard');
         // Logout route
