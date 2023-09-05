@@ -1,243 +1,365 @@
 @extends('buyer.layouts.master') <!-- Extending the master.blade.php template -->
 @section('content')
-<section class="banner">
-    <div class="glide hero glide--ltr glide--carousel glide--swipeable">
-        <div class="glide__track" data-glide-el="track">
-            <ul class="glide__slides"
-                style="transition: transform 0ms cubic-bezier(0.165, 0.84, 0.44, 1) 0s; width: 5370px; transform: translate3d(-3580px, 0px, 0px);">
-                <!--  -->
-                <li class="glide__slide glide__slide--clone" style="width: 885px; margin-right: 5px;">
-                    <a href="#">
-                        <img src="frontend/img/banner-01.jpg" alt="">
-                    </a>
-                    <div class="caption">
-                        <div class="container">
-                            <h2>
-                                <span class="xl">Credit Options</span>
-                                <span class="md">That Will Exceed</span>
-                                <span class="lg">Your Expectations!</span>
-                            </h2>
-                            <button class="btn btn-apply">
-                                <a href="/login"><span><i>Easy</i> 3-Minute</span>Apply Now</a>
-                            </button>
+    <div class="prod-container">
+        <ul>
+            <!-- single product -->
+            <a href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hCTkRYO_0Mmv0j9eh7AUF-eP5">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hCTkRYO_0Mmv0j9eh7AUF-eP5'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1562747584.3694computerHeadsetJEDELJD136.jpg"
+                                alt="">
                         </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">Computer Headset --JEDEL JD136 </h4>
+                            <p><span class="strike-price">$7.2</span> <span class="price-text">$0.8</span></p>
+                            <p class="moq">100 Pieces (MOQ)</p>
+                        </div>
+
                     </div>
                 </li>
-                <li class="glide__slide glide__slide--clone"
-                    style="width: 885px; margin-left: 5px; margin-right: 5px;">
-                    <a href="#">
-                        <img src="frontend/img/banner-01.jpg" alt="">
-                    </a>
-                    <div class="caption">
-                        <div class="container">
-                            <h2>
-                                <span class="xl">Credit Options</span>
-                                <span class="md">That Will Exceed</span>
-                                <span class="lg">Your Expectations!</span>
-                            </h2>
-                            <button class="btn btn-apply">
-                                <a href="/login"><span><i>Easy</i> 3-Minute</span>Apply Now</a>
-                            </button>
+            </a>
+            <a href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hA3aJjhyYYFhUVk-4FMGtA-Dx">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hA3aJjhyYYFhUVk-4FMGtA-Dx'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1562752484.2563bvc.jpg"
+                                alt="">
                         </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">Wholesale Color White Usb Keyboard,Computer Wired Keyboard,Usb
+                                Ultrathin Keyboard Mouse Combo</h4>
+                            <p><span class="strike-price">$2.4</span> <span class="price-text">$0.8</span></p>
+                            <p class="moq">100 Pieces (MOQ)</p>
+                        </div>
+
                     </div>
                 </li>
-                <li class="glide__slide" style="width: 885px; margin-left: 5px; margin-right: 5px;">
-                    <a href="#">
-                        <img src="frontend/img/banner-01.jpg" alt="">
-                    </a>
-                    <div class="caption">
-                        <div class="container">
-                            <h2>
-                                <span class="xl">Credit Options</span>
-                                <span class="md">That Will Exceed</span>
-                                <span class="lg">Your Expectations!</span>
-                            </h2>
-                            <button class="btn btn-apply">
-                                <a href="/login"><span><i>Easy</i> 3-Minute</span>Apply Now</a>
-                            </button>
+            </a>
+            <a
+                href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hUaGb_f7Nv16RLKlii_b0I-fxJ44">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hUaGb_f7Nv16RLKlii_b0I-fxJ44'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1567060951.4735dedf7ca29e894c52809848d8f938a5b.png"
+                                alt="">
                         </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">Wireless Bluetooth Headset</h4>
+                            <p><span class="strike-price">$6.78</span> <span class="price-text">$6.7</span></p>
+                            <p class="moq">50 Pieces (MOQ)</p>
+                        </div>
+
                     </div>
                 </li>
-                <!--  -->
-                <li class="glide__slide" style="width: 885px; margin-left: 5px; margin-right: 5px;">
-                    <a href="#">
-                        <img src="frontend/img/banner-01.jpg" alt="">
-                    </a>
-                    <div class="caption">
-                        <div class="container">
-                            <h2>
-                                <span class="xl">Credit Options</span>
-                                <span class="md">That Will Exceed</span>
-                                <span class="lg">Your Expectations!</span>
-                            </h2>
-                            <button class="btn btn-apply">
-                                <a href="/login"><span><i>Easy</i> 3-Minute</span>Apply Now</a>
-                            </button>
+            </a>
+            <a href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hc7gKspAU51nw7z3QrMX4MOPx">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hc7gKspAU51nw7z3QrMX4MOPx'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1562749898.2475Hungariankeyboardcheapcustomcamboforcomputer.jpg"
+                                alt="">
                         </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">Keyboard For Ggaming----------KG08 JEDEL</h4>
+                            <p><span class="strike-price">$7.2</span> <span class="price-text">$3.2</span></p>
+                            <p class="moq">1000 Pieces (MOQ)</p>
+                        </div>
+
                     </div>
                 </li>
-                <!--  -->
-                <li class="glide__slide glide__slide--clone"
-                    style="width: 885px; margin-left: 5px; margin-right: 5px;">
-                    <a href="#">
-                        <img src="frontend/img/banner-01.jpg" alt="">
-                    </a>
-                    <div class="caption">
-                        <div class="container">
-                            <h2>
-                                <span class="xl">Credit Options</span>
-                                <span class="md">That Will Exceed</span>
-                                <span class="lg">Your Expectations!</span>
-                            </h2>
-                            <button class="btn btn-apply">
-                                <a href="/login"><span><i>Easy</i> 3-Minute</span>Apply Now</a>
-                            </button>
+            </a>
+            <a href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hVHkUtx7l2HP2X6SKDCYLXeP9">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hVHkUtx7l2HP2X6SKDCYLXeP9'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1562748890.413412312415.jpg"
+                                alt="">
                         </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">Newest Bluetooths Earphone Wireless Bluetooths Headphones , Bluetooth
+                                V4.2 Wireless Bluetooths Headset </h4>
+                            <p><span class="strike-price">$6.4</span> <span class="price-text">$6.08</span></p>
+                            <p class="moq">2000 Pieces (MOQ)</p>
+                        </div>
+
                     </div>
                 </li>
-                <li class="glide__slide glide__slide--clone" style="width: 885px; margin-left: 5px;">
-                    <a href="#">
-                        <img src="frontend/img/banner-01.jpg" alt="">
-                    </a>
-                    <div class="caption">
-                        <div class="container">
-                            <h2>
-                                <span class="xl">Credit Options</span>
-                                <span class="md">That Will Exceed</span>
-                                <span class="lg">Your Expectations!</span>
-                            </h2>
-                            <button class="btn btn-apply">
-                                <a href="/login"><span><i>Easy</i> 3-Minute</span>Apply Now</a>
-                            </button>
+            </a>
+            <a href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15h5DaTk6poUnJaxrVydCHAL-D9">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15h5DaTk6poUnJaxrVydCHAL-D9'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1562751479.1663vcxz.jpg"
+                                alt="">
                         </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">2019 New Design Portable Speaker New Model Wireless Bt Speaker Stereo
+                                With Good Quality Speaker </h4>
+                            <p><span class="strike-price">$3.2</span> <span class="price-text">$2.8</span></p>
+                            <p class="moq">100 Pieces (MOQ)</p>
+                        </div>
+
                     </div>
                 </li>
-            </ul>
-        </div>
-        <div class="glide__arrows" data-glide-el="controls">
-            <button class="glide__arrow glide__arrow--left" data-glide-dir="<">
-                <i class="fas fa-angle-left"></i>
-            </button>
-            <button class="glide__arrow glide__arrow--right" data-glide-dir=">">
-                <i class="fas fa-angle-right"></i>
-            </button>
-        </div>
+            </a>
+            <a
+                href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hUqZOT2u7wy2_rxH9sgANr-fxKY8">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hUqZOT2u7wy2_rxH9sgANr-fxKY8'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1567065115.4612d88451179622391f45c91e916566d8.jpg"
+                                alt="">
+                        </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">For IPhone Apple Silicone Case With Customized Logo Liquid Silicone TPU
+                                Cover</h4>
+                            <p><span class="strike-price">$2</span> <span class="price-text">$1.8</span></p>
+                            <p class="moq">50 Pieces (MOQ)</p>
+                        </div>
+
+                    </div>
+                </li>
+            </a>
+            <a href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15ho_c0phTrZFm8vEPIJMTfIeLx">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15ho_c0phTrZFm8vEPIJMTfIeLx'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1562746832.9687Jedelbrandnewdesignhotselling8D.png"
+                                alt="">
+                        </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">Jedel Brand New Design Hot Selling 8D Gaming Mouse</h4>
+                            <p><span class="strike-price">$3.2</span> <span class="price-text">$2.8</span></p>
+                            <p class="moq">1000 Pieces (MOQ)</p>
+                        </div>
+
+                    </div>
+                </li>
+            </a>
+            <a
+                href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hmfFI-nOlvREZEQdZNiT9vufxJII">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hmfFI-nOlvREZEQdZNiT9vufxJII'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1567059892.9652dc510bc75ef6a1771bb0f09d1985708.jpg"
+                                alt="">
+                        </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">Car Bracket Waterproof Bag</h4>
+                            <p><span class="strike-price">$1.3</span> <span class="price-text">$1.22</span></p>
+                            <p class="moq">50 Pieces (MOQ)</p>
+                        </div>
+
+                    </div>
+                </li>
+            </a>
+            <a
+                href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15h5VcNrhCtABxEotqRhRtVfefxKIk">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15h5VcNrhCtABxEotqRhRtVfefxKIk'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1567146582.1126QQ20190830142626.png"
+                                alt="">
+                        </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">Genuine Leather Luxury Cover For IPhone6s 7/8plus Xs Max, Leather
+                                Mobile Phone Case</h4>
+                            <p><span class="strike-price">$6</span> <span class="price-text">$5.6</span></p>
+                            <p class="moq">200 Pieces (MOQ)</p>
+                        </div>
+
+                    </div>
+                </li>
+            </a>
+            <a
+                href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hWELfdEB65EdkXEvrvWn41e_9KA">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hWELfdEB65EdkXEvrvWn41e_9KA'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1565666847.069510645090543617789235.jpg"
+                                alt="">
+                        </div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">Micro HDTV To DVI 24+1 Video Cable Flat DVI Monitor HD Cable 1.8 m
+                            </h4>
+                            <p><span class="strike-price">$1.09</span> <span class="price-text">$1.03</span></p>
+                            <p class="moq">2 Pieces (MOQ)</p>
+                        </div>
+
+                    </div>
+                </li>
+            </a>
+            <a
+                href="https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hFpGzA0g-JMyb5SQw0OwVVuL6JYI">
+                <li>
+                    <!-- <li onclick="location.href = 'https://fujeeka.com/product/product_details/XyMlXjo1XF4sIzs8KjU-eyNmM2YnM15hFpGzA0g-JMyb5SQw0OwVVuL6JYI'"> -->
+                    <div class="prod-box">
+                        <div class="prod-img">
+                            <img class="lazy"
+                                src="https://fujeeka.com/assets/uploads/product/thumb_1609740629.342920210104132403008.jpg"
+                                alt="">
+                        </div>
+                        <div class="stock-notif">Stock</div>
+                        <div class="prod-detail txt-height">
+                            <h4 class="prod-title-s">New product gj-385 embossed line tuning belt mobile phone headset semi
+                                in ear headset wholesale gjby</h4>
+                            <p><span class="strike-price">$2.4</span> <span class="price-text">$1.01</span></p>
+                            <p class="moq">240 Pieces (MOQ)</p>
+                        </div>
+
+                    </div>
+                </li>
+            </a>
+            <!-- /single product -->
+        </ul>
+
     </div>
-</section>
-<!-- /.Banner Section -->
 
-
-
-
-<!-- Home Content Section -->
-<section class="home-content">
-
-    <!-- Banner Section -->
-    <div class="container">
-        <div class="apply-title">
-            We Want to Say YES! No Cost to Apply&nbsp;-&nbsp;Same Day Approval.
-        </div>
-        <section class="process-section">
-
-            <h2>How it works</h2>
-            <p>Responsible Purchasing - Low Monthly payments</p>
+    <div class="jsx-780071979 root py-3 py-md-4 border-bottom">
+        <div class="container">
             <div class="row">
-                <div class="col process-box">
-                    <div class="img">
-                        <img src="frontend/img/proccess-01.png"
-                            alt="Buy now pay later financing - Easy Sign-up image" title="Easy Sign-up image">
-                    </div>
-                    <h6>Fast Approval<b>Easy 3 Minute Application</b></h6>
-                </div>
-                <div class="col process-box">
-                    <div class="img">
-                        <img src="frontend/img/proccess-02.png"
-                            alt="Buy now pay later financing - Fun Shopping image" title="Fun Shopping image">
-                    </div>
-                    <h6>Get Products Easily<b>Shop the brands you Love</b></h6>
-                </div>
-                <div class="col process-box btm">
-                    <div class="img">
-                        <img src="frontend/img/proccess-03.png"
-                            alt="Buy now pay later financing - Payment Methods image"
-                            title="Payment Methods image">
-                    </div>
-                    <h6>Up to 36 Months to Pay<b>Affordably Pay Over Time</b></h6>
-                </div>
-                <div class="col process-box">
-                    <div class="img">
-                        <img src="frontend/img/proccess-04.png"
-                            alt="Buy now pay later financing - Home Delivery image" title="Home Delivery image">
-                    </div>
-                    <h6>Grow Your Credit<b>Build and Restore your Credit</b></h6>
+                <div class="text-center mt-2 mb-2 mb-md-3 col">
+                    <h5 class="jsx-780071979">Compare prices among leading airlines and travel agencies</h5>
                 </div>
             </div>
-
-        </section>
+            <div class="row">
+                <div class="flight-logo col-3 col-md-2 offset-md-1"><a href="https://link.farefirst.com/go-kiwi"
+                        target="_blank" rel="noopener noreferrer" class="jsx-780071979"><img
+                            src="_next/static/images/kiwi-6d6faae7923dd59d31fd079f3da9139c.png" alt="KIWI"
+                            class="jsx-780071979 img-fluid" /></a></div>
+                <div class="flight-logo col-3 col-md-2"><a href="https://link.farefirst.com/go-expedia" target="_blank"
+                        rel="noopener noreferrer" class="jsx-780071979"><img
+                            src="_next/static/images/expedia-cbf6310a605b1e467dd2caadd3c916e0.png" alt="EXPEDIA"
+                            class="jsx-780071979 img-fluid" /></a></div>
+                <div class="flight-logo col-3 col-md-2"><a href="https://link.farefirst.com/go-flightnetwork"
+                        target="_blank" rel="noopener noreferrer" class="jsx-780071979"><img
+                            src="_next/static/images/flightnetwork-916509500f263370e4f99757270bfc60.png"
+                            alt="FLIGHTNETWORK" class="jsx-780071979 img-fluid" /></a></div>
+                <div class="flight-logo col-3 col-md-2"><a href="https://link.farefirst.com/go-cheaptickets"
+                        target="_blank" rel="noopener noreferrer" class="jsx-780071979"><img
+                            src="_next/static/images/cheaptickets-33562c79e03d03c1faabb48e6f717ad1.png" alt="CHEAPTICKETS"
+                            class="jsx-780071979 img-fluid" /></a></div>
+                <div class="d-none d-md-block flight-logo col-md-2"><a href="https://link.farefirst.com/go-mytrip"
+                        target="_blank" rel="noopener noreferrer" class="jsx-780071979"><img
+                            src="_next/static/images/mytrip-bd164c3d5d76a9ea13130df340f0de7a.png" alt="MYTRIP"
+                            class="jsx-780071979 img-fluid" /></a></div>
+            </div>
+        </div>
     </div>
-    <!-- /.Banner Section -->
-
-
-
-
-    <div class="container">
-        <div class="why-row">
-            <div class="col why-us">
-                <h3 class="title sub">
-                    Why LutherSales?
-                </h3>
-                <h2 class="title main">
-                    The Luther Advantage:
-                </h2>
-                <p class="descr">
-                    Buy Now Pay Later Furniture Financing plus Computers, TVs, Cell Phones, Electronics, Jewelry,
-                    Video Games and More…
-                </p>
-                <p class="detail">
-                    LutherSales gives you the purchasing flexibility you deserve. Since 1967 LutherSales has been a
-                    pioneer in providing premium name-brand products ranging from the latest electronics, home
-                    furnishings, and household appliances to consumers with limited cash and credit options.
-                </p>
-                <button class="btn success three-min-btn">
-                    <a hreef="/login"><span data-v-034600bc=""><span class="txt-easy">EASY</span>
-                            3-Minute
-                        </span> <span class="txt-apply">APPLY NOW</span></a></button>
+    <div class="jsx-43082432 root">
+        <div class="container">
+            <div class="text-center row">
+                <div class="my-3 col">
+                    <div class="jsx-43082432 h2 top-destination-header">Top Destinations</div>
+                    <div class="jsx-43082432 text-muted">The most searched countries in FareFirst</div>
+                </div>
             </div>
-            <div class="col why-cards">
-                <div class="card-wrapper">
-                    <div class="card">
-                        <div class="bg">
-                            <div class="img"><img src="frontend/img/why_01.png"
-                                    alt="Buy Now Pay Later Credit Financing"></div>
-                            <div class="content">
-                                World-Class Customer Service with Your Own Personal Shopper
+            <div class="grid-1 no-gutters row">
+                <div class="pic-grid-root col-md-5">
+                    <div role="button" tabindex="0" class="jsx-43082432">
+                        <div class="jsx-43082432 pic-grid">
+                            <div class="jsx-43082432 pic-content grid-spain"></div>
+                            <div class="jsx-43082432 image-title">
+                                <div class="jsx-43082432 image-header">Spain</div>
+                                <div class="jsx-43082432 image-sub-title">#spainindetail</div>
                             </div>
                         </div>
                     </div>
-                    <div class="card">
-                        <div class="bg">
-                            <div class="img"><img src="frontend/img/why_02.png"
-                                    alt="Buy Now Pay Later Credit Financing"></div>
-                            <div class="content">
-                                World-Class Customer Service with Your Own Personal Shopper
+                </div>
+                <div class="col-md-7">
+                    <div class="no-gutters row">
+                        <div class="pic-grid-root col-md-6">
+                            <div role="button" tabindex="0" class="jsx-43082432">
+                                <div class="jsx-43082432 pic-grid">
+                                    <div class="jsx-43082432 pic-content grid-turkey"></div>
+                                    <div class="jsx-43082432 image-title">
+                                        <div class="jsx-43082432 image-header">Turkey</div>
+                                        <div class="jsx-43082432 image-sub-title">Be our guest</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pic-grid-root col-md-6">
+                            <div role="button" tabindex="0" class="jsx-43082432">
+                                <div class="jsx-43082432 pic-grid">
+                                    <div class="jsx-43082432 pic-content grid-morocco"></div>
+                                    <div class="jsx-43082432 image-title">
+                                        <div class="jsx-43082432 image-header">Morocco</div>
+                                        <div class="jsx-43082432 image-sub-title">Much Mor</div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="card">
-                        <div class="bg">
-                            <div class="img"><img src="frontend/img/why_03.png"
-                                    alt="Buy Now Pay Later Credit Financing"></div>
-                            <div class="content">
-                                World-Class Customer Service with Your Own Personal Shopper
+                </div>
+            </div>
+            <div class="grid-2 no-gutters row">
+                <div class="col-md-7">
+                    <div class="no-gutters row">
+                        <div class="pic-grid-root col-md-6">
+                            <div role="button" tabindex="0" class="jsx-43082432">
+                                <div class="jsx-43082432 pic-grid">
+                                    <div class="jsx-43082432 pic-content grid-france"></div>
+                                    <div class="jsx-43082432 image-title">
+                                        <div class="jsx-43082432 image-header">France</div>
+                                        <div class="jsx-43082432 image-sub-title">Rendez vous en France</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pic-grid-root col-md-6">
+                            <div role="button" tabindex="0" class="jsx-43082432">
+                                <div class="jsx-43082432 pic-grid">
+                                    <div class="jsx-43082432 pic-content grid-thailand"></div>
+                                    <div class="jsx-43082432 image-title">
+                                        <div class="jsx-43082432 image-header">Thailand</div>
+                                        <div class="jsx-43082432 image-sub-title">Amazing Thailand</div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="card">
-                        <div class="bg">
-                            <div class="img"><img src="frontend/img/why_04.png"
-                                    alt="Buy Now Pay Later Credit Financing"></div>
-                            <div class="content">
-                                World-Class Customer Service with Your Own Personal Shopper
+                </div>
+                <div class="pic-grid-root col-md-5">
+                    <div role="button" tabindex="0" class="jsx-43082432">
+                        <div class="jsx-43082432 pic-grid">
+                            <div class="jsx-43082432 pic-content grid-mexico"></div>
+                            <div class="jsx-43082432 image-title">
+                                <div class="jsx-43082432 image-header">Mexico</div>
+                                <div class="jsx-43082432 image-sub-title">Live It to Believe It</div>
                             </div>
                         </div>
                     </div>
@@ -245,132 +367,4 @@
             </div>
         </div>
     </div>
-
-
-
-
-
-    <div class="container">
-        <section class="process-section">
-            <h2>Choose Your Favourite Brands</h2>
-            <p>and Pay as You Go</p>
-            <div class="grid-container">
-                <div class="grid-item">
-                    <div class="img">
-                        <a href="https://qc.luthersales.iocod.com/listing/brands/apple">
-
-                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1623667799_5nyupPQIotPPye22xhMtjTcZzUe7k5DmMHHyFiM1.jpeg"
-                                alt="Apple - Credit Financing - Buy Now Pay Later"></a>
-                    </div><a href="https://qc.luthersales.iocod.com/listing/brands/apple">
-                    </a>
-                </div>
-                <div class="grid-item">
-                    <div class="img">
-                        <a href="https://qc.luthersales.iocod.com/listing/brands/maytag">
-
-                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601863402_a8rdz7dtWgOLHu0yDkogNVk8Z37vtyNIGCbjscMf.jpg"
-                                alt="Maytag - Credit Financing - Buy Now Pay Later"></a>
-                    </div><a href="https://qc.luthersales.iocod.com/listing/brands/maytag">
-                    </a>
-                </div>
-                <div class="grid-item">
-                    <div class="img">
-                        <a href="https://qc.luthersales.iocod.com/listing/brands/samsung">
-
-                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1600815499_PvjusWzyPnl4ToISh7VCBdfjy1u8gzOjLMTyLaYj.jpg"
-                                alt="Samsung - Credit Financing - Buy Now Pay Later"></a>
-                    </div><a href="https://qc.luthersales.iocod.com/listing/brands/samsung">
-                    </a>
-                </div>
-                <div class="grid-item">
-                    <div class="img">
-                        <a href="https://qc.luthersales.iocod.com/listing/brands/shark">
-
-                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601865439_dE6nKw84COaGyBPXt2HNYUzf36lahim2lHd9zhX4.jpg"
-                                alt="Shark - Credit Financing - Buy Now Pay Later"></a>
-                    </div><a href="https://qc.luthersales.iocod.com/listing/brands/shark">
-                    </a>
-                </div>
-                <div class="grid-item">
-                    <div class="img">
-                        <a href="https://qc.luthersales.iocod.com/listing/brands/sony">
-
-                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601842880_XFCdstO1DASaGwTqjoPOhJRCICsov7BoGs6otyTQ.jpg"
-                                alt="Sony - Credit Financing - Buy Now Pay Later"></a>
-                    </div><a href="https://qc.luthersales.iocod.com/listing/brands/sony">
-                    </a>
-                </div>
-                <div class="grid-item">
-                    <div class="img">
-                        <a href="https://qc.luthersales.iocod.com/listing/brands/whirlpool">
-
-                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601866120_A0hbortoug9vTZ5fbBtigfvfzTCSiK8jY02BrHfB.jpg"
-                                alt="Whirlpool - Credit Financing - Buy Now Pay Later"></a>
-                    </div><a href="https://qc.luthersales.iocod.com/listing/brands/whirlpool">
-                    </a>
-                </div>
-
-            </div>
-        </section>
-    </div>
-
-
-
-    <div class="txt-info">
-        <p class="txt-primary">
-            Boost Your Buying Power at LutherSales Your Buy Now Pay Later Furniture, Computer, Cell Phone,
-            Appliance, TV and Electronics Store.
-            <br>Credit Not Required… Poor Credit Financing Available.
-        </p>
-        <p class="txt-sec">
-            We ethically help people rebuild credit while empowering them to make essen?al purchases and lead a
-            better life. We also Participate in Many Company Human Resources
-            <br>and Union Employee Purchasing Plans, plus Civil Service, Federal, Municipal, and State Government
-            Employee Bene?t Programs. Poor Credit Programs Available.
-        </p>
-    </div>
-
-
-    <div class="container">
-        <div class="heading">
-            <h3><span>100%</span> Trusted Website</h3>
-            <p>Responsible Purchasing</p>
-        </div>
-        <div class="security-logo">
-            <div class="col logo-box">
-                <div class="trustpilot-box">
-                    <div data-template-id="53aa8807dec7e10d38f59f32"
-                        data-businessunit-id="5ce811ab161a7e0001aa2c46"
-                        data-review-url="trustpilot.review.com/mywebsite.com" data-locale="en-us"
-                        class="trustpilot-widget" id="trustpilot-widget-mini" data-theme="light"
-                        data-schema-type="Organization" data-style-width="100%" data-stars="1,2,3,4,5"
-                        style="position: relative;"><iframe title="Customer reviews powered by Trustpilot"
-                            loading="auto"
-                            src="https://widget.trustpilot.com/trustboxes/53aa8807dec7e10d38f59f32/index.html?templateId=53aa8807dec7e10d38f59f32&amp;businessunitId=5ce811ab161a7e0001aa2c46#reviewUrl=trustpilot.review.com%2Fmywebsite.com&amp;locale=en-us&amp;theme=light&amp;schemaType=Organization&amp;styleWidth=100%25&amp;stars=1%2C2%2C3%2C4%2C5"
-                            style="position: relative; width: 100%; border-style: none; display: block; overflow: hidden;"></iframe>
-                    </div>
-                </div>
-            </div>
-            <div class="col logo-box">
-                <a href="http://luthersales.com/cp-ups-tracking.html" target="_blank">
-                    <img src="frontend/img/ups.jpeg" alt="Free Shipping Every Order"
-                        title="Free Shipping Every Order">
-                </a>
-            </div>
-            <div class="col logo-box">
-                <a href="https://smarticon.geotrust.com/smarticonprofile?Referer=https://luthersales.com">
-                    <img src="frontend/img/geotrust.jpeg" alt="Geo Trust" title="Geo Trust">
-                </a>
-            </div>
-            <div class="col logo-box">
-                <a href="https://www.e-verify.gov/" target="_blank">
-                    <img src="frontend/img/e-verfy.jpeg" alt="E-Verify" title="E-Verify">
-                </a>
-            </div>
-        </div>
-    </div>
-
-</section>
-<!-- /.Home Content Section -->
-
 @endsection
