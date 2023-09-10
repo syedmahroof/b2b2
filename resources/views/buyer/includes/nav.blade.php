@@ -1,28 +1,115 @@
-<nav class="ff-navbar jsx-4228006230 navbar navbar-expand-md navbar-dark">
-    <a href="{{ route('buyer.home') }}" class="navbar-brand"><img
-            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzYiIGhlaWdodD0iNDUiPjxwYXRoIGQ9Ik0xNy42NDguMTE0QTExLjUyNiAxMS41MjYgMCAwMDE1Ljk2OCAwYy0xLjU2NSAwLTMuMDIyLjI0LTQuMzcuNzNhMTEuMTczIDExLjE3MyAwIDAwLTMuNTYzIDIuMDQ3QTExLjAxNSAxMS4wMTUgMCAwMDUuNTAzIDUuOThjLS42NTUgMS4yNS0xLjA4MiAyLjY0NC0xLjI3MiA0LjE4NUw0LjA0NiAxMS43SC42M2wtLjQyIDMuMTdjLS4wODMuNTcuMDI1IDEuMDAyLjMzNyAxLjMuMzE4LjI5MS43MjUuNTEzIDEuMjI4LjY0N2wxLjU5LjM2N0wwIDQ1aDMuMjljMS4xODIgMCAyLjA4Ni0uMjg1IDIuNzEtLjg0My42MjktLjU2NSAxLjExMy0xLjM0NSAxLjQ2Mi0yLjMyN2wxLjQwNi00LjUyOCAyLjQzLTIwLjA5M2g1LjEzNWwuNzMxLTUuNTFoLTUuNDc3bC4xNTktMS4yNzVjLjIxLTEuNzY5LjcwNi0zLjAwNSAxLjUwMS0zLjcyMi43ODktLjcxIDEuODUxLTEuMDY1IDMuMTk0LTEuMDY1LjQgMCAuODAxLS4wNjQgMS4xOTYtLjIwMy40LS4xNC42NDktLjQzOC43MzEtLjg4OEwxOS4yLjQ5NWE4Ljc5MiA4Ljc5MiAwIDAwLTEuNTUyLS4zOG0xNC42MjkgMjUuNTIxYTIzLjk1OCAyMy45NTggMCAwMS0xLjA1NSAzLjIyMyAxNS4zOSAxNS4zOSAwIDAxLTEuMzUgMi42M2MtLjQ5Ljc0OC0xLjAxMiAxLjM0LTEuNTU5IDEuNzc3LS41NTMuNDMtMS4xMTguNjQ4LTEuNzAyLjY0OC0uMzc3IDAtLjcyMy0uMDgxLTEuMDQzLS4yNTYtLjMxNC0uMTY4LS41OS0uNDM2LS44MjMtLjgwNC0uMjMzLS4zNjgtLjQxNS0uODQ4LS41NTMtMS40NDYtLjEzOC0uNTkyLS4yMDctMS4zMTUtLjIwNy0yLjE3IDAtMS40OTUuMjA3LTIuOTEuNjM0LTQuMjMyLjQxNS0xLjMxNSAxLjAxMi0yLjQ3NCAxLjc4NC0zLjQ3MmE4LjcwMiA4LjcwMiAwIDAxMi43Ny0yLjM2MmMxLjA3NS0uNTggMi4yNjItLjg3MyAzLjU3LS44NzNoLjQ5bC0uOTU2IDcuMzM3em01LjQ2LTEyLjUyM2EzMC4wODQgMzAuMDg0IDAgMDAtMy44NjQtLjI1NmMtMi42MDcgMC01IC40NzQtNy4xOCAxLjQyOC0yLjE4Ny45Ni00LjA3MiAyLjI0NC01LjY1NSAzLjg2NC0xLjU5IDEuNjE1LTIuODI3IDMuNTA0LTMuNzEyIDUuNjZDMTYuNDQgMjUuOTY2IDE2IDI4LjI0MSAxNiAzMC42NDFjMCAxLjY0LjIwNyAzLjA1NS42MTYgNC4yNTguNDE0IDEuMjAzLjk2IDIuMTg4IDEuNjUyIDIuOTY3YTYuNzA4IDYuNzA4IDAgMDAyLjM2OCAxLjc0Yy44OTIuMzggMS44MjIuNTczIDIuNzgzLjU3MyAxLjYxNSAwIDMuMDkxLS40MyA0LjQ0Mi0xLjI5IDEuMzUtLjg2MSAyLjU2My0yLjA0NSAzLjY0My0zLjU0MXYxLjkxM2MwIC4zNjIuMDM4LjY5Mi4xMi45OTguMDc1LjMxMS4yMTMuNTczLjQwOC43OTEuMjAxLjIyNS40NjUuNC43OTguNTI0LjM0LjEzLjc1NC4xOTMgMS4yNS4xOTNoNC4yNzhMNDEuNiAxNC4wM2ExOS4xMjMgMTkuMTIzIDAgMDAtMy44NjQtLjkxNnptMjIuMjAzLS4yNDNjLS44MTYuMDY0LTEuNjEzLjMyNi0yLjM5Mi43ODYtLjc3OC40Ni0xLjUzOCAxLjExMi0yLjI3OCAxLjk1LS43MzUuODQzLTEuNDMxIDEuODQ2LTIuMDg0IDMuMDE1di0zLjA5M2MwLS44ODgtLjIzMi0xLjUzMy0uNjk3LTEuOTIzLS40NTgtLjM5Ni0xLjEwNC0uNTk0LTEuOTI3LS41OTRoLTQuMTE3TDQzLjIgNDAuMThoNy44MjdMNTIuNDY0IDI4Yy40MTQtMS43NS45MDQtMy4xODEgMS40ODEtNC4zLjU3OC0xLjExOCAxLjIxOC0xLjk1NSAxLjkzNC0yLjUxLjcwOS0uNTYzIDEuNDg3LS44NTcgMi4zNC0uODk1Ljg0OC0uMDMyIDEuNzU4LjE2IDIuNzM3LjU4MWwxLjQ0NC03LjUyYy0uODIyLS4zODMtMS42NDQtLjU1LTIuNDYtLjQ4Nm0xMy4yOTkgNi45MTNjMS4wMjMtMS4wNSAyLjIwNi0xLjU3NCAzLjU2NC0xLjU3NC43NzEgMCAxLjMzOC4xOTQgMS42ODUuNTg3LjM1NC4zOTMuNTI3LjgxMi41MjcgMS4yNTUgMCAuNDQ0LS4wOTYuODU2LS4zMDIgMS4yMy0uMi4zNzUtLjU5Mi43MzEtMS4xNyAxLjA2Mi0uNTguMzMxLTEuNDAzLjY0My0yLjQ1OC45MzctMS4wNTUuMjg3LTIuNDI1LjU2Mi00LjExLjgxOC40ODktMS44MjQgMS4yNDgtMy4yNjYgMi4yNjQtNC4zMTVtOS44MTYgMTIuMTlhMS42MTkgMS42MTkgMCAwMC0uNzY1LS4xOTRjLS40MDYgMC0uNzY2LjA2My0xLjA4MS4xODFhNC41OTYgNC41OTYgMCAwMC0uOTE0LjQ1NmMtLjI4OS4xOTQtLjU5MS4zODctLjkwNy41OTMtLjMxNS4yMDctLjY3NS40LTEuMDY3LjU4N2E2Ljc1OCA2Ljc1OCAwIDAxLTEuMzkuNDYzYy0uNTI3LjExOC0xLjE1MS4xOC0xLjg3Mi4xOC0xLjUyNCAwLTIuNjgyLS40MTgtMy40NjctMS4yNTUtLjc3OC0uODM2LTEuMTktMi4xNi0xLjIyMi0zLjk3MSAzLjEyNi0uMzA2IDUuNzI1LS43MzEgNy43OS0xLjI4IDIuMDY1LS41NDQgMy43MTEtMS4yMTIgNC45MzQtMS45OTkgMS4yMjItLjc4IDIuMDc3LTEuNjc0IDIuNTczLTIuNjczLjQ4OS0uOTk5LjczMy0yLjEwNC43MzMtMy4zMTYgMC0uODE4LS4yLTEuNjM2LS42MDUtMi40Ni0uNDA1LS44MTgtLjk5LTEuNTU1LTEuNzY5LTIuMjEtLjc3Mi0uNjU3LTEuNzI0LTEuMTk0LTIuODYyLTEuNjA2LTEuMTMyLS40MDYtMi40MjUtLjYxMi0zLjg4NS0uNjEyLTEuNDggMC0yLjg3Ni4yLTQuMTgyLjZhMTQuMjg0IDE0LjI4NCAwIDAwLTMuNjE1IDEuNjggMTQuNTE1IDE0LjUxNSAwIDAwLTIuOTY1IDIuNTcyIDE2LjAzIDE2LjAzIDAgMDAtMi4yMzIgMy4yNzkgMTcuMzkxIDE3LjM5MSAwIDAwLTEuMzk2IDMuODAzIDE3LjgwNyAxNy44MDcgMCAwMC0uNDg5IDQuMTQ3YzAgMS42ODYuMjcgMy4yMjguODA0IDQuNjA4LjU0IDEuMzggMS4yOTMgMi41NjcgMi4yNyAzLjU0OC45NzkuOTggMi4xNDMgMS43NDIgMy40OTQgMi4yNzkgMS4zNTcuNTM3IDIuODQzLjgwNiA0LjQ1Ny44MDYgMS4zIDAgMi41MDMtLjEwNyAzLjYwMy0uMzA2IDEuMS0uMjA3IDIuMTM1LS41MjUgMy4xMTMtLjk2MmExNS43MzMgMTUuNzMzIDAgMDAyLjg0My0xLjY2OCAyNy42MiAyNy42MiAwIDAwMi44MzctMi4zOTFsLTIuMTEtMi4zOGEyLjM4NSAyLjM4NSAwIDAwLS42NTYtLjVNOTkuNDcyIDEyLjAxbC4wMjUtLjIzMmMuMTE5LTEuMDc4LjM0NC0yLjAyNS42NzYtMi44MjhhNC43NzEgNC43NzEgMCAwMTEuNTI3LTEuOTk1Yy42ODktLjUyIDEuNTc3LS45MTYgMi42NzMtMS4xODUgMS4wOTUtLjI2MyAyLjQ3OC0uMzk1IDQuMTU1LS4zOTUuMzk1IDAgLjc3Ni0uMDYzIDEuMTUyLS4xODIuMzgyLS4xMi42MDctLjQwMS42OTUtLjg0N2wuNzctMy44ODJjLS41NDUtLjE1Ny0xLjIwOS0uMjctMS45NzgtLjM1MUEyMi44NDggMjIuODQ4IDAgMDAxMDYuOTM5IDBjLTIuMzQ3IDAtNC40LjMwMS02LjE3MS44OTctMS43NzIuNjAyLTMuMjY3IDEuNDMtNC40ODIgMi40ODNhMTEuNjUyIDExLjY1MiAwIDAwLTIuODYgMy43MDcgMTMuNzk4IDEzLjc5OCAwIDAwLTEuMzIgNC41MzVsLS4wNS4zODhoLTMuNDQzbC0uMzU2IDMuMjM3Yy0uMDcuNTUyLjA1Ni45Ni4zNjkgMS4yMjMuMzIuMjYzLjc1Ny40NyAxLjMyNy42MDJsMS40MzMuMzM4TDg4IDQ1aDMuMjM2YzEuMTU4IDAgMi4wNTMtLjI3NiAyLjY2Ni0uODM0LjYxMy0uNTU4IDEuMDk1LTEuMzIzIDEuNDQtMi4zMDJsMS4zODMtNC40NzggMi4zODQtMTkuOTI1aDQuNDk0bC42Ny01LjQ1aC00Ljh6bTkuNjguODQ3TDEwNy40MiAyNi45NmwtMS42NTQgMTMuMjdoNi40MjFsMy4zMjgtMjcuMzcyaC02LjM2M3ptMjUuOTkzLjAxM2MtLjgxNi4wNjQtMS42MTQuMzI2LTIuMzk4Ljc4Ni0uNzc5LjQ2LTEuNTM5IDEuMTEyLTIuMjczIDEuOTUtLjc0MS44NDMtMS40MzggMS44NDYtMi4wODUgMy4wMTV2LTMuMDkzYzAtLjg4OC0uMjMyLTEuNTMzLS42OTctMS45MjMtLjQ2NC0uMzk2LTEuMTA1LS41OTQtMS45MzMtLjU5NGgtNC4xMkwxMTguNCA0MC4xOGg3LjgyM0wxMjcuNjY3IDI4Yy40MDgtMS43NS45MDQtMy4xODEgMS40NzYtNC4zLjU3Ny0xLjExOCAxLjIyNC0xLjk1NSAxLjkzNC0yLjUxLjcwOS0uNTYzIDEuNDk0LS44NTcgMi4zNDEtLjg5NS44NDgtLjAzMiAxLjc2NS4xNiAyLjc0NC41ODFsMS40MzgtNy41MmMtLjgyMi0uMzgzLTEuNjM5LS41NS0yLjQ1NS0uNDg2bTEyLjc3NyA1LjMzYy42NTEgMCAxLjIzLjA3NCAxLjczMy4yMy40OTcuMTUuOTQ3LjMyNCAxLjM0Ny41MjQuMzkzLjE5My43Ni4zNjcgMS4xMDguNTIzLjM0MS4xNS42OS4yMyAxLjA0NC4yMy4zNDggMCAuNjMxLS4wNjguODQ0LS4yMDUuMjEyLS4xMzcuNDM4LS4zNjEuNjg5LS42NjdsMi4xMTMtMi44MTFjLS45MzQtLjg4NS0yLjEyLTEuNjMzLTMuNTU2LTIuMjQ0LTEuNDM3LS42MTctMy4wNjctLjkyMy00Ljg5Ni0uOTIzLTEuODM2IDAtMy40MzQuMjc0LTQuODEzLjgxNy0xLjM3Mi41NDgtMi41MTkgMS4yNjUtMy40NDYgMi4xNjNhOC45MDcgOC45MDcgMCAwMC0yLjA4OCAzLjA4IDkuNTQzIDkuNTQzIDAgMDAtLjY5NiAzLjU3N2MwIC45ODUuMTQyIDEuODI3LjQzMiAyLjUyNS4yOTYuNzA0LjY3NyAxLjI5IDEuMTUzIDEuNzY0LjQ3Ny40OCAxLjAxMi44NzkgMS42MSAxLjE5LjYuMzE4IDEuMjEyLjU5MyAxLjg1LjgzLjYzMS4yNDMgMS4yNS40NTQgMS44NDkuNjU0YTEwLjk3IDEwLjk3IDAgMDExLjYxLjY2Yy40NzcuMjUuODU3LjU0MyAxLjE0Ny44ODYuMjkuMzQzLjQzOC43NzMuNDM4IDEuMzAzIDAgLjY4LS4yODMgMS4yNzEtLjg0NCAxLjc3Ni0uNTY3LjUwNS0xLjQzLjc1NC0yLjU5Ljc1NC0uODMgMC0xLjQ5NC0uMTA2LTIuMDEtLjMwNWE4LjIxIDguMjEgMCAwMS0xLjMyLS42NjdjLS4zNjctLjIzNy0uNzA5LS40NjEtMS4wMzEtLjY2N2EyLjA4NiAyLjA4NiAwIDAwLTEuMTM0LS4zMDVjLS40NzcgMC0uODc2LjEtMS4xOTguMjkzYTIuOTkgMi45OSAwIDAwLS44NjMuODFsLTIuMDA0IDIuOTExYy4zODcuNDYxLjg4OS44OTEgMS41MDEgMS4yOS42MTkuNCAxLjMwMS43NDggMi4wNDkgMS4wMzUuNzQ3LjI5MyAxLjU0Ni41MjQgMi4zOS42OTIuODQ0LjE2OCAxLjcuMjU2IDIuNTY0LjI1NiAxLjgxIDAgMy40NDctLjI2MiA0LjkwMy0uNzggMS40NDktLjUyMyAyLjY4Ni0xLjIyMSAzLjcxLTIuMDk0YTkuMDIgOS4wMiAwIDAwMi4zNDUtMy4wOTggOC44NjEgOC44NjEgMCAwMC44MjUtMy43NjVjMC0uOTQxLS4xNDgtMS43NDYtLjQzOC0yLjQzMWE1Ljk1MyA1Ljk1MyAwIDAwLTEuMTQ3LTEuNzY0IDcuMDQ0IDcuMDQ0IDAgMDAtMS42My0xLjI1MyAxNy41NjUgMTcuNTY1IDAgMDAtMS44NjItLjkwNCAyOS4yMiAyOS4yMiAwIDAwLTEuODYxLS43MTcgMTEuNDI5IDExLjQyOSAwIDAxLTEuNjI0LS43MDRjLS40NzctLjI1Ni0uODU3LS41NDMtMS4xNDctLjg2N2ExLjcwOCAxLjcwOCAwIDAxLS40MzgtMS4xNzhjMC0uNzE3LjI1OC0xLjI5Ni43OC0xLjc1Mi41MjItLjQ0OCAxLjM4NS0uNjczIDIuNjAyLS42NzNtMTkuODk2IDEzLjMyNWwuMTEyLS45NDMuMjA2LTEuNjggMS4yNzYtMTAuNjNoNS45MjJsLjY2Ni01LjUzNGgtNS45MjFsLjk2NS03LjkxNmgtNC4yODRjLS44NzIgMC0xLjQ1LjQyLTEuNzM3IDEuMjU1bC0yLjIyNCA2LjYwNC00LjAwOS44NC0uMzU1IDMuMTZjLS4wODcuNTIyLS4wMTIuOTE2LjIzIDEuMTg0LjIzNy4yNzMuNTM2LjQwNy44OS40MDdoMi4xMjRsLTEuMzU3IDExLjA2OWMtLjEuODcyLS4xOCAxLjU3My0uMjQzIDIuMTAxLS4wNTcuNTM1LS4xLjk2Mi0uMTI1IDEuMjgtLjAyNS4zMjUtLjAzNy41NzMtLjAzNy43NDV2LjQ0NmMuMDMxLjk3NC4yMTggMS44NDcuNTQ3IDIuNjExYTUuODQgNS44NCAwIDAwMS4zNzcgMS45NjggNS45NjMgNS45NjMgMCAwMDIuMTA1IDEuMjU1Yy44MjEuMjg2IDEuNzM3LjQzMyAyLjc1OC40MzMgMS4yMjYgMCAyLjQ0Ny0uMTk4IDMuNjU1LS41ODZhMTEuODY1IDExLjg2NSAwIDAwMy4zOTMtMS43NjRsLTEuNzM3LTMuODRjLS4xMTgtLjI0Mi0uMjMtLjQyLS4zNDMtLjUzNS0uMTExLS4xMTUtLjI4Ni0uMTcyLS41MjItLjE3MmEuODU4Ljg1OCAwIDAwLS40MTIuMDk1IDMuOTI2IDMuOTI2IDAgMDAtLjM4LjIxIDIuNzQgMi43NCAwIDAxLS40NzIuMjA0IDIuMDUyIDIuMDUyIDAgMDEtLjY4LjA5NmMtLjQ5MiAwLS44NTItLjE3Mi0xLjA4My0uNTEtLjIzLS4zNDQtLjM0OC0uNzY0LS4zNDgtMS4yNjd2LS4xNDdjMC0uMDc2LjAxOC0uMjIzLjA0My0uNDM5IiBmaWxsPSIjRkZGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4="
-            height="20" alt="FareFirst" class="jsx-174862930" /></a>
-    <button aria-label="Toggle navigation" type="button" class="navbar-toggler"><span
-            class="navbar-toggler-icon"></span></button>
-    <div class="collapse navbar-collapse" aria-expanded="false">
-        <ul class="navbar-nav">
-            <li class="nav-item-active ff-nav-item jsx-4228006230 nav-item active"><a href="index.html"
-                    class="nav-link">
-                    <div class="position-relative">About</div>
-                </a></li>
-            <li class="ff-nav-item jsx-4228006230 nav-item"><a href="hotels.html" class="nav-link">
-                    <div class="position-relative">Hotels</div>
-                </a></li>
-            {{-- <li class="ff-nav-item jsx-4228006230 nav-item"><a href="nomad.html" class="nav-link">
-                    <div class="position-relative">Nomad<span
-                            class="mx-1 mx-md-0 badge-pos jsx-4228006230 badge badge-danger">New</span>
+<div class="nav-container w-full sticky top-0 z-10">
+    <div class="y-container w-full mx-auto max-w-6xl">
+        <div class="nav-inner w-full h-full mx-auto flex flex-row justify-between border-b">
+
+            <div class="nav-inner-left flex w-full justify-between content-center">
+                <a href="{{route('buyer.home')}}" class="logo">
+                    <?xml version="1.0" encoding="UTF-8"?><svg style="width: 185px;height:79px;padding-top: 8px;"
+                        id="a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 497.73 91.53">
+                        <path class="b"
+                            d="M33.9,59.87c-1.62,4.86-6.98,8.6-15.07,8.6C8.11,68.47,.32,61.8,.32,49.76V18.21H10.43v30.14c0,8.39,3.94,11.93,10.82,11.93,7.79,0,12.64-4.45,12.64-11.93V18.21h10.11v50.87c0,14.36-9.41,22.45-22.86,22.45S0,83.54,0,70.7H9.51c0,7.59,4.95,12.14,12.03,12.14,7.59,0,12.34-5.26,12.34-13.55v-9.41h.02Z" />
+                        <path class="b"
+                            d="M62.33,45.61c.4,9.91,5.46,15.68,13.45,15.68,5.76,0,10.21-2.93,11.53-7.99h10.52c-3.03,10.11-10.21,15.98-22.05,15.98-15.48,0-23.56-9.91-23.56-26.2s8.6-26.19,23.26-26.19,23.06,10.21,23.06,28.72H62.33Zm25.79-6.47c-.2-9.1-5.56-14.16-12.64-14.16s-12.44,5.36-12.84,14.16h25.48Z" />
+                        <path class="b" d="M106.43,67.96V0h10.11V67.96h-10.11Z" />
+                        <path class="b" d="M125.55,67.96V0h10.11V67.96h-10.11Z" />
+                        <path class="b"
+                            d="M143.55,43.09c0-15.78,9.61-26.19,24.98-26.19s24.68,10.31,24.68,26.09-9.51,26.29-24.78,26.29-24.88-10.82-24.88-26.2h0Zm39.44,.01c0-11.33-5.06-17.6-14.46-17.6s-14.56,6.27-14.56,17.6,5.16,17.7,14.56,17.7,14.46-6.27,14.46-17.7Z" />
+                        <path class="b"
+                            d="M239.94,67.96l-9.71-33.58-9.71,33.58h-10.42l-14.56-49.76h10.72l9.81,36.1,9-36.1h10.32l9.61,36.1,9.41-36.1h10.52l-14.66,49.76h-10.33Z" />
+                        <path class="b"
+                            d="M321.48,67.96v-8.9c-3.14,7.68-9.41,10.21-15.78,10.21-12.44,0-21.44-9.71-21.44-26.5,0-15.78,7.99-25.89,20.43-25.89,6.98,0,13.15,3.14,16.58,10.62V0h10.01V67.96h-9.8Zm.2-24.78c0-10.11-4.45-17.6-13.75-17.6-8.6,0-13.35,6.37-13.35,17.19,0,11.73,5.56,18.2,13.45,18.2s13.65-6.07,13.65-17.8h0Z" />
+                        <path class="b"
+                            d="M349.4,45.61c.4,9.91,5.46,15.68,13.45,15.68,5.76,0,10.21-2.93,11.53-7.99h10.52c-3.03,10.11-10.21,15.98-22.05,15.98-15.48,0-23.56-9.91-23.56-26.2s8.6-26.19,23.26-26.19,23.06,10.21,23.06,28.72h-36.21Zm25.79-6.47c-.2-9.1-5.56-14.16-12.64-14.16s-12.44,5.36-12.84,14.16h25.48Z" />
+                        <path class="b"
+                            d="M425.26,33.28c-.61-5.97-3.64-8.7-11.63-8.7-6.47,0-10.21,1.82-10.21,6.17,0,3.04,1.82,4.65,5.76,5.87,4.25,1.31,11.73,2.33,17.7,4.45,5.26,1.92,9.51,4.86,9.51,12.24,0,9.71-7.18,15.98-21.14,15.98s-23.26-6.78-23.46-17.29h10.42c.2,6.37,5.16,9.61,12.95,9.61s11.43-3.34,11.43-7.18c0-2.73-1.82-4.25-4.14-5.36-4.55-2.23-10.72-2.83-16.08-4.35-10.52-3.04-12.74-8.19-12.74-13.35,0-8.6,6.17-14.46,20.43-14.46s20.43,6.17,20.94,16.38h-9.74Z" />
+                        <path class="b"
+                            d="M491.5,51.9l-3.92,4.27c-3.3,3.59-8.73,4.54-13.22,2.81-8.14-3.14-10.88-14.12-4.92-20.6l12.84-13.99-6.23-6.23-3.66,3.99-18.86,19.64V1.76h-9.96V68.02h9.96v-14.89l6.7-6.4c-1.27,5.61,.03,12.17,4.23,16.23,8.34,8.07,21.75,7.71,29.6-.84l3.67-3.99-6.23-6.23h0Z" />
+                    </svg>
+                </a>
+
+                <div class="hamburger flex items-center justify-center">
+                    <div class="menu-icon">
+                        <input class="menu-icon__cheeckbox" type="checkbox" />
+                        <div>
+                            <span></span>
+                            <span></span>
+                        </div>
                     </div>
-                </a></li>
-            <li class="ff-nav-item jsx-4228006230 nav-item"><a href="visa.html" target="_blank"
-                    rel="noopener noreferrer" class="nav-link">
-                    <div class="position-relative">Become a Supplier</div>
-                </a></li> --}}
-        </ul>
-        <ul class="ml-auto navbar-nav"><li class="ff-nav-item jsx-4228006230 nav-item"><div class="jsx-1941505924 root"><a href="#" class="nav-link"><div class="jsx-1941505924 region-btn"><img src="https://cdn.farefirst.com/country_flags/30/AE.png" alt="AE" class="jsx-1941505924">AED</div></a></div></li><li class="root jsx-519028336 nav-item"><a href="/login" class="nav-link">Login</a></li></ul>
+                </div>
+
+            </div>
+
+
+            <div class="nav-inner-right flex flex-1">
+
+                <ul class="nav-inner-menu flex flex-row w-4/5">
+
+                    <ul class="nav-items flex" data-attr="Some value">
+                        <li class="nav-item" data-aos="fade-down" data-aos-once="true" data-aos-mirror="false"
+                            data-aos-delay="150"><a class="nav-link" href="#" data-attr="Some value">Room
+                                Hire</a>
+                            <ul class="nav-items flex" data-attr="Some value">
+                                <li class="nav-item" data-aos="fade-down" data-aos-once="true"
+                                    data-aos-mirror="false" data-aos-delay="150"><a class="nav-link"
+                                        href="packages/10-seat-boardroom.html" data-attr="Some value">10 Seat
+                                        Boardroom</a></li>
+                                <li class="nav-item" data-aos="fade-down" data-aos-once="true"
+                                    data-aos-mirror="false" data-aos-delay="150"><a class="nav-link"
+                                        href="packages/6-seat-boardroom.html" data-attr="Some value">6 Seat
+                                        Boardroom</a></li>
+                                <li class="nav-item" data-aos="fade-down" data-aos-once="true"
+                                    data-aos-mirror="false" data-aos-delay="150"><a class="nav-link"
+                                        href="packages/podcast-room.html" data-attr="Some value">Podcast Room</a>
+                                </li>
+                                <li class="nav-item" data-aos="fade-down" data-aos-once="true"
+                                    data-aos-mirror="false" data-aos-delay="150"><a class="nav-link"
+                                        href="packages/photo-studio.html" data-attr="Some value">Photo Studio</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item" data-aos="fade-down" data-aos-once="true" data-aos-mirror="false"
+                            data-aos-delay="150"><a class="nav-link" href="#"
+                                data-attr="Some value">Workspaces</a>
+                            <ul class="nav-items flex" data-attr="Some value">
+                                <li class="nav-item" data-aos="fade-down" data-aos-once="true"
+                                    data-aos-mirror="false" data-aos-delay="150"><a class="nav-link"
+                                        href="packages/flexi-pass.html" data-attr="Some value">Flexi Pass</a></li>
+                                <li class="nav-item" data-aos="fade-down" data-aos-once="true"
+                                    data-aos-mirror="false" data-aos-delay="150"><a class="nav-link"
+                                        href="packages/dedicated-desk.html" data-attr="Some value">Dedicated
+                                        Desk</a></li>
+                                <li class="nav-item" data-aos="fade-down" data-aos-once="true"
+                                    data-aos-mirror="false" data-aos-delay="150"><a class="nav-link"
+                                        href="packages/private-office.html" data-attr="Some value">Private
+                                        Office</a></li>
+                                <li class="nav-item" data-aos="fade-down" data-aos-once="true"
+                                    data-aos-mirror="false" data-aos-delay="150"><a class="nav-link"
+                                        href="packages/enterprise.html" data-attr="Some value">Enterprise</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item" data-aos="fade-down" data-aos-once="true" data-aos-mirror="false"
+                            data-aos-delay="150"><a class="nav-link" href="the-space.html"
+                                data-attr="Some value">The Space</a></li>
+
+
+                            @if(auth()->guard('buyer')->check())
+                                <li class="nav-item book" data-aos="fade-down" data-aos-once="true"
+                                data-aos-mirror="false" data-aos-delay="150"><a class="nav-link" href="{{ route('buyer.profile') }}"
+                                    data-attr="Some value">Profile</a></li>
+                            @else
+                              
+                                <li class="nav-item book" data-aos="fade-down" data-aos-once="true"
+                                data-aos-mirror="false" data-aos-delay="150"><a class="nav-link" href="{{ route('buyer.login') }}"
+                                    data-attr="Some value">Login</a></li>
+                            @endif
+
+                      
+                    </ul>
+
+                </ul>
+
+            </div>
+
+        </div>
     </div>
-</nav>
+</div>

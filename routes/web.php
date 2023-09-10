@@ -8,6 +8,7 @@ use App\Http\Controllers\AdminControllers\AdminSupplierController;
 
 
 use App\Http\Controllers\AdminControllers\AdminController;
+use App\Http\Controllers\BuyerControllers\SocialController;
 use App\Http\Controllers\SupplierControllers\SupplierAuthController;
 use App\Http\Controllers\SupplierControllers\SupplierController;
 use App\Http\Controllers\BuyerControllers\BuyerAuthController;
@@ -22,25 +23,33 @@ use App\Http\Controllers\InventoryManagementControllers\InventoryManagerAuthCont
 use App\Http\Controllers\InventoryManagementControllers\InventoryManagerController;
 
 
-    Route::get('/', [BuyerController::class, 'index'])->name('buyer.home');
-    Route::get('/products', [BuyerController::class, 'products'])->name('buyer.products');
-    Route::get('/product_details', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
+Route::get('/', [BuyerController::class, 'index'])->name('buyer.home');
+Route::get('/about', [BuyerController::class, 'about'])->name('about');
+Route::get('/products', [BuyerController::class, 'products'])->name('buyer.products');
+Route::get('/product_details', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
+Route::get('/signup', [BuyerAuthController::class, 'showRegisterForm'])->name('buyer.signup');
+Route::post('/signup', [BuyerAuthController::class, 'signup'])->name('buyer.submit.signup');
+Route::get('/login', [BuyerAuthController::class, 'showLoginForm'])->name('buyer.login');
+Route::post('/login', [BuyerAuthController::class, 'login'])->name('buyer.submit.login');
+Route::get('/forgot-password', [BuyerAuthController::class, 'forgotPassword'])->name('buyer.forgot.password');
 
-    // Route::get('/product_details/{id}', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
-    // Route::get('/product_details/{id}', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
 
-// Route::prefix('buyer')->group(function () {
-    // Show login form
-    Route::get('/login', [BuyerAuthController::class, 'showLoginForm'])->name('buyer.login');
-    // Handle login form submission
-    Route::post('/login', [BuyerAuthController::class, 'login']);
-    // Other buyer routes can be defined here
-    Route::middleware('auth.user')->group(function () {
-        // Dashboard route
-        Route::get('/home', [BuyerController::class, 'home'])->name('buyer.dashboard');
-        // Logout route
-        Route::post('/logout', [BuyerAuthController::class, 'logout'])->name('buyer.logout');
-    });
+Route::get('/forgot-password', [BuyerAuthController::class, 'forgotPassword'])->name('buyer.forgot.password');
+Route::get('/forgot-password', [BuyerAuthController::class, 'forgotPassword'])->name('buyer.forgot.password');
+
+Route::get('/auth/{provider}', [SocialController::class, 'redirectToProvider']);
+Route::get('/auth/{provider}/callback', [SocialController::class, 'handleProviderCallback']);
+
+
+
+// Other buyer routes can be defined here
+Route::middleware('buyer')->group(function () {
+    // Dashboard route
+    Route::get('/home', [BuyerController::class, 'home'])->name('buyer.dashboard');
+    Route::get('/profile', [BuyerAuthController::class, 'profile'])->name('buyer.profile');
+    // Logout route
+    Route::any('/logout', [BuyerAuthController::class, 'logout'])->name('buyer.logout');
+});
 // });
 
 
@@ -56,12 +65,12 @@ Route::prefix('admin')->group(function () {
         // Dashboard route
         Route::get('/dashboard', [AdminController::class, 'dashboard'])->name('admin.dashboard');
 
-      
+
         Route::get('/admin/buyer', [AdminBuyerController::class, 'index'])->name('admin.buyer.list');
         Route::get('/admin/product', [AdminBuyerController::class, 'index'])->name('admin.products.list');
         Route::get('/admin/ticket', [AdminBuyerController::class, 'index'])->name('admin.tickets.list');
 
-        
+
         Route::group(['namespace' => 'AdminControllers', 'prefix' => 'admin'], function () {
             Route::get('/suppliers', [AdminSupplierController::class, 'index'])->name('admin.suppliers.index');
             Route::get('/suppliers/create', [AdminSupplierController::class, 'create'])->name('admin.suppliers.create');
@@ -70,19 +79,17 @@ Route::prefix('admin')->group(function () {
             Route::put('/suppliers/{id}', [AdminSupplierController::class, 'update'])->name('admin.suppliers.update');
             Route::delete('/suppliers/{id}', [AdminSupplierController::class, 'destroy'])->name('admin.suppliers.destroy');
             Route::get('/show-suppliers/{id}', [AdminSupplierController::class, 'show'])->name('admin.suppliers.show');
-            
+
             // Your additional route
             Route::get('/supplier', [AdminSupplierController::class, 'index'])->name('admin.supplier.list');
         });
-  
-        
+
+
 
 
 
         // Logout route
         Route::any('/logout', [AdminAuthController::class, 'logout'])->name('admin.logout');
-
-        
     });
 });
 
