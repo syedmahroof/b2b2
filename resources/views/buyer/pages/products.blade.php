@@ -1,3565 +1,3268 @@
-<html lang="en"><head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="">
-                <title>
-        Apple Products | Credit Financing | Buy Now Pay Later
-    </title>
-    <meta name="description" content="Apple Products Credit Financing - Buy Now Pay Later  - LutherSales. Brand Name Buy Now Pay Later Apple Products on Credit.  Up to 36 Months - Budget-Friendly Low Payments. Easy Credit for Buy Now Pay Later Apple Products. We Want to Say YES!">
-    
+@extends('buyer.layouts.master') <!-- Extending the master.blade.php template -->
+@section('content')
+<section id="content">
+    <div class="content-header" id="sotd">
+        <div class="block">
+            <div class="c-sotd">
+                {{-- <div class="inner">
+                    <div class="heading-svg has-sticker">
+                        <svg class="heading-svg__title" width="1779" height="172"
+                            viewBox="0 0 1779 172">
+                            <path
+                                d="M58.52 171.92C48.6 171.92 39.56 169.84 31.4 165.68C23.4 161.52 16.68 155.84 11.24 148.64C5.96 141.44 2.44 133.52 0.68 124.88L25.88 109.04C28.44 119.28 32.44 127.52 37.88 133.76C43.48 140 50.6 143.12 59.24 143.12C65.8 143.12 71.08 141.52 75.08 138.32C79.08 134.96 81.08 129.92 81.08 123.2C81.08 119.04 79.72 115.36 77 112.16C74.28 108.96 70.84 106.16 66.68 103.76C62.68 101.36 56.92 98.32 49.4 94.64L42.44 91.28C32.84 86.48 25.16 80.48 19.4 73.28C13.64 65.92 10.76 56.56 10.76 45.2C10.76 36.72 12.68 29.04 16.52 22.16C20.52 15.28 26.04 9.91999 33.08 6.07999C40.28 2.08 48.44 0.079999 57.56 0.079999C80.76 0.079999 96.6 10.24 105.08 30.56L79.88 46.64C75.72 34.8 68.28 28.88 57.56 28.88C52.92 28.88 48.92 30.4 45.56 33.44C42.2 36.32 40.52 39.92 40.52 44.24C40.52 48.56 41.96 52.4 44.84 55.76C47.88 58.96 51.48 61.76 55.64 64.16C59.96 66.4 66.12 69.36 74.12 73.04C81.96 76.72 88.52 80.48 93.8 84.32C99.24 88.16 103.64 93.2 107 99.44C110.52 105.52 112.28 112.96 112.28 121.76C112.28 131.84 109.96 140.72 105.32 148.4C100.84 155.92 94.52 161.76 86.36 165.92C78.2 169.92 68.92 171.92 58.52 171.92ZM138.26 1.99999H169.46V170H138.26V1.99999ZM235.102 30.8H188.302V1.99999H313.102V30.8H266.302V170H235.102V30.8ZM332.021 1.99999H435.941V30.8H363.221V66.08H421.541V94.88H363.221V141.2H438.341V170H332.021V1.99999ZM597.29 171.92C582.73 171.92 569.45 168.72 557.45 162.32C545.45 155.92 535.85 146.32 528.65 133.52C521.61 120.56 518.09 104.72 518.09 86C518.09 67.28 521.61 51.52 528.65 38.72C535.85 25.76 545.45 16.08 557.45 9.67999C569.45 3.28 582.73 0.079999 597.29 0.079999C611.85 0.079999 625.13 3.28 637.13 9.67999C649.13 16.08 658.65 25.76 665.69 38.72C672.89 51.52 676.49 67.28 676.49 86C676.49 104.72 672.89 120.56 665.69 133.52C658.65 146.32 649.13 155.92 637.13 162.32C625.13 168.72 611.85 171.92 597.29 171.92ZM597.29 143.12C606.09 143.12 614.01 141.12 621.05 137.12C628.25 132.96 634.01 126.64 638.33 118.16C642.65 109.52 644.81 98.8 644.81 86C644.81 73.2 642.65 62.56 638.33 54.08C634.01 45.44 628.25 39.12 621.05 35.12C614.01 30.96 606.09 28.88 597.29 28.88C588.49 28.88 580.49 30.96 573.29 35.12C566.25 39.12 560.57 45.44 556.25 54.08C551.93 62.56 549.77 73.2 549.77 86C549.77 98.8 551.93 109.52 556.25 118.16C560.57 126.64 566.25 132.96 573.29 137.12C580.49 141.12 588.49 143.12 597.29 143.12ZM705.279 1.99999H811.599V30.8H736.479V69.2H796.959V98H736.479V170H705.279V1.99999ZM927.946 30.8H881.146V1.99999H1005.95V30.8H959.146V170H927.946V30.8ZM1024.86 1.99999H1056.06V65.84H1123.26V1.99999H1154.46V170H1123.26V94.64H1056.06V170H1024.86V1.99999ZM1191.47 1.99999H1295.39V30.8H1222.67V66.08H1280.99V94.88H1222.67V141.2H1297.79V170H1191.47V1.99999ZM1385.7 1.99999H1438.26C1452.18 1.99999 1465.06 5.03999 1476.9 11.12C1488.74 17.2 1498.26 26.56 1505.46 39.2C1512.82 51.68 1516.5 67.28 1516.5 86C1516.5 104.72 1512.82 120.4 1505.46 133.04C1498.26 145.52 1488.74 154.8 1476.9 160.88C1465.06 166.96 1452.18 170 1438.26 170H1385.7V1.99999ZM1428.42 141.2C1444.42 141.2 1457.78 137.12 1468.5 128.96C1479.38 120.64 1484.82 106.32 1484.82 86C1484.82 65.68 1479.38 51.44 1468.5 43.28C1457.78 34.96 1444.42 30.8 1428.42 30.8H1416.9V141.2H1428.42ZM1578.79 1.99999H1609.99L1666.87 170H1633.27L1621.03 130.4H1567.75L1555.51 170H1521.91L1578.79 1.99999ZM1612.15 101.6L1594.39 43.28L1576.63 101.6H1612.15ZM1699.26 98.48L1650.78 1.99999H1684.38L1714.86 67.28L1745.34 1.99999H1778.94L1730.46 98.48V170H1699.26V98.48Z">
+                            </path>
+                        </svg>
+                    </div>
+                </div> --}}
+                {{-- <div class="inner">
+                    <div class="marquee-text" data-controller="marquee">
+                        <div><strong>Nortera</strong> — Site of the Day - <strong>7.31</strong> — Sep 9, 2023 —
+                        </div>
+                    </div>
+                </div> --}}
+                {{-- <div class="inner">
+                    <div class="card-site-anime">
+                        <a href="sites/nortera.html" class="item-link"
+                            aria-label="Nortera - Site of the Day"></a>
+                        <div class="card-site-anime__content">
+                            <div class="swiper slider-site-anime">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="card-site-anime__slide">
+                                            <div class="card-site-anime__label is-text-anime">
+                                                <span>Site name</span>
+                                            </div>
+                                            <div class="card-site-anime__text is-text-anime">
+                                                <span>Nortera</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="card-site-anime__slide">
+                                            <div class="card-site-anime__label is-text-anime">
+                                                <span>Overall Score</span>
+                                            </div>
+                                            <div class="card-site-anime__text is-text-anime">
+                                                <span class="card-site-anime__note">
+                                                    7.31<sup>/10</sup>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="card-site-anime__slide">
+                                            <div class="card-site-anime__label is-text-anime">
+                                                <span>By</span>
+                                            </div>
+                                            <div class="card-site-anime__text is-text-anime">
+                                                <span>agency_lg2</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="button button--large--outline--white--rounded hidden-lg">Explore
+                            SOTD</span>
+                        <img class="card-site-anime__bg"
+                            src="https://assets.awwwards.com/awards/sites_of_the_day/2023/09/nortera-cover.jpg"
+                            alt="">
+                    </div>
+                    <div class="card-site-full__credits">
+                        <div class="head-site__credits has-many-credits">
 
-    <link href="https://qc.luthersales.iocod.com/listing/apple-products" rel="canonical">
-    <!-- favicon -->
-    <link rel="icon" href="https://qc.luthersales.iocod.com/frontend/img/favicon.ico" type="image/x-icon" async="">
-    <!-- Plugin CSS -->
-    <link href="https://qc.luthersales.iocod.com/frontend/css/plugin.css" rel="stylesheet" async="">
-    <!-- Glide CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.0.2/css/glide.core.css" async="">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.0.2/css/glide.theme.css" async="">
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" async="">
-    <!-- Custom CSS -->
-    <link href="https://qc.luthersales.iocod.com/frontend/css/app.test.css" rel="stylesheet" async="">
-    <link href="https://qc.luthersales.iocod.com/frontend/css/header.test.css" rel="stylesheet" async="">
-    
-    
-        
-        <meta property="og:url” content=" https:="" qc.luthersales.iocod.com="" listing="" apple-products"="">
-    <meta property="og:site_name" content="Luthersales">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="object">
-    <meta property="og:title" content="Apple Products | Credit Financing | Buy Now Pay Later">
-    <meta property="og:description" content="Apple Products Credit Financing - Buy Now Pay Later  - LutherSales. Brand Name Buy Now Pay Later Apple Products on Credit.  Up to 36 Months - Budget-Friendly Low Payments. Easy Credit for Buy Now Pay Later Apple Products. We Want to Say YES!">
-    <meta property="og:image" content="https://luthersales.com/images/luthersales-logo.png">
-    <meta property="og:secure_url" content="https://luthersales.com/images/luthersales-logo.png">
-    <meta property="og:image:width" content="260">
-    <meta property="og:image:height" content="55">
-        <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="https://twitter.com/LutherSales">
-    <meta name="twitter:creator" content="https://twitter.com/LutherSales">
-    <meta name="twitter:title" content="Apple Products | Credit Financing | Buy Now Pay Later">
-    <meta name="twitter:description" content="Apple Products Credit Financing - Buy Now Pay Later  - LutherSales. Brand Name Buy Now Pay Later Apple Products on Credit.  Up to 36 Months - Budget-Friendly Low Payments. Easy Credit for Buy Now Pay Later Apple Products. We Want to Say YES!">
-    <meta name="twitter:image:src" content="https://luthersales.com/frontend/images/luthersales-logo.png">
-    <meta name="twitter:image:alt" content="Buy Now Pay Later - LutherSales">
+                            <div class="users-credits ">
+                                <ul class="users-credits__details">
+                                    <li>
+                                        <div class="users-credits__item">
+                                            <figure class="avatar-name ">
+                                                <a class="avatar-name__link" href="agency_lg2/index.html"
+                                                    aria-label="LG2">
+                                                    <img class="avatar-name__img"
+                                                        src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/607820/6193f887abcf5989257526.jpg"
+                                                        width="32" height="32" alt="LG2" />
+                                                    <figcaption class="avatar-name__name">
+                                                        <strong class="link-underlined ">LG2</strong>
+                                                        <sup>PRO</sup>
+                                                    </figcaption>
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
 
-        <script type="application/ld+json">  
-        {
-        "@context":"https://schema.org",
-        "@type":"ItemList","itemListElement":
-        [  
-                        {
-                "@type":"ListItem",
-                "position":1,
-                "url":"https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-128gb-silver",
-                "name":"12.9&quot; iPad Pro Wifi 128GB Silver"
-            },                        {
-                "@type":"ListItem",
-                "position":2,
-                "url":"https://qc.luthersales.iocod.com/product/ipod-touch-128gb-blue",
-                "name":"iPod Touch 128GB Blue"
-            },                        {
-                "@type":"ListItem",
-                "position":3,
-                "url":"https://qc.luthersales.iocod.com/product/ipod-touch-32gb-blue",
-                "name":"iPod Touch 32GB Blue"
-            },                        {
-                "@type":"ListItem",
-                "position":4,
-                "url":"https://qc.luthersales.iocod.com/product/ipod-touch-32gb-gold",
-                "name":"iPod Touch 32GB Gold"
-            },                        {
-                "@type":"ListItem",
-                "position":5,
-                "url":"https://qc.luthersales.iocod.com/product/ipod-touch-32gb-pink",
-                "name":"iPod Touch 32GB Pink"
-            },                        {
-                "@type":"ListItem",
-                "position":6,
-                "url":"https://qc.luthersales.iocod.com/product/102-ipad-wifii-cellular-128gb-space-gray-8th-gen",
-                "name":"10.2&quot; iPad Wifii + Cellular 128GB Space Gray (8th Gen)"
-            },                        {
-                "@type":"ListItem",
-                "position":7,
-                "url":"https://qc.luthersales.iocod.com/product/102-ipad-wifii-cellular-32gb-space-gray-8th-gen",
-                "name":"10.2&quot; iPad Wifii + Cellular 32GB Space Gray (8th Gen)"
-            },                        {
-                "@type":"ListItem",
-                "position":8,
-                "url":"https://qc.luthersales.iocod.com/product/102-ipad-wifi-128gb-gold-8th-gen",
-                "name":"10.2&quot; iPad Wifi 128GB Gold (8th Gen)"
-            },                        {
-                "@type":"ListItem",
-                "position":9,
-                "url":"https://qc.luthersales.iocod.com/product/102-ipad-wifi-128gb-space-gray-8th-gen",
-                "name":"10.2&quot; iPad Wifi 128GB Space Gray (8th Gen)"
-            },                        {
-                "@type":"ListItem",
-                "position":10,
-                "url":"https://qc.luthersales.iocod.com/product/102-ipad-wifi-32gb-gold-8th-gen",
-                "name":"10.2&quot; iPad Wifi 32GB Gold (8th Gen)"
-            },                        {
-                "@type":"ListItem",
-                "position":11,
-                "url":"https://qc.luthersales.iocod.com/product/102-ipad-wifi-32gb-silver-8th-gen",
-                "name":"10.2&quot; iPad Wifi 32GB Silver (8th Gen)"
-            },                        {
-                "@type":"ListItem",
-                "position":12,
-                "url":"https://qc.luthersales.iocod.com/product/102-ipad-wifi-32gb-space-gray-8th-gen",
-                "name":"10.2&quot; iPad Wifi 32GB Space Gray (8th Gen)"
-            },                        {
-                "@type":"ListItem",
-                "position":13,
-                "url":"https://qc.luthersales.iocod.com/product/109-ipad-air-wifi-256gb-space-gray",
-                "name":"10.9&quot; iPad Air Wifi 256GB Space Gray"
-            },                        {
-                "@type":"ListItem",
-                "position":14,
-                "url":"https://qc.luthersales.iocod.com/product/109-ipad-air-wifi-64gb-space-gray",
-                "name":"10.9&quot; iPad Air Wifi 64GB Space Gray"
-            },                        {
-                "@type":"ListItem",
-                "position":15,
-                "url":"https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-128gb-space-gray",
-                "name":"12.9&quot; iPad Pro Wifi 128GB Space Gray"
-            },                        {
-                "@type":"ListItem",
-                "position":16,
-                "url":"https://qc.luthersales.iocod.com/product/ipod-touch-128gb-space-gray",
-                "name":"iPod Touch 128GB Space Gray"
-            },                        {
-                "@type":"ListItem",
-                "position":17,
-                "url":"https://qc.luthersales.iocod.com/product/11-ipad-pro-wifi-256gb-space-gray",
-                "name":"11&quot; iPad Pro Wifi 256GB Space Gray"
-            },                        {
-                "@type":"ListItem",
-                "position":18,
-                "url":"https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-256gb-space-gray",
-                "name":"12.9&quot; iPad Pro Wifi 256GB Space Gray"
-            },                        {
-                "@type":"ListItem",
-                "position":19,
-                "url":"https://qc.luthersales.iocod.com/product/ipad-mini-wifi-cellular-64gb-space-gray",
-                "name":"iPad Mini Wifi + Cellular 64GB Space Gray"
-            },                        {
-                "@type":"ListItem",
-                "position":20,
-                "url":"https://qc.luthersales.iocod.com/product/ipad-mini-wifi-256gb-silver",
-                "name":"iPad Mini Wifi 256GB Silver"
-            }                        
-        ]}
-        </script>
-        <script type="application/ld+json">
-            {"@context":"https://schema.org",
-            "@type":"BreadcrumbList",
-            "itemListElement":[{
-            "@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://luthersales.com"}},
-            {"@type":"ListItem","position":2,"item":{"name":"Buy Now Pay Later Apple Products Financing","@id":"https://luthersales.com/listing/apple-products"}},
-            {"@type":"ListItem","position":3,"item":{"name":"Apple Products","@id":"https://luthersales.com/listing/apple-products"}}
-            ]}
-        </script>
+                        </div>
+                    </div>
+                </div> --}}
 
-            <style>
-        .customstyle {
-            max-width: 100%;
-            width: 100%;
-            margin: 0;
-            top: 0;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            height: 100vh;
-            display: flex;
-            position: fixed;
-            z-index: 100000;
-            /* display: flex; */
-        }
-        .slick-track{
-            display: flex;
-            overflow: auto;
-            flex-wrap: nowrap;
-        }
-    </style>
-    <style>.swal2-popup.swal2-toast{box-sizing:border-box;grid-column:1/4 !important;grid-row:1/4 !important;grid-template-columns:min-content auto min-content;padding:1em;overflow-y:hidden;background:#fff;box-shadow:0 0 1px rgba(0,0,0,.075),0 1px 2px rgba(0,0,0,.075),1px 2px 4px rgba(0,0,0,.075),1px 3px 8px rgba(0,0,0,.075),2px 4px 16px rgba(0,0,0,.075);pointer-events:all}.swal2-popup.swal2-toast>*{grid-column:2}.swal2-popup.swal2-toast .swal2-title{margin:.5em 1em;padding:0;font-size:1em;text-align:initial}.swal2-popup.swal2-toast .swal2-loading{justify-content:center}.swal2-popup.swal2-toast .swal2-input{height:2em;margin:.5em;font-size:1em}.swal2-popup.swal2-toast .swal2-validation-message{font-size:1em}.swal2-popup.swal2-toast .swal2-footer{margin:.5em 0 0;padding:.5em 0 0;font-size:.8em}.swal2-popup.swal2-toast .swal2-close{grid-column:3/3;grid-row:1/99;align-self:center;width:.8em;height:.8em;margin:0;font-size:2em}.swal2-popup.swal2-toast .swal2-html-container{margin:.5em 1em;padding:0;overflow:initial;font-size:1em;text-align:initial}.swal2-popup.swal2-toast .swal2-html-container:empty{padding:0}.swal2-popup.swal2-toast .swal2-loader{grid-column:1;grid-row:1/99;align-self:center;width:2em;height:2em;margin:.25em}.swal2-popup.swal2-toast .swal2-icon{grid-column:1;grid-row:1/99;align-self:center;width:2em;min-width:2em;height:2em;margin:0 .5em 0 0}.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:1.8em;font-weight:bold}.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-popup.swal2-toast .swal2-actions{justify-content:flex-start;height:auto;margin:0;margin-top:.5em;padding:0 .5em}.swal2-popup.swal2-toast .swal2-styled{margin:.25em .5em;padding:.4em .6em;font-size:1em}.swal2-popup.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:1.6em;height:3em;transform:rotate(45deg);border-radius:50%}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-0.8em;left:-0.5em;transform:rotate(-45deg);transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-0.25em;left:.9375em;transform-origin:0 1.5em;border-radius:0 4em 4em 0}.swal2-popup.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-tip{animation:swal2-toast-animate-success-line-tip .75s}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-long{animation:swal2-toast-animate-success-line-long .75s}.swal2-popup.swal2-toast.swal2-show{animation:swal2-toast-show .5s}.swal2-popup.swal2-toast.swal2-hide{animation:swal2-toast-hide .1s forwards}div:where(.swal2-container){display:grid;position:fixed;z-index:1060;inset:0;box-sizing:border-box;grid-template-areas:"top-start     top            top-end" "center-start  center         center-end" "bottom-start  bottom-center  bottom-end";grid-template-rows:minmax(min-content, auto) minmax(min-content, auto) minmax(min-content, auto);height:100%;padding:.625em;overflow-x:hidden;transition:background-color .1s;-webkit-overflow-scrolling:touch}div:where(.swal2-container).swal2-backdrop-show,div:where(.swal2-container).swal2-noanimation{background:rgba(0,0,0,.4)}div:where(.swal2-container).swal2-backdrop-hide{background:rgba(0,0,0,0) !important}div:where(.swal2-container).swal2-top-start,div:where(.swal2-container).swal2-center-start,div:where(.swal2-container).swal2-bottom-start{grid-template-columns:minmax(0, 1fr) auto auto}div:where(.swal2-container).swal2-top,div:where(.swal2-container).swal2-center,div:where(.swal2-container).swal2-bottom{grid-template-columns:auto minmax(0, 1fr) auto}div:where(.swal2-container).swal2-top-end,div:where(.swal2-container).swal2-center-end,div:where(.swal2-container).swal2-bottom-end{grid-template-columns:auto auto minmax(0, 1fr)}div:where(.swal2-container).swal2-top-start>.swal2-popup{align-self:start}div:where(.swal2-container).swal2-top>.swal2-popup{grid-column:2;align-self:start;justify-self:center}div:where(.swal2-container).swal2-top-end>.swal2-popup,div:where(.swal2-container).swal2-top-right>.swal2-popup{grid-column:3;align-self:start;justify-self:end}div:where(.swal2-container).swal2-center-start>.swal2-popup,div:where(.swal2-container).swal2-center-left>.swal2-popup{grid-row:2;align-self:center}div:where(.swal2-container).swal2-center>.swal2-popup{grid-column:2;grid-row:2;align-self:center;justify-self:center}div:where(.swal2-container).swal2-center-end>.swal2-popup,div:where(.swal2-container).swal2-center-right>.swal2-popup{grid-column:3;grid-row:2;align-self:center;justify-self:end}div:where(.swal2-container).swal2-bottom-start>.swal2-popup,div:where(.swal2-container).swal2-bottom-left>.swal2-popup{grid-column:1;grid-row:3;align-self:end}div:where(.swal2-container).swal2-bottom>.swal2-popup{grid-column:2;grid-row:3;justify-self:center;align-self:end}div:where(.swal2-container).swal2-bottom-end>.swal2-popup,div:where(.swal2-container).swal2-bottom-right>.swal2-popup{grid-column:3;grid-row:3;align-self:end;justify-self:end}div:where(.swal2-container).swal2-grow-row>.swal2-popup,div:where(.swal2-container).swal2-grow-fullscreen>.swal2-popup{grid-column:1/4;width:100%}div:where(.swal2-container).swal2-grow-column>.swal2-popup,div:where(.swal2-container).swal2-grow-fullscreen>.swal2-popup{grid-row:1/4;align-self:stretch}div:where(.swal2-container).swal2-no-transition{transition:none !important}div:where(.swal2-container) div:where(.swal2-popup){display:none;position:relative;box-sizing:border-box;grid-template-columns:minmax(0, 100%);width:32em;max-width:100%;padding:0 0 1.25em;border:none;border-radius:5px;background:#fff;color:#545454;font-family:inherit;font-size:1rem}div:where(.swal2-container) div:where(.swal2-popup):focus{outline:none}div:where(.swal2-container) div:where(.swal2-popup).swal2-loading{overflow-y:hidden}div:where(.swal2-container) h2:where(.swal2-title){position:relative;max-width:100%;margin:0;padding:.8em 1em 0;color:inherit;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;word-wrap:break-word}div:where(.swal2-container) div:where(.swal2-actions){display:flex;z-index:1;box-sizing:border-box;flex-wrap:wrap;align-items:center;justify-content:center;width:auto;margin:1.25em auto 0;padding:0}div:where(.swal2-container) div:where(.swal2-actions):not(.swal2-loading) .swal2-styled[disabled]{opacity:.4}div:where(.swal2-container) div:where(.swal2-actions):not(.swal2-loading) .swal2-styled:hover{background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1))}div:where(.swal2-container) div:where(.swal2-actions):not(.swal2-loading) .swal2-styled:active{background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2))}div:where(.swal2-container) div:where(.swal2-loader){display:none;align-items:center;justify-content:center;width:2.2em;height:2.2em;margin:0 1.875em;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border-width:.25em;border-style:solid;border-radius:100%;border-color:#2778c4 rgba(0,0,0,0) #2778c4 rgba(0,0,0,0)}div:where(.swal2-container) button:where(.swal2-styled){margin:.3125em;padding:.625em 1.1em;transition:box-shadow .1s;box-shadow:0 0 0 3px rgba(0,0,0,0);font-weight:500}div:where(.swal2-container) button:where(.swal2-styled):not([disabled]){cursor:pointer}div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm{border:0;border-radius:.25em;background:initial;background-color:#7066e0;color:#fff;font-size:1em}div:where(.swal2-container) button:where(.swal2-styled).swal2-confirm:focus{box-shadow:0 0 0 3px rgba(112,102,224,.5)}div:where(.swal2-container) button:where(.swal2-styled).swal2-deny{border:0;border-radius:.25em;background:initial;background-color:#dc3741;color:#fff;font-size:1em}div:where(.swal2-container) button:where(.swal2-styled).swal2-deny:focus{box-shadow:0 0 0 3px rgba(220,55,65,.5)}div:where(.swal2-container) button:where(.swal2-styled).swal2-cancel{border:0;border-radius:.25em;background:initial;background-color:#6e7881;color:#fff;font-size:1em}div:where(.swal2-container) button:where(.swal2-styled).swal2-cancel:focus{box-shadow:0 0 0 3px rgba(110,120,129,.5)}div:where(.swal2-container) button:where(.swal2-styled).swal2-default-outline:focus{box-shadow:0 0 0 3px rgba(100,150,200,.5)}div:where(.swal2-container) button:where(.swal2-styled):focus{outline:none}div:where(.swal2-container) button:where(.swal2-styled)::-moz-focus-inner{border:0}div:where(.swal2-container) div:where(.swal2-footer){margin:1em 0 0;padding:1em 1em 0;border-top:1px solid #eee;color:inherit;font-size:1em;text-align:center}div:where(.swal2-container) .swal2-timer-progress-bar-container{position:absolute;right:0;bottom:0;left:0;grid-column:auto !important;overflow:hidden;border-bottom-right-radius:5px;border-bottom-left-radius:5px}div:where(.swal2-container) div:where(.swal2-timer-progress-bar){width:100%;height:.25em;background:rgba(0,0,0,.2)}div:where(.swal2-container) img:where(.swal2-image){max-width:100%;margin:2em auto 1em}div:where(.swal2-container) button:where(.swal2-close){z-index:2;align-items:center;justify-content:center;width:1.2em;height:1.2em;margin-top:0;margin-right:0;margin-bottom:-1.2em;padding:0;overflow:hidden;transition:color .1s,box-shadow .1s;border:none;border-radius:5px;background:rgba(0,0,0,0);color:#ccc;font-family:monospace;font-size:2.5em;cursor:pointer;justify-self:end}div:where(.swal2-container) button:where(.swal2-close):hover{transform:none;background:rgba(0,0,0,0);color:#f27474}div:where(.swal2-container) button:where(.swal2-close):focus{outline:none;box-shadow:inset 0 0 0 3px rgba(100,150,200,.5)}div:where(.swal2-container) button:where(.swal2-close)::-moz-focus-inner{border:0}div:where(.swal2-container) .swal2-html-container{z-index:1;justify-content:center;margin:1em 1.6em .3em;padding:0;overflow:auto;color:inherit;font-size:1.125em;font-weight:normal;line-height:normal;text-align:center;word-wrap:break-word;word-break:break-word}div:where(.swal2-container) input:where(.swal2-input),div:where(.swal2-container) input:where(.swal2-file),div:where(.swal2-container) textarea:where(.swal2-textarea),div:where(.swal2-container) select:where(.swal2-select),div:where(.swal2-container) div:where(.swal2-radio),div:where(.swal2-container) label:where(.swal2-checkbox){margin:1em 2em 3px}div:where(.swal2-container) input:where(.swal2-input),div:where(.swal2-container) input:where(.swal2-file),div:where(.swal2-container) textarea:where(.swal2-textarea){box-sizing:border-box;width:auto;transition:border-color .1s,box-shadow .1s;border:1px solid #d9d9d9;border-radius:.1875em;background:rgba(0,0,0,0);box-shadow:inset 0 1px 1px rgba(0,0,0,.06),0 0 0 3px rgba(0,0,0,0);color:inherit;font-size:1.125em}div:where(.swal2-container) input:where(.swal2-input).swal2-inputerror,div:where(.swal2-container) input:where(.swal2-file).swal2-inputerror,div:where(.swal2-container) textarea:where(.swal2-textarea).swal2-inputerror{border-color:#f27474 !important;box-shadow:0 0 2px #f27474 !important}div:where(.swal2-container) input:where(.swal2-input):focus,div:where(.swal2-container) input:where(.swal2-file):focus,div:where(.swal2-container) textarea:where(.swal2-textarea):focus{border:1px solid #b4dbed;outline:none;box-shadow:inset 0 1px 1px rgba(0,0,0,.06),0 0 0 3px rgba(100,150,200,.5)}div:where(.swal2-container) input:where(.swal2-input)::placeholder,div:where(.swal2-container) input:where(.swal2-file)::placeholder,div:where(.swal2-container) textarea:where(.swal2-textarea)::placeholder{color:#ccc}div:where(.swal2-container) .swal2-range{margin:1em 2em 3px;background:#fff}div:where(.swal2-container) .swal2-range input{width:80%}div:where(.swal2-container) .swal2-range output{width:20%;color:inherit;font-weight:600;text-align:center}div:where(.swal2-container) .swal2-range input,div:where(.swal2-container) .swal2-range output{height:2.625em;padding:0;font-size:1.125em;line-height:2.625em}div:where(.swal2-container) .swal2-input{height:2.625em;padding:0 .75em}div:where(.swal2-container) .swal2-file{width:75%;margin-right:auto;margin-left:auto;background:rgba(0,0,0,0);font-size:1.125em}div:where(.swal2-container) .swal2-textarea{height:6.75em;padding:.75em}div:where(.swal2-container) .swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;background:rgba(0,0,0,0);color:inherit;font-size:1.125em}div:where(.swal2-container) .swal2-radio,div:where(.swal2-container) .swal2-checkbox{align-items:center;justify-content:center;background:#fff;color:inherit}div:where(.swal2-container) .swal2-radio label,div:where(.swal2-container) .swal2-checkbox label{margin:0 .6em;font-size:1.125em}div:where(.swal2-container) .swal2-radio input,div:where(.swal2-container) .swal2-checkbox input{flex-shrink:0;margin:0 .4em}div:where(.swal2-container) label:where(.swal2-input-label){display:flex;justify-content:center;margin:1em auto 0}div:where(.swal2-container) div:where(.swal2-validation-message){align-items:center;justify-content:center;margin:1em 0 0;padding:.625em;overflow:hidden;background:#f0f0f0;color:#666;font-size:1em;font-weight:300}div:where(.swal2-container) div:where(.swal2-validation-message)::before{content:"!";display:inline-block;width:1.5em;min-width:1.5em;height:1.5em;margin:0 .625em;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center}div:where(.swal2-container) .swal2-progress-steps{flex-wrap:wrap;align-items:center;max-width:100%;margin:1.25em auto;padding:0;background:rgba(0,0,0,0);font-weight:600}div:where(.swal2-container) .swal2-progress-steps li{display:inline-block;position:relative}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step{z-index:20;flex-shrink:0;width:2em;height:2em;border-radius:2em;background:#2778c4;color:#fff;line-height:2em;text-align:center}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step.swal2-active-progress-step{background:#2778c4}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step{background:#add8e6;color:#fff}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step-line{background:#add8e6}div:where(.swal2-container) .swal2-progress-steps .swal2-progress-step-line{z-index:10;flex-shrink:0;width:2.5em;height:.4em;margin:0 -1px;background:#2778c4}div:where(.swal2-icon){position:relative;box-sizing:content-box;justify-content:center;width:5em;height:5em;margin:2.5em auto .6em;border:0.25em solid rgba(0,0,0,0);border-radius:50%;border-color:#000;font-family:inherit;line-height:5em;cursor:default;user-select:none}div:where(.swal2-icon) .swal2-icon-content{display:flex;align-items:center;font-size:3.75em}div:where(.swal2-icon).swal2-error{border-color:#f27474;color:#f27474}div:where(.swal2-icon).swal2-error .swal2-x-mark{position:relative;flex-grow:1}div:where(.swal2-icon).swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}div:where(.swal2-icon).swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;transform:rotate(45deg)}div:where(.swal2-icon).swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;transform:rotate(-45deg)}div:where(.swal2-icon).swal2-error.swal2-icon-show{animation:swal2-animate-error-icon .5s}div:where(.swal2-icon).swal2-error.swal2-icon-show .swal2-x-mark{animation:swal2-animate-error-x-mark .5s}div:where(.swal2-icon).swal2-warning{border-color:#facea8;color:#f8bb86}div:where(.swal2-icon).swal2-warning.swal2-icon-show{animation:swal2-animate-error-icon .5s}div:where(.swal2-icon).swal2-warning.swal2-icon-show .swal2-icon-content{animation:swal2-animate-i-mark .5s}div:where(.swal2-icon).swal2-info{border-color:#9de0f6;color:#3fc3ee}div:where(.swal2-icon).swal2-info.swal2-icon-show{animation:swal2-animate-error-icon .5s}div:where(.swal2-icon).swal2-info.swal2-icon-show .swal2-icon-content{animation:swal2-animate-i-mark .8s}div:where(.swal2-icon).swal2-question{border-color:#c9dae1;color:#87adbd}div:where(.swal2-icon).swal2-question.swal2-icon-show{animation:swal2-animate-error-icon .5s}div:where(.swal2-icon).swal2-question.swal2-icon-show .swal2-icon-content{animation:swal2-animate-question-mark .8s}div:where(.swal2-icon).swal2-success{border-color:#a5dc86;color:#a5dc86}div:where(.swal2-icon).swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;transform:rotate(45deg);border-radius:50%}div:where(.swal2-icon).swal2-success [class^=swal2-success-circular-line][class$=left]{top:-0.4375em;left:-2.0635em;transform:rotate(-45deg);transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}div:where(.swal2-icon).swal2-success [class^=swal2-success-circular-line][class$=right]{top:-0.6875em;left:1.875em;transform:rotate(-45deg);transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}div:where(.swal2-icon).swal2-success .swal2-success-ring{position:absolute;z-index:2;top:-0.25em;left:-0.25em;box-sizing:content-box;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%}div:where(.swal2-icon).swal2-success .swal2-success-fix{position:absolute;z-index:1;top:.5em;left:1.625em;width:.4375em;height:5.625em;transform:rotate(-45deg)}div:where(.swal2-icon).swal2-success [class^=swal2-success-line]{display:block;position:absolute;z-index:2;height:.3125em;border-radius:.125em;background-color:#a5dc86}div:where(.swal2-icon).swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.8125em;width:1.5625em;transform:rotate(45deg)}div:where(.swal2-icon).swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;transform:rotate(-45deg)}div:where(.swal2-icon).swal2-success.swal2-icon-show .swal2-success-line-tip{animation:swal2-animate-success-line-tip .75s}div:where(.swal2-icon).swal2-success.swal2-icon-show .swal2-success-line-long{animation:swal2-animate-success-line-long .75s}div:where(.swal2-icon).swal2-success.swal2-icon-show .swal2-success-circular-line-right{animation:swal2-rotate-success-circular-line 4.25s ease-in}[class^=swal2]{-webkit-tap-highlight-color:rgba(0,0,0,0)}.swal2-show{animation:swal2-show .3s}.swal2-hide{animation:swal2-hide .15s forwards}.swal2-noanimation{transition:none}.swal2-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll}.swal2-rtl .swal2-close{margin-right:initial;margin-left:0}.swal2-rtl .swal2-timer-progress-bar{right:0;left:auto}@keyframes swal2-toast-show{0%{transform:translateY(-0.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(0.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0deg)}}@keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-0.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@keyframes swal2-show{0%{transform:scale(0.7)}45%{transform:scale(1.05)}80%{transform:scale(0.95)}100%{transform:scale(1)}}@keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(0.5);opacity:0}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-0.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(0.4);opacity:0}50%{margin-top:1.625em;transform:scale(0.4);opacity:0}80%{margin-top:-0.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0deg);opacity:1}}@keyframes swal2-rotate-loading{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}@keyframes swal2-animate-question-mark{0%{transform:rotateY(-360deg)}100%{transform:rotateY(0)}}@keyframes swal2-animate-i-mark{0%{transform:rotateZ(45deg);opacity:0}25%{transform:rotateZ(-25deg);opacity:.4}50%{transform:rotateZ(15deg);opacity:.8}75%{transform:rotateZ(-5deg);opacity:1}100%{transform:rotateX(0);opacity:1}}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow:hidden}body.swal2-height-auto{height:auto !important}body.swal2-no-backdrop .swal2-container{background-color:rgba(0,0,0,0) !important;pointer-events:none}body.swal2-no-backdrop .swal2-container .swal2-popup{pointer-events:all}body.swal2-no-backdrop .swal2-container .swal2-modal{box-shadow:0 0 10px rgba(0,0,0,.4)}@media print{body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow-y:scroll !important}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown)>[aria-hidden=true]{display:none}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) .swal2-container{position:static !important}}body.swal2-toast-shown .swal2-container{box-sizing:border-box;width:360px;max-width:100%;background-color:rgba(0,0,0,0);pointer-events:none}body.swal2-toast-shown .swal2-container.swal2-top{inset:0 auto auto 50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-top-end,body.swal2-toast-shown .swal2-container.swal2-top-right{inset:0 0 auto auto}body.swal2-toast-shown .swal2-container.swal2-top-start,body.swal2-toast-shown .swal2-container.swal2-top-left{inset:0 auto auto 0}body.swal2-toast-shown .swal2-container.swal2-center-start,body.swal2-toast-shown .swal2-container.swal2-center-left{inset:50% auto auto 0;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-center{inset:50% auto auto 50%;transform:translate(-50%, -50%)}body.swal2-toast-shown .swal2-container.swal2-center-end,body.swal2-toast-shown .swal2-container.swal2-center-right{inset:50% 0 auto auto;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-start,body.swal2-toast-shown .swal2-container.swal2-bottom-left{inset:auto auto 0 0}body.swal2-toast-shown .swal2-container.swal2-bottom{inset:auto auto 0 50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-end,body.swal2-toast-shown .swal2-container.swal2-bottom-right{inset:auto 0 0 auto}</style></head>
-
-<body>
-    <div class="modal-wrapper" style="display: none;">
-        <div class="modal-box customstyle">
-            <div id="vcredit" class="customstyle"></div>
+            </div>
         </div>
     </div>
-
-
-
-    <div class="compare-collection" style="display: none;"><button type="button" class="toggle-bt"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="icon svg-inline--fa fa-angle-down fa-w-10">
-        <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z" class=""></path>
-    </svg>
-    <!---->
-    <div class="title">Compare</div>
-</button>
-<div class="home-content wrapper-col p-0">
-    <div class="container">
-        <div class="c-row">
-            <div class="col slide-col">
-                <div class="slick-initialized slick-slider">
-                    <div class="slick-list draggable">
-                        <div class="slick-track" style="opacity: 1; width: 1100px; transform: translate3d(0px, 0px, 0px);">
- 
+{{-- 
+    <div class="block">
+        <div class="inner">
+            <div class="c-heading c-heading--small">
+                <div class="c-heading__top">
+                    <h2 class="text-default">News and Updates</h2>
+                </div>
+                <div class="c-heading__middle">
+                    <div class="c-heading__between">
+                        <h3 class="heading-5">Follow what's brand<br>new in digital design.</h3>
+                        <div>Don't miss the <strong>latest</strong> happenings on <strong>awwwards</strong>.
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col action-col">
-                <div class="action-sec">
-                    <button type="button" class="btn danger compare-bt">
-                        Compare
-                    </button>
-                     <button type="button" class="clear-bt">
-                        Clear all items
-                    </button></div>
+            <div class="l-list-sites">
+                <div class="l-list-sites__col">
+                    <h3 class="heading-hr"><strong>w.news</strong></h3>
+                    <ul class="list-sites">
+                        <li class="list-sites__item">
+                            <div class="list-sites__card ">
+                                <figure class="list-sites__figure">
+                                    <a href="inspiration/cursor-interaction-on-the-logo-in-the-footer.html">
+                                        <img width="72" height="72" loading="lazy"
+                                            class="list-sites__media"
+                                            src="https://assets.awwwards.com/awards/media/cache/square_thumb_140/element/2023/08/64f053dba626c069270583_static.jpeg"
+                                            alt="Cursor interaction on the logo in the footer">
+                                    </a>
+                                </figure>
+                                <div class="list-sites__info">
+                                    <div class="list-sites__label">
+                                        Element of the Day
+                                        <span class="budget-tag budget-tag--solid--black">FRESH</span>
+                                    </div>
+                                    <h3 class="list-sites__title list-sites__title--truncate">
+                                        <a href="inspiration/cursor-interaction-on-the-logo-in-the-footer.html"
+                                            title="Cursor interaction on the logo in the footer">
+                                            Cursor interaction on the logo in the footer
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li class="list-sites__item">
+
+
+
+
+                            <div class="list-sites__card ">
+                                <figure class="list-sites__figure">
+                                    <a href="c2-montr%c3%a9al-by-koki-kiko-and-friends-wins-sotm-may.html">
+                                        <img width="72" height="72" loading="lazy"
+                                            class="list-sites__media"
+                                            src="https://assets.awwwards.com/awards/media/cache/square_thumb_140/images/2023/06/c2mtl-thumb.jpg"
+                                            alt="C2 Montréal by KOKI-KIKO and friends wins SOTM May">
+                                    </a>
+                                </figure>
+                                <div class="list-sites__info">
+                                    <div class="list-sites__label">
+                                        News - June 27, 2023
+                                    </div>
+                                    <h3 class="list-sites__title list-sites__title--truncate">
+                                        <a href="c2-montr%c3%a9al-by-koki-kiko-and-friends-wins-sotm-may.html"
+                                            title="C2 Montréal by KOKI-KIKO and friends wins SOTM May">
+                                            C2 Montréal by KOKI-KIKO and friends wins SOTM May
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+
+
+                        </li>
+                        <li class="list-sites__item">
+
+
+
+
+                            <div class="list-sites__card ">
+                                <figure class="list-sites__figure">
+                                    <a
+                                        href="engine-station-by-monogrid-a-3d-experiential-e-commerce-destination.html">
+                                        <img width="72" height="72" loading="lazy"
+                                            class="list-sites__media"
+                                            src="https://assets.awwwards.com/awards/media/cache/square_thumb_140/images/2023/05/es-thumb-v2.jpg"
+                                            alt="Engine Station by MONOGRID: A 3D Experiential E-Commerce Destination">
+                                    </a>
+                                </figure>
+                                <div class="list-sites__info">
+                                    <div class="list-sites__label">
+                                        News - May 24, 2023
+                                    </div>
+                                    <h3 class="list-sites__title list-sites__title--truncate">
+                                        <a href="engine-station-by-monogrid-a-3d-experiential-e-commerce-destination.html"
+                                            title="Engine Station by MONOGRID: A 3D Experiential E-Commerce Destination">
+                                            Engine Station by MONOGRID: A 3D Experiential E-Commerce Destination
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+
+
+                        </li>
+                        <li class="list-sites__item">
+
+
+
+
+                            <div class="list-sites__card ">
+                                <figure class="list-sites__figure">
+                                    <a href="case-study-reinventing-locomotive-r.html">
+                                        <img width="72" height="72" loading="lazy"
+                                            class="list-sites__media"
+                                            src="https://assets.awwwards.com/awards/media/cache/square_thumb_140/images/2023/05/loco-thumb.jpg"
+                                            alt="Reinventing Locomotive® Wins Site of the Month March">
+                                    </a>
+                                </figure>
+                                <div class="list-sites__info">
+                                    <div class="list-sites__label">
+                                        News - May 10, 2023
+                                    </div>
+                                    <h3 class="list-sites__title list-sites__title--truncate">
+                                        <a href="case-study-reinventing-locomotive-r.html"
+                                            title="Reinventing Locomotive® Wins Site of the Month March">
+                                            Reinventing Locomotive® Wins Site of the Month March
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+
+
+                        </li>
+                    </ul>
+                </div>
+                <div class="l-list-sites__col">
+
+                    <h3 class="heading-hr"><strong>w.creators - close to you</strong></h3>
+                    <ul class="list-sites">
+                        <li class="list-sites__item">
+                            <div class="list-sites__card ">
+                                <figure class="list-sites__figure">
+                                    <a href="Ruckus/index.html">
+                                        <img width="72" height="72" loading="lazy"
+                                            class="list-sites__media"
+                                            src="https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/394575/56d5bad90370e.jpeg"
+                                            alt="Ruckus">
+                                    </a>
+                                </figure>
+                                <div class="list-sites__info">
+                                    <div class="list-sites__label">
+                                        Agency
+                                        <span class="budget-tag budget-tag--solid--black">INTERNATIONAL</span>
+                                    </div>
+                                    <h3 class="list-sites__title list-sites__title--truncate">
+                                        <a href="Ruckus/index.html" title="Ruckus">
+                                            Ruckus
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li class="list-sites__item">
+                            <div class="list-sites__card ">
+                                <figure class="list-sites__figure">
+                                    <a href="Zajno/index.html">
+                                        <img width="72" height="72" loading="lazy"
+                                            class="list-sites__media"
+                                            src="https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/518459/646207d0207f6428357435.png"
+                                            alt="Zajno">
+                                    </a>
+                                </figure>
+                                <div class="list-sites__info">
+                                    <div class="list-sites__label">
+                                        Agency
+                                        <span class="budget-tag budget-tag--solid--black">INTERNATIONAL</span>
+                                    </div>
+                                    <h3 class="list-sites__title list-sites__title--truncate">
+                                        <a href="Zajno/index.html" title="Zajno">
+                                            Zajno
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li class="list-sites__item">
+                            <div class="list-sites__card ">
+                                <figure class="list-sites__figure">
+                                    <a href="jaffar/index.html">
+                                        <img width="72" height="72" loading="lazy"
+                                            class="list-sites__media"
+                                            src="https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/182035/5ee84fb630b01399133765.jpg"
+                                            alt="Jaffar">
+                                    </a>
+                                </figure>
+                                <div class="list-sites__info">
+                                    <div class="list-sites__label">
+                                        Freelance - United Arab Emirates
+                                    </div>
+                                    <h3 class="list-sites__title list-sites__title--truncate">
+                                        <a href="jaffar/index.html" title="Jaffar">
+                                            Jaffar
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+
+                        </li>
+                        <li class="list-sites__item">
+                            <div class="list-sites__card ">
+                                <figure class="list-sites__figure">
+                                    <a href="nidalben/index.html">
+                                        <img width="72" height="72" loading="lazy"
+                                            class="list-sites__media"
+                                            src="https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/928628/63bf483e3e19b727659483.png"
+                                            alt="Nidal Benatia">
+                                    </a>
+                                </figure>
+                                <div class="list-sites__info">
+                                    <div class="list-sites__label">
+                                        Studio - United Arab Emirates
+                                    </div>
+                                    <h3 class="list-sites__title list-sites__title--truncate">
+                                        <a href="nidalben/index.html" title="Nidal Benatia">
+                                            Nidal Benatia
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+
+                        </li>
+                    </ul>
+
+                </div>
+                <div class="l-list-sites__col s-2">
+                    <h3 class="heading-hr"><strong>Featured</strong></h3>
+                    <ul class="list-sites">
+                        <li class="list-sites__item">
+                            <div class="list-sites__card ">
+                                <figure class="list-sites__figure">
+                                    <a href="https://conference.awwwards.com/">
+                                        <img width="72" height="72" loading="lazy"
+                                            class="list-sites__media"
+                                            src="https://assets.awwwards.com/awards/64996d7aea14b8.99251204.png"
+                                            alt="Early Bird Tickets on sale for a limited time, grab yours here!">
+                                    </a>
+                                </figure>
+                                <div class="list-sites__info">
+                                    <div class="list-sites__label">
+                                        An inspiring event for the digital design community
+                                    </div>
+                                    <h3 class="list-sites__title ">
+                                        <a href="https://conference.awwwards.com/"
+                                            title="Early Bird Tickets on sale for a limited time, grab yours here!">
+                                            Early Bird Tickets on sale for a limited time, grab yours here!
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
-    </div>
-</div>
-</div>
+    </div> --}}
 
-<input type="hidden" name="compareurl" id="compareurl" value="">
 
-    <!-- Header -->
-
-    <div class="sticky-header stick">
-        <!-- Header -->
-        <header class="header">
-            <!---->
-                        <div class="header-pane">
-                Buy Now Pay Later with LutherSales
-                <button class="btn success btn-header-pane">
-                    <a href="/login">Click Here
-                        <span>TO APPLY</span></a>
-                </button>
-            </div>
-
-            
-            <div class="container">
-                <div id="search-expand" class="search-wrapper">
-                    <div class="toll-free">
-                        <p>Order Online or Call us Toll Free&nbsp; :<a href="tel:1-800-358-6466"> <span style="color:
-#45527C"><strong>1-800-358-6466</strong></span></a></p>                        
+    {{-- <div class="anchor-section" id="nominees">
+        <div class="c-box-float-more">
+            <div class="inner">
+                <div class="box-float-more style-1">
+                    <a href="websites/nominees/index.html" class="item-link"
+                        aria-label="View all Nominees"></a>
+                    <div class="box-float-more__info">
+                        <div>View all</div>
+                        <div><span>Nominees</span></div>
                     </div>
-
-                    <div class="search-form">
-                        <div id="autosuggest">
-                            <form class="typeahead" role="search">
-                                <div>
-                                    <input type="search" id="autosuggest__input" placeholder="Search for products, brands and more" autocomplete="off" name="q" class="search-input">
-                                </div>
-
-                                <div id="autosuggest-autosuggest__results" class="autosuggest__results-container">
-
-                                </div>
-
-                            </form>
-
+                    <img class="box-float-more__photo" width="60" height="48"
+                        src="https://assets.awwwards.com/awards/media/cache/thumb_60_45/submissions/2023/08/64f08dc37fa7e763864775.jpg"
+                        alt="View all Nominees">
+                </div>
+            </div>
+        </div>
+        <div class="block">
+            <div class="inner">
+                <div class="c-heading text-center">
+                    <div class="c-heading__top">
+                        <h2 class="text-default">Latest</h2>
+                    </div>
+                    <div class="c-heading__middle">
+                        <h3 class="heading-1">
+                            NOMINEES
+                            <span class="budget-cool hidden-sm">Cool Sites!</span>
+                        </h3>
+                    </div>
+                    <div class="c-heading__bottom">
+                        <div class="c-heading__short-desc">
+                            <span>Vote for the latest websites on awwwards</span>
                         </div>
-                        <!---->
                     </div>
                 </div>
-                <div class="logo-wrapper">
-                    <div class="brand-logo">
-                        <a href="/" aria-current="page" class="
-                                router-link-exact-active
-                                router-link-active
-                            ">
-                            <img src="https://qc.luthersales.iocod.com/frontend/images/luthersales-logo.png" alt="Luthersales Logo - Buy now pay later financing" title="Luthersales Logo">
+                <div class="swiper slider-sites" data-controller="swiper"
+                    data-swiper-configuration-value="slider_3">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+
+                            <div class="card-slide">
+
+
+                                <figure class="figure-rollover js-collectable is-large"
+                                    data-controller="collectable"
+                                    data-collectable-model-value="&#x7B;&quot;collectableIdentifier&quot;&#x3A;&quot;fitsole&quot;,&quot;collectableImage&quot;&#x3A;&quot;submissions&#x5C;&#x2F;2023&#x5C;&#x2F;08&#x5C;&#x2F;64f08dc37fa7e763864775.jpg&quot;,&quot;collectableTitle&quot;&#x3A;&quot;Fitsole&quot;,&quot;id&quot;&#x3A;54471,&quot;images&quot;&#x3A;&#x7B;&quot;thumbnail&quot;&#x3A;&quot;submissions&#x5C;&#x2F;2023&#x5C;&#x2F;08&#x5C;&#x2F;64f08dc37fa7e763864775.jpg&quot;&#x7D;,&quot;slug&quot;&#x3A;&quot;fitsole&quot;,&quot;title&quot;&#x3A;&quot;Fitsole&quot;,&quot;createdAt&quot;&#x3A;1693985415,&quot;tags&quot;&#x3A;&#x5B;&quot;E-Commerce&quot;,&quot;Fashion&quot;,&quot;Web&#x20;&amp;&#x20;Interactive&quot;,&quot;Clean&quot;,&quot;Minimal&quot;,&quot;Menu&#x20;-&#x20;Horizontal&quot;,&quot;UI&#x20;design&quot;,&quot;About&#x20;Page&quot;,&quot;Footer&#x20;Design&quot;&#x5D;,&quot;type&quot;&#x3A;&quot;submission&quot;&#x7D;">
+                                    <a aria-label="Fitsole" href="sites/fitsole.html"
+                                        class="figure-rollover__link ">
+                                        <img class="figure-rollover__file lazy"
+                                            data-controller="lazyload-image"
+                                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                            data-src="https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2023/08/64f08dc37fa7e763864775.jpg"
+                                            alt="Fitsole">
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__center">
+                                            <a href="sites/fitsole.html"
+                                                class="button button--white--rounded">
+                                                <svg class="ico--left" width="14" viewBox="0 0 20 17">
+                                                    <path
+                                                        d="M17.8246 7.4299H0V9.29145H17.8246L12.2047 16L13.6589 16.8982L19.4269 10.0128C20.191 9.10064 20.191 7.61838 19.4269 6.70622L13.809 0L12.3548 0.89587L17.8246 7.4299Z">
+                                                    </path>
+                                                </svg>
+                                                Vote Now
+                                            </a>
+                                        </div>
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>WEBSITE</small></div>
+                                            <div class="figure-rollover__row">
+                                                <h3>Fitsole</h3>
+                                            </div>
+                                        </div>
+                                        <div class="figure-rollover__right">
+                                            <div class="figure-rollover__bts">
+                                                <a href="https://fitsole.shop/" rel="noopener nofollow"
+                                                    target="_blank" class="figure-rollover__bt">
+                                                    <svg width="14" height="14" viewBox="0 0 14 14">
+                                                        <path
+                                                            d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </a>
+                                                <span class="figure-rollover__bt"
+                                                    data-action="click->collectable#collect">
+                                                    <svg width="15" height="18" viewBox="0 0 15 18">
+                                                        <path
+                                                            d="M11.7746 1.00195H3.21618C1.99236 1.00195 0.996094 2.07031 0.996094 3.38268V14.6912C0.996094 15.7744 1.44566 16.5511 2.26154 16.8755C2.47384 16.9603 2.70001 17.002 2.92896 17.002C3.14403 17.002 3.36188 16.9648 3.57278 16.8889C3.78369 16.813 4.24436 16.566 4.38034 16.4916L7.4954 14.2299H7.49678L8.48611 13.5112L7.81592 13.0246L7.49401 12.7925L3.84613 15.4456C3.60608 15.575 3.30776 15.7268 3.21896 15.7595C2.95949 15.8532 2.74996 15.7982 2.64867 15.758C2.39613 15.6568 2.10614 15.4441 2.10614 14.6882V3.37971C2.10614 2.72352 2.60427 2.18934 3.21618 2.18934H11.7746C12.3865 2.18934 12.8847 2.72352 12.8847 3.37971V14.6882C12.8847 15.4441 12.5947 15.6568 12.3421 15.758C12.2408 15.7982 12.0313 15.8532 11.7718 15.7595C11.683 15.7283 11.3847 15.575 11.1447 15.4456L9.92639 14.5587L8.93707 15.2774L10.5508 16.4514L10.6118 16.4901C10.7478 16.5645 11.2085 16.8115 11.4194 16.8874C11.8523 17.0436 12.3172 17.0377 12.7306 16.874C13.5465 16.5481 13.9961 15.7729 13.9961 14.6897V3.38119C13.9947 2.0703 12.9984 1.00195 11.7746 1.00195Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+
+                                    </div>
+                                </figure>
+
+
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="sites/fitsole.html">Fitsole</a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>by</small>
+
+                                            <div class="users-credits is-large">
+                                                <ul class="users-credits__details">
+                                                    <li>
+                                                        <div class="users-credits__item">
+                                                            <figure class="avatar-name ">
+                                                                <a class="avatar-name__link"
+                                                                    href="DashDigital%c2%ae/index.html"
+                                                                    aria-label="DashDigital®">
+                                                                    <img class="avatar-name__img"
+                                                                        src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/797758/624eb897ecc05050422732.jpg"
+                                                                        width="32" height="32"
+                                                                        alt="DashDigital®" />
+                                                                    <figcaption class="avatar-name__name">
+                                                                        <strong
+                                                                            class="link-underlined ">DashDigital®</strong>
+                                                                        <sup>PRO</sup>
+                                                                    </figcaption>
+                                                                </a>
+                                                            </figure>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+                            <div class="card-slide">
+
+
+                                <figure class="figure-rollover js-collectable is-large"
+                                    data-controller="collectable"
+                                    data-collectable-model-value="&#x7B;&quot;collectableIdentifier&quot;&#x3A;&quot;tsu-lange-yor&quot;,&quot;collectableImage&quot;&#x3A;&quot;submissions&#x5C;&#x2F;2023&#x5C;&#x2F;09&#x5C;&#x2F;64f54e2e90257699219043.jpg&quot;,&quot;collectableTitle&quot;&#x3A;&quot;Tsu&#x20;Lange&#x20;Yor&quot;,&quot;id&quot;&#x3A;54500,&quot;images&quot;&#x3A;&#x7B;&quot;thumbnail&quot;&#x3A;&quot;submissions&#x5C;&#x2F;2023&#x5C;&#x2F;09&#x5C;&#x2F;64f54e2e90257699219043.jpg&quot;&#x7D;,&quot;slug&quot;&#x3A;&quot;tsu-lange-yor&quot;,&quot;title&quot;&#x3A;&quot;Tsu&#x20;Lange&#x20;Yor&quot;,&quot;createdAt&quot;&#x3A;1694159278,&quot;tags&quot;&#x3A;&#x5B;&quot;E-Commerce&quot;,&quot;Clean&quot;,&quot;Minimal&quot;,&quot;Photography&quot;,&quot;Transitions&quot;,&quot;Menu&#x20;-&#x20;Vertical&quot;,&quot;Photo&#x20;&amp;&#x20;Video&quot;&#x5D;,&quot;type&quot;&#x3A;&quot;submission&quot;&#x7D;">
+                                    <a aria-label="Tsu Lange Yor" href="sites/tsu-lange-yor.html"
+                                        class="figure-rollover__link ">
+                                        <img class="figure-rollover__file lazy"
+                                            data-controller="lazyload-image"
+                                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                            data-src="https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2023/09/64f54e2e90257699219043.jpg"
+                                            alt="Tsu Lange Yor">
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__center">
+                                            <a href="sites/tsu-lange-yor.html"
+                                                class="button button--white--rounded">
+                                                <svg class="ico--left" width="14" viewBox="0 0 20 17">
+                                                    <path
+                                                        d="M17.8246 7.4299H0V9.29145H17.8246L12.2047 16L13.6589 16.8982L19.4269 10.0128C20.191 9.10064 20.191 7.61838 19.4269 6.70622L13.809 0L12.3548 0.89587L17.8246 7.4299Z">
+                                                    </path>
+                                                </svg>
+                                                Vote Now
+                                            </a>
+                                        </div>
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>WEBSITE</small></div>
+                                            <div class="figure-rollover__row">
+                                                <h3>Tsu Lange Yor</h3>
+                                            </div>
+                                        </div>
+                                        <div class="figure-rollover__right">
+                                            <div class="figure-rollover__bts">
+                                                <a href="https://tsu-lange-yor.au/" rel="noopener nofollow"
+                                                    target="_blank" class="figure-rollover__bt">
+                                                    <svg width="14" height="14" viewBox="0 0 14 14">
+                                                        <path
+                                                            d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </a>
+                                                <span class="figure-rollover__bt"
+                                                    data-action="click->collectable#collect">
+                                                    <svg width="15" height="18" viewBox="0 0 15 18">
+                                                        <path
+                                                            d="M11.7746 1.00195H3.21618C1.99236 1.00195 0.996094 2.07031 0.996094 3.38268V14.6912C0.996094 15.7744 1.44566 16.5511 2.26154 16.8755C2.47384 16.9603 2.70001 17.002 2.92896 17.002C3.14403 17.002 3.36188 16.9648 3.57278 16.8889C3.78369 16.813 4.24436 16.566 4.38034 16.4916L7.4954 14.2299H7.49678L8.48611 13.5112L7.81592 13.0246L7.49401 12.7925L3.84613 15.4456C3.60608 15.575 3.30776 15.7268 3.21896 15.7595C2.95949 15.8532 2.74996 15.7982 2.64867 15.758C2.39613 15.6568 2.10614 15.4441 2.10614 14.6882V3.37971C2.10614 2.72352 2.60427 2.18934 3.21618 2.18934H11.7746C12.3865 2.18934 12.8847 2.72352 12.8847 3.37971V14.6882C12.8847 15.4441 12.5947 15.6568 12.3421 15.758C12.2408 15.7982 12.0313 15.8532 11.7718 15.7595C11.683 15.7283 11.3847 15.575 11.1447 15.4456L9.92639 14.5587L8.93707 15.2774L10.5508 16.4514L10.6118 16.4901C10.7478 16.5645 11.2085 16.8115 11.4194 16.8874C11.8523 17.0436 12.3172 17.0377 12.7306 16.874C13.5465 16.5481 13.9961 15.7729 13.9961 14.6897V3.38119C13.9947 2.0703 12.9984 1.00195 11.7746 1.00195Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+
+                                    </div>
+                                </figure>
+
+
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="sites/tsu-lange-yor.html">Tsu Lange Yor</a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>by</small>
+
+                                            <div class="users-credits is-large">
+                                                <ul class="users-credits__details">
+                                                    <li>
+                                                        <div class="users-credits__item">
+                                                            <figure class="avatar-name ">
+                                                                <a class="avatar-name__link"
+                                                                    href="Bone.Digital/index.html"
+                                                                    aria-label="Bone Digital">
+                                                                    <img class="avatar-name__img"
+                                                                        src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/902169/6155911ec1dab888390872.png"
+                                                                        width="32" height="32"
+                                                                        alt="Bone Digital" />
+                                                                    <figcaption class="avatar-name__name">
+                                                                        <strong class="link-underlined ">Bone
+                                                                            Digital</strong>
+                                                                        <sup>PRO</sup>
+                                                                    </figcaption>
+                                                                </a>
+                                                            </figure>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+                            <div class="card-slide">
+
+
+                                <figure class="figure-rollover js-collectable is-large"
+                                    data-controller="collectable"
+                                    data-collectable-model-value="&#x7B;&quot;collectableIdentifier&quot;&#x3A;&quot;dom-perignon&quot;,&quot;collectableImage&quot;&#x3A;&quot;submissions&#x5C;&#x2F;2023&#x5C;&#x2F;09&#x5C;&#x2F;64f4e1f45bab2122861027.jpg&quot;,&quot;collectableTitle&quot;&#x3A;&quot;Dom&#x20;Perignon&quot;,&quot;id&quot;&#x3A;54499,&quot;images&quot;&#x3A;&#x7B;&quot;thumbnail&quot;&#x3A;&quot;submissions&#x5C;&#x2F;2023&#x5C;&#x2F;09&#x5C;&#x2F;64f4e1f45bab2122861027.jpg&quot;&#x7D;,&quot;slug&quot;&#x3A;&quot;dom-perignon&quot;,&quot;title&quot;&#x3A;&quot;Dom&#x20;Perignon&quot;,&quot;createdAt&quot;&#x3A;1694159287,&quot;tags&quot;&#x3A;&#x5B;&quot;Food&#x20;&amp;&#x20;Drink&quot;,&quot;Animation&quot;,&quot;Big&#x20;Background&#x20;Images&quot;,&quot;Clean&quot;,&quot;Flat&#x20;Design&quot;,&quot;Fullscreen&quot;,&quot;Video&quot;&#x5D;,&quot;type&quot;&#x3A;&quot;submission&quot;&#x7D;">
+                                    <a aria-label="Dom Perignon" href="sites/dom-perignon.html"
+                                        class="figure-rollover__link ">
+                                        <img class="figure-rollover__file lazy"
+                                            data-controller="lazyload-image"
+                                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                            data-src="https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2023/09/64f4e1f45bab2122861027.jpg"
+                                            alt="Dom Perignon">
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__center">
+                                            <a href="sites/dom-perignon.html"
+                                                class="button button--white--rounded">
+                                                <svg class="ico--left" width="14" viewBox="0 0 20 17">
+                                                    <path
+                                                        d="M17.8246 7.4299H0V9.29145H17.8246L12.2047 16L13.6589 16.8982L19.4269 10.0128C20.191 9.10064 20.191 7.61838 19.4269 6.70622L13.809 0L12.3548 0.89587L17.8246 7.4299Z">
+                                                    </path>
+                                                </svg>
+                                                Vote Now
+                                            </a>
+                                        </div>
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>WEBSITE</small></div>
+                                            <div class="figure-rollover__row">
+                                                <h3>Dom Perignon</h3>
+                                            </div>
+                                        </div>
+                                        <div class="figure-rollover__right">
+                                            <div class="figure-rollover__bts">
+                                                <a href="https://www.domperignon.com/" rel="noopener nofollow"
+                                                    target="_blank" class="figure-rollover__bt">
+                                                    <svg width="14" height="14" viewBox="0 0 14 14">
+                                                        <path
+                                                            d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </a>
+                                                <span class="figure-rollover__bt"
+                                                    data-action="click->collectable#collect">
+                                                    <svg width="15" height="18" viewBox="0 0 15 18">
+                                                        <path
+                                                            d="M11.7746 1.00195H3.21618C1.99236 1.00195 0.996094 2.07031 0.996094 3.38268V14.6912C0.996094 15.7744 1.44566 16.5511 2.26154 16.8755C2.47384 16.9603 2.70001 17.002 2.92896 17.002C3.14403 17.002 3.36188 16.9648 3.57278 16.8889C3.78369 16.813 4.24436 16.566 4.38034 16.4916L7.4954 14.2299H7.49678L8.48611 13.5112L7.81592 13.0246L7.49401 12.7925L3.84613 15.4456C3.60608 15.575 3.30776 15.7268 3.21896 15.7595C2.95949 15.8532 2.74996 15.7982 2.64867 15.758C2.39613 15.6568 2.10614 15.4441 2.10614 14.6882V3.37971C2.10614 2.72352 2.60427 2.18934 3.21618 2.18934H11.7746C12.3865 2.18934 12.8847 2.72352 12.8847 3.37971V14.6882C12.8847 15.4441 12.5947 15.6568 12.3421 15.758C12.2408 15.7982 12.0313 15.8532 11.7718 15.7595C11.683 15.7283 11.3847 15.575 11.1447 15.4456L9.92639 14.5587L8.93707 15.2774L10.5508 16.4514L10.6118 16.4901C10.7478 16.5645 11.2085 16.8115 11.4194 16.8874C11.8523 17.0436 12.3172 17.0377 12.7306 16.874C13.5465 16.5481 13.9961 15.7729 13.9961 14.6897V3.38119C13.9947 2.0703 12.9984 1.00195 11.7746 1.00195Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+
+                                    </div>
+                                </figure>
+
+
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="sites/dom-perignon.html">Dom Perignon</a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>by</small>
+
+                                            <div class="users-credits is-large">
+                                                <ul class="users-credits__details">
+                                                    <li>
+                                                        <div class="users-credits__item">
+                                                            <figure class="avatar-name ">
+                                                                <a class="avatar-name__link"
+                                                                    href="Numbered/index.html"
+                                                                    aria-label="Numbered">
+                                                                    <img class="avatar-name__img"
+                                                                        src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/805325/5e78a075320cf632068037.png"
+                                                                        width="32" height="32"
+                                                                        alt="Numbered" />
+                                                                    <figcaption class="avatar-name__name">
+                                                                        <strong
+                                                                            class="link-underlined ">Numbered</strong>
+                                                                        <sup>PRO</sup>
+                                                                    </figcaption>
+                                                                </a>
+                                                            </figure>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+                            <div class="card-slide">
+
+
+                                <figure class="figure-rollover js-collectable is-large"
+                                    data-controller="collectable"
+                                    data-collectable-model-value="&#x7B;&quot;collectableIdentifier&quot;&#x3A;&quot;tvinenko-a-t-ko-portfolio&quot;,&quot;collectableImage&quot;&#x3A;&quot;submissions&#x5C;&#x2F;2023&#x5C;&#x2F;09&#x5C;&#x2F;64f389727d0f4705660468.jpg&quot;,&quot;collectableTitle&quot;&#x3A;&quot;Tvinenko&#x20;A.&#x20;&#x5B;T-KO&#x5D;&#x20;Portfolio&quot;,&quot;id&quot;&#x3A;54490,&quot;images&quot;&#x3A;&#x7B;&quot;thumbnail&quot;&#x3A;&quot;submissions&#x5C;&#x2F;2023&#x5C;&#x2F;09&#x5C;&#x2F;64f389727d0f4705660468.jpg&quot;&#x7D;,&quot;slug&quot;&#x3A;&quot;tvinenko-a-t-ko-portfolio&quot;,&quot;title&quot;&#x3A;&quot;Tvinenko&#x20;A.&#x20;&#x5B;T-KO&#x5D;&#x20;Portfolio&quot;,&quot;createdAt&quot;&#x3A;1693985402,&quot;tags&quot;&#x3A;&#x5B;&quot;Design&#x20;Agencies&quot;,&quot;Fashion&quot;,&quot;Web&#x20;&amp;&#x20;Interactive&quot;,&quot;Portfolio&quot;,&quot;Scrolling&quot;,&quot;Unusual&#x20;Navigation&quot;,&quot;Interaction&#x20;Design&quot;,&quot;UI&#x20;design&quot;,&quot;Microinteractions&quot;&#x5D;,&quot;type&quot;&#x3A;&quot;submission&quot;&#x7D;">
+                                    <a aria-label="Tvinenko A. [T-KO] Portfolio"
+                                        href="sites/tvinenko-a-t-ko-portfolio.html"
+                                        class="figure-rollover__link ">
+                                        <img class="figure-rollover__file lazy"
+                                            data-controller="lazyload-image"
+                                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                            data-src="https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2023/09/64f389727d0f4705660468.jpg"
+                                            alt="Tvinenko A. [T-KO] Portfolio">
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__center">
+                                            <a href="sites/tvinenko-a-t-ko-portfolio.html"
+                                                class="button button--white--rounded">
+                                                <svg class="ico--left" width="14" viewBox="0 0 20 17">
+                                                    <path
+                                                        d="M17.8246 7.4299H0V9.29145H17.8246L12.2047 16L13.6589 16.8982L19.4269 10.0128C20.191 9.10064 20.191 7.61838 19.4269 6.70622L13.809 0L12.3548 0.89587L17.8246 7.4299Z">
+                                                    </path>
+                                                </svg>
+                                                Vote Now
+                                            </a>
+                                        </div>
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>WEBSITE</small></div>
+                                            <div class="figure-rollover__row">
+                                                <h3>Tvinenko A. [T-KO] Portfolio</h3>
+                                            </div>
+                                        </div>
+                                        <div class="figure-rollover__right">
+                                            <div class="figure-rollover__bts">
+                                                <a href="https://t-ko.pro/" rel="noopener nofollow"
+                                                    target="_blank" class="figure-rollover__bt">
+                                                    <svg width="14" height="14" viewBox="0 0 14 14">
+                                                        <path
+                                                            d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </a>
+                                                <span class="figure-rollover__bt"
+                                                    data-action="click->collectable#collect">
+                                                    <svg width="15" height="18" viewBox="0 0 15 18">
+                                                        <path
+                                                            d="M11.7746 1.00195H3.21618C1.99236 1.00195 0.996094 2.07031 0.996094 3.38268V14.6912C0.996094 15.7744 1.44566 16.5511 2.26154 16.8755C2.47384 16.9603 2.70001 17.002 2.92896 17.002C3.14403 17.002 3.36188 16.9648 3.57278 16.8889C3.78369 16.813 4.24436 16.566 4.38034 16.4916L7.4954 14.2299H7.49678L8.48611 13.5112L7.81592 13.0246L7.49401 12.7925L3.84613 15.4456C3.60608 15.575 3.30776 15.7268 3.21896 15.7595C2.95949 15.8532 2.74996 15.7982 2.64867 15.758C2.39613 15.6568 2.10614 15.4441 2.10614 14.6882V3.37971C2.10614 2.72352 2.60427 2.18934 3.21618 2.18934H11.7746C12.3865 2.18934 12.8847 2.72352 12.8847 3.37971V14.6882C12.8847 15.4441 12.5947 15.6568 12.3421 15.758C12.2408 15.7982 12.0313 15.8532 11.7718 15.7595C11.683 15.7283 11.3847 15.575 11.1447 15.4456L9.92639 14.5587L8.93707 15.2774L10.5508 16.4514L10.6118 16.4901C10.7478 16.5645 11.2085 16.8115 11.4194 16.8874C11.8523 17.0436 12.3172 17.0377 12.7306 16.874C13.5465 16.5481 13.9961 15.7729 13.9961 14.6897V3.38119C13.9947 2.0703 12.9984 1.00195 11.7746 1.00195Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+
+                                    </div>
+                                </figure>
+
+
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="sites/tvinenko-a-t-ko-portfolio.html">Tvinenko A. [T-KO]
+                                                Portfolio</a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>by</small>
+
+                                            <div class="users-credits is-large">
+                                                <ul class="users-credits__details">
+                                                    <li>
+                                                        <div class="users-credits__item">
+                                                            <figure class="avatar-name ">
+                                                                <a class="avatar-name__link"
+                                                                    href="tvinenko/index.html"
+                                                                    aria-label="Anton Tvinenko">
+                                                                    <img class="avatar-name__img"
+                                                                        src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2079938/64f389e77eff8175666012.jpg"
+                                                                        width="32" height="32"
+                                                                        alt="Anton Tvinenko" />
+                                                                    <figcaption class="avatar-name__name">
+                                                                        <strong class="link-underlined ">Anton
+                                                                            Tvinenko</strong>
+                                                                    </figcaption>
+                                                                </a>
+                                                            </figure>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="slider-sites__nav">
+                        <div class="button button--small--outline--circle js-slider-sites-prev">
+                            <svg width="8" height="12" viewBox="0 0 8 12">
+                                <path
+                                    d="M3.37879 6.64083L2.74979 6.01183L3.37879 5.37654L7.64341 1.11193L6.75652 0.218751L1.85661 5.11865L0.969726 6.00554L2.4919 7.52772L6.75652 11.7923L7.64341 10.9054L3.37879 6.64083Z" />
+                            </svg>
+                        </div>
+
+                        <div class="button button--small--outline--circle js-slider-sites-next">
+                            <svg width="8" height="13" viewBox="0 0 8 13">
+                                <path
+                                    d="M5.13292 5.61893L5.76192 6.24793L5.13292 6.88322L0.86831 11.1478L1.7552 12.041L6.6551 7.14111L7.54199 6.25422L6.01981 4.73204L1.7552 0.467429L0.86831 1.35432L5.13292 5.61893Z" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="c-view-all">
+                    <div class="c-view-all__row  text-medium">
+                        <span>Check out all submitted websites</span>
+                        <a href="websites/nominees/index.html" class="bt-ico-left">
+                            <svg class="ico-svg" viewbox="0 0 20 20" width="16">
+                                <use xlink:href="assets/redesign/images/sprite-icons.svg#arrow"></use>
+                            </svg>
+
+                            <strong class="link-underlined">View Nominees</strong>
                         </a>
                     </div>
                 </div>
-                <div class="right-menu">
-                    <div class="menu-bottom">
-                        <ul>
-                            <li class="pr">
-                                <div class="trust-rating-box">
-
-
-                                    <!-- TrustBox widget - Mini -->
-                                    <div style="padding-left:23px;">
-                                        <div class="trustpilot-widget" data-locale="en-US" data-template-id="53aa8807dec7e10d38f59f32" data-businessunit-id="5ce811ab161a7e0001aa2c46" data-style-height="125px" data-style-width="95%" data-theme="light" style="position: relative;"><iframe title="Customer reviews powered by Trustpilot" loading="auto" src="https://widget.trustpilot.com/trustboxes/53aa8807dec7e10d38f59f32/index.html?templateId=53aa8807dec7e10d38f59f32&amp;businessunitId=5ce811ab161a7e0001aa2c46#locale=en-US&amp;styleHeight=125px&amp;styleWidth=95%25&amp;theme=light" style="position: relative; height: 125px; width: 95%; border-style: none; display: block; overflow: hidden;"></iframe></div>
-                                    </div>
-                                    <!-- End TrustBox widget -->
-
-                                </div>
-                            </li>
-                            <!---->
-
-                            
-                                                                        <svg xmlns="http://www.w3.org/2000/svg" width="21" height="18.001" viewBox="0 0 21 18.001">
-                                        <path d="M1563.468,91.767a5.386,5.386,0,0,0-8.445.59.577.577,0,1,1-1.046,0,5.387,5.387,0,0,0-8.445-.59,6.068,6.068,0,0,0-1.532,4.1,7.447,7.447,0,0,0,2.147,4.962,47.209,47.209,0,0,0,5.373,4.871c.813.672,1.653,1.366,2.548,2.127l.027.022a.628.628,0,0,0,.81,0l.027-.022c.895-.76,1.735-1.455,2.548-2.127a47.19,47.19,0,0,0,5.373-4.87A7.447,7.447,0,0,0,1565,95.87,6.067,6.067,0,0,0,1563.468,91.767Zm-6.786,13.027c-.7.579-1.422,1.175-2.182,1.816-.76-.642-1.481-1.238-2.182-1.816-4.268-3.529-7.088-5.86-7.088-8.925a4.9,4.9,0,0,1,1.225-3.313,4.135,4.135,0,0,1,6.518.491,6.984,6.984,0,0,1,.942,1.817.621.621,0,0,0,1.17,0,6.982,6.982,0,0,1,.942-1.817,4.134,4.134,0,0,1,6.518-.491,4.9,4.9,0,0,1,1.225,3.313C1563.769,98.934,1560.95,101.266,1556.682,104.794Z" transform="translate(-1544 -89.999)" fill="#fff"></path>
-                                    </svg> <span class="wishlist-title"> Wishlist
-                                        <!----></span>
-                            <li><a href="/shopping/cart" class="pr anchor-box">
-                                                                        <!----> <svg xmlns="http://www.w3.org/2000/svg" width="17.999" height="17" viewBox="0 0 17.999 17">
-                                        <path d="M1648.007,105.683a2.245,2.245,0,1,1,2.245,2.316A2.284,2.284,0,0,1,1648.007,105.683Zm1.346,0a.9.9,0,1,0,.9-.927A.913.913,0,0,0,1649.354,105.683Zm-9.493,0A2.245,2.245,0,1,1,1642.1,108,2.284,2.284,0,0,1,1639.86,105.683Zm1.346,0a.9.9,0,1,0,.9-.927A.913.913,0,0,0,1641.207,105.683Zm0-3.313a.679.679,0,0,1-.655-.533l-2.188-9.449h-1.69a.7.7,0,0,1,0-1.39h2.222a.677.677,0,0,1,.654.534l.606,2.616h13.171a.666.666,0,0,1,.53.266.711.711,0,0,1,.123.6l-1.638,6.832a.677.677,0,0,1-.653.527Zm.531-1.39h9.424l1.3-5.442h-11.988Z" transform="translate(-1636 -90.999)" fill="#fff"></path>
-                                    </svg> <span>My Cart</span></a></li>
-                        </ul>
-                    </div>
-                    <div id="search-toggle-btn" class="search-toggle-btn"></div>
-                    <button class="menu-toggle-btn" id="menu-toggle-btn" type="button">
-                        <span class="bar"></span>
-                    </button>
-                </div>
-
-                                                                                <!---->
-                <!---->
-            </div>
-        </header>
-        <!-- /Header -->
-        <!-- Nav -->
-        <nav class="main-nav">
-            <div class="open-bg"></div>
-            <div class="container">
-                <div class="scroll-hider">
-                    <ul class="menu-list">
-                        <li class="mega-title">
-                            <a href="javascript:void(0)" class="main-link">
-                                Shop By Category
-                                <div type="butotn" class="menu-open-bt">
-                                    <span class="minus">-</span>
-                                    <span class="plus">+</span>
-                                </div>
-                            </a>
-                            <div class="mega-container">
-                                <div class="contents">
-                                                                        <div class="category-box">
-
-                                        <div class="category-click">
-                                            <a href="https://qc.luthersales.iocod.com/listing/apple-products" class="category-link">
-                                                <img src="https://lutehr-test.s3.amazonaws.com/categories/1590744947_InJuid8WZ3WrORpeVOiucTWDGU9holMfd08SVR3k.jpg" alt="Apple Products - Credit Financing - Buy Now Pay Later" title="Buy now pay later Apple Products">
-                                                Apple Products
-                                            </a>
-                                        </div> <span class="view-all-text"><a href="https://qc.luthersales.iocod.com/listing/apple-products">View all</a></span>
-
-
-                                        <div class="cat-list-wrapper">
-                                            <ul class="cat-list">
-                                                
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/apple-products/macbooks">
-                                                        MacBooks
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/apple-products/ipads">
-                                                        iPads
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/apple-products/airpods-beats">
-                                                        AirPods &amp; Beats
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/apple-products/ipods">
-                                                        iPods
-                                                        
-                                                    </a>
-                                                </li>
-                                                                                            </ul>
-                                        </div>
-
-
-                                    </div>
-                                                                        <div class="category-box">
-
-                                        <div class="category-click">
-                                            <a href="https://qc.luthersales.iocod.com/listing/appliances" class="category-link">
-                                                <img src="https://lutehr-test.s3.amazonaws.com/categories/1590744600_Lks2211zM404rOsRsLYCHceeAES0MDEcddUeIflS.jpg" alt="Appliances - Credit Financing - Buy Now Pay Later" title="Buy now pay later Appliances">
-                                                Appliances
-                                            </a>
-                                        </div> <span class="view-all-text"><a href="https://qc.luthersales.iocod.com/listing/appliances">View all</a></span>
-
-
-                                        <div class="cat-list-wrapper">
-                                            <ul class="cat-list">
-                                                
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/appliances/refrigerators">
-                                                        Refrigerators
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/appliances/cooking-ranges">
-                                                        Cooking Ranges
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/appliances/dishwashers">
-                                                        Dishwashers
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/appliances/washers">
-                                                        Washers
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/appliances/dryers">
-                                                        Dryers
-                                                        
-                                                    </a>
-                                                </li>
-                                                                                            </ul>
-                                        </div>
-
-
-                                    </div>
-                                                                        <div class="category-box">
-
-                                        <div class="category-click">
-                                            <a href="https://qc.luthersales.iocod.com/listing/exercise-equipment" class="category-link">
-                                                <img src="https://lutehr-test.s3.amazonaws.com/categories/1590745257_FKlWbJj0eKcXZNDFUwZB2agCXji9Tc7HrQUsAhNZ.jpg" alt="Exercise Equipment - Credit Financing - Buy Now Pay Later" title="Buy now pay later Exercise Equipment">
-                                                Exercise Equipment
-                                            </a>
-                                        </div> <span class="view-all-text"><a href="https://qc.luthersales.iocod.com/listing/exercise-equipment">View all</a></span>
-
-
-                                        <div class="cat-list-wrapper">
-                                            <ul class="cat-list">
-                                                
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/exercise-equipment/rebounders">
-                                                        Rebounders
-                                                        
-                                                    </a>
-                                                </li>
-                                                                                            </ul>
-                                        </div>
-
-
-                                    </div>
-                                                                        <div class="category-box">
-
-                                        <div class="category-click">
-                                            <a href="https://qc.luthersales.iocod.com/listing/housewares" class="category-link">
-                                                <img src="https://lutehr-test.s3.amazonaws.com/categories/1590744767_j1U6MgxjHeTp0S5RkRP2m6gWtPyaV5E6nAag6F5w.jpg" alt="Housewares - Credit Financing - Buy Now Pay Later" title="Buy now pay later Housewares">
-                                                Housewares
-                                            </a>
-                                        </div> <span class="view-all-text"><a href="https://qc.luthersales.iocod.com/listing/housewares">View all</a></span>
-
-
-                                        <div class="cat-list-wrapper">
-                                            <ul class="cat-list">
-                                                
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/housewares/garment-care">
-                                                        Garment Care
-                                                        
-                                                    </a>
-                                                </li>
-                                                                                            </ul>
-                                        </div>
-
-
-                                    </div>
-                                                                        <div class="category-box">
-
-                                        <div class="category-click">
-                                            <a href="https://qc.luthersales.iocod.com/listing/jewelry" class="category-link">
-                                                <img src="https://lutehr-test.s3.amazonaws.com/categories/1590744377_w2DQcIfNhyszveGz9Vf36lCCSkzx9P4Tf6a6OhSB.jpg" alt="Jewelry - Credit Financing - Buy Now Pay Later" title="Buy now pay later Jewelry">
-                                                Jewelry
-                                            </a>
-                                        </div> <span class="view-all-text"><a href="https://qc.luthersales.iocod.com/listing/jewelry">View all</a></span>
-
-
-                                        <div class="cat-list-wrapper">
-                                            <ul class="cat-list">
-                                                
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/jewelry/earrings">
-                                                        Earrings
-                                                        
-                                                    </a>
-                                                </li>
-                                                                                            </ul>
-                                        </div>
-
-
-                                    </div>
-                                                                        <div class="category-box">
-
-                                        <div class="category-click">
-                                            <a href="https://qc.luthersales.iocod.com/listing/tv" class="category-link">
-                                                <img src="https://lutehr-test.s3.amazonaws.com/categories/1590744334_e2DudkGJHKez7EH0VxGsjf9MQBglGkxpOicUjCl8.jpg" alt="TVs - Credit Financing - Buy Now Pay Later" title="Buy now pay later TV">
-                                                TV
-                                            </a>
-                                        </div> <span class="view-all-text"><a href="https://qc.luthersales.iocod.com/listing/tv">View all</a></span>
-
-
-                                        <div class="cat-list-wrapper">
-                                            <ul class="cat-list">
-                                                
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/tv/4k-uhd-55-under">
-                                                        4K UHD (55" &amp; Under)
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/tv/led-55-under">
-                                                        LED (55" &amp; Under)
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/tv/smart-55-under">
-                                                        Smart (55" &amp; Under)
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/tv/4k-uhd-56-above">
-                                                        4K UHD (56" &amp; Above)
-                                                        
-                                                    </a>
-                                                </li>
-                                                
-                                                <li class="cat-item">
-                                                    <a href="https://qc.luthersales.iocod.com/listing/tv/8k-uhd-56-above">
-                                                        8K UHD (56" &amp; Above)
-                                                        
-                                                    </a>
-                                                </li>
-                                                                                            </ul>
-                                        </div>
-
-
-                                    </div>
-                                                                    </div>
-                            </div>
-                        </li>
-                        <li class="divider">
-                            <a href="javascript:void(0)" class="main-link">|</a>
-                        </li>
-                        <li class="mega-title">
-                            <a href="javascript:void(0)" class="main-link">
-                                Shop By Brands
-                                <div ype="butotn" class="menu-open-bt">
-                                    <span class="minus">-</span>
-                                    <span class="plus">+</span>
-                                </div>
-                            </a>
-                            <div class="mega-container">
-                                <div class="contents">
-
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/apple">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1623667799_5nyupPQIotPPye22xhMtjTcZzUe7k5DmMHHyFiM1.jpeg" alt="Apple - Credit Financing - Buy Now Pay Later" title="Buy now pay later Apple" class="img-brand">
-                                            
-                                                Apple
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/sony">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601842880_XFCdstO1DASaGwTqjoPOhJRCICsov7BoGs6otyTQ.jpg" alt="Sony - Credit Financing - Buy Now Pay Later" title="Buy now pay later Sony" class="img-brand">
-                                            
-                                                Sony
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/ashley-furniture">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601848124_lI0G4RNYjhOFvUKDpLfLjuxOixNoNMxjpLbAVlCE.jpg" alt="Ashley Furniture - Credit Financing - Buy Now Pay Later" title="Buy now pay later Ashley Furniture" class="img-brand">
-                                            
-                                                Ashley Furniture
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/geek-squad">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1602235255_Kcq3ZA0jBntQ8HIcFIS3YKZO3Oqc9sdljIcMEg69.jpg" alt="Geek Squad® - Credit Financing - Buy Now Pay Later" title="Buy now pay later Geek Squad®" class="img-brand">
-                                            
-                                                Geek Squad®
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/whirlpool">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601866120_A0hbortoug9vTZ5fbBtigfvfzTCSiK8jY02BrHfB.jpg" alt="Whirlpool - Credit Financing - Buy Now Pay Later" title="Buy now pay later Whirlpool" class="img-brand">
-                                            
-                                                Whirlpool
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/kitchenaid">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601862986_IwMY1AJ6b4ZMDZlzkbg7klW1Rhlj4GbRg2Zw6hvH.jpg" alt="KitchenAid - Credit Financing - Buy Now Pay Later" title="Buy now pay later KitchenAid" class="img-brand">
-                                            
-                                                KitchenAid
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/bosch">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1602234732_GjLT05FVFjsNbxqQpbyAjpQzaFiW90qjzvltGO6Y.jpg" alt="Bosch - Credit Financing - Buy Now Pay Later" title="Buy now pay later Bosch" class="img-brand">
-                                            
-                                                Bosch
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/google">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1600808017_h9xO8rWwK76pNSQzQ6FqdsExionZ5vsvdXljiqmp.jpg" alt="Google - Credit Financing - Buy Now Pay Later" title="Buy now pay later Google" class="img-brand">
-                                            
-                                                Google
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/samsung">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1600815499_PvjusWzyPnl4ToISh7VCBdfjy1u8gzOjLMTyLaYj.jpg" alt="Samsung - Credit Financing - Buy Now Pay Later" title="Buy now pay later Samsung" class="img-brand">
-                                            
-                                                Samsung
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/lg">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1623327163_kaO0ijibALp0Btgdf0MzvdZhtipsg5jjleQ8rnvq.jpg" alt="LG - Credit Financing - Buy Now Pay Later" title="Buy now pay later LG" class="img-brand">
-                                            
-                                                LG
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/elite-screens">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601956577_TFVfl66gRVPJj80sVRk6RVgN7B4ME9MArf1kx0RQ.PNG" alt="Elite Screens - Credit Financing - Buy Now Pay Later" title="Buy now pay later Elite Screens" class="img-brand">
-                                            
-                                                Elite Screens
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/american-woodcrafters">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1621516699_6mCz5FOC7l3LclootzczZbFsj830z5SVlD2pjg96.jpg" alt="American Woodcrafters - Credit Financing - Buy Now Pay Later" title="Buy now pay later American Woodcrafters" class="img-brand">
-                                            
-                                                American Woodcrafters
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/acme-furniture">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601856070_57xsYQvrb5t7Jc9tu5VLU7kfp5DPW134tNCL0rio.jpg" alt="Acme Furniture - Credit Financing - Buy Now Pay Later" title="Buy now pay later Acme Furniture" class="img-brand">
-                                            
-                                                Acme Furniture
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/ashley-sleep">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1600830011_CnlWXzWBJYLlRvKJyRsauYX3WXz20AGcJdDApIC4.jpg" alt="Ashley Sleep - Credit Financing - Buy Now Pay Later" title="Buy now pay later Ashley Sleep" class="img-brand">
-                                            
-                                                Ashley Sleep
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/benchcraft-furniture">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1600817969_gdwGJdsHi06LILagpbkKMsZy98t6H2J9bg11oBJF.jpg" alt="Benchcraft Furniture - Credit Financing - Buy Now Pay Later" title="Buy now pay later Benchcraft Furniture" class="img-brand">
-                                            
-                                                Benchcraft Furniture
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/bridgeton-moore">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1621516678_30oWDZliWSaGG13W7laGvzdLDCjx6O0zqUshP5w0.jpg" alt="Bridgeton Moore - Credit Financing - Buy Now Pay Later" title="Buy now pay later Bridgeton Moore" class="img-brand">
-                                            
-                                                Bridgeton Moore
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/brunswick">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1600830364_FQaiaCQounfP88S11T2e0qRVIndUGHzx5xdUQvQ5.jpg" alt="Brunswick - Credit Financing - Buy Now Pay Later" title="Buy now pay later Brunswick" class="img-brand">
-                                            
-                                                Brunswick
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/classic-flame">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1621516726_CyLWhnbIMkT1cuA26Z6j5qXU7zTRw52x7ZCCSQlN.jpg" alt="Classic Flame - Credit Financing - Buy Now Pay Later" title="Buy now pay later Classic Flame" class="img-brand">
-                                            
-                                                Classic Flame
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/coaster-furniture">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601848866_QKJcfAdxxbtWpbVrOdaKItmjMKjLcMoEUiXaSrgr.jpg" alt="Coaster Furniture - Credit Financing - Buy Now Pay Later" title="Buy now pay later Coaster Furniture" class="img-brand">
-                                            
-                                                Coaster Furniture
-                                            
-                                        </a>
-
-                                    </div>
-                                    
-                                    <div class="category-box">
-                                        <a href="https://qc.luthersales.iocod.com/listing/brands/furniture-of-america">
-                                            <img src="https://lutehr-test.s3.amazonaws.com/brands/1601852675_AWzaTJVYvYaqTfPTRXg5JSL9vnq4deipg4SZQCzB.jpg" alt="Furniture of America - Credit Financing - Buy Now Pay Later" title="Buy now pay later Furniture of America" class="img-brand">
-                                            
-                                                Furniture of America
-                                            
-                                        </a>
-
-                                    </div>
-                                                                    </div>
-                            </div>
-                        </li>
-                        <li class="divider">
-                            <a href="javascript:void(0)" class="main-link">|</a>
-                        </li>
-                        <li class="pr">
-                            <a href="/explore/garage-sale" class="main-link">Garage Sale</a>
-                        </li>
-
-                                                <li class="right">
-                            <a href="https://qc.luthersales.iocod.com/login" class="main-link">Login</a>
-                        </li>
-                        <li class="divider">
-                            <a href="javascript:void(0)" class="main-link">|</a>
-                        </li>
-                        <li>
-                            <a href="/register" class="main-link">Register</a>
-                        </li>
-                        
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!-- /Nav -->
-    </div>
-    <!-- /.Header -->    <!-- Home Content Section -->
-<section class="home-content wrapper-col pt-0 listing">
-
-    <!-- Banner Section -->
-    <div class="container">
-        <!-- Breadcrumb -->
-        <div class="wrapper">
-            <span class="brd-item">
-                <a href="/" class="brd-link router-link-active">
-                    Home
-                </a> 
-                
-                 
-                <span class="brd-arrow">&gt;</span></span>
-                <span class="brd-item"><a href="/listing/apple-products" aria-current="page" class="brd-link router-link-exact-active router-link-active">
-                    Buy Now Pay Later  Apple Products  Products Financing
-                </a>
-                                 
-                <span class="brd-arrow">&gt;</span></span>
-            <span class="brd-item">
-                <a href="/listing/apple-products" aria-current="page" class="brd-link router-link-exact-active router-link-active">
-                     Apple Products                 </a>
-                <!---->
-            
-            
-            
-        </span></div>
-        <!-- /.Breadcrumb -->
-
-       
-                        <!-- Listing Banner -->
-        <div class="bg-white landing-header">
-            <h1 class="title">Apple Products - Credit Financing - Buy Now Pay Later </h1>
-            <div class="content-box">
-                <p class="info">Apple Products Financing on credit has never been easier! Use our industry leading Buy Now, Pay Later Apple Products Financing Program for your next purchase.  We offer the highest quality name brands you know and love with our flexible credit for Apple Products Financing. Check out our wide buy now, pay later product selection including Apple Products Financing Plans for those with less than perfect credit. Always Free Shipping, Budget-Friendly Payments and Unmatched Customer Service. We Can Help…123 </p>
-                <button type="button" class="btn danger loader"><a href="/login">3 Minute Apply</a></button>
-            </div>
-            
-        </div>
-        <!-- /.Listing Banner -->
-        
-        <!-- Listing Main Wrapper -->
-        <div class="row landing-row">
-            <div class="top-bar-mob">
-                <button type="button" class="top-bar-bt bdr" id="md-listing-filter-button">
-                    <i class="fas fa-filter fa-w-16"></i>
-                    Filter
-                </button>
-                <button type="button" class="top-bar-bt" id="md-listing-sort-button">
-                    <i class="fas fa-sort fa-w-10"></i>
-                    Sort
-                </button>
-            </div>
-            <div class="open-bg"></div>
-            <div id="filters">
-                                <!-- Sidebar -->
-<div class="col">
-    <div class="filter-container">
-
-        <div class="menu-wrapper">
-            <div class="title-box">
-                <h2 class="title">
-                    Filters
-                </h2>
-            </div>
-            <ul class="filter-menu-list">
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="Subcategories">
-                            Subcategories
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="369" data-key="Subcategories"> <span class="checkmark"></span> <span class="title">
-                            AirPods &amp; Beats (2)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="368" data-key="Subcategories"> <span class="checkmark"></span> <span class="title">
-                            iPads (21)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="371" data-key="Subcategories"> <span class="checkmark"></span> <span class="title">
-                            iPods (5)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="367" data-key="Subcategories"> <span class="checkmark"></span> <span class="title">
-                            MacBooks (3)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="brands">
-                            brands
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="1" data-key="brands"> <span class="checkmark"></span> <span class="title">
-                            Apple (29)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="424" data-key="brands"> <span class="checkmark"></span> <span class="title">
-                            Native Union (2)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="MacBook Model">
-                            MacBook Model
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2437" data-key="MacBook Model"> <span class="checkmark"></span> <span class="title">
-                            MacBook Air (2)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2438" data-key="MacBook Model"> <span class="checkmark"></span> <span class="title">
-                            MacBook Pro (1)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="MacBook Screen (Diagonal)">
-                            MacBook Screen (Diagonal)
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2463" data-key="MacBook Screen (Diagonal)"> <span class="checkmark"></span> <span class="title">
-                            13.3" (3)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="iPad Model">
-                            iPad Model
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2475" data-key="iPad Model"> <span class="checkmark"></span> <span class="title">
-                            iPad (9)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2476" data-key="iPad Model"> <span class="checkmark"></span> <span class="title">
-                            iPad Air (4)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2474" data-key="iPad Model"> <span class="checkmark"></span> <span class="title">
-                            iPad mini (7)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2477" data-key="iPad Model"> <span class="checkmark"></span> <span class="title">
-                            iPad Pro (7)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="iPad Screen (Diagonal)">
-                            iPad Screen (Diagonal)
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2480" data-key="iPad Screen (Diagonal)"> <span class="checkmark"></span> <span class="title">
-                            10.2" (7)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2482" data-key="iPad Screen (Diagonal)"> <span class="checkmark"></span> <span class="title">
-                            10.9" (2)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2483" data-key="iPad Screen (Diagonal)"> <span class="checkmark"></span> <span class="title">
-                            11" (2)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5947" data-key="iPad Screen (Diagonal)"> <span class="checkmark"></span> <span class="title">
-                            12.9" (3)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="2479" data-key="iPad Screen (Diagonal)"> <span class="checkmark"></span> <span class="title">
-                            7.9" (5)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="Data Connectivity">
-                            Data Connectivity
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5269" data-key="Data Connectivity"> <span class="checkmark"></span> <span class="title">
-                            WiFi (16)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5270" data-key="Data Connectivity"> <span class="checkmark"></span> <span class="title">
-                            WiFi + Cellular (3)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="AirPods Model">
-                            AirPods Model
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5271" data-key="AirPods Model"> <span class="checkmark"></span> <span class="title">
-                            AirPods (2)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5272" data-key="AirPods Model"> <span class="checkmark"></span> <span class="title">
-                            AirPods 2 (2)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="Storage Capacity (GB)">
-                            Storage Capacity (GB)
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5507" data-key="Storage Capacity (GB)"> <span class="checkmark"></span> <span class="title">
-                            128 (7)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5508" data-key="Storage Capacity (GB)"> <span class="checkmark"></span> <span class="title">
-                            256 (7)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5505" data-key="Storage Capacity (GB)"> <span class="checkmark"></span> <span class="title">
-                            32 (7)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5509" data-key="Storage Capacity (GB)"> <span class="checkmark"></span> <span class="title">
-                            512 (2)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5506" data-key="Storage Capacity (GB)"> <span class="checkmark"></span> <span class="title">
-                            64 (4)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                                <li class="root">
-                    <div class="title">
-                        <span class="name key_name" data-key="Processor">
-                            Processor
-                        </span> 
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-up fa-w-10 rotate">
-                            <path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z" class=""></path>
-                        </svg>
-                    </div>
-                    <ul class="submenu menutoggle" id="submenu">
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5935" data-key="Processor"> <span class="checkmark"></span> <span class="title">
-                            Quad Core 10th Gen Intel Core i3 (1)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5844" data-key="Processor"> <span class="checkmark"></span> <span class="title">
-                            Quad Core 10th Gen Intel Core i5 (1)
-                            </span></label>
-                        </li>
-                                                    
-                        <li><label><input type="checkbox" class="check checkfilter" name="filters[]" value="5843" data-key="Processor"> <span class="checkmark"></span> <span class="title">
-                            Quad Core 8th Gen Intel Core i5 (1)
-                            </span></label>
-                        </li>
-                        
-                    </ul>
-                </li>
-                
-                <li><a href="#" aria-current="page" class="btn danger clear-filter-button router-link-exact-active router-link-active">Clear Filters</a></li>
-            </ul>
-        </div>
-    </div>
-</div>
-<!-- Sidebar -->                            </div>
-
-            <!-- Product Listing Col -->
-            <div class="main-area col products">
-
-
-                <!-- Landing Slider Section -->
-                <div class="landing-slider section-wrapper">
-
-                    <div class="top">
-                        
-                        <h2 class="title"> Most Popular Items in Buy Now Pay Later Apple Products Credit Financing </h2>
-
-                    </div>
-
-
-                    <!-- Glide Slider -->
-                    <div class="glide multi1 glide--ltr glide--carousel glide--swipeable">
-                        <div class="glide__track" data-glide-el="track">
-                            <ul class="glide__slides" style="transition: transform 400ms cubic-bezier(0.165, 0.84, 0.44, 1) 0s; width: 1856.25px; transform: translate3d(-990px, 0px, 0px);">
-                                
-                                <li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-128gb-silver" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MY2J2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                12.9" iPad Pro Wifi 128GB Silver
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">48.94</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="129-ipad-pro-wifi-128gb-silver" data-slug="129-ipad-pro-wifi-128gb-silver" data-image="https://www.psabrowse.com/catalog/images/MY2J2LLA.jpg" value="12.9&quot; iPad Pro Wifi 128GB Silver"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li><li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-128gb-blue" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVJ32LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 128GB Blue
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">20.36</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-128gb-blue" data-slug="ipod-touch-128gb-blue" data-image="https://www.psabrowse.com/catalog/images/MVJ32LLA.jpg" value="iPod Touch 128GB Blue"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li><li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-blue" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVHU2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 32GB Blue
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">13.66</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-32gb-blue" data-slug="ipod-touch-32gb-blue" data-image="https://www.psabrowse.com/catalog/images/MVHU2LLA.jpg" value="iPod Touch 32GB Blue"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li><li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-gold" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVHT2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 32GB Gold
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">13.66</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-32gb-gold" data-slug="ipod-touch-32gb-gold" data-image="https://www.psabrowse.com/catalog/images/MVHT2LLA.jpg" value="iPod Touch 32GB Gold"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li><li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-pink" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVHR2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 32GB Pink
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">13.05</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-32gb-pink" data-slug="ipod-touch-32gb-pink" data-image="https://www.psabrowse.com/catalog/images/MVHR2LLA.jpg" value="iPod Touch 32GB Pink"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li><li class="glide__slide" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-128gb-silver" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MY2J2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                12.9" iPad Pro Wifi 128GB Silver
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">48.94</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="129-ipad-pro-wifi-128gb-silver" data-slug="129-ipad-pro-wifi-128gb-silver" data-image="https://www.psabrowse.com/catalog/images/MY2J2LLA.jpg" value="12.9&quot; iPad Pro Wifi 128GB Silver"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li>
-                                
-                                <li class="glide__slide" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-128gb-blue" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVJ32LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 128GB Blue
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">20.36</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-128gb-blue" data-slug="ipod-touch-128gb-blue" data-image="https://www.psabrowse.com/catalog/images/MVJ32LLA.jpg" value="iPod Touch 128GB Blue"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li>
-                                
-                                <li class="glide__slide" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-blue" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVHU2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 32GB Blue
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">13.66</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-32gb-blue" data-slug="ipod-touch-32gb-blue" data-image="https://www.psabrowse.com/catalog/images/MVHU2LLA.jpg" value="iPod Touch 32GB Blue"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li>
-                                
-                                <li class="glide__slide glide__slide--active" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-gold" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVHT2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 32GB Gold
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">13.66</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-32gb-gold" data-slug="ipod-touch-32gb-gold" data-image="https://www.psabrowse.com/catalog/images/MVHT2LLA.jpg" value="iPod Touch 32GB Gold"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li>
-                                
-                                <li class="glide__slide" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-pink" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVHR2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 32GB Pink
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">13.05</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-32gb-pink" data-slug="ipod-touch-32gb-pink" data-image="https://www.psabrowse.com/catalog/images/MVHR2LLA.jpg" value="iPod Touch 32GB Pink"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li>
-                                
-
-                            <li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-128gb-silver" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MY2J2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                12.9" iPad Pro Wifi 128GB Silver
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">48.94</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="129-ipad-pro-wifi-128gb-silver" data-slug="129-ipad-pro-wifi-128gb-silver" data-image="https://www.psabrowse.com/catalog/images/MY2J2LLA.jpg" value="12.9&quot; iPad Pro Wifi 128GB Silver"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li><li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-128gb-blue" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVJ32LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 128GB Blue
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">20.36</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-128gb-blue" data-slug="ipod-touch-128gb-blue" data-image="https://www.psabrowse.com/catalog/images/MVJ32LLA.jpg" value="iPod Touch 128GB Blue"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li><li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-blue" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVHU2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 32GB Blue
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">13.66</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-32gb-blue" data-slug="ipod-touch-32gb-blue" data-image="https://www.psabrowse.com/catalog/images/MVHU2LLA.jpg" value="iPod Touch 32GB Blue"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li><li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-left: 5px; margin-right: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-gold" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVHT2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 32GB Gold
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">13.66</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-32gb-gold" data-slug="ipod-touch-32gb-gold" data-image="https://www.psabrowse.com/catalog/images/MVHT2LLA.jpg" value="iPod Touch 32GB Gold"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li><li class="glide__slide glide__slide--clone" style="width: 113.75px; margin-left: 5px;">
-                                    <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-pink" target="_blank">
-
-                                    <div class="product-box slide">
-                                        <div class="top">
-                                            <img src="https://www.psabrowse.com/catalog/images/MVHR2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later">
-                                            <div class="action-bar">
-                                                <div class="rating-box hidden">
-                                                    <span class="rating">0.00</span>
-                                                    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                                        <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                                                    </svg>
-                                                </div>
-                                                <div class="heart-box ml-auto ">
-                                                    <!-- liked <- calss to add when it is liked -->
-                                                    <input type="hidden" id="wishlistupdate" value=" 0 ">
-                                                    <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                                                    <i class="icon out far fa-heart"></i>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="bottom">
-                                            <h3 class="title">
-                                                iPod Touch 32GB Pink
-                                            </h3>
-                                            <p class="lowest-price">
-                                                Price as Low as
-                                                <span class="price">13.05</span>
-                                                /Bi-Weekly
-                                            </p>
-                                            
-                                                <label>
-                                                    <div class="checkbox-component"> <span class="check"></span></div>
-                                                    <input type="checkbox" class="compare_check" id="ipod-touch-32gb-pink" data-slug="ipod-touch-32gb-pink" data-image="https://www.psabrowse.com/catalog/images/MVHR2LLA.jpg" value="iPod Touch 32GB Pink"><span class="title">Compare</span>
-                                                </label>
-                                            
-                                        </div>
-                                    </div>
-                                    </a>
-                                </li></ul>
-
-                            <div data-glide-el="controls" class="glide-control">
-                                <button class="prev" data-glide-dir="<">
-                                    <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="792.082px" height="792.082px" viewBox="0 0 792.082 792.082" style="enable-background:new 0 0 792.082 792.082;" xml:space="preserve">
-                                        <g>
-                                            <g id="_x37__34_">
-                                                <g>
-                                                    <path d="M317.896,396.024l304.749-276.467c27.36-27.36,27.36-71.677,0-99.037s-71.677-27.36-99.036,0L169.11,342.161
-                                            c-14.783,14.783-21.302,34.538-20.084,53.897c-1.218,19.359,5.301,39.114,20.084,53.897l354.531,321.606
-                                            c27.36,27.36,71.677,27.36,99.037,0s27.36-71.677,0-99.036L317.896,396.024z"></path>
-                                                </g>
-                                            </g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                    </svg>
-                                </button>
-                                <button class="next" data-glide-dir=">">
-                                    <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="792.082px" height="792.082px" viewBox="0 0 792.082 792.082" style="enable-background:new 0 0 792.082 792.082;" xml:space="preserve">
-                                        <g>
-                                            <g id="_x37__34_">
-                                                <g>
-                                                    <path d="M317.896,396.024l304.749-276.467c27.36-27.36,27.36-71.677,0-99.037s-71.677-27.36-99.036,0L169.11,342.161
-                                            c-14.783,14.783-21.302,34.538-20.084,53.897c-1.218,19.359,5.301,39.114,20.084,53.897l354.531,321.606
-                                            c27.36,27.36,71.677,27.36,99.037,0s27.36-71.677,0-99.036L317.896,396.024z"></path>
-                                                </g>
-                                            </g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                        <g>
-                                        </g>
-                                    </svg>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Glide Slider -->
-
-
-
-
-
-                </div>
-                <!-- Landing Slider Section -->
-
-                <div class="productboxes" id="productbox">
-
-                    <!-- Product Listing Section -->
-    <div class="section-wrapper">
-        <div class="section-head">
-            <div class="title-row">
-                <div class="section-title-box">
-                    <h2 class="title">Products</h2>
-                    <span class="info">(1 - 20 out of 31)</span>
-                    
-                </div>
-                <div id="select-box" class="limitOptions">
-                    <div class="selected">
-                        <span class="info">Show Upto</span> <span class="divider">|</span> <span class="sort-by selected-per-page">20</span> 
-                        <span class="icon">
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-down fa-w-10">
-                                <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z" class=""></path>
-                            </svg>
-                        </span>
-                    </div>
-                    <div class="options-box closed">
-                      
-                        <button class="option option-per-page" data-per-page="20">20</button>
-                        <button class="option option-per-page" data-per-page="50">50</button>
-                        <button class="option option-per-page" data-per-page="100">100</button>
-                        <button class="option option-per-page" &nbsp;="" data-per-page="200">200</button>
-                    </div>
-                </div>
-            </div>
-            <div id="select-box" class="filterOption">
-                <div class="selected">
-                    <span class="info">Sort By</span> <span class="divider">|</span> <span class="sort-by selected-sort-by">Popularity</span> 
-                    <span class="icon">
-                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="svg-inline--fa fa-angle-down fa-w-10">
-                            <path fill="currentColor" d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z" class=""></path>
-                        </svg>
-                    </span>
-                </div>
-                <div class="options-box closed">
-                    <button class="option option-sort-by" data-sort="Popularity">Popularity</button>
-                    <button class="option option-sort-by" data-sort="Price [low to high]">Price [low to high]</button>
-                    <button class="option option-sort-by" data-sort="Price [high to low]">Price [high to low]</button>
-                </div>
             </div>
         </div>
-        
-        
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-128gb-silver" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MY2J2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
+    </div> --}}
 
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
+    <div class="anchor-section" id="market">
+        <div class="block">
+            <div class="inner">
+                <div class="c-courses">
+                    <div class="c-heading c-heading--small">
+                        <div class="c-heading__top">
+                            <h2 class="text-default">Market</h2>
+                        </div>
+                        <div class="c-heading__middle">
+                            <h3 class="heading-5">A curated marketplace <br> for digital & physical products
+                            </h3>
                         </div>
                     </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-128gb-silver">
-
-                    <h3 class="title">
-                        12.9" iPad Pro Wifi 128GB Silver
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">48.94</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="129-ipad-pro-wifi-128gb-silver" data-slug="129-ipad-pro-wifi-128gb-silver" data-image="https://www.psabrowse.com/catalog/images/MY2J2LLA.jpg" value="12.9&quot; iPad Pro Wifi 128GB Silver"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-128gb-blue" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MVJ32LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-128gb-blue">
-
-                    <h3 class="title">
-                        iPod Touch 128GB Blue
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">20.36</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="ipod-touch-128gb-blue" data-slug="ipod-touch-128gb-blue" data-image="https://www.psabrowse.com/catalog/images/MVJ32LLA.jpg" value="iPod Touch 128GB Blue"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-blue" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MVHU2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-blue">
-
-                    <h3 class="title">
-                        iPod Touch 32GB Blue
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">13.66</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="ipod-touch-32gb-blue" data-slug="ipod-touch-32gb-blue" data-image="https://www.psabrowse.com/catalog/images/MVHU2LLA.jpg" value="iPod Touch 32GB Blue"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-gold" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MVHT2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-gold">
-
-                    <h3 class="title">
-                        iPod Touch 32GB Gold
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">13.66</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="ipod-touch-32gb-gold" data-slug="ipod-touch-32gb-gold" data-image="https://www.psabrowse.com/catalog/images/MVHT2LLA.jpg" value="iPod Touch 32GB Gold"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-pink" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MVHR2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-32gb-pink">
-
-                    <h3 class="title">
-                        iPod Touch 32GB Pink
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">13.05</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="ipod-touch-32gb-pink" data-slug="ipod-touch-32gb-pink" data-image="https://www.psabrowse.com/catalog/images/MVHR2LLA.jpg" value="iPod Touch 32GB Pink"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifii-cellular-128gb-space-gray-8th-gen" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MYN72LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifii-cellular-128gb-space-gray-8th-gen">
-
-                    <h3 class="title">
-                        10.2" iPad Wifii + Cellular 128GB Space Gray (8th Gen)
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">36.18</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="102-ipad-wifii-cellular-128gb-space-gray-8th-gen" data-slug="102-ipad-wifii-cellular-128gb-space-gray-8th-gen" data-image="https://www.psabrowse.com/catalog/images/MYN72LLA.jpg" value="10.2&quot; iPad Wifii + Cellular 128GB Space Gray (8th Gen)"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifii-cellular-32gb-space-gray-8th-gen" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MYN32LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifii-cellular-32gb-space-gray-8th-gen">
-
-                    <h3 class="title">
-                        10.2" iPad Wifii + Cellular 32GB Space Gray (8th Gen)
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">30.10</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="102-ipad-wifii-cellular-32gb-space-gray-8th-gen" data-slug="102-ipad-wifii-cellular-32gb-space-gray-8th-gen" data-image="https://www.psabrowse.com/catalog/images/MYN32LLA.jpg" value="10.2&quot; iPad Wifii + Cellular 32GB Space Gray (8th Gen)"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-128gb-gold-8th-gen" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MYLF2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-128gb-gold-8th-gen">
-
-                    <h3 class="title">
-                        10.2" iPad Wifi 128GB Gold (8th Gen)
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">28.27</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="102-ipad-wifi-128gb-gold-8th-gen" data-slug="102-ipad-wifi-128gb-gold-8th-gen" data-image="https://www.psabrowse.com/catalog/images/MYLF2LLA.jpg" value="10.2&quot; iPad Wifi 128GB Gold (8th Gen)"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-128gb-space-gray-8th-gen" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MYLD2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-128gb-space-gray-8th-gen">
-
-                    <h3 class="title">
-                        10.2" iPad Wifi 128GB Space Gray (8th Gen)
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">28.27</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="102-ipad-wifi-128gb-space-gray-8th-gen" data-slug="102-ipad-wifi-128gb-space-gray-8th-gen" data-image="https://www.psabrowse.com/catalog/images/MYLD2LLA.jpg" value="10.2&quot; iPad Wifi 128GB Space Gray (8th Gen)"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-32gb-gold-8th-gen" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MYLC2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-32gb-gold-8th-gen">
-
-                    <h3 class="title">
-                        10.2" iPad Wifi 32GB Gold (8th Gen)
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">22.49</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="102-ipad-wifi-32gb-gold-8th-gen" data-slug="102-ipad-wifi-32gb-gold-8th-gen" data-image="https://www.psabrowse.com/catalog/images/MYLC2LLA.jpg" value="10.2&quot; iPad Wifi 32GB Gold (8th Gen)"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-32gb-silver-8th-gen" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MYLA2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-32gb-silver-8th-gen">
-
-                    <h3 class="title">
-                        10.2" iPad Wifi 32GB Silver (8th Gen)
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">19.44</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="102-ipad-wifi-32gb-silver-8th-gen" data-slug="102-ipad-wifi-32gb-silver-8th-gen" data-image="https://www.psabrowse.com/catalog/images/MYLA2LLA.jpg" value="10.2&quot; iPad Wifi 32GB Silver (8th Gen)"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-32gb-space-gray-8th-gen" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MYL92LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/102-ipad-wifi-32gb-space-gray-8th-gen">
-
-                    <h3 class="title">
-                        10.2" iPad Wifi 32GB Space Gray (8th Gen)
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">22.49</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="102-ipad-wifi-32gb-space-gray-8th-gen" data-slug="102-ipad-wifi-32gb-space-gray-8th-gen" data-image="https://www.psabrowse.com/catalog/images/MYL92LLA.jpg" value="10.2&quot; iPad Wifi 32GB Space Gray (8th Gen)"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/109-ipad-air-wifi-256gb-space-gray" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MYFT2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/109-ipad-air-wifi-256gb-space-gray">
-
-                    <h3 class="title">
-                        10.9" iPad Air Wifi 256GB Space Gray
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">37.53</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="109-ipad-air-wifi-256gb-space-gray" data-slug="109-ipad-air-wifi-256gb-space-gray" data-image="https://www.psabrowse.com/catalog/images/MYFT2LLA.jpg" value="10.9&quot; iPad Air Wifi 256GB Space Gray"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/109-ipad-air-wifi-64gb-space-gray" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MYFM2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/109-ipad-air-wifi-64gb-space-gray">
-
-                    <h3 class="title">
-                        10.9" iPad Air Wifi 64GB Space Gray
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">38.62</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="109-ipad-air-wifi-64gb-space-gray" data-slug="109-ipad-air-wifi-64gb-space-gray" data-image="https://www.psabrowse.com/catalog/images/MYFM2LLA.jpg" value="10.9&quot; iPad Air Wifi 64GB Space Gray"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-128gb-space-gray" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MY2H2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-128gb-space-gray">
-
-                    <h3 class="title">
-                        12.9" iPad Pro Wifi 128GB Space Gray
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">41.99</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="129-ipad-pro-wifi-128gb-space-gray" data-slug="129-ipad-pro-wifi-128gb-space-gray" data-image="https://www.psabrowse.com/catalog/images/MY2H2LLA.jpg" value="12.9&quot; iPad Pro Wifi 128GB Space Gray"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-128gb-space-gray" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MVJ62LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/ipod-touch-128gb-space-gray">
-
-                    <h3 class="title">
-                        iPod Touch 128GB Space Gray
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">20.36</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="ipod-touch-128gb-space-gray" data-slug="ipod-touch-128gb-space-gray" data-image="https://www.psabrowse.com/catalog/images/MVJ62LLA.jpg" value="iPod Touch 128GB Space Gray"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/11-ipad-pro-wifi-256gb-space-gray" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MXDC2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/11-ipad-pro-wifi-256gb-space-gray">
-
-                    <h3 class="title">
-                        11" iPad Pro Wifi 256GB Space Gray
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">37.73</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="11-ipad-pro-wifi-256gb-space-gray" data-slug="11-ipad-pro-wifi-256gb-space-gray" data-image="https://www.psabrowse.com/catalog/images/MXDC2LLA.jpg" value="11&quot; iPad Pro Wifi 256GB Space Gray"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-256gb-space-gray" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MXAT2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/129-ipad-pro-wifi-256gb-space-gray">
-
-                    <h3 class="title">
-                        12.9" iPad Pro Wifi 256GB Space Gray
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">45.85</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="129-ipad-pro-wifi-256gb-space-gray" data-slug="129-ipad-pro-wifi-256gb-space-gray" data-image="https://www.psabrowse.com/catalog/images/MXAT2LLA.jpg" value="12.9&quot; iPad Pro Wifi 256GB Space Gray"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/ipad-mini-wifi-cellular-64gb-space-gray" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MUXF2LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/ipad-mini-wifi-cellular-64gb-space-gray">
-
-                    <h3 class="title">
-                        iPad Mini Wifi + Cellular 64GB Space Gray
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">34.66</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="ipad-mini-wifi-cellular-64gb-space-gray" data-slug="ipad-mini-wifi-cellular-64gb-space-gray" data-image="https://www.psabrowse.com/catalog/images/MUXF2LLA.jpg" value="iPad Mini Wifi + Cellular 64GB Space Gray"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                        
-            <div class="product-box">
-                <a href="https://qc.luthersales.iocod.com/product/ipad-mini-wifi-256gb-silver" target="_blank">
-                <div class="top">
-                    <img src="https://www.psabrowse.com/catalog/images/MUU52LLA.jpg" alt="Buy Now Pay Later" title="Buy Now Pay Later"> 
-                    <div class="action-bar">
-                        <div class="rating-box hidden">
-                            <span class="rating">0.00</span> 
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="star svg-inline--fa fa-star fa-w-18">
-                                <path fill="currentColor" d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z" class=""></path>
-                            </svg>
-                        </div>
-
-                        <div class="heart-box ml-auto "> <!-- liked <- calss to add when it is liked -->
-                            <input type="hidden" id="wishlistupdate" value=" 0 "> 
-                            <i class="icon wishlist-icon-bg fas fa-heart"></i>
-                            <i class="icon out far fa-heart"></i>
-                        </div>
-                    </div>
-                </div>
-                </a>
-
-                <div class="bottom">
-                <a href="https://qc.luthersales.iocod.com/product/ipad-mini-wifi-256gb-silver">
-
-                    <h3 class="title">
-                        iPad Mini Wifi 256GB Silver
-                    </h3>
-                    <p class="lowest-price">
-                        Price as Low as
-                        <span class="price">35.88</span>
-                        /Bi-Weekly
-                    </p>
-                </a>
-                    
-                        <label>
-                            <div class="checkbox-component"> <span class="check"></span></div>
-                            <input type="checkbox" class="compare_check" id="ipad-mini-wifi-256gb-silver" data-slug="ipad-mini-wifi-256gb-silver" data-image="https://www.psabrowse.com/catalog/images/MUU52LLA.jpg" value="iPad Mini Wifi 256GB Silver"><span class="title">Compare</span>
-                        </label>
-                    
-                </div>
-
-            </div>
-                    
-    </div>
-
-                <nav>
-        <ul class="pagination paginate-box">
-            
-                            <li class="disabled" aria-disabled="true" aria-label="« Previous">
-                    <span aria-hidden="true">‹</span>
-                </li>
-            
-            
-                            
-                
-                
-                                                                                        <li class="active" aria-current="page"><span>1</span></li>
-                                                                                                <li><a href="https://qc.luthersales.iocod.com/listing/apple-products?page=2">2</a></li>
-                                                                        
-            
+                    <div class="has-sticker">
+                        <ul class="grid-courses grid-courses--one-row">
                             <li>
-                    <a href="https://qc.luthersales.iocod.com/listing/apple-products?page=2" rel="next" aria-label="Next »">›</a>
-                </li>
-                    </ul>
-    </nav>
 
-  
 
+                                <div class="card-academy">
+                                    <figure class="card-academy__figure">
+                                        <a aria-label="Uzui Startup Framer Template"
+                                            href="market/product_64f6d9e182c93523907027.html">
+                                            <img width="439" height="329"
+                                                class="card-directory__media lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/asset/2023/09/64f6dbffb8c37397793931.png"
+                                                alt="Uzui Startup Framer Template">
+                                        </a>
+                                    </figure>
+                                    <div class="card-academy__info">
+                                        <div class="card-academy__header">
+                                            <div class="card-academy__row card-asset__header">
+                                                Digital Product
+                                                <h3 class="card-academy__title"><a
+                                                        href="market/product_64f6d9e182c93523907027.html">Uzui
+                                                        Startup Framer Template</a></h3>
+                                            </div>
+                                        </div>
+                                        <div class="card-academy__footer">
+                                            <div class="card-academy__row">
+                                                <div class="card-academy__by">
+                                                    <small>By</small>
+                                                    <strong>Juno studio</strong>
+                                                </div>
+                                                <div class="box-price">
+                                                    <div class="box-price__off">
+                                                        <strong class="box-price__percent">from</strong>
+                                                        <span class="text-strikethrough box-price__old"></span>
+                                                    </div>
+                                                    <div class="box-price__total">
+                                                        <strong>69</strong><sup>USD</sup>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <a aria-label="View Product"
+                                                href="market/product_64f6d9e182c93523907027.html"
+                                                data-controller="preview"
+                                                data-preview-url-value="&#x2F;market&#x2F;product_64f6d9e182c93523907027&#x2F;content"
+                                                data-action="click->preview#preview">
+                                                <div class="card-academy__row">
+                                                    <div>
+                                                        <div class="box-score">
+                                                            <strong>View Product</strong>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <svg class="ico-svg" viewbox="0 0 20 20"
+                                                            width="20">
+                                                            <use
+                                                                xlink:href="assets/redesign/images/sprite-icons.svg#arrow">
+                                                            </use>
+                                                        </svg>
+
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                            </li>
+                            <li>
+
+
+                                <div class="card-academy">
+                                    <figure class="card-academy__figure">
+                                        <a aria-label="Whole Shop Bundle by Craft Supply Co"
+                                            href="market/product_64f439a59188c645956941.html">
+                                            <img width="439" height="329"
+                                                class="card-directory__media lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/asset/2023/09/64f43e2ab1deb046557533.png"
+                                                alt="Whole Shop Bundle by Craft Supply Co">
+                                        </a>
+                                    </figure>
+                                    <div class="card-academy__info">
+                                        <div class="card-academy__header">
+                                            <div class="card-academy__row card-asset__header">
+                                                Digital Product
+                                                <h3 class="card-academy__title"><a
+                                                        href="market/product_64f439a59188c645956941.html">Whole
+                                                        Shop Bundle by Craft Supply Co</a></h3>
+                                            </div>
+                                        </div>
+                                        <div class="card-academy__footer">
+                                            <div class="card-academy__row">
+                                                <div class="card-academy__by">
+                                                    <small>By</small>
+                                                    <strong>Craft Supply Co</strong>
+                                                </div>
+                                                <div class="box-price">
+                                                    <div class="box-price__off">
+                                                        <strong class="box-price__percent">from</strong>
+                                                        <span class="text-strikethrough box-price__old"></span>
+                                                    </div>
+                                                    <div class="box-price__total">
+                                                        <strong>49</strong><sup>USD</sup>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <a aria-label="View Product"
+                                                href="market/product_64f439a59188c645956941.html"
+                                                data-controller="preview"
+                                                data-preview-url-value="&#x2F;market&#x2F;product_64f439a59188c645956941&#x2F;content"
+                                                data-action="click->preview#preview">
+                                                <div class="card-academy__row">
+                                                    <div>
+                                                        <div class="box-score">
+                                                            <strong>View Product</strong>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <svg class="ico-svg" viewbox="0 0 20 20"
+                                                            width="20">
+                                                            <use
+                                                                xlink:href="assets/redesign/images/sprite-icons.svg#arrow">
+                                                            </use>
+                                                        </svg>
+
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                            </li>
+                            <li>
+
+
+                                <div class="card-academy">
+                                    <figure class="card-academy__figure">
+                                        <a aria-label="JetFormBuilder WordPress Form Plugin"
+                                            href="market/product_64db3adc061ce079255659.html">
+                                            <img width="439" height="329"
+                                                class="card-directory__media lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/asset/2023/08/64db3fc37541d992452128.png"
+                                                alt="JetFormBuilder WordPress Form Plugin">
+                                        </a>
+                                    </figure>
+                                    <div class="card-academy__info">
+                                        <div class="card-academy__header">
+                                            <div class="card-academy__row card-asset__header">
+                                                Digital Product
+                                                <h3 class="card-academy__title"><a
+                                                        href="market/product_64db3adc061ce079255659.html">JetFormBuilder
+                                                        WordPress Form Plugin</a></h3>
+                                            </div>
+                                        </div>
+                                        <div class="card-academy__footer">
+                                            <div class="card-academy__row">
+                                                <div class="card-academy__by">
+                                                    <small>By</small>
+                                                    <strong>crocoblock</strong>
+                                                </div>
+                                                <div class="box-price">
+                                                    <div class="box-price__off">
+                                                        <strong class="box-price__percent">from</strong>
+                                                        <span class="text-strikethrough box-price__old"></span>
+                                                    </div>
+                                                    <div class="box-price__total">
+                                                        <strong>39</strong><sup>USD</sup>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <a aria-label="View Product"
+                                                href="market/product_64db3adc061ce079255659.html"
+                                                data-controller="preview"
+                                                data-preview-url-value="&#x2F;market&#x2F;product_64db3adc061ce079255659&#x2F;content"
+                                                data-action="click->preview#preview">
+                                                <div class="card-academy__row">
+                                                    <div>
+                                                        <div class="box-score">
+                                                            <strong>View Product</strong>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <svg class="ico-svg" viewbox="0 0 20 20"
+                                                            width="20">
+                                                            <use
+                                                                xlink:href="assets/redesign/images/sprite-icons.svg#arrow">
+                                                            </use>
+                                                        </svg>
+
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                            </li>
+                            <li>
+
+
+                                <div class="card-academy">
+                                    <figure class="card-academy__figure">
+                                        <a aria-label="JetEngine WordPress Plugin for Elementor, Gutenberg, and Bricks"
+                                            href="market/product_64db36b60e5ed300860173.html">
+                                            <img width="439" height="329"
+                                                class="card-directory__media lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/asset/2023/08/64db3a96861df064990914.png"
+                                                alt="JetEngine WordPress Plugin for Elementor, Gutenberg, and Bricks">
+                                        </a>
+                                    </figure>
+                                    <div class="card-academy__info">
+                                        <div class="card-academy__header">
+                                            <div class="card-academy__row card-asset__header">
+                                                Digital Product
+                                                <h3 class="card-academy__title"><a
+                                                        href="market/product_64db36b60e5ed300860173.html">JetEngine
+                                                        WordPress Plugin for Elementor, Gutenberg, and
+                                                        Bricks</a></h3>
+                                            </div>
+                                        </div>
+                                        <div class="card-academy__footer">
+                                            <div class="card-academy__row">
+                                                <div class="card-academy__by">
+                                                    <small>By</small>
+                                                    <strong>crocoblock</strong>
+                                                </div>
+                                                <div class="box-price">
+                                                    <div class="box-price__off">
+                                                        <strong class="box-price__percent">from</strong>
+                                                        <span class="text-strikethrough box-price__old"></span>
+                                                    </div>
+                                                    <div class="box-price__total">
+                                                        <strong>43</strong><sup>USD</sup>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <a aria-label="View Product"
+                                                href="market/product_64db36b60e5ed300860173.html"
+                                                data-controller="preview"
+                                                data-preview-url-value="&#x2F;market&#x2F;product_64db36b60e5ed300860173&#x2F;content"
+                                                data-action="click->preview#preview">
+                                                <div class="card-academy__row">
+                                                    <div>
+                                                        <div class="box-score">
+                                                            <strong>View Product</strong>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <svg class="ico-svg" viewbox="0 0 20 20"
+                                                            width="20">
+                                                            <use
+                                                                xlink:href="assets/redesign/images/sprite-icons.svg#arrow">
+                                                            </use>
+                                                        </svg>
+
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                            </li>
+                        </ul>
+                        <svg class="sticker-svg sticker__2 sc-green-black" viewbox="0 0 100 100"
+                            width="100">
+                            <use xlink:href="assets/redesign/images/sprite-stickers.svg#one-to-watch"></use>
+                        </svg>
+
+                    </div>
+                    <div class="c-view-all">
+                        <div class="c-view-all__row  text-medium">
+                            <span>Browse specially curated products</span>
+                            <a href="market/index.html" class="bt-ico-left">
+                                <svg class="ico-svg" viewbox="0 0 20 20" width="16">
+                                    <use xlink:href="assets/redesign/images/sprite-icons.svg#arrow"></use>
+                                </svg>
+
+                                <strong class="link-underlined">View Market</strong>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <!-- /.Product Listing Col -->
+        </div>
+    </div>
 
-            <div class="sort-by-sec">
-                <div class="sort-box">
-                    <ul class="sort-list">
-                        <li>
-                            Popularity
-                        </li>
-                        <li>
-                            Price [low to high]
-                        </li>
-                        <li>
-                            Price [high to low]
-                        </li>
-                    </ul>
+    <div class="anchor-section" id="academy">
+        <div class="c-box-float-more">
+            <div class="inner">
+                <div class="box-float-more style-1">
+                    <a href="websites/nominees/index.html" class="item-link"
+                        aria-label="View all Courses"></a>
+                    <div class="box-float-more__info">
+                        <div>View all</div>
+                        <div><span>Courses</span></div>
+                    </div>
+                    <img class="box-float-more__photo" width="60" height="48"
+                        src="https://assets.awwwards.com/awards/media/cache/thumb_60_45/course/624ec6012e4be805354024.jpg"
+                        alt="View all Courses">
+                </div>
+            </div>
+        </div>
+        {{-- <div class="block">
+            <div class="inner">
+                <div class="c-courses">
+                    <div class="c-heading c-heading--small">
+                        <div class="c-heading__top">
+                            <h2 class="text-default">Academy</h2>
+                        </div>
+                        <div class="c-heading__middle">
+                            <h3 class="heading-5">Learn from the<br>best instructors.</h3>
+                        </div>
+                    </div>
+                    <div class="has-sticker">
+                        <ul class="grid-courses grid-courses--one-row">
+                            <li>
+                                <div class="card-course card-academy">
+                                    <div class="swiper js-slider-course">
+                                        <div class="swiper-wrapper">
+                                            <figure class="card-course__figure">
+                                                <a href="academy/course/unleashing-your-best.html">
+                                                    <img width="439" height="263"
+                                                        class="card-course__img lazy"
+                                                        data-controller="lazyload-image"
+                                                        src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 439 263&#039; %3E%3C/svg%3E"
+                                                        data-src="https://assets.awwwards.com/awards/media/cache/academy_thumb/course/624ec6012e4be805354024.jpg"
+                                                        alt="Unleashing Your Best: How to achieve your goals without sacrificing your life">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="card-course__content">
+                                        <h3 class="card-course__title"><a
+                                                href="academy/course/unleashing-your-best.html">Unleashing
+                                                Your Best: How to achieve your goals without sacrificing your
+                                                life</a></h3>
+                                    </div>
+                                    <div class="card-course__footer hidden-sm">
+                                        <div class="card-course__row">
+                                            <strong>Instructor</strong>
+                                            <span>
+                                                Victor Work
+                                            </span>
+                                        </div>
+                                        <div class="card-academy__row">
+                                            <div>
+                                                <div class="box-score">
+                                                    <div class="box-score__info" style="text-align: left">
+                                                        <strong>Score</strong> 4/5
+                                                    </div>
+                                                    <div class="box-score__wrap">
+                                                        <div class="box-score__bar" style="width: 80%">
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <a aria-label="View Course"
+                                                    href="academy/course/unleashing-your-best.html">
+                                                    <svg class="ico-svg" viewbox="0 0 20 20"
+                                                        width="20">
+                                                        <use
+                                                            xlink:href="assets/redesign/images/sprite-icons.svg#arrow">
+                                                        </use>
+                                                    </svg>
+
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                            </li>
+                            <li>
+                                <div class="card-course card-academy">
+                                    <div class="swiper js-slider-course">
+                                        <div class="swiper-wrapper">
+                                            <figure class="card-course__figure">
+                                                <a
+                                                    href="academy/course/building-an-immersive-creative-website-from-scratch-without-frameworks.html">
+                                                    <img width="439" height="263"
+                                                        class="card-course__img lazy"
+                                                        data-controller="lazyload-image"
+                                                        src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 439 263&#039; %3E%3C/svg%3E"
+                                                        data-src="https://assets.awwwards.com/awards/media/cache/academy_thumb/course/60d1ec9304e32783301759.jpg"
+                                                        alt="Building an immersive creative website from scratch without frameworks">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="card-course__content">
+                                        <h3 class="card-course__title"><a
+                                                href="academy/course/building-an-immersive-creative-website-from-scratch-without-frameworks.html">Building
+                                                an immersive creative website from scratch without
+                                                frameworks</a></h3>
+                                    </div>
+                                    <div class="card-course__footer hidden-sm">
+                                        <div class="card-course__row">
+                                            <strong>Instructor</strong>
+                                            <span>
+                                                Luis Henrique Bizarro
+                                            </span>
+                                        </div>
+                                        <div class="card-academy__row">
+                                            <div>
+                                                <div class="box-score">
+                                                    <div class="box-score__info" style="text-align: left">
+                                                        <strong>Score</strong> 4.5/5
+                                                    </div>
+                                                    <div class="box-score__wrap">
+                                                        <div class="box-score__bar" style="width: 90%">
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <a aria-label="View Course"
+                                                    href="academy/course/building-an-immersive-creative-website-from-scratch-without-frameworks.html">
+                                                    <svg class="ico-svg" viewbox="0 0 20 20"
+                                                        width="20">
+                                                        <use
+                                                            xlink:href="assets/redesign/images/sprite-icons.svg#arrow">
+                                                        </use>
+                                                    </svg>
+
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                            </li>
+                            <li>
+                                <div class="card-course card-academy">
+                                    <div class="swiper js-slider-course">
+                                        <div class="swiper-wrapper">
+                                            <figure class="card-course__figure">
+                                                <a
+                                                    href="academy/course/create-award-winning-animation-and-interaction-design-in-webflow.html">
+                                                    <img width="439" height="263"
+                                                        class="card-course__img lazy"
+                                                        data-controller="lazyload-image"
+                                                        src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 439 263&#039; %3E%3C/svg%3E"
+                                                        data-src="https://assets.awwwards.com/awards/media/cache/academy_thumb/course/6082a01226b89219847516.jpg"
+                                                        alt="Create Award Winning Animation and Interaction Design In Webflow">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="card-course__content">
+                                        <h3 class="card-course__title"><a
+                                                href="academy/course/create-award-winning-animation-and-interaction-design-in-webflow.html">Create
+                                                Award Winning Animation and Interaction Design In Webflow</a>
+                                        </h3>
+                                    </div>
+                                    <div class="card-course__footer hidden-sm">
+                                        <div class="card-course__row">
+                                            <strong>Instructor</strong>
+                                            <span>
+                                                Joseph Berry
+                                            </span>
+                                        </div>
+                                        <div class="card-academy__row">
+                                            <div>
+                                                <div class="box-score">
+                                                    <div class="box-score__info" style="text-align: left">
+                                                        <strong>Score</strong> 4.5/5
+                                                    </div>
+                                                    <div class="box-score__wrap">
+                                                        <div class="box-score__bar" style="width: 90%">
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <a aria-label="View Course"
+                                                    href="academy/course/create-award-winning-animation-and-interaction-design-in-webflow.html">
+                                                    <svg class="ico-svg" viewbox="0 0 20 20"
+                                                        width="20">
+                                                        <use
+                                                            xlink:href="assets/redesign/images/sprite-icons.svg#arrow">
+                                                        </use>
+                                                    </svg>
+
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                            </li>
+                            <li>
+                                <div class="card-course card-academy">
+                                    <div class="swiper js-slider-course">
+                                        <div class="swiper-wrapper">
+                                            <figure class="card-course__figure">
+                                                <a
+                                                    href="academy/course/creative-portfolios-a-powerful-visual-language-for-brands-online-course.html">
+                                                    <img width="439" height="263"
+                                                        class="card-course__img lazy"
+                                                        data-controller="lazyload-image"
+                                                        src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 439 263&#039; %3E%3C/svg%3E"
+                                                        data-src="https://assets.awwwards.com/awards/media/cache/academy_thumb/course/619f4b4794213339643255.jpg"
+                                                        alt="Creative Portfolios: A powerful visual language for brands">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="card-course__content">
+                                        <h3 class="card-course__title"><a
+                                                href="academy/course/creative-portfolios-a-powerful-visual-language-for-brands-online-course.html">Creative
+                                                Portfolios: A powerful visual language for brands</a></h3>
+                                    </div>
+                                    <div class="card-course__footer hidden-sm">
+                                        <div class="card-course__row">
+                                            <strong>Instructor</strong>
+                                            <span>
+                                                Niccolò Miranda
+                                            </span>
+                                        </div>
+                                        <div class="card-academy__row">
+                                            <div>
+                                                <div class="box-score">
+                                                    <div class="box-score__info" style="text-align: left">
+                                                        <strong>Score</strong> 4.5/5
+                                                    </div>
+                                                    <div class="box-score__wrap">
+                                                        <div class="box-score__bar" style="width: 90%">
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <a aria-label="View Course"
+                                                    href="academy/course/creative-portfolios-a-powerful-visual-language-for-brands-online-course.html">
+                                                    <svg class="ico-svg" viewbox="0 0 20 20"
+                                                        width="20">
+                                                        <use
+                                                            xlink:href="assets/redesign/images/sprite-icons.svg#arrow">
+                                                        </use>
+                                                    </svg>
+
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+
+                            </li>
+                        </ul>
+                        <svg class="sticker-svg sticker__2 sc-green-black" viewbox="0 0 100 100"
+                            width="100">
+                            <use xlink:href="assets/redesign/images/sprite-stickers.svg#one-to-watch"></use>
+                        </svg>
+
+                    </div>
+                    <div class="c-view-all">
+                        <div class="c-view-all__row  text-medium">
+                            <span>Choose from over <strong>hundreds</strong> of courses</span>
+                            <a href="academy/index.html" class="bt-ico-left">
+                                <svg class="ico-svg" viewbox="0 0 20 20" width="16">
+                                    <use xlink:href="assets/redesign/images/sprite-icons.svg#arrow"></use>
+                                </svg>
+
+                                <strong class="link-underlined">View Academy</strong>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> --}}
+    </div>
+
+    {{-- <div class="anchor-section" id="directory">
+        <div class="block">
+
+            <div class="inner">
+                <div class="c-heading text-center">
+                    <div class="c-heading__top">
+                        <h2 class="text-default">Directory</h2>
+                    </div>
+                    <div class="c-heading__middle">
+                        <h3 class="heading-1">
+                            <span class="has-sticker">
+                                W.CREATORS
+                                <svg class="sticker-svg sticker__3 sc-purple-green" viewbox="0 0 100 100"
+                                    width="100">
+                                    <use xlink:href="assets/redesign/images/sprite-stickers.svg#asterisk">
+                                    </use>
+                                </svg>
+
+                            </span>
+                        </h3>
+                    </div>
+                    <div class="c-heading__bottom">
+                        <div class="c-heading__short-desc">
+                            <span>Active creators in your country.</span>
+                        </div>
+                    </div>
+                </div>
+                <ul class="grid-directory grid-directory--pro">
+                    <li>
+
+                        <div class="card-directory-sp">
+                            <div class="card-directory-sp__header">
+                                <figure class="circle-avatar ">
+                                    <a aria-label="Immersive Garden" href="immersivegarden/index.html">
+                                        <img class="circle-avatar__img"
+                                            src="https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/207/560d58029b7c5.jpeg"
+                                            width="52" height="52" alt="Immersive Garden">
+                                    </a>
+                                </figure>
+                                <div class="swiper" data-controller="swiper"
+                                    data-swiper-configuration-value="card_directory">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2023/06/648ae5911456b165547357.png"
+                                                alt="Immersive Garden">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2023/06/648737ea4ef20511187443.png"
+                                                alt="Immersive Garden">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2023/05/646ccf635d64f207238778.png"
+                                                alt="Immersive Garden">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2023/04/6441243b1dde7385395024.jpg"
+                                                alt="Immersive Garden">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2023/04/643031ead8cd4599218801.jpg"
+                                                alt="Immersive Garden">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                            <div class="card-directory-sp__content">
+                                <div class="card-directory-sp__left">
+                                    <p>International</p>
+                                    <h2 class="card-directory-sp__title">
+                                        <a href="immersivegarden/index.html">
+                                            Immersive Garden
+                                        </a>
+                                    </h2>
+                                </div>
+                                <div class="card-directory-sp__right">
+                                    <div class="badget-reviews">
+                                        <span class="badget-reviews__label">Works</span>
+                                        <strong class="badget-reviews__number">72</strong>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-directory-sp__footer">
+                                <div class="card-directory-sp__left">
+                                    <a href="http://www.immersive-g.com/" class="url"
+                                        rel="nofollow noopener noreferrer"
+                                        target="_blank">immersive-g.com</a>
+                                </div>
+                                <div class="card-directory-sp__right">71 awards</div>
+                            </div>
+                        </div>
+
+                    </li>
+                    <li>
+
+                        <div class="card-directory-sp">
+                            <div class="card-directory-sp__header">
+                                <figure class="circle-avatar ">
+                                    <a aria-label="Adchitects" href="adchitects/index.html">
+                                        <img class="circle-avatar__img"
+                                            src="https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/683701/5ff849fa967af168929537.png"
+                                            width="52" height="52" alt="Adchitects">
+                                    </a>
+                                </figure>
+                                <div class="swiper" data-controller="swiper"
+                                    data-swiper-configuration-value="card_directory">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2023/07/64a6e9a21089f834155071.jpg"
+                                                alt="Adchitects">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2022/12/63936d34c126e207568194.png"
+                                                alt="Adchitects">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2022/11/6384d0d099711786698581.png"
+                                                alt="Adchitects">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2022/11/6374caf0f1a63421219459.png"
+                                                alt="Adchitects">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2022/10/635299273f451503238099.jpg"
+                                                alt="Adchitects">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                            <div class="card-directory-sp__content">
+                                <div class="card-directory-sp__left">
+                                    <p>International</p>
+                                    <h2 class="card-directory-sp__title">
+                                        <a href="adchitects/index.html">
+                                            Adchitects
+                                        </a>
+                                    </h2>
+                                </div>
+                                <div class="card-directory-sp__right">
+                                    <div class="badget-reviews">
+                                        <span class="badget-reviews__label">Works</span>
+                                        <strong class="badget-reviews__number">07</strong>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-directory-sp__footer">
+                                <div class="card-directory-sp__left">
+                                    <a href="https://bit.ly/awwwards-adchitects" class="url"
+                                        rel="nofollow noopener noreferrer" target="_blank">bit.ly</a>
+                                </div>
+                                <div class="card-directory-sp__right">5 awards</div>
+                            </div>
+                        </div>
+
+                    </li>
+                    <li>
+
+                        <div class="card-directory-sp">
+                            <div class="card-directory-sp__header">
+                                <figure class="circle-avatar ">
+                                    <a aria-label="OHMY" href="ohmystudio/index.html">
+                                        <img class="circle-avatar__img"
+                                            src="https://assets.awwwards.com/awards/media/cache/thumb_user_retina/avatar/320439/63c800df96098035908152.png"
+                                            width="52" height="52" alt="OHMY">
+                                    </a>
+                                </figure>
+                                <div class="swiper" data-controller="swiper"
+                                    data-swiper-configuration-value="card_directory">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2023/05/645d42da7e122712980258.png"
+                                                alt="OHMY">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2023/02/63e2762d3af04608989578.png"
+                                                alt="OHMY">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2023/02/63e269f2602d5656848284.png"
+                                                alt="OHMY">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2016/11/582ae98761f5d.png"
+                                                alt="OHMY">
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <img width="278" height="209" class="lazy"
+                                                data-controller="lazyload-image"
+                                                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                                data-src="https://assets.awwwards.com/awards/media/cache/thumb_440_330/submissions/2015/04/5526617fc0b13.png"
+                                                alt="OHMY">
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                            <div class="card-directory-sp__content">
+                                <div class="card-directory-sp__left">
+                                    <p>International</p>
+                                    <h2 class="card-directory-sp__title">
+                                        <a href="ohmystudio/index.html">
+                                            OHMY
+                                        </a>
+                                    </h2>
+                                </div>
+                                <div class="card-directory-sp__right">
+                                    <div class="badget-reviews">
+                                        <span class="badget-reviews__label">Works</span>
+                                        <strong class="badget-reviews__number">05</strong>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-directory-sp__footer">
+                                <div class="card-directory-sp__left">
+                                    <a href="http://www.ohmy.studio/" class="url"
+                                        rel="nofollow noopener noreferrer" target="_blank">ohmy.studio</a>
+                                </div>
+                                <div class="card-directory-sp__right">5 awards</div>
+                            </div>
+                        </div>
+
+                    </li>
+                </ul>
+                <div class="box-table">
+                    <table class="tb-dotteds">
+                        <thead>
+                            <tr>
+                                <th align="left" width="25%">Name</th>
+                                <th align="left" width="20%" class="hidden-sm">Profile</th>
+                                <th align="left" width="15%" class="hidden-sm">Awards</th>
+                                <th align="left" width="30%" class="hidden-sm">Categories</th>
+                                <th align="right"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td align="left">
+                                    <div class="card-site-mini">
+
+                                        <div class="users-credits ">
+                                            <ul class="users-credits__details">
+                                                <li>
+                                                    <div class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <a class="avatar-name__link"
+                                                                href="RUYA/index.html" aria-label="RUYA">
+                                                                <img class="avatar-name__img"
+                                                                    src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/373532/566183a516d15.jpeg"
+                                                                    width="32" height="32"
+                                                                    alt="RUYA" />
+                                                                <figcaption class="avatar-name__name">
+                                                                    <strong
+                                                                        class="link-underlined text-bold">RUYA</strong>
+                                                                </figcaption>
+                                                            </a>
+                                                        </figure>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </td>
+                                <td align="left" class="hidden-sm">Agency</td>
+                                <td align="left" class="hidden-sm">5</td>
+                                <td align="left" class="hidden-sm">
+                                    <div class="text-truncated">
+                                        Web Design </div>
+                                </td>
+                                <td align="right">
+                                    <div class="tb-dotteds__bts">
+                                        <a href="RUYA/index.html"
+                                            class="button button--small--outline--rounded">View</a>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left">
+                                    <div class="card-site-mini">
+
+                                        <div class="users-credits ">
+                                            <ul class="users-credits__details">
+                                                <li>
+                                                    <div class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <a class="avatar-name__link"
+                                                                href="thunderfoot/index.html"
+                                                                aria-label="Thunderfoot">
+                                                                <img class="avatar-name__img"
+                                                                    src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1383118/61dc444fe40ba112073939.jpg"
+                                                                    width="32" height="32"
+                                                                    alt="Thunderfoot" />
+                                                                <figcaption class="avatar-name__name">
+                                                                    <strong
+                                                                        class="link-underlined text-bold">Thunderfoot</strong>
+                                                                    <sup>INT</sup>
+                                                                </figcaption>
+                                                            </a>
+                                                        </figure>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </td>
+                                <td align="left" class="hidden-sm">Agency</td>
+                                <td align="left" class="hidden-sm">2</td>
+                                <td align="left" class="hidden-sm">
+                                    <div class="text-truncated">
+                                        Web Design , Web Development , Graphic Design , SEO/SEM , UX/UI </div>
+                                </td>
+                                <td align="right">
+                                    <div class="tb-dotteds__bts">
+                                        <a href="thunderfoot/index.html"
+                                            class="button button--small--outline--rounded">View</a>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left">
+                                    <div class="card-site-mini">
+
+                                        <div class="users-credits ">
+                                            <ul class="users-credits__details">
+                                                <li>
+                                                    <div class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <a class="avatar-name__link"
+                                                                href="baunfire/index.html"
+                                                                aria-label="Baunfire">
+                                                                <img class="avatar-name__img"
+                                                                    src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/543478/63bc8a620e305171737419.png"
+                                                                    width="32" height="32"
+                                                                    alt="Baunfire" />
+                                                                <figcaption class="avatar-name__name">
+                                                                    <strong
+                                                                        class="link-underlined text-bold">Baunfire</strong>
+                                                                    <sup>INT</sup>
+                                                                </figcaption>
+                                                            </a>
+                                                        </figure>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </td>
+                                <td align="left" class="hidden-sm">Agency</td>
+                                <td align="left" class="hidden-sm">17</td>
+                                <td align="left" class="hidden-sm">
+                                    <div class="text-truncated">
+                                        Web Design , Web Development , UX/UI , Interactive , Art Direction
+                                    </div>
+                                </td>
+                                <td align="right">
+                                    <div class="tb-dotteds__bts">
+                                        <a href="baunfire/index.html"
+                                            class="button button--small--outline--rounded">View</a>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left">
+                                    <div class="card-site-mini">
+
+                                        <div class="users-credits ">
+                                            <ul class="users-credits__details">
+                                                <li>
+                                                    <div class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <a class="avatar-name__link"
+                                                                href="ScrumLaunch/index.html"
+                                                                aria-label="ScrumLaunch">
+                                                                <img class="avatar-name__img"
+                                                                    src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1054652/63e144f3abc3b551463121.png"
+                                                                    width="32" height="32"
+                                                                    alt="ScrumLaunch" />
+                                                                <figcaption class="avatar-name__name">
+                                                                    <strong
+                                                                        class="link-underlined text-bold">ScrumLaunch</strong>
+                                                                    <sup>INT</sup>
+                                                                </figcaption>
+                                                            </a>
+                                                        </figure>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </td>
+                                <td align="left" class="hidden-sm">Agency</td>
+                                <td align="left" class="hidden-sm">0</td>
+                                <td align="left" class="hidden-sm">
+                                    <div class="text-truncated">
+                                        Web Development , Graphic Design , UX/UI , App Development , Other
+                                    </div>
+                                </td>
+                                <td align="right">
+                                    <div class="tb-dotteds__bts">
+                                        <a href="ScrumLaunch/index.html"
+                                            class="button button--small--outline--rounded">View</a>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="c-view-all">
+                    <div class="c-view-all__row text-medium">
+                        <span>Connect with over <strong> 5,077
+                            </strong> Agencies and Professionals</span>
+                        <a href="directory/index.html" class="bt-ico-left">
+                            <svg class="ico-svg" viewbox="0 0 20 20" width="16">
+                                <use xlink:href="assets/redesign/images/sprite-icons.svg#arrow"></use>
+                            </svg>
+
+                            <strong class="link-underlined">View Directory</strong>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div> --}}
+
+
+
+
+
+    <div class="anchor-section" id="element_of_the_week">
+        <div class="c-box-float-more">
+            <div class="inner">
+                <div class="box-float-more style-1">
+                    <a href="elements/index.html" class="item-link" aria-label="View all Elements"></a>
+                    <div class="box-float-more__info">
+                        <div>View all</div>
+                        <div><span>Elements</span></div>
+                    </div>
+                    <img class="box-float-more__photo" width="60" height="48"
+                        src="https://assets.awwwards.com/awards/media/cache/thumb_60_45/element/2023/08/64f053dba626c069270583_static.jpeg"
+                        alt="View all Elements">
                 </div>
             </div>
         </div>
 
+        {{-- <div class="block">
+            <div class="inner has-sticker">
+                <svg class="sticker-svg sc-purple-green sticker__6" viewbox="0 0 100 49" width="220">
+                    <use xlink:href="assets/redesign/images/sprite-stickers.svg#ribbon-inspire"></use>
+                </svg>
 
+                <div class="l-news l-news--dark">
+                    <div class="c-elements text-center">
+                        <div class="c-heading text-center">
+                            <div class="c-heading__top">
+                                <h2 class="text-default">Inspirational elements</h2>
+                            </div>
+                            <div class="c-heading__middle">
+                                <h3 class="heading-1 text-uppercase">ELEMENT OF<br>THE DAY</h3>
+                            </div>
+                        </div>
+                        <div class="card-slide">
+
+
+
+
+                            <figure class="figure-rollover js-collectable is-large"
+                                data-controller="collectable"
+                                data-collectable-model-value="&#x7B;&quot;collectableIdentifier&quot;&#x3A;&quot;94424311-cc8b-4c32-bfbe-a78d21c3e1c1&quot;,&quot;collectableImage&quot;&#x3A;&quot;element&#x5C;&#x2F;2023&#x5C;&#x2F;08&#x5C;&#x2F;64f053dba626c069270583.mp4&quot;,&quot;collectableTitle&quot;&#x3A;&quot;Cursor&#x20;interaction&#x20;on&#x20;the&#x20;logo&#x20;in&#x20;the&#x20;footer&quot;,&quot;id&quot;&#x3A;&quot;94424311-cc8b-4c32-bfbe-a78d21c3e1c1&quot;,&quot;user&quot;&#x3A;&#x7B;&quot;image&quot;&#x3A;&quot;avatar&#x5C;&#x2F;68654&#x5C;&#x2F;51adabf540344.jpeg&quot;,&quot;username&quot;&#x3A;&quot;claudioguglieri&quot;,&quot;displayName&quot;&#x3A;&quot;Claudio&#x20;Guglieri&quot;,&quot;type&quot;&#x3A;&quot;user&quot;&#x7D;,&quot;main_image&quot;&#x3A;&quot;element&#x5C;&#x2F;2023&#x5C;&#x2F;08&#x5C;&#x2F;64f053dba626c069270583.mp4&quot;,&quot;tags&quot;&#x3A;&#x5B;&quot;interaction&quot;,&quot;mouse&quot;,&quot;footer&quot;,&quot;logo&quot;&#x5D;,&quot;title&quot;&#x3A;&quot;Cursor&#x20;interaction&#x20;on&#x20;the&#x20;logo&#x20;in&#x20;the&#x20;footer&quot;,&quot;createdAt&quot;&#x3A;1693471673,&quot;type&quot;&#x3A;&quot;element&quot;&#x7D;">
+                                <a aria-label="Cursor interaction on the logo in the footer"
+                                    href="inspiration/cursor-interaction-on-the-logo-in-the-footer.html"
+                                    class="figure-rollover__link " data-controller="preview"
+                                    data-preview-url-value="&#x2F;inspiration&#x2F;cursor-interaction-on-the-logo-in-the-footer"
+                                    data-action="click->preview#preview">
+                                    <video class="figure-rollover__file lazy"
+                                        poster="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                        data-poster="https://assets.awwwards.com/awards/element/2023/08/64f053dba626c069270583_static.jpeg"
+                                        data-controller="lazyload-video video-hover" width="417"
+                                        height="298" muted loop preload="none">
+                                        <source src="https://assets.awwwards.com/assets/videos/blank.mp4"
+                                            data-src="https://assets.awwwards.com/awards/element/2023/08/64f053dba626c069270583.mp4"
+                                            type="video/mp4">
+                                    </video>
+                                </a>
+                                <div class="figure-rollover__hover">
+                                    <div class="figure-rollover__left">
+                                        <div class="figure-rollover__row"><small>ELEMENT</small></div>
+                                        <div class="figure-rollover__row">
+                                            <h3>Cursor interaction on the logo in the footer</h3>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__right">
+                                        <div class="figure-rollover__bts">
+                                            <a href="https://opalcamera.com/" rel="noopener nofollow"
+                                                target="_blank" class="figure-rollover__bt">
+                                                <svg width="14" height="14" viewBox="0 0 14 14">
+                                                    <path
+                                                        d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z"
+                                                        fill="white" stroke="white"
+                                                        stroke-width="0.542084" />
+                                                </svg>
+                                            </a>
+                                            <span class="figure-rollover__bt"
+                                                data-action="click->collectable#collect">
+                                                <svg width="15" height="18" viewBox="0 0 15 18">
+                                                    <path
+                                                        d="M11.7746 1.00195H3.21618C1.99236 1.00195 0.996094 2.07031 0.996094 3.38268V14.6912C0.996094 15.7744 1.44566 16.5511 2.26154 16.8755C2.47384 16.9603 2.70001 17.002 2.92896 17.002C3.14403 17.002 3.36188 16.9648 3.57278 16.8889C3.78369 16.813 4.24436 16.566 4.38034 16.4916L7.4954 14.2299H7.49678L8.48611 13.5112L7.81592 13.0246L7.49401 12.7925L3.84613 15.4456C3.60608 15.575 3.30776 15.7268 3.21896 15.7595C2.95949 15.8532 2.74996 15.7982 2.64867 15.758C2.39613 15.6568 2.10614 15.4441 2.10614 14.6882V3.37971C2.10614 2.72352 2.60427 2.18934 3.21618 2.18934H11.7746C12.3865 2.18934 12.8847 2.72352 12.8847 3.37971V14.6882C12.8847 15.4441 12.5947 15.6568 12.3421 15.758C12.2408 15.7982 12.0313 15.8532 11.7718 15.7595C11.683 15.7283 11.3847 15.575 11.1447 15.4456L9.92639 14.5587L8.93707 15.2774L10.5508 16.4514L10.6118 16.4901C10.7478 16.5645 11.2085 16.8115 11.4194 16.8874C11.8523 17.0436 12.3172 17.0377 12.7306 16.874C13.5465 16.5481 13.9961 15.7729 13.9961 14.6897V3.38119C13.9947 2.0703 12.9984 1.00195 11.7746 1.00195Z"
+                                                        fill="white" stroke="white"
+                                                        stroke-width="0.542084" />
+                                                </svg>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="figure-rollover__fixed-left">
+
+
+                                    <span class="budget-tag budget-tag---white">video</span>
+                                </div>
+                            </figure>
+
+
+                            <div class="card-slide__info">
+                                <div class="card-slide__row">
+                                    <h3 class="card-slide__title">
+                                        <a
+                                            href="inspiration/cursor-interaction-on-the-logo-in-the-footer.html">Cursor
+                                            interaction on the logo in the footer</a>
+                                    </h3>
+                                    <div class="card-slide__data">
+                                        <small>from</small>
+                                        <a href="elements/mouse_interaction/index.html"
+                                            class="link-underlined" style="color:white">
+                                            Mouse Interaction
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <p>Discover a huge selection of inspiring elements</p>
+                        <ul class="list-elements">
+                            <li>
+
+
+
+
+                                <figure class="figure-rollover js-collectable "
+                                    data-controller="collectable"
+                                    data-collectable-model-value="&#x7B;&quot;collectableIdentifier&quot;&#x3A;&quot;43d29b99-7f5b-47c6-89df-a8f355c405ca&quot;,&quot;collectableImage&quot;&#x3A;&quot;element&#x5C;&#x2F;2023&#x5C;&#x2F;07&#x5C;&#x2F;64b8f4d510379347861479.mp4&quot;,&quot;collectableTitle&quot;&#x3A;&quot;Mouse&#x20;interaction&#x20;effect&quot;,&quot;id&quot;&#x3A;&quot;43d29b99-7f5b-47c6-89df-a8f355c405ca&quot;,&quot;user&quot;&#x3A;&#x7B;&quot;image&quot;&#x3A;&quot;avatar&#x5C;&#x2F;518459&#x5C;&#x2F;646207d0207f6428357435.png&quot;,&quot;username&quot;&#x3A;&quot;Zajno&quot;,&quot;displayName&quot;&#x3A;&quot;Zajno&quot;,&quot;type&quot;&#x3A;&quot;user&quot;&#x7D;,&quot;main_image&quot;&#x3A;&quot;element&#x5C;&#x2F;2023&#x5C;&#x2F;07&#x5C;&#x2F;64b8f4d510379347861479.mp4&quot;,&quot;tags&quot;&#x3A;&#x5B;&quot;filters&quot;,&quot;logo&#x20;effect&quot;,&quot;clean&quot;,&quot;graphic&#x20;design&quot;,&quot;minimal&quot;,&quot;interaction&#x20;design&quot;&#x5D;,&quot;title&quot;&#x3A;&quot;Mouse&#x20;interaction&#x20;effect&quot;,&quot;createdAt&quot;&#x3A;1689842900,&quot;type&quot;&#x3A;&quot;element&quot;&#x7D;">
+                                    <a aria-label="Mouse interaction effect"
+                                        href="inspiration/mouse-interaction-effect.html"
+                                        class="figure-rollover__link " data-controller="preview"
+                                        data-preview-url-value="&#x2F;inspiration&#x2F;mouse-interaction-effect"
+                                        data-action="click->preview#preview">
+                                        <video class="figure-rollover__file lazy"
+                                            poster="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                            data-poster="https://assets.awwwards.com/awards/element/2023/07/64b8f4d510379347861479_static.jpeg"
+                                            data-controller="lazyload-video video-hover" width="417"
+                                            height="298" muted loop preload="none">
+                                            <source src="https://assets.awwwards.com/assets/videos/blank.mp4"
+                                                data-src="https://assets.awwwards.com/awards/element/2023/07/64b8f4d510379347861479.mp4"
+                                                type="video/mp4">
+                                        </video>
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>ELEMENT</small></div>
+                                            <div class="figure-rollover__row">
+                                                <h3>Mouse interaction effect</h3>
+                                            </div>
+                                        </div>
+                                        <div class="figure-rollover__right">
+                                            <div class="figure-rollover__bts">
+                                                <a href="https://zajno.com/" rel="noopener nofollow"
+                                                    target="_blank" class="figure-rollover__bt">
+                                                    <svg width="14" height="14"
+                                                        viewBox="0 0 14 14">
+                                                        <path
+                                                            d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </a>
+                                                <span class="figure-rollover__bt"
+                                                    data-action="click->collectable#collect">
+                                                    <svg width="15" height="18"
+                                                        viewBox="0 0 15 18">
+                                                        <path
+                                                            d="M11.7746 1.00195H3.21618C1.99236 1.00195 0.996094 2.07031 0.996094 3.38268V14.6912C0.996094 15.7744 1.44566 16.5511 2.26154 16.8755C2.47384 16.9603 2.70001 17.002 2.92896 17.002C3.14403 17.002 3.36188 16.9648 3.57278 16.8889C3.78369 16.813 4.24436 16.566 4.38034 16.4916L7.4954 14.2299H7.49678L8.48611 13.5112L7.81592 13.0246L7.49401 12.7925L3.84613 15.4456C3.60608 15.575 3.30776 15.7268 3.21896 15.7595C2.95949 15.8532 2.74996 15.7982 2.64867 15.758C2.39613 15.6568 2.10614 15.4441 2.10614 14.6882V3.37971C2.10614 2.72352 2.60427 2.18934 3.21618 2.18934H11.7746C12.3865 2.18934 12.8847 2.72352 12.8847 3.37971V14.6882C12.8847 15.4441 12.5947 15.6568 12.3421 15.758C12.2408 15.7982 12.0313 15.8532 11.7718 15.7595C11.683 15.7283 11.3847 15.575 11.1447 15.4456L9.92639 14.5587L8.93707 15.2774L10.5508 16.4514L10.6118 16.4901C10.7478 16.5645 11.2085 16.8115 11.4194 16.8874C11.8523 17.0436 12.3172 17.0377 12.7306 16.874C13.5465 16.5481 13.9961 15.7729 13.9961 14.6897V3.38119C13.9947 2.0703 12.9984 1.00195 11.7746 1.00195Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+
+
+                                        <span class="budget-tag budget-tag---white">video</span>
+                                    </div>
+                                </figure>
+
+
+                            </li>
+                            <li>
+
+
+
+
+                                <figure class="figure-rollover js-collectable "
+                                    data-controller="collectable"
+                                    data-collectable-model-value="&#x7B;&quot;collectableIdentifier&quot;&#x3A;&quot;be453d09-d374-449b-8c6b-d9f64a1908b7&quot;,&quot;collectableImage&quot;&#x3A;&quot;element&#x5C;&#x2F;2022&#x5C;&#x2F;12&#x5C;&#x2F;639716b159317787781757.png&quot;,&quot;collectableTitle&quot;&#x3A;&quot;Logo&quot;,&quot;id&quot;&#x3A;&quot;be453d09-d374-449b-8c6b-d9f64a1908b7&quot;,&quot;user&quot;&#x3A;&#x7B;&quot;image&quot;&#x3A;&quot;avatar&#x5C;&#x2F;620478&#x5C;&#x2F;5fcf512c8e149535132525.png&quot;,&quot;username&quot;&#x3A;&quot;Clint_Agency&quot;,&quot;displayName&quot;&#x3A;&quot;Clint&#x20;Agency&quot;,&quot;type&quot;&#x3A;&quot;user&quot;&#x7D;,&quot;main_image&quot;&#x3A;&quot;element&#x5C;&#x2F;2022&#x5C;&#x2F;12&#x5C;&#x2F;639716b159317787781757.png&quot;,&quot;tags&quot;&#x3A;&#x5B;&quot;logo&quot;&#x5D;,&quot;title&quot;&#x3A;&quot;Logo&quot;,&quot;createdAt&quot;&#x3A;1670846129,&quot;type&quot;&#x3A;&quot;element&quot;&#x7D;">
+                                    <a aria-label="Logo" href="inspiration/logo-harvey.html"
+                                        class="figure-rollover__link " data-controller="preview"
+                                        data-preview-url-value="&#x2F;inspiration&#x2F;logo-harvey"
+                                        data-action="click->preview#preview">
+                                        <img class="figure-rollover__file lazy"
+                                            data-controller="lazyload-image"
+                                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                            data-src="https://assets.awwwards.com/awards/element/2022/12/639716b159317787781757.png"
+                                            alt="Logo">
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>ELEMENT</small></div>
+                                            <div class="figure-rollover__row">
+                                                <h3>Logo</h3>
+                                            </div>
+                                        </div>
+                                        <div class="figure-rollover__right">
+                                            <div class="figure-rollover__bts">
+                                                <a href="https://www.harvey.fr/" rel="noopener nofollow"
+                                                    target="_blank" class="figure-rollover__bt">
+                                                    <svg width="14" height="14"
+                                                        viewBox="0 0 14 14">
+                                                        <path
+                                                            d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </a>
+                                                <span class="figure-rollover__bt"
+                                                    data-action="click->collectable#collect">
+                                                    <svg width="15" height="18"
+                                                        viewBox="0 0 15 18">
+                                                        <path
+                                                            d="M11.7746 1.00195H3.21618C1.99236 1.00195 0.996094 2.07031 0.996094 3.38268V14.6912C0.996094 15.7744 1.44566 16.5511 2.26154 16.8755C2.47384 16.9603 2.70001 17.002 2.92896 17.002C3.14403 17.002 3.36188 16.9648 3.57278 16.8889C3.78369 16.813 4.24436 16.566 4.38034 16.4916L7.4954 14.2299H7.49678L8.48611 13.5112L7.81592 13.0246L7.49401 12.7925L3.84613 15.4456C3.60608 15.575 3.30776 15.7268 3.21896 15.7595C2.95949 15.8532 2.74996 15.7982 2.64867 15.758C2.39613 15.6568 2.10614 15.4441 2.10614 14.6882V3.37971C2.10614 2.72352 2.60427 2.18934 3.21618 2.18934H11.7746C12.3865 2.18934 12.8847 2.72352 12.8847 3.37971V14.6882C12.8847 15.4441 12.5947 15.6568 12.3421 15.758C12.2408 15.7982 12.0313 15.8532 11.7718 15.7595C11.683 15.7283 11.3847 15.575 11.1447 15.4456L9.92639 14.5587L8.93707 15.2774L10.5508 16.4514L10.6118 16.4901C10.7478 16.5645 11.2085 16.8115 11.4194 16.8874C11.8523 17.0436 12.3172 17.0377 12.7306 16.874C13.5465 16.5481 13.9961 15.7729 13.9961 14.6897V3.38119C13.9947 2.0703 12.9984 1.00195 11.7746 1.00195Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+
+
+                                    </div>
+                                </figure>
+
+
+                            </li>
+                            <li>
+
+
+
+
+                                <figure class="figure-rollover js-collectable "
+                                    data-controller="collectable"
+                                    data-collectable-model-value="&#x7B;&quot;collectableIdentifier&quot;&#x3A;&quot;c3e55a80-78c1-4973-aa56-a82b5874a38a&quot;,&quot;collectableImage&quot;&#x3A;&quot;element&#x5C;&#x2F;2023&#x5C;&#x2F;02&#x5C;&#x2F;63fd4d090023b365668416.jpg&quot;,&quot;collectableTitle&quot;&#x3A;&quot;Footer&#x20;Logo&#x20;&amp;&#x20;Design&quot;,&quot;id&quot;&#x3A;&quot;c3e55a80-78c1-4973-aa56-a82b5874a38a&quot;,&quot;user&quot;&#x3A;&#x7B;&quot;image&quot;&#x3A;&quot;avatar&#x5C;&#x2F;679488&#x5C;&#x2F;5c1ecdc9a80f1.png&quot;,&quot;username&quot;&#x3A;&quot;nicepeople&quot;,&quot;displayName&quot;&#x3A;&quot;Nice&#x20;People&quot;,&quot;type&quot;&#x3A;&quot;user&quot;&#x7D;,&quot;main_image&quot;&#x3A;&quot;element&#x5C;&#x2F;2023&#x5C;&#x2F;02&#x5C;&#x2F;63fd4d090023b365668416.jpg&quot;,&quot;tags&quot;&#x3A;&#x5B;&quot;footer&quot;,&quot;large&#x20;logo&quot;,&quot;footer&#x20;organization&quot;,&quot;link&#x20;organization&quot;,&quot;branded&#x20;footer&quot;&#x5D;,&quot;title&quot;&#x3A;&quot;Footer&#x20;Logo&#x20;&amp;&#x20;Design&quot;,&quot;createdAt&quot;&#x3A;1677544705,&quot;type&quot;&#x3A;&quot;element&quot;&#x7D;">
+                                    <a aria-label="Footer Logo &amp; Design"
+                                        href="inspiration/footer-logo-design-real-noni.html"
+                                        class="figure-rollover__link " data-controller="preview"
+                                        data-preview-url-value="&#x2F;inspiration&#x2F;footer-logo-design-real-noni"
+                                        data-action="click->preview#preview">
+                                        <img class="figure-rollover__file lazy"
+                                            data-controller="lazyload-image"
+                                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                            data-src="https://assets.awwwards.com/awards/element/2023/02/63fd4d090023b365668416.jpg"
+                                            alt="Footer Logo &amp; Design">
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>ELEMENT</small></div>
+                                            <div class="figure-rollover__row">
+                                                <h3>Footer Logo &amp; Design</h3>
+                                            </div>
+                                        </div>
+                                        <div class="figure-rollover__right">
+                                            <div class="figure-rollover__bts">
+                                                <a href="https://realnoni.com/" rel="noopener nofollow"
+                                                    target="_blank" class="figure-rollover__bt">
+                                                    <svg width="14" height="14"
+                                                        viewBox="0 0 14 14">
+                                                        <path
+                                                            d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </a>
+                                                <span class="figure-rollover__bt"
+                                                    data-action="click->collectable#collect">
+                                                    <svg width="15" height="18"
+                                                        viewBox="0 0 15 18">
+                                                        <path
+                                                            d="M11.7746 1.00195H3.21618C1.99236 1.00195 0.996094 2.07031 0.996094 3.38268V14.6912C0.996094 15.7744 1.44566 16.5511 2.26154 16.8755C2.47384 16.9603 2.70001 17.002 2.92896 17.002C3.14403 17.002 3.36188 16.9648 3.57278 16.8889C3.78369 16.813 4.24436 16.566 4.38034 16.4916L7.4954 14.2299H7.49678L8.48611 13.5112L7.81592 13.0246L7.49401 12.7925L3.84613 15.4456C3.60608 15.575 3.30776 15.7268 3.21896 15.7595C2.95949 15.8532 2.74996 15.7982 2.64867 15.758C2.39613 15.6568 2.10614 15.4441 2.10614 14.6882V3.37971C2.10614 2.72352 2.60427 2.18934 3.21618 2.18934H11.7746C12.3865 2.18934 12.8847 2.72352 12.8847 3.37971V14.6882C12.8847 15.4441 12.5947 15.6568 12.3421 15.758C12.2408 15.7982 12.0313 15.8532 11.7718 15.7595C11.683 15.7283 11.3847 15.575 11.1447 15.4456L9.92639 14.5587L8.93707 15.2774L10.5508 16.4514L10.6118 16.4901C10.7478 16.5645 11.2085 16.8115 11.4194 16.8874C11.8523 17.0436 12.3172 17.0377 12.7306 16.874C13.5465 16.5481 13.9961 15.7729 13.9961 14.6897V3.38119C13.9947 2.0703 12.9984 1.00195 11.7746 1.00195Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+
+
+                                    </div>
+                                </figure>
+
+
+                            </li>
+                            <li>
+
+
+
+
+                                <figure class="figure-rollover js-collectable "
+                                    data-controller="collectable"
+                                    data-collectable-model-value="&#x7B;&quot;collectableIdentifier&quot;&#x3A;&quot;6a13d0c0-c9c4-4ceb-84e9-e461fb695377&quot;,&quot;collectableImage&quot;&#x3A;&quot;element&#x5C;&#x2F;2022&#x5C;&#x2F;04&#x5C;&#x2F;625016528d829308312017.png&quot;,&quot;collectableTitle&quot;&#x3A;&quot;Footer&#x20;design&quot;,&quot;id&quot;&#x3A;&quot;6a13d0c0-c9c4-4ceb-84e9-e461fb695377&quot;,&quot;user&quot;&#x3A;&#x7B;&quot;image&quot;&#x3A;&quot;avatar&#x5C;&#x2F;965022&#x5C;&#x2F;614d9fa516e48664985959.png&quot;,&quot;username&quot;&#x3A;&quot;antinomy&quot;,&quot;displayName&quot;&#x3A;&quot;Antinomy&#x20;Studio&quot;,&quot;type&quot;&#x3A;&quot;user&quot;&#x7D;,&quot;main_image&quot;&#x3A;&quot;element&#x5C;&#x2F;2022&#x5C;&#x2F;04&#x5C;&#x2F;625016528d829308312017.png&quot;,&quot;tags&quot;&#x3A;&#x5B;&quot;footer&quot;,&quot;clean&quot;,&quot;hero&#x20;logo&quot;,&quot;brand&quot;&#x5D;,&quot;title&quot;&#x3A;&quot;Footer&#x20;design&quot;,&quot;createdAt&quot;&#x3A;1649415227,&quot;type&quot;&#x3A;&quot;element&quot;&#x7D;">
+                                    <a aria-label="Footer design" href="inspiration/footer-design-1.html"
+                                        class="figure-rollover__link " data-controller="preview"
+                                        data-preview-url-value="&#x2F;inspiration&#x2F;footer-design-1"
+                                        data-action="click->preview#preview">
+                                        <img class="figure-rollover__file lazy"
+                                            data-controller="lazyload-image"
+                                            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAQAAADB7vUKAAAAEUlEQVR42mNkIAAYRxXQSwEAC5oADbo22BYAAAAASUVORK5CYII="
+                                            data-src="https://assets.awwwards.com/awards/element/2022/04/625016528d829308312017.png"
+                                            alt="Footer design">
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>ELEMENT</small></div>
+                                            <div class="figure-rollover__row">
+                                                <h3>Footer design</h3>
+                                            </div>
+                                        </div>
+                                        <div class="figure-rollover__right">
+                                            <div class="figure-rollover__bts">
+                                                <a href="http://blokwatches.com/" rel="noopener nofollow"
+                                                    target="_blank" class="figure-rollover__bt">
+                                                    <svg width="14" height="14"
+                                                        viewBox="0 0 14 14">
+                                                        <path
+                                                            d="M10.8101 1.96222L0.726954 12.0453L1.66171 12.9801L11.7448 2.89698L11.9344 9.4447L13.208 9.07311L13.0134 2.35278C12.9877 1.46249 12.2434 0.718185 11.3531 0.692412L4.80762 0.502924L4.43487 1.77539L10.8101 1.96222Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </a>
+                                                <span class="figure-rollover__bt"
+                                                    data-action="click->collectable#collect">
+                                                    <svg width="15" height="18"
+                                                        viewBox="0 0 15 18">
+                                                        <path
+                                                            d="M11.7746 1.00195H3.21618C1.99236 1.00195 0.996094 2.07031 0.996094 3.38268V14.6912C0.996094 15.7744 1.44566 16.5511 2.26154 16.8755C2.47384 16.9603 2.70001 17.002 2.92896 17.002C3.14403 17.002 3.36188 16.9648 3.57278 16.8889C3.78369 16.813 4.24436 16.566 4.38034 16.4916L7.4954 14.2299H7.49678L8.48611 13.5112L7.81592 13.0246L7.49401 12.7925L3.84613 15.4456C3.60608 15.575 3.30776 15.7268 3.21896 15.7595C2.95949 15.8532 2.74996 15.7982 2.64867 15.758C2.39613 15.6568 2.10614 15.4441 2.10614 14.6882V3.37971C2.10614 2.72352 2.60427 2.18934 3.21618 2.18934H11.7746C12.3865 2.18934 12.8847 2.72352 12.8847 3.37971V14.6882C12.8847 15.4441 12.5947 15.6568 12.3421 15.758C12.2408 15.7982 12.0313 15.8532 11.7718 15.7595C11.683 15.7283 11.3847 15.575 11.1447 15.4456L9.92639 14.5587L8.93707 15.2774L10.5508 16.4514L10.6118 16.4901C10.7478 16.5645 11.2085 16.8115 11.4194 16.8874C11.8523 17.0436 12.3172 17.0377 12.7306 16.874C13.5465 16.5481 13.9961 15.7729 13.9961 14.6897V3.38119C13.9947 2.0703 12.9984 1.00195 11.7746 1.00195Z"
+                                                            fill="white" stroke="white"
+                                                            stroke-width="0.542084" />
+                                                    </svg>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+
+
+                                    </div>
+                                </figure>
+
+
+                            </li>
+                        </ul>
+                        <div class="c-view-all">
+                            <div class="c-view-all__row text-medium">
+                                <a href="elements/index.html" class="bt-ico-left">
+                                    <svg class="ico-svg" viewbox="0 0 20 20" width="16">
+                                        <use xlink:href="assets/redesign/images/sprite-icons.svg#arrow"></use>
+                                    </svg>
+
+                                    <strong class="link-underlined link-underlined--white">View All
+                                        Elements</strong>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> --}}
     </div>
-    <!-- /.Banner Section -->
+
+    {{-- <div class="anchor-section" id="collections">
+        <div class="block">
+            <div class="inner">
+                <div class="c-heading">
+                    <div class="c-heading__top">
+                        <h2 class="text-default">Collections</h2>
+                    </div>
+                    <div class="c-heading__middle">
+                        <h3 class="heading-5">Explore a wide <br>variety of collections.</h3>
+                    </div>
+                </div>
+                <div class="swiper slider-sites" data-controller="swiper"
+                    data-swiper-configuration-value="slider_3">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+
+
+                            <div class="card-slide " id="584537dce1382321895a7ade">
+                                <figure class="figure-rollover is-large"
+                                    data-model="{&quot;id&quot;:&quot;584537dce1382321895a7ade&quot;,&quot;name&quot;:&quot;Menu Inspiration&quot;,&quot;description&quot;:&quot;A menu is the principal UI interaction element that groups the navigation, guiding the user to their desired content on the website.&quot;,&quot;user&quot;:{&quot;country&quot;:&quot;&quot;,&quot;photo&quot;:&quot;avatar\/57289\/620f55adbdb42025477900.png&quot;,&quot;id&quot;:57289,&quot;display_name&quot;:&quot;awwwards.&quot;,&quot;order&quot;:11,&quot;username&quot;:&quot;awwwards&quot;},&quot;slug&quot;:&quot;menu&quot;,&quot;category&quot;:{&quot;name&quot;:&quot;UX\/UI&quot;,&quot;slug&quot;:&quot;ux-ui&quot;},&quot;followers_count&quot;:2194,&quot;collaborators&quot;:[],&quot;private&quot;:false,&quot;like&quot;:false,&quot;createdAt&quot;:1480931292,&quot;type&quot;:&quot;collection&quot;}">
+
+                                    <a aria-label="View Collection" class="figure-rollover__link"
+                                        href="awwwards/collections/menu/index.html">
+                                        <video
+                                            poster="https://assets.awwwards.com/awards/images/2020/05/menu-collection-5_static.jpeg"
+                                            data-controller="lazyload-video video-hover"
+                                            class="figure-rollover__file lazy" width="417"
+                                            height="298" muted loop>
+                                            <source src="https://assets.awwwards.com/assets/videos/blank.mp4"
+                                                data-src="https://assets.awwwards.com/awards/images/2020/05/menu-collection-5.mp4"
+                                                type="video/mp4">
+                                        </video>
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>COLLECTION</small></div>
+                                            <div class="figure-rollover__row">
+                                                <span class="js-category-collection">UX/UI</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+                                    </div>
+
+                                </figure>
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="awwwards/collections/menu/index.html">
+                                                <span class="js-title-collection">Menu Inspiration</span>
+                                            </a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>followed by</small>
+
+                                            <div class="users-credits ">
+                                                <ul class="users-credits__cards">
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user8.jpg"
+                                                                width="32" height="32"
+                                                                alt="Arthur Bakhmetiev" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user6.jpg"
+                                                                width="32" height="32"
+                                                                alt="rina." />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user7.jpg"
+                                                                width="32" height="32"
+                                                                alt="xuanquang-pham" />
+                                                        </figure>
+                                                    </li>
+                                                </ul>
+                                                <div class="users-credits__number">
+                                                    <strong>+2191</strong>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+
+                            <div class="card-slide " id="57dbd6f5e1382304a95756e1">
+                                <figure class="figure-rollover is-large"
+                                    data-model="{&quot;id&quot;:&quot;57dbd6f5e1382304a95756e1&quot;,&quot;name&quot;:&quot;Transitions&quot;,&quot;description&quot;:&quot;Transitions are the animated changes between two pages, states or views to provide visual continuity to the user interface. Transitions can use any kind of visual effects and motion techniques like fade, slide, fold, scale, or mask transitions.&quot;,&quot;user&quot;:{&quot;country&quot;:&quot;&quot;,&quot;photo&quot;:&quot;avatar\/57289\/620f55adbdb42025477900.png&quot;,&quot;id&quot;:57289,&quot;display_name&quot;:&quot;awwwards.&quot;,&quot;order&quot;:27,&quot;username&quot;:&quot;awwwards&quot;},&quot;slug&quot;:&quot;transitions&quot;,&quot;category&quot;:{&quot;name&quot;:&quot;UX\/UI&quot;,&quot;slug&quot;:&quot;ux-ui&quot;},&quot;followers_count&quot;:1768,&quot;collaborators&quot;:[],&quot;private&quot;:false,&quot;like&quot;:false,&quot;createdAt&quot;:1474025205,&quot;type&quot;:&quot;collection&quot;}">
+
+                                    <a aria-label="View Collection" class="figure-rollover__link"
+                                        href="awwwards/collections/transitions/index.html">
+                                        <img class="figure-rollover__file"
+                                            src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 16 12&#039; %3E%3C/svg%3E"
+                                            data-controller="lazyload-image" alt="Transitions"
+                                            data-src="https://assets.awwwards.com/awards/images/2018/07/TRANSITIONS.jpg"
+                                            class="lazy " />
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>COLLECTION</small></div>
+                                            <div class="figure-rollover__row">
+                                                <span class="js-category-collection">UX/UI</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+                                    </div>
+
+                                </figure>
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="awwwards/collections/transitions/index.html">
+                                                <span class="js-title-collection">Transitions</span>
+                                            </a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>followed by</small>
+
+                                            <div class="users-credits ">
+                                                <ul class="users-credits__cards">
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user3.jpg"
+                                                                width="32" height="32"
+                                                                alt="rodrigo-bins" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user8.jpg"
+                                                                width="32" height="32"
+                                                                alt="abdurrohim-syahruromadhon" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user2.jpg"
+                                                                width="32" height="32"
+                                                                alt="frustak" />
+                                                        </figure>
+                                                    </li>
+                                                </ul>
+                                                <div class="users-credits__number">
+                                                    <strong>+1765</strong>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+
+                            <div class="card-slide " id="58356933e138233fc1116ca1">
+                                <figure class="figure-rollover is-large"
+                                    data-model="{&quot;id&quot;:&quot;58356933e138233fc1116ca1&quot;,&quot;name&quot;:&quot;The Best of Navigation&quot;,&quot;description&quot;:&quot;Examples of Innovative Navigation for Your Inspiration&quot;,&quot;user&quot;:{&quot;country&quot;:&quot;&quot;,&quot;photo&quot;:&quot;avatar\/57289\/620f55adbdb42025477900.png&quot;,&quot;id&quot;:57289,&quot;display_name&quot;:&quot;awwwards.&quot;,&quot;order&quot;:62,&quot;username&quot;:&quot;awwwards&quot;},&quot;slug&quot;:&quot;the-best-of-navigation&quot;,&quot;category&quot;:{&quot;name&quot;:&quot;UX\/UI&quot;,&quot;slug&quot;:&quot;ux-ui&quot;},&quot;followers_count&quot;:1938,&quot;collaborators&quot;:[],&quot;private&quot;:false,&quot;like&quot;:false,&quot;createdAt&quot;:1479895347,&quot;type&quot;:&quot;collection&quot;}">
+
+                                    <a aria-label="View Collection" class="figure-rollover__link"
+                                        href="awwwards/collections/the-best-of-navigation/index.html">
+                                        <img class="figure-rollover__file"
+                                            src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 16 12&#039; %3E%3C/svg%3E"
+                                            data-controller="lazyload-image" alt="The Best of Navigation"
+                                            data-src="https://assets.awwwards.com/awards/images/2018/08/trans.jpg"
+                                            class="lazy " />
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>COLLECTION</small></div>
+                                            <div class="figure-rollover__row">
+                                                <span class="js-category-collection">UX/UI</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+                                    </div>
+
+                                </figure>
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="awwwards/collections/the-best-of-navigation/index.html">
+                                                <span class="js-title-collection">The Best of
+                                                    Navigation</span>
+                                            </a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>followed by</small>
+
+                                            <div class="users-credits ">
+                                                <ul class="users-credits__cards">
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/390845/63e386d0a0a59387626527.png"
+                                                                width="32" height="32"
+                                                                alt="Stian Bjørhovde" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user1.jpg"
+                                                                width="32" height="32"
+                                                                alt="nazes-wqdgvj" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user7.jpg"
+                                                                width="32" height="32"
+                                                                alt="nicole-sassi" />
+                                                        </figure>
+                                                    </li>
+                                                </ul>
+                                                <div class="users-credits__number">
+                                                    <strong>+1935</strong>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+
+                            <div class="card-slide " id="57c94f11e138231a830bbc41">
+                                <figure class="figure-rollover is-large"
+                                    data-model="{&quot;id&quot;:&quot;57c94f11e138231a830bbc41&quot;,&quot;name&quot;:&quot;UI Animation and Microinteractions&quot;,&quot;description&quot;:&quot;These prime examples use Canvas, SVG, CSS3, WebGL and more to enhance visual content.&quot;,&quot;user&quot;:{&quot;country&quot;:&quot;&quot;,&quot;photo&quot;:&quot;avatar\/57289\/620f55adbdb42025477900.png&quot;,&quot;id&quot;:57289,&quot;display_name&quot;:&quot;awwwards.&quot;,&quot;order&quot;:17,&quot;username&quot;:&quot;awwwards&quot;},&quot;slug&quot;:&quot;animation&quot;,&quot;category&quot;:{&quot;name&quot;:&quot;Inspiration&quot;,&quot;slug&quot;:&quot;inspiration&quot;},&quot;followers_count&quot;:1505,&quot;collaborators&quot;:[],&quot;private&quot;:false,&quot;like&quot;:false,&quot;createdAt&quot;:1472810769,&quot;type&quot;:&quot;collection&quot;}">
+
+                                    <a aria-label="View Collection" class="figure-rollover__link"
+                                        href="awwwards/collections/animation/index.html">
+                                        <img class="figure-rollover__file"
+                                            src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 16 12&#039; %3E%3C/svg%3E"
+                                            data-controller="lazyload-image"
+                                            alt="UI Animation and Microinteractions"
+                                            data-src="https://assets.awwwards.com/awards/images/2020/05/microinteraction-collection-2.jpg"
+                                            class="lazy " />
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>COLLECTION</small></div>
+                                            <div class="figure-rollover__row">
+                                                <span class="js-category-collection">Inspiration</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+                                    </div>
+
+                                </figure>
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="awwwards/collections/animation/index.html">
+                                                <span class="js-title-collection">UI Animation and
+                                                    Microinter...</span>
+                                            </a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>followed by</small>
+
+                                            <div class="users-credits ">
+                                                <ul class="users-credits__cards">
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user7.jpg"
+                                                                width="32" height="32"
+                                                                alt="ko-su" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user7.jpg"
+                                                                width="32" height="32"
+                                                                alt="nicole-sassi" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user2.jpg"
+                                                                width="32" height="32"
+                                                                alt="james-hollis-1" />
+                                                        </figure>
+                                                    </li>
+                                                </ul>
+                                                <div class="users-credits__number">
+                                                    <strong>+1502</strong>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+
+                            <div class="card-slide " id="587fa3e1e1382326bf218f2a">
+                                <figure class="figure-rollover is-large"
+                                    data-model="{&quot;id&quot;:&quot;587fa3e1e1382326bf218f2a&quot;,&quot;name&quot;:&quot;Typography in Web Design&quot;,&quot;description&quot;:&quot;Best Examples of Typography in Web Design&quot;,&quot;user&quot;:{&quot;country&quot;:&quot;&quot;,&quot;photo&quot;:&quot;avatar\/57289\/620f55adbdb42025477900.png&quot;,&quot;id&quot;:57289,&quot;display_name&quot;:&quot;awwwards.&quot;,&quot;order&quot;:64,&quot;username&quot;:&quot;awwwards&quot;},&quot;slug&quot;:&quot;typography-in-web-design&quot;,&quot;category&quot;:{&quot;name&quot;:&quot;Inspiration&quot;,&quot;slug&quot;:&quot;inspiration&quot;},&quot;followers_count&quot;:1245,&quot;collaborators&quot;:[],&quot;private&quot;:false,&quot;like&quot;:false,&quot;createdAt&quot;:1484760033,&quot;type&quot;:&quot;collection&quot;}">
+
+                                    <a aria-label="View Collection" class="figure-rollover__link"
+                                        href="awwwards/collections/typography-in-web-design/index.html">
+                                        <img class="figure-rollover__file"
+                                            src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 16 12&#039; %3E%3C/svg%3E"
+                                            data-controller="lazyload-image" alt="Typography in Web Design"
+                                            data-src="https://assets.awwwards.com/awards/images/2020/05/typo-collection.jpg"
+                                            class="lazy " />
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>COLLECTION</small></div>
+                                            <div class="figure-rollover__row">
+                                                <span class="js-category-collection">Inspiration</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+                                    </div>
+
+                                </figure>
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a
+                                                href="awwwards/collections/typography-in-web-design/index.html">
+                                                <span class="js-title-collection">Typography in Web
+                                                    Design</span>
+                                            </a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>followed by</small>
+
+                                            <div class="users-credits ">
+                                                <ul class="users-credits__cards">
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user2.jpg"
+                                                                width="32" height="32"
+                                                                alt="p-a" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1869027/64dbb7b59de25921891959.png"
+                                                                width="32" height="32"
+                                                                alt="Wendel Anthuny" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/2129071/64f99a1af23a6727007176.png"
+                                                                width="32" height="32"
+                                                                alt="Zero One Design" />
+                                                        </figure>
+                                                    </li>
+                                                </ul>
+                                                <div class="users-credits__number">
+                                                    <strong>+1242</strong>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+
+                            <div class="card-slide " id="590ae1f9e13823524f3624b6">
+                                <figure class="figure-rollover is-large"
+                                    data-model="{&quot;id&quot;:&quot;590ae1f9e13823524f3624b6&quot;,&quot;name&quot;:&quot;Hovers, Cursors and Cute Interactions&quot;,&quot;description&quot;:&quot;Hovers, Cursors, Animations, Interactions,RollOvers&quot;,&quot;user&quot;:{&quot;country&quot;:&quot;&quot;,&quot;photo&quot;:&quot;avatar\/57289\/620f55adbdb42025477900.png&quot;,&quot;id&quot;:57289,&quot;display_name&quot;:&quot;awwwards.&quot;,&quot;order&quot;:4,&quot;username&quot;:&quot;awwwards&quot;},&quot;slug&quot;:&quot;hovers-cursors-and-cute-interactions&quot;,&quot;category&quot;:{&quot;name&quot;:&quot;UX\/UI&quot;,&quot;slug&quot;:&quot;ux-ui&quot;},&quot;followers_count&quot;:1275,&quot;collaborators&quot;:[],&quot;private&quot;:false,&quot;like&quot;:false,&quot;createdAt&quot;:1493885433,&quot;type&quot;:&quot;collection&quot;}">
+
+                                    <a aria-label="View Collection" class="figure-rollover__link"
+                                        href="awwwards/collections/hovers-cursors-and-cute-interactions/index.html">
+                                        <img class="figure-rollover__file"
+                                            src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 16 12&#039; %3E%3C/svg%3E"
+                                            data-controller="lazyload-image"
+                                            alt="Hovers, Cursors and Cute Interactions"
+                                            data-src="https://assets.awwwards.com/awards/images/2020/05/cursor-collection.jpg"
+                                            class="lazy " />
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>COLLECTION</small></div>
+                                            <div class="figure-rollover__row">
+                                                <span class="js-category-collection">UX/UI</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+                                    </div>
+
+                                </figure>
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a
+                                                href="awwwards/collections/hovers-cursors-and-cute-interactions/index.html">
+                                                <span class="js-title-collection">Hovers, Cursors and Cute
+                                                    In...</span>
+                                            </a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>followed by</small>
+
+                                            <div class="users-credits ">
+                                                <ul class="users-credits__cards">
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user3.jpg"
+                                                                width="32" height="32"
+                                                                alt="Andrea Sabatini" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/avatar/1420487/64fac94e79312501982579.jpeg"
+                                                                width="32" height="32"
+                                                                alt="melanie-linehan" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user7.jpg"
+                                                                width="32" height="32"
+                                                                alt="nicole-sassi" />
+                                                        </figure>
+                                                    </li>
+                                                </ul>
+                                                <div class="users-credits__number">
+                                                    <strong>+1272</strong>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+
+                            <div class="card-slide " id="57dac179e1382350911593e1">
+                                <figure class="figure-rollover is-large"
+                                    data-model="{&quot;id&quot;:&quot;57dac179e1382350911593e1&quot;,&quot;name&quot;:&quot;Loading Animations&quot;,&quot;description&quot;:&quot;A page or animated element which shows the progress of the loading process.&quot;,&quot;user&quot;:{&quot;country&quot;:&quot;&quot;,&quot;photo&quot;:&quot;avatar\/57289\/620f55adbdb42025477900.png&quot;,&quot;id&quot;:57289,&quot;display_name&quot;:&quot;awwwards.&quot;,&quot;order&quot;:35,&quot;username&quot;:&quot;awwwards&quot;},&quot;slug&quot;:&quot;loading-page&quot;,&quot;category&quot;:{&quot;name&quot;:&quot;UX\/UI&quot;,&quot;slug&quot;:&quot;ux-ui&quot;},&quot;followers_count&quot;:1291,&quot;collaborators&quot;:[],&quot;private&quot;:false,&quot;like&quot;:false,&quot;createdAt&quot;:1473954169,&quot;type&quot;:&quot;collection&quot;}">
+
+                                    <a aria-label="View Collection" class="figure-rollover__link"
+                                        href="awwwards/collections/loading-page/index.html">
+                                        <img class="figure-rollover__file"
+                                            src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 16 12&#039; %3E%3C/svg%3E"
+                                            data-controller="lazyload-image" alt="Loading Animations"
+                                            data-src="https://assets.awwwards.com/awards/images/2020/05/loading-collection-2.jpg"
+                                            class="lazy " />
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>COLLECTION</small></div>
+                                            <div class="figure-rollover__row">
+                                                <span class="js-category-collection">UX/UI</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+                                    </div>
+
+                                </figure>
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="awwwards/collections/loading-page/index.html">
+                                                <span class="js-title-collection">Loading Animations</span>
+                                            </a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>followed by</small>
+
+                                            <div class="users-credits ">
+                                                <ul class="users-credits__cards">
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user3.jpg"
+                                                                width="32" height="32"
+                                                                alt="rodrigo-bins" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user4.jpg"
+                                                                width="32" height="32"
+                                                                alt="yasser-hemeda" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user5.jpg"
+                                                                width="32" height="32"
+                                                                alt="Emmanuel Katto" />
+                                                        </figure>
+                                                    </li>
+                                                </ul>
+                                                <div class="users-credits__number">
+                                                    <strong>+1288</strong>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="swiper-slide">
+
+
+                            <div class="card-slide " id="57e240e1e13823064d486ea1">
+                                <figure class="figure-rollover is-large"
+                                    data-model="{&quot;id&quot;:&quot;57e240e1e13823064d486ea1&quot;,&quot;name&quot;:&quot;CSS &amp; JS Animations&quot;,&quot;description&quot;:&quot;Examples of stunning CSS3 and Javascript animation examples. Featuring UI elements, scroll triggered animations, SVG and much more.&quot;,&quot;user&quot;:{&quot;country&quot;:&quot;&quot;,&quot;photo&quot;:&quot;avatar\/57289\/620f55adbdb42025477900.png&quot;,&quot;id&quot;:57289,&quot;display_name&quot;:&quot;awwwards.&quot;,&quot;order&quot;:23,&quot;username&quot;:&quot;awwwards&quot;},&quot;slug&quot;:&quot;css-js-animations&quot;,&quot;category&quot;:{&quot;name&quot;:&quot;Web Technology&quot;,&quot;slug&quot;:&quot;web-technology&quot;},&quot;followers_count&quot;:1024,&quot;collaborators&quot;:[],&quot;private&quot;:false,&quot;like&quot;:false,&quot;createdAt&quot;:1474445537,&quot;type&quot;:&quot;collection&quot;}">
+
+                                    <a aria-label="View Collection" class="figure-rollover__link"
+                                        href="awwwards/collections/css-js-animations/index.html">
+                                        <video
+                                            poster="https://assets.awwwards.com/awards/element/2023/09/64f719efa1b12532185307_static.jpeg"
+                                            data-controller="lazyload-video video-hover"
+                                            class="figure-rollover__file lazy" width="417"
+                                            height="298" muted loop>
+                                            <source src="https://assets.awwwards.com/assets/videos/blank.mp4"
+                                                data-src="https://assets.awwwards.com/awards/element/2023/09/64f719efa1b12532185307.mp4"
+                                                type="video/mp4">
+                                        </video>
+                                    </a>
+                                    <div class="figure-rollover__hover">
+                                        <div class="figure-rollover__left">
+                                            <div class="figure-rollover__row"><small>COLLECTION</small></div>
+                                            <div class="figure-rollover__row">
+                                                <span class="js-category-collection">Web Technology</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="figure-rollover__fixed-left">
+                                    </div>
+
+                                </figure>
+
+                                <div class="card-slide__info">
+                                    <div class="card-slide__row">
+                                        <h3 class="card-slide__title">
+                                            <a href="awwwards/collections/css-js-animations/index.html">
+                                                <span class="js-title-collection">CSS &amp; JS
+                                                    Animations</span>
+                                            </a>
+                                        </h3>
+                                        <div class="card-slide__data">
+                                            <small>followed by</small>
+
+                                            <div class="users-credits ">
+                                                <ul class="users-credits__cards">
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user4.jpg"
+                                                                width="32" height="32"
+                                                                alt="yasser-hemeda" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user3.jpg"
+                                                                width="32" height="32"
+                                                                alt="mehedi-hasan-masum" />
+                                                        </figure>
+                                                    </li>
+                                                    <li class="users-credits__item">
+                                                        <figure class="avatar-name ">
+                                                            <img class="circle-avatar__img"
+                                                                src="https://assets.awwwards.com/awards/media/cache/thumb_user_70/default/user5.jpg"
+                                                                width="32" height="32"
+                                                                alt="Emmanuel Katto" />
+                                                        </figure>
+                                                    </li>
+                                                </ul>
+                                                <div class="users-credits__number">
+                                                    <strong>+1021</strong>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="slider-sites__nav">
+                        <div class="button button--small--outline--circle js-slider-sites-prev">
+                            <svg width="8" height="12" viewBox="0 0 8 12">
+                                <path
+                                    d="M3.37879 6.64083L2.74979 6.01183L3.37879 5.37654L7.64341 1.11193L6.75652 0.218751L1.85661 5.11865L0.969726 6.00554L2.4919 7.52772L6.75652 11.7923L7.64341 10.9054L3.37879 6.64083Z" />
+                            </svg>
+                        </div>
+
+                        <div class="button button--small--outline--circle js-slider-sites-next">
+                            <svg width="8" height="13" viewBox="0 0 8 13">
+                                <path
+                                    d="M5.13292 5.61893L5.76192 6.24793L5.13292 6.88322L0.86831 11.1478L1.7552 12.041L6.6551 7.14111L7.54199 6.25422L6.01981 4.73204L1.7552 0.467429L0.86831 1.35432L5.13292 5.61893Z" />
+                            </svg>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="c-view-all">
+                    <div class="c-view-all__row  text-medium">
+                        <span>Find inspiration for your projects</span>
+                        <a href="collections/index.html" class="bt-ico-left">
+                            <svg class="ico-svg" viewbox="0 0 20 20" width="16">
+                                <use xlink:href="assets/redesign/images/sprite-icons.svg#arrow"></use>
+                            </svg>
+
+                            <strong class="link-underlined">View Collections</strong>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> --}}
+
+
+
+
+    <div class="anchor-section" id="recomendations">
+        <div class="block">
+            <div class="inner">
+                <ul class="list-recommendation">
+                    <li>
+                        <div class="card-recommendation">
+                            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 16 12&#039; %3E%3C/svg%3E"
+                                data-controller="lazyload-image" class="card-recommendation__bg lazy"
+                                data-src="https://assets.awwwards.com/assets/redesign/images/pages/home/submit.jpg"
+                                alt="Submit your website for visibility and recognition">
+                            <div class="card-recommendation__content">
+                                <p>Share your work</p>
+                                <h3 class="heading-5 card-recommendation__title">Submit your website for
+                                    visibility and recognition</h3>
+                                <a href="submit/index.html" class="button button--large--outline--rounded">
+                                    Submit Website
+                                </a>
+                            </div>
+                            <div class="card-recommendation__footer">
+                                Got questions? Read our <a class="link-underlined link-underlined--white"
+                                    href="faqs/index.html">FAQs</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="card-recommendation">
+                            <img src="data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; viewBox=&#039;0 0 16 12&#039; %3E%3C/svg%3E"
+                                data-controller="lazyload-image" class="card-recommendation__bg lazy"
+                                data-src="https://assets.awwwards.com/assets/redesign/images/pages/home/member.jpg"
+                                alt="Get access to special pro features">
+                            <div class="card-recommendation__content">
+                                <p>Be a member</p>
+                                <h3 class="heading-5 card-recommendation__title">Get access to special pro
+                                    features</h3>
+                                <a href="plans/user-plans.html"
+                                    class="button button--large--outline--rounded">
+                                    Be Pro
+                                </a>
+                            </div>
+                            <div class="card-recommendation__footer">
+                                Got questions? Read our <a class="link-underlined link-underlined--white"
+                                    href="faqs/index.html">FAQs</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="menu-float  js-menufloat-show  ">
+        <div class="inner">
+            <div class="menu-float__inner">
+
+                <div class="bt-nav bt-nav--left js-gototop">
+                    <svg width="18" height="22" viewBox="0 0 18 22" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                            d="M8.69899 3.08174L7.76441 4.02584L7.75493 4.0258L1.3542 10.4265L0.0117182 9.08405L6.41245 2.68332L8.69707 0.398693L10.0396 1.74118L17.4565 9.15817L16.1159 10.4893L9.66059 4.0339L8.69899 3.08174ZM8.22508 5.69881L10.4911 7.2949L10.5527 21.8672L8.29342 21.8576L8.22508 5.69881Z"
+                            fill="white" />
+                    </svg>
+                </div>
+
+                <div class="menu-float__wrapper">
+                    <div class="menu-float__top">
+                        <div class="menu-float__menu menu-main" id="menu-main">
+                            <div class="menu-float__menu-content">
+                                <div class="menu-float__menu--main">
+                                    <div class="menu-float__menu-col style-2 ">
+                                        <div class="menu-float__menu-section">Awards</div>
+                                        <ul class="menu-float__menu-nav">
+                                            <li>
+                                                <a href="websites/index.html"
+                                                    class="menu-float__sub-item ">Winners
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="websites/nominees/index.html"
+                                                    class="menu-float__sub-item ">
+                                                    Nominees
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="websites/sites_of_the_day/index.html"
+                                                    class="menu-float__sub-item">
+                                                    Sites of the Day
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="websites/sites_of_the_month/index.html"
+                                                    class="menu-float__sub-item">
+                                                    Sites of the Month
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="menu-float__menu-col style-1">
+                                        <div class="menu-float__menu-row style-1 ">
+                                            <div class="menu-float__menu-section">Inspiration</div>
+                                            <ul class="menu-float__menu-nav">
+                                                <li>
+                                                    <a href="collections/index.html"
+                                                        class="menu-float__sub-item">
+                                                        Collections
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="elements/index.html"
+                                                        class="menu-float__sub-item">
+                                                        Elements
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="menu-float__menu-row style-1">
+                                            <div class="menu-float__menu-section">Academy</div>
+                                            <ul class="menu-float__menu-nav">
+                                                <li>
+                                                    <a href="academy/index.html"
+                                                        class="menu-float__sub-item">
+                                                        Courses
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="masterclasses/index.html"
+                                                        class="menu-float__sub-item">
+                                                        Masterclasses
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="menu-float__menu-col style-1 ">
+                                        <div class="menu-float__menu-row style-1 ">
+                                            <div class="menu-float__menu-section">Directory</div>
+                                            <ul class="menu-float__menu-nav">
+                                                <li>
+                                                    <a href="directory/homepage/index.html"
+                                                        class="menu-float__sub-item ">
+                                                        Professionals
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="directory/international/index.html"
+                                                        class="menu-float__sub-item">
+                                                        Internationals
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="directory/freelance/index.html"
+                                                        class="menu-float__sub-item">
+                                                        Freelancers
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="directory/agency-studio/index.html"
+                                                        class="menu-float__sub-item ">
+                                                        Agencies & Studios
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="menu-float__menu-col style-1 ">
+                                        <div class="menu-float__menu-row style-1 ">
+                                            <div class="menu-float__menu-section">w.</div>
+                                            <ul class="menu-float__menu-nav">
+                                                <li>
+                                                    <a href="blog/index.html" class="menu-float__sub-item">
+                                                        Blog
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="jobs/index.html" class="menu-float__sub-item">
+                                                        Jobs
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="official-jury/index.html"
+                                                        class="menu-float__sub-item ">
+                                                        Jury
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="menu-float__menu-row style-1">
+                                            <div class="menu-float__menu-section">Market</div>
+                                            <ul class="menu-float__menu-nav">
+                                                <li>
+                                                    <a href="market/index.html"
+                                                        class="menu-float__sub-item ">Products &nbsp;<span
+                                                            class="budget-tag budget-tag--solid--white">New</span></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="menu-float__menu" id="menu-filters">
+                            <div class="menu-float__menu-content">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="menu-float__bottom">
+                        <div class="menu-float__layout menu-float__layout--primary">
+                            <div class="menu-float__content">
+                                <a href="index.html" class="menu-float__logo">w.</a>
+                                <div class="menu-float__breadcrumb">
+                                    <strong class="menu-float__title ">home</strong>
+                                </div>
+                                <div class="menu-float__hamburger js-menufloat-hamburger">
+                                    <div></div>
+                                    <div></div>
+                                    <div></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="menu-float__layout menu-float__layout--secondary">
+                            <div class="menu-float__content">
+                                <div class="menu-float__progress">
+                                    <div class="menu-float__bar js-menu-progress"></div>
+                                </div>
+                                <strong class="menu-float__title-section">Home</strong>
+                                <ul class="menu-float__nav">
+                                    <li><a class="menu-float__item js-menu-anchor" href="#sotd">SOTD</a>
+                                    </li>
+                                    <li><a class="menu-float__item js-menu-anchor"
+                                            href="#nominees">Nominees</a></li>
+                                    <li><a class="menu-float__item js-menu-anchor"
+                                            href="#directory">Directory</a></li>
+                                    <li><a class="menu-float__item js-menu-anchor"
+                                            href="#collections">Collections</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
 
 </section>
-<!-- /.Home Content Section -->
-    <footer>
-    <div class="container">
-        <div class="timing">
-            <p>Operators are Available: Monday through Friday 8:30am-5:30pm EST. You may order online 24 hours a day, 7 days a week.</p>        </div>
-        <div class="row">
-            <div class="col footer-txt">
-                <img src="https://qc.luthersales.iocod.com/frontend/images/luthersales-logo.png" alt="Luthersales Logo - Buy now pay later financing" title="Luthersales Logo" class="footer-logo"> 
-                <p>
-                LutherSales gives you the purchasing flexibility you deserve.
-                Since 1967 LutherSales has been a pioneer in providing
-                premium name-brand products ranging from the latest
-                electronics, home furnishings, and household appliances
-                to consumers with limited cash and credit options.
-                </p>
-                WE WANT TO KNOW WHAT YOU THINK!
-                <p>
-                Please tell us your thoughts regarding our new website
-                by taking a brief survey. For help click Contact Us or call
-                toll-free at <a href="tel:+18003586466">1-800-358-6466</a>.
-                </p>
-            </div>
-            <div class="col footer-menu left">
-                <div class="title">Customer Care</div>
-                <ul>
-                                                                        <li><a href="/frequently-asked-questions" class="">Frequently Asked Questions</a></li>
-                                                                                                <li><a href="/the-luther-sales-company-story" class="">The Luther Sales Company Story</a></li>
-                                                                                                <li><a href="/privacy-policy" class="">Privacy Policy</a></li>
-                                                                                                                                                                                                                                    <li><a href="/luthers-glossary" class="">Luther’s Glossary</a></li>
-                                                                <li><a href="/contact" class="">Contact us</a></li>
-                    
-                </ul>
-                <!---->
-            </div>
-            <div class="col footer-menu">
-                <div class="title">Shopping Online</div>
-                <ul>
-                <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Buy Now Pay Later</a></li>
-                <li><a href="/explore/garage-sale" class="">Garage Sale</a></li>
-                <li><a href="/whats-new" class="">What's New</a></li>
-                <li><a href="/deals" class="">Deals</a></li>
-                <li><a href="/profile/wishlist" class="">My Wish List</a></li>
-                </ul>
-            </div>
-            <div class="col footer-menu">
-                <div class="title">Other Features</div>
-                <ul>
-                                                                                                                                                                                                            <li><a href="/link/luther-worksite" class="">Luther Worksite</a></li>
-                                                                                                <li><a href="/link/referal-program" class="">Referal Program</a></li>
-                                                                                                <li><a href="/link/join-our-team" class="">Join Our Team</a></li>
-                                                                                                        
-                </ul>
-                <!---->
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <div class="social-icons">
-                <ul class="social">
-                <li><a href="https://www.facebook.com/luther.sales" target="_blank"><i class="facebook"></i></a></li>
-                <li><a href="https://twitter.com/LutherSales" target="_blank"><i class="twitter"></i></a></li>
-                <li><a href="http://www.linkedin.com/company/luthersales" target="_blank"><i class="linkedin"></i></a></li>
-                <li><a href="http://www.pinterest.com/luthersales/" target="_blank"><i class="pinterest"></i></a></li>
-                <li><a href="https://www.instagram.com/luthersales_furniture/" target="_blank"><i class="instagram"></i></a></li>
-                </ul>
-            </div>
-            <div class="copyright">
-                <p>©Copyright 2023 - LutherSales - All Rights Reserved.</p>
-            </div>
-        </div>
-    </div>
-</footer>
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-<!-- Slick Caraousel Script -->
-<script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
-<script src="https://qc.luthersales.iocod.com/frontend/js/header.js"></script>
-<!-- TrustBox script -->
-<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
-<!-- End TrustBox script -->
-<!-- jQuery -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<script src="https://js.versatilecredit.com/js/commerce/storefront-sdk-0.9.0.min.js"></script>
-<script>
-    
-    $(document).ready(function () {
-
-        
-        $('.toggle-bt').click(function(){
-            $('.compare-collection').toggleClass('close');
-            $('.toggle-bt').toggleClass('close');
-        });
-
-        $('.clear-bt').click(function(){
-            $('.slick-slide').remove();
-            $('.compare-collection').css('display','none');
-            $('.compare_check:checkbox:checked').each(function(){
-                $(this).prop('checked',false);
-            });
-        });
-
-        $(document).on('click','.remove-bt',function(){
-            var checkboxvalue = $(this).parent('.img').find('.productcheck').val();
-            $('#'+checkboxvalue).prop('checked', false);
-            $(this).closest('.slick-slide').remove();
-            
-            var count = $('.slick-slide').length;
-            if(count == 0){
-                $('.compare-collection').css('display','none');
-            }
-        });
-        
-
-        $(document).on('click','.compare_check',function(){
-            $('.compare-collection').css('display','inherit');
-            var toastMixinitemwarning = Swal.mixin({
-                toast: true,
-                icon: 'warning',
-                width: 430,
-                title: 'General Title',
-                animation: false,
-                position: 'top-right',
-                showConfirmButton: false,
-                timer: 3000,
-                timerProgressBar: true,
-                didOpen: (toast) => {
-                    toast.addEventListener('mouseenter', Swal.stopTimer)
-                    toast.addEventListener('mouseleave', Swal
-                        .resumeTimer)
-                }
-            });
-            var _this = $(this);
-            var slug = _this.data('slug');
-            var image = _this.data('image');
-            var name = _this.val();
-            var count = $('.slick-slide').length;
-            
-            if(_this.prop('checked')==true){
-                if(count == 4)
-                {
-                    toastMixinitemwarning.fire({
-                        animation: true,
-                        title: 'You can only compare up to 4 items'
-                    });
-                    return false;
-                }
-                else
-                {
-                    var html = "<div class='slick-slide slick-active "+slug+"' data-slick-index='1' aria-hidden='false' > <div><input type='hidden' class='product-slug' name='slugs[]' id='slug' value='"+slug+"'> <div style='width: 100%; display: inline-block;'> <div class='d-flx jst-center product-wrapper'> <div class='c-product'> <div class='img'><input type='hidden' class='productcheck' value='"+slug+"'> <button type='button' class='remove-bt' tabindex='0'></button>  <img src='"+image+"' alt='Buy Now Pay Later Apple Products Financing - Leather Case for AirPods Tan' title='Leather Case for AirPods Tan'></div> <div class='title-sec'> <h2 class='title'>"+ name +"</h2> </div> </div> </div> </div> </div> </div>";
-                    $('.slick-track').append(html);
-                }
-            } else {
-                $('.'+slug).remove();  
-                var count = $('.slick-slide').length;
-                if(count == 0){
-                    $('.compare-collection').css('display','none');
-                }
-            }
-            
-        });
-
-        $(document).on('click','.compare-bt',function(){
-
-            var toastMixin = Swal.mixin({
-                toast: true,
-                icon: 'warning',
-                width: 430,
-                title: 'General Title',
-                animation: false,
-                position: 'top-right',
-                showConfirmButton: false,
-                timer: 3000,
-                timerProgressBar: true,
-                didOpen: (toast) => {
-                    toast.addEventListener('mouseenter', Swal.stopTimer)
-                    toast.addEventListener('mouseleave', Swal
-                        .resumeTimer)
-                }
-            });
-            var count = $('.slick-slide').length;
-            if(count == 1)
-            {
-                toastMixin.fire({
-                    animation: true,
-                    title: 'Please select 2 to 4 items to compare'
-                });
-                return false;
-            }
-       
-            var slugs = "";
-            $("input[name='slugs[]']").each(function(){
-                var _this = $(this);
-                slugs += "products="+_this.val() + "&";
-            });
-            console.log(slugs);
-            var base_url = window.location.origin;
-            window.location.href = base_url + "/compare?" + slugs;
-        });
-        
-        
-        checkboxcall();
-
-        function getwishlistcount(){
-            $.ajax({
-                type: 'POST',
-                url: "https://qc.luthersales.iocod.com/get-wishlistcount",
-                data: {
-                    "_token": "P3MXDkmJaVyFDL1AuXcAuZguwpVwVk6s1qZe1OaR",
-                    "customer_id": ''
-                },
-                success: function (response) {
-                    console.log(response)
-                    if(response == 0 || response == null || response == '')
-                    {
-                        $('.wishlistcount').hide();
-                    }
-                    else
-                    {
-                        $('.wishlistcount').show();
-                        $('.wishlistcount').html(response);
-                    }
-                }
-            });
-        }
-
-        $(document).on("click", '.creditapply', function (event) {
-            var toastMixin = Swal.mixin({
-                toast: true,
-                icon: 'warning',
-                width: 400,
-                title: 'General Title',
-                animation: false,
-                position: 'top-right',
-                showConfirmButton: false,
-                timer: 3000,
-                timerProgressBar: true,
-                didOpen: (toast) => {
-                    toast.addEventListener('mouseenter', Swal.stopTimer)
-                    toast.addEventListener('mouseleave', Swal
-                        .resumeTimer)
-                }
-            });
-            var base_url = window.location.origin;
-            console.log(base_url);
-            var vcredit = VCredit.create({
-                secureSessionUrl: base_url+'/sessions'
-            });
-
-            $('.modal-wrapper').css("display","");
-
-            
-            vcredit.launch('application', {
-                prefill: {
-                    affiliateMarketingCode: affiliateMarketingCode,
-                    discoveryMarketingCode: discoveryMarketingCode,
-                    primaryApplicant: {
-                        firstName: firstName,
-                        lastName: lastName,
-                        middleInitial: middleInitial,
-                        address: {
-                            addressLine1: addressLine1,
-                            addressLine2: addressLine2,
-                            city: city,
-                            state: state,
-                            postalCode: postalCode,
-                        },
-                        email: email,
-                        dateOfBirth: dateOfBirth,
-                        homePhone: homePhone,
-                        mobilePhone: mobilePhone,
-                        incomeSource: {
-                            payFrequency: payFrequency,
-                        },
-                    },
-                }
-            });
-            vcredit.on("application.canceled", (event) => {
-                $('.modal-wrapper').css("display","none");
-                toastMixin.fire({
-                    animation: true,
-                    title: 'Application process cancelled'
-                });
-            });
-            vcredit.on("application.pending", (event) => {
-                
-                var status = event.data.status;
-                var applicationId = event.data.applicationId;
-                var providerId = event.data.providerId;
-                var accountId = event.data.accountId;
-                var amount = event.data.amount;
-                
-                $.ajax({
-                    type: 'POST',
-                    url: "https://qc.luthersales.iocod.com/save-versatile",
-                    data: {
-                        "_token": "P3MXDkmJaVyFDL1AuXcAuZguwpVwVk6s1qZe1OaR",
-                        "status": status,
-                        "applicationId": applicationId,
-                        "providerId": providerId,
-                        "accountId": accountId,
-                        "amount": amount
-                    },
-                    success: function (response) {
-                        console.log(response);
-                    }
-                });
-            });
-
-            vcredit.on("application.approved", (event) => {
-                var status = event.data.status;
-                var applicationId = event.data.applicationId;
-                var providerId = event.data.providerId;
-                var accountId = event.data.accountId;
-                var amount = event.data.amount;
-                amount= Math.floor(amount / 100)
-
-                $.ajax({
-                    type: 'POST',
-                    url: "https://qc.luthersales.iocod.com/save-versatile",
-                    data: {
-                        "_token": "P3MXDkmJaVyFDL1AuXcAuZguwpVwVk6s1qZe1OaR",
-                        "status": status,
-                        "applicationId": applicationId,
-                        "providerId": providerId,
-                        "accountId": accountId,
-                        "amount": amount
-                    },
-                    success: function (response) {
-                        console.log(response);
-                    }
-                });
-            });
-            var toastMixinsuccess = Swal.mixin({
-                toast: true,
-                icon: 'warning',
-                width: 400,
-                title: 'General Title',
-                animation: false,
-                position: 'top-right',
-                showConfirmButton: false,
-                timer: 3000,
-                timerProgressBar: true,
-                didOpen: (toast) => {
-                    toast.addEventListener('mouseenter', Swal.stopTimer)
-                    toast.addEventListener('mouseleave', Swal
-                        .resumeTimer)
-                }
-            });
-            vcredit.on("flow.end", (event) => {
-                $('.modal-wrapper').css("display","none");
-                toastMixinsuccess.fire({
-                    animation: true,
-                    title: 'Application process completed'
-                });
-            });
-        });
-
-        $(document).on("click", '.rotate', function (event) {
-            var _this = $(this);
-            _this.parents('.root').find(".submenu").slideToggle("slow");
-            $(this).toggleClass("down");
-
-        });
-        
-        $(document).on("click", '.fa-heart', function (event) {
-            event.preventDefault();
-            event.stopPropagation();
-
-            var _this = $(this);
-
-            var customer_id = _this.closest('.heart-box').find("input[type='hidden']").val();
-            if (customer_id == 0) {
-                window.location.href = "/login";
-            }
-            var product_id = _this.closest('.heart-box').find("input[type='hidden']").data('productid');
-            var status = _this.closest('.heart-box').find("input[type='hidden']").data('status');
-
-            $.ajax({
-                type: 'POST',
-                url: "https://qc.luthersales.iocod.com/wishlist-updates",
-                data: {
-                    "_token": "P3MXDkmJaVyFDL1AuXcAuZguwpVwVk6s1qZe1OaR",
-                    "customer_id": customer_id,
-                    "product_id": product_id,
-                    "status": status
-                },
-                success: function (response) {
-
-                    var toastMixin = Swal.mixin({
-                        toast: true,
-                        width:400,
-                        icon: 'success',
-                        title: 'General Title',
-                        animation: false,
-                        position: 'top-right',
-                        showConfirmButton: false,
-                        timer: 3000,
-                        timerProgressBar: true,
-                        didOpen: (toast) => {
-                            toast.addEventListener('mouseenter', Swal.stopTimer)
-                            toast.addEventListener('mouseleave', Swal
-                                .resumeTimer)
-                        }
-                    });
-
-
-                    _this.closest('.heart-box').find("input[type='hidden']").data('status',
-                        response);
-                    if (response == 1) {
-                        _this.closest('.heart-box').addClass("liked");
-                        toastMixin.fire({
-                            animation: true,
-                            title: 'Item added to your wishlist'
-                        });
-                    } else {
-                        _this.closest('.heart-box').removeClass("liked");
-                        toastMixin.fire({
-                            animation: true,
-                            title: 'Item removed from your wishlist'
-                        });
-                    }
-                    getwishlistcount();
-                    
-                }
-            });
-        });
-        
-
-        $("#autosuggest__input").on("input", function () {
-            var query = $(this).val();
-            if (query.trim().length >= 1) {
-                $.ajax({
-                    type: 'POST',
-                    url: "https://qc.luthersales.iocod.com/search-autocomplete",
-                    data: {
-                        "_token": "P3MXDkmJaVyFDL1AuXcAuZguwpVwVk6s1qZe1OaR",
-                        "query": query
-                    },
-                    success: function (response) {
-
-                        var products = "";
-                        var brand = "";
-                        var sub_category = "";
-
-                        if (response.data) {
-                            var data = response.data;
-                            if (data.products.length >= 1) {
-                                products_details = data.products;
-                                products =
-                                    "<ul><li class='autosuggest__results-before autosuggest__results-before--products'>Products</li>";
-
-                                for (i = 0; i < products_details.length; i++) {
-                                    var url = "https://qc.luthersales.iocod.com/product" + '/' +
-                                        products_details[i].slug;
-                                    console.log(url);
-                                    products +=
-                                        "<li data-section-name='products' id='autosuggest__results-item--2' class='autosuggest__results-item' ><a class='autosuggest__results-item-a' href='" +
-                                        url + "'>" + products_details[i].name + "</a></li>";
-                                }
-                                products += "</ul>";
-                            }
-
-
-                            if (data.brand.length >= 1) {
-                                brand_details = data.brand;
-                                brand =
-                                    "<ul><li class='autosuggest__results-before autosuggest__results-before--products'>Brands</li>";
-
-                                for (i = 0; i < brand_details.length; i++) {
-                                    var url = "https://qc.luthersales.iocod.com/listing/brands" + brand_details[
-                                        i].slug;
-                                    brand +=
-                                        "<li data-section-name='products' id='autosuggest__results-item--2' class='autosuggest__results-item' ><a class='autosuggest__results-item-a' href='" +
-                                        url + "'>" + brand_details[i].name + "</a></li>";
-                                }
-                                brand += "</ul>";
-                            }
-
-                            if(data.sub_category.length>=1)
-                            {
-                                sub_category_details=data.sub_category;
-                                sub_category= "<ul><li class='autosuggest__results-before autosuggest__results-before--products'>Subcategories</li>";
-                                    
-                                for (i=0; i < sub_category_details.length; i++){
-
-                                    var category = sub_category_details[i].category
-                                    var url = "https://qc.luthersales.iocod.com/listing" + '/' + category.slug +
-                                        '/' + sub_category_details[i].slug;
-                                    sub_category +=
-                                        "<li data-section-name='products' id='autosuggest__results-item--2' class='autosuggest__results-item' ><a class='autosuggest__results-item-a' href='" +
-                                        url + "'>" + sub_category_details[i].name +
-                                        "</a></li>";
-                                }
-                                sub_category += "</ul>";
-                            }
-
-                        } else {
-                            var html =
-                                "<div aria-labelledby='autosuggest' class='autosuggest__results'>  <p class='no-suggestions'>No Results Found...</p></div>";
-                        }
-
-                        if (data.sub_category.length >= 1 || data.brand.length >= 1 || data
-                            .products.length >= 1) {
-                            var html =
-                                "<div aria-labelledby='autosuggest' class='autosuggest__results'>" +
-                                products + brand + sub_category + "</div>"
-                            $('#autosuggest-autosuggest__results').html(html)
-                        } else {
-                            var html =
-                                "<div aria-labelledby='autosuggest' class='autosuggest__results'>  <p class='no-suggestions'>No Results Found...</p></div>";
-                            $('#autosuggest-autosuggest__results').html(html)
-                        }
-
-
-                    }
-                });
-
-            } else {
-                var html = "";
-                $('#autosuggest-autosuggest__results').html(html)
-            }
-
-        });
-
-
-        var sliders1 = document.querySelectorAll('.hero');
-        for (var i = 0; i < sliders1.length; i++) {
-            var glide1 = new Glide(sliders1[i], {
-                type: 'carousel',
-                animationDuration: 2000,
-                autoplay: false,
-                focusAt: '1',
-                startAt: 3,
-                perView: 1,
-            });
-            glide1.mount()
-        }
-        var sliders = document.querySelectorAll('.multi1');
-        for (var i = 0; i < sliders.length; i++) {
-            var glide = new Glide(sliders[i], {
-                type: 'carousel',
-                autoplay: 3500,
-                perView: 4
-            });
-            glide.mount()
-        }
-
-        
-        var filters = [];
-        $(document).on("click", '.checkfilter', function (event) {
-         
-            load_products()
-
-        });
-
-
-        $(document).on("click", '.limitOptions', function (event) {
-            $(this).find('.options-box').toggleClass( "closed" );
-        });
-        $(document).on("click", '.filterOption', function (event) {
-            $(this).find('.options-box').toggleClass( "closed" );
-        });
-        $(document).on("click", '.option-per-page', function (event) {
-           
-            var per_page=$(this).data('per-page');
-            $('.selected-per-page').text(per_page);
-            load_products()
-
-        });
-
-        $(document).on("click", '.option-sort-by', function (event) {
-           
-           var sort_by=$(this).data('sort');
-           $('.selected-sort-by').text(sort_by);
-           load_products()
-
-       });
-
-       $(document).on("click", '.clear-filter-button', function (event) {
-           
-          
-           $('.checkfilter').prop('checked', false);
-           load_products()
-
-       });
-       
-       $("#md-listing-filter-button").on("click", toggleFilters)
-       $(".open-bg").click(hideAll)
-
-        $("#md-listing-sort-button").on("click", toggleSort)
-        var bg = $(".open-bg")
-        var filter = $(".filter-container")
-        var sort = $(".sort-by-sec")
-        
-        function toggleFilters(){
-            filter.toggleClass("show")
-            bg.toggleClass("show")
-        }
-
-        function toggleSort(){
-            sort.toggleClass("show")
-            bg.toggleClass("show")
-        }
-
-        function hideAll(){
-            console.log("hiding all");
-            
-            filter.removeClass("show")
-            bg.removeClass("show")
-            sort.removeClass("show")
-        }
-
-    });
-
-    function load_products()
-    {
-        var per_page=parseInt($('.selected-per-page').text());
-        var sort_by=$('.selected-sort-by').text();
-
-        filters = [];
-            $('.key_name').each(function (e) {
-                var _this = $(this);
-                key = _this.attr('data-key');
-                var attribute_values = [];
-                var selecteditems = [];
-                _this.parents('.root').find("input:checked").each(function (i, ob) {
-                    selecteditems.push($(ob).val());
-                });
-                if (typeof selecteditems !== 'undefined' && selecteditems.length > 0) {
-                    var obj = {};
-                    obj[key] = selecteditems;
-                    filters.push(obj);
-                }
-            });
-            var arrStr = encodeURIComponent(JSON.stringify(filters));
-            var refresh = window.location.protocol + "//" + window.location.host + window.location
-                .pathname + '?per_page='+ per_page + '&sort_by='+ sort_by +'&filters=' + arrStr;
-            window.history.pushState({
-                path: refresh
-            }, '', refresh);
-
-            console.log(per_page,sort_by)
-           
-            $.ajax({
-                type: 'GET',
-                url: '?per_page='+ per_page + '&sort_by='+ sort_by +'&filters=' + arrStr,
-                data: {
-                    "_token": "P3MXDkmJaVyFDL1AuXcAuZguwpVwVk6s1qZe1OaR",
-                },
-                success: function (response) {
-                    $('#productbox').html(response.products_view);
-                    $('#filters').html(response.filter_view);
-                    checkboxcall();
-                }
-            });
-
-    }
-    
-    function checkboxcall() {
-
-
-        var sPageURL = window.location.search.substring(1);
-            var sURLVariables = sPageURL.split('&');
-            for (i in sURLVariables) {
-                let sParameter = sURLVariables[i].split('=');
-                let name = sParameter[0]
-                if (name == 'filters') {
-                    
-
-                    let value = decodeURIComponent(sParameter[1]);
-                    
-                    value = JSON.parse(value);
-                    
-                    $(".key_name").each(function (e) {
-                        thisone = $(this);
-                        key = $(this).attr('data-key');
-                        $.each(value, function (i, item) {
-                            $.each(item, function (j, items) {
-                                if (key == j) {
-                                    
-                                    thisone.parents('.root').find("input:checkbox")
-                                        .each(function (i, ob) {
-                                            if ($.inArray($(ob).val(), items) != -1)
-                                            
-                                                $(ob).prop('checked', true);
-                                        });
-
-                                }
-                            });
-                        });
-
-                    });
-
-                }
-            }
-        
-    }
-
-    function callMeBeforeLogout() {
-        localStorage.removeItem('auth_token');
-        localStorage.removeItem('customer_id');
-        localStorage.removeItem('payment_method');
-        localStorage.removeItem('item_in_cart');
-        $.ajax({
-            type: 'POST',
-            url: "https://qc.luthersales.iocod.com/remove-cookies",
-            data: {
-                "_token": "P3MXDkmJaVyFDL1AuXcAuZguwpVwVk6s1qZe1OaR"
-            },
-            success: function (response) {
-                if (response == "true") {
-                    window.location.href = "/";
-                }
-            }
-
-        });
-    }
-</script>
-</body><!-- jQuery --></html>
+@endsection

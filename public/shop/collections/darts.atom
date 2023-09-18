@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/darts.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-07-17T14:42:30+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8402802606426</id>
+    <published>2023-07-17T14:42:30+02:00</published>
+    <updated>2023-07-17T14:42:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/darts-vloermat"/>
+    <title>Darts Vloermat (300 x 60 cm)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Dartsmat.jpg?v=1683127571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8402802606426</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-064.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8402809192794</id>
+    <published>2023-06-16T16:22:37+02:00</published>
+    <updated>2023-06-16T16:22:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/darts-cabinet"/>
+    <title>Darts Cabinet (55 x 50 cm)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/clubbruggecabinetweb.jpg?v=1683037003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Houd je dartbord en pijlen veilig en georganiseerd met dit Club Brugge darts kabinet.</span></p>
+<p><span>Een darts kabinet heeft vele voordelen. Het zorgt ervoor dat je dartbord en accessoires veilig en beschermd zijn wanneer je ze niet gebruikt. Daarnaast is het ook een handige bewaarplaats voor je dartpijlen, zodat je ze altijd bij de hand hebt wanneer je wilt spelen. </span></p>
+<p><span>Het wordt geleverd met een ophangsysteem, bevestigingsmateriaal, 2 schrijfborden inclusief pin en wiper.</span></p>
+<p><span>De kast is gemaakt door het kwaliteitsmerk Bulls, sponsor van onder andere pro darter Kim Huybrechts.</span></p>
+<p><span><strong>Wordt geleverd vanaf 16 mei.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8402809192794</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB23-066.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8402805752154</id>
+    <published>2023-05-04T22:20:33+02:00</published>
+    <updated>2023-05-04T22:20:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/darts-surround"/>
+    <title>Darts Surround</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/ClubBruggeSurround_2.jpg?v=1683230794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dit darts surround van Club Brugge is een ring die rondom het dartbord wordt geplaatst om de muur en het dartbord te beschermen tegen eventuele schade die kan ontstaan door gemiste darts. Deze biedt 12cm extra bescherming van uw muur en is geschikt voor elk dartbord met de officiële afmetingen.</span></p>
+<p><span>Het is een praktische en betaalbare oplossing om je muur en dartbord te beschermen tijdens het spelen van darts, en wordt vaak gebruikt door professionele en recreatieve darters.</span></p>
+<p><span>Bij bestelling ontvang je enkel de surround, er wordt standaard geen dartbord bijgeleverd.</span></p>
+<p><span>De surround is gemaakt door het kwaliteitsmerk Bulls, sponsor van onder andere pro darter Kim Huybrechts.</span></p>
+<p><span><strong>Wordt geleverd vanaf 16 mei.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8402805752154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>FCB23-065.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8402753093978</id>
+    <published>2023-05-04T22:20:33+02:00</published>
+    <updated>2023-05-04T22:20:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/dartbord"/>
+    <title>Dartsbord</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Digitaleproefdrukdartboardclubbrugge.jpg?v=1683034327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dit Club Brugge dartboard is perfect voor de fanatieke darters die ook fan zijn van Club Brugge. Het dartbord is geschikt voor zowel beginners als gevorderde spelers en biedt eindeloos speelplezier. Met dit dartbord in je huis of in je fancave zul je gegarandeerd indruk maken op je vrienden en familie.</span></p>
+<p><span>Dit bord is gemaakt door het kwaliteitsmerk Bulls, sponsor van onder andere pro darter Kim Huybrechts<strong>.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8402753093978</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-063.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868733882585</id>
+    <published>2022-12-19T11:58:35+01:00</published>
+    <updated>2022-12-19T11:58:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/flights"/>
+    <title>Flights Darts (9 st.)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5425037257633.jpg?v=1678353678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aan het verliezen tijdens een potje darts? Probeer het met deze Club Brugge fligts en haal de zege binnen!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868733882585</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>FCB22-045.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868731916505</id>
+    <published>2022-09-01T22:23:44+02:00</published>
+    <updated>2022-09-01T22:23:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/dartspijlen"/>
+    <title>Dartspijlen</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/darts-setvan3.jpg?v=1683034718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blauw-Zwarte fans zijn van alle markten thuis. Met deze Club Brugge dartspijlen win je vanaf nu al jouw potjes. Uitgegeven door het kwaliteitsmerk 'Bulls'.</p>
+<p>De dartspijlen hebben een gewicht van 23 gram.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731916505</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB22-044.OS</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

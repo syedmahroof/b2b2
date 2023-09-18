@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/baby.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-09-01T11:09:38+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8132484563161</id>
+    <published>2023-09-01T11:09:38+02:00</published>
+    <updated>2023-09-01T11:09:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/slabbetje-dubbelzijdig-1-stuk-niet-activeren"/>
+    <title>Slabbetjes (2 stuks)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/4260674790331.jpg?v=1678738433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dubbelzijdig slabbetje van Club Brugge met een uniek design aan elke kant. Perfect als babycadeau voor de jongste Club fans.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:tag>CB_TargetGroup_BabyPeuter</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8132484563161</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.00</s:price>
+      <s:sku>FCB23-106.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118920446169</id>
+    <published>2023-03-13T21:25:47+01:00</published>
+    <updated>2023-03-13T21:25:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/baby-slaapzak"/>
+    <title>Baby Slaapzak (6-18 mnd)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Baby_Slaapzak.jpg?v=1678739004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Deze blauwe babyslaapzak is lekker warm voor je pasgeboren baby. Ze is voorzien van een rits met knoopjes en een schattig voetbalmotief. Gemaakt van katoen, biedt ze voldoende warmte en gaat ze een tjidje mee dankzij de goede lengte.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:tag>CB_TargetGroup_BabyPeuter</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118920446169</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-107.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118942892249</id>
+    <published>2023-03-13T21:22:44+01:00</published>
+    <updated>2023-03-13T21:22:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/baby-pyjama"/>
+    <title>Baby Pyjama</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Baby_Pyjama.jpg?v=1678738909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Baby Pyjama van Club Brugge in wit met leuk kindermotief.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:tag>CB_TargetGroup_BabyPeuter</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118942892249</id>
+      <title>0-2 mnd</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>FCB23-108.50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118942892249</id>
+      <title>3-6 mnd</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>FCB23-108.62</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118942892249</id>
+      <title>7-12 mnd</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>FCB23-108.74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019755106521</id>
+    <published>2022-11-30T13:09:43+01:00</published>
+    <updated>2022-11-30T13:09:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/babyset-motief"/>
+    <title>Babyset motief</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Giftsetbabywit.jpg?v=1670452313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fan van Blauw-Zwart, dan ben je van kleins af aan! Met deze witte babyset met voetbalmotiefjes kleed je jouw allerkleinste supporter meteen in de juiste kleuren.</p>
+<ul>
+<li>Babyromper</li>
+<li>Babymuts</li>
+<li>Babykousjes</li>
+<li>Slabbetje</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:promo</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:tag>CB_TargetGroup_BabyPeuter</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019755106521</id>
+      <title>3-6mnd</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-221.1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019755106521</id>
+      <title>6-9mnd</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-221.2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019755106521</id>
+      <title>9-12mnd</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-221.3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019743113433</id>
+    <published>2022-11-30T13:09:42+01:00</published>
+    <updated>2022-11-30T13:09:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/babyset-blauwzwart"/>
+    <title>Babyset blauwzwart</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Giftsetbabyblauw.jpg?v=1670452328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fan van Blauw-Zwart, dan ben je van kleins af aan! Met deze blauwzwarte babyset kleed je jouw allerkleinste supporter meteen in de juiste kleuren.</p>
+<ul>
+<li>Babyromper</li>
+<li>Babymuts</li>
+<li>Babykousjes</li>
+<li>Slabbetje</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:promo</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:tag>CB_TargetGroup_BabyPeuter</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019743113433</id>
+      <title>3-6mnd</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-220.1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019743113433</id>
+      <title>6-9mnd</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-220.2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019743113433</id>
+      <title>9-12mnd</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-220.3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868735160537</id>
+    <published>2022-09-01T22:26:33+02:00</published>
+    <updated>2022-09-01T22:26:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-minikit-peuter-kleuter-22-23"/>
+    <title>Home minikit peuter/kleuter 22/23</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/minikit-peuter_51c31658-5d51-4ba6-b11d-995830904f23.jpg?v=1662063994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fan van Blauw-Zwart, dan ben je van kleins af aan! Met deze home minikit kleed je jouw allerkleinste supporter meteen in de juiste kleuren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50-100</s:tag>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:promo</s:tag>
+    <s:tag>_season:22/23</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:tag>CB_TargetGroup_BabyPeuter</s:tag>
+    <s:tag>CB_Wedstrijd_Home</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735160537</id>
+      <title>92</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-418.92</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735160537</id>
+      <title>104</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-418.104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735160537</id>
+      <title>116</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-418.116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868731195609</id>
+    <published>2022-09-01T22:23:00+02:00</published>
+    <updated>2022-09-01T22:23:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/baby-t-shirt-straight-outta-bruges"/>
+    <title>Baby t-shirt Straight outta Bruges</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sob-1.jpg?v=1662063783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731195609</id>
+      <title>68</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB19-130.68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731195609</id>
+      <title>80</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB19-130.80</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731195609</id>
+      <title>86</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB19-130.86</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731195609</id>
+      <title>92</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB19-130.92</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868731162841</id>
+    <published>2022-09-01T22:22:56+02:00</published>
+    <updated>2022-09-01T22:22:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/baby-t-shirt-dna"/>
+    <title>Baby t-shirt DNA</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/dna-1.jpg?v=1662063779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:skyblue</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731162841</id>
+      <title>68</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB19-131.68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731162841</id>
+      <title>80</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB19-131.80</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731162841</id>
+      <title>86</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB19-131.86</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731162841</id>
+      <title>92</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB19-131.92</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868731097305</id>
+    <published>2022-09-01T22:22:54+02:00</published>
+    <updated>2022-09-01T22:22:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/baby-handdoek"/>
+    <title>Baby handdoek</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/fcb19-124-2.jpg?v=1662063776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fleur jouw badkamer op met deze blauwe handdoek.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>__color:blauw</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731097305</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB19-124.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

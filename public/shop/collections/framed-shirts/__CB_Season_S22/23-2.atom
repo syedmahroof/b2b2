@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/framed-shirts.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-29T10:35:28+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7930539147481</id>
+    <published>2023-08-29T10:35:28+02:00</published>
+    <updated>2023-08-29T10:35:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-hans-vanaken"/>
+    <title>Framed shirt - Hans Vanaken</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Vanaken_web.jpg?v=1665087009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We all agree! Hans Vanaken is magic! Het Club icoon van het laatste decennium krijgt opnieuw een klassevol frame voor zijn gesigneerd shirt van dit seizoen.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Vanaken</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7930539147481</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>FCB22-502.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7930530595033</id>
+    <published>2023-08-29T10:35:28+02:00</published>
+    <updated>2023-08-29T10:35:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-ferran-jutgla"/>
+    <title>Framed shirt - Ferran Jutglà</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Jutgla_web.jpg?v=1665086637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ferran Jutglà kwam deze zomer over van FC Barcelona en de spits stelt allerminst teleur. Mijn zijn neus voor goals en oeverloze inzet is hij nu al een publiekslieveling op Jan Breydel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Jutglà</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7930530595033</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>FCB22-501.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734341337</id>
+    <published>2023-08-29T10:35:27+02:00</published>
+    <updated>2023-08-29T10:35:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-skov-olsen"/>
+    <title>Framed shirt - Skov Olsen</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/brugge960x960-0009-layer-0.png?v=1662063952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Danish Dynamite. Andreas Skov Olsen kwam in de januari 2022 over naar Blauw-Zwart en maakte meteen indruk. Dit Framed Shirt, met daarop zijn handtekening, is hét collectorsitem.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S21/22</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Skov Olsen</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734341337</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">300.00</s:price>
+      <s:sku>FCB21-508.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734275801</id>
+    <published>2023-08-29T10:35:27+02:00</published>
+    <updated>2023-08-29T10:35:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-mata"/>
+    <title>Framed shirt - Mata</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/mata-brugge.png?v=1662063942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clinton Mata is een van de architecten van onze drie opeenvolgende titels. Haal nu zijn gesigneerde Framed Shirt in huis!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S21/22</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Mata</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734275801</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">300.00</s:price>
+      <s:sku>FCB21-493.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8366390739290</id>
+    <published>2023-04-07T15:39:47+02:00</published>
+    <updated>2023-04-07T15:39:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-gouden-schoen-simon-mignolet"/>
+    <title>Framed shirt - Gouden Schoen Simon Mignolet</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Mignolet2000x2000.png?v=1681197288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Big Si speelt een top seizoen en bewees al vaker een matchwinnaar te zijn voor ons. Hij werd hiervoor in januari ook bekroond met de Gouden Schoen 2022. De eerste keeper in meer dan 30 jaar die deze award in de wacht kon slepen. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Mignolet</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8366390739290</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>FCB22-155.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8076697698521</id>
+    <published>2023-02-09T15:54:52+01:00</published>
+    <updated>2023-02-09T15:54:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-seizoen-2022-2023"/>
+    <title>Framed shirt - Seizoen 2022/2023</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/BRU_FTG_2000x2000_3.jpg?v=1672759918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ons home shirt, getekend door groot deel van het 1e team, ingekaderd! Deze moet toch aan je muur hangen?</p>
+<p>+/- 15 A-kern spelers hebben het shirt getekend. </p>
+<p>Mignolet, Mechele, Onyedika, Skov Olsen, Nielsen, Buchanan, Rits, Spileers...</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8076697698521</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>FCB22-131.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7930542784729</id>
+    <published>2022-10-06T22:12:32+02:00</published>
+    <updated>2022-10-06T22:12:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-andreas-skov-olsen"/>
+    <title>Framed shirt - Andreas Skov Olsen</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Skov_web.jpg?v=1665087150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Skov Olsen, ons Danish Dynamite, is het seizoen alvast goed gestart en bewijst elke week opnieuw een echte topper te zijn met een dodelijke linkervoet. Skovke is van ons!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Skov Olsen</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7930542784729</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>FCB22-500.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734013657</id>
+    <published>2022-09-01T22:25:07+02:00</published>
+    <updated>2022-09-01T22:25:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-buchanan"/>
+    <title>Framed shirt - Buchanan</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/brugge2000x2000png.png?v=1662063919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een gesel voor verdedigers. Tajon Buchanan hielp vanop zijn linkerflank mee aan de titel van Blauw-Zwart. Haal nu zijn gehandtekende Framed Shirt in huis!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S21/22</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Buchanan</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734013657</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>FCB21-507.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

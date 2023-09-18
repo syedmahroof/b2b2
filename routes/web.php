@@ -5,9 +5,8 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AdminControllers\AdminAuthController;
 use App\Http\Controllers\AdminControllers\AdminBuyerController;
 use App\Http\Controllers\AdminControllers\AdminSupplierController;
-
-
 use App\Http\Controllers\AdminControllers\AdminController;
+use App\Http\Controllers\AdminControllers\AdminSliderController;
 use App\Http\Controllers\BuyerControllers\SocialController;
 use App\Http\Controllers\SupplierControllers\SupplierAuthController;
 use App\Http\Controllers\SupplierControllers\SupplierController;
@@ -24,7 +23,17 @@ use App\Http\Controllers\InventoryManagementControllers\InventoryManagerControll
 
 
 Route::get('/', [BuyerController::class, 'index'])->name('buyer.home');
+
 Route::get('/about', [BuyerController::class, 'about'])->name('about');
+Route::get('/delivery-information', [BuyerController::class, 'deliveryInformation'])->name('deliveryInformation');
+Route::get('/privacy-policy', [BuyerController::class, 'privacyPolicy'])->name('privacyPolicy');
+Route::get('/brands', [BuyerController::class, 'brands'])->name('brands');
+Route::get('/contact-us', [BuyerController::class, 'contactUs'])->name('contactUs');
+Route::get('/returns', [BuyerController::class, 'returns'])->name('returns');
+Route::get('/site-map', [BuyerController::class, 'siteMap'])->name('siteMap');
+
+
+Route::get('/contact', [BuyerController::class, 'contact'])->name('contact');
 Route::get('/products', [BuyerController::class, 'products'])->name('buyer.products');
 Route::get('/product_details', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
 Route::get('/signup', [BuyerAuthController::class, 'showRegisterForm'])->name('buyer.signup');
@@ -63,6 +72,9 @@ Route::prefix('admin')->group(function () {
     // Middleware for routes that require admin authentication
     Route::middleware('admin.guard')->group(function () {
         // Dashboard route
+
+        Route::get('/', [AdminController::class, 'dashboard'])->name('admin.dashboard');
+
         Route::get('/dashboard', [AdminController::class, 'dashboard'])->name('admin.dashboard');
 
 
@@ -72,6 +84,8 @@ Route::prefix('admin')->group(function () {
 
 
         Route::group(['namespace' => 'AdminControllers', 'prefix' => 'admin'], function () {
+
+
             Route::get('/suppliers', [AdminSupplierController::class, 'index'])->name('admin.suppliers.index');
             Route::get('/suppliers/create', [AdminSupplierController::class, 'create'])->name('admin.suppliers.create');
             Route::post('/suppliers', [AdminSupplierController::class, 'store'])->name('admin.suppliers.store');
@@ -79,9 +93,82 @@ Route::prefix('admin')->group(function () {
             Route::put('/suppliers/{id}', [AdminSupplierController::class, 'update'])->name('admin.suppliers.update');
             Route::delete('/suppliers/{id}', [AdminSupplierController::class, 'destroy'])->name('admin.suppliers.destroy');
             Route::get('/show-suppliers/{id}', [AdminSupplierController::class, 'show'])->name('admin.suppliers.show');
-
             // Your additional route
             Route::get('/supplier', [AdminSupplierController::class, 'index'])->name('admin.supplier.list');
+
+
+
+            Route::get('/buyers', [AdminbuyerController::class, 'index'])->name('admin.buyers.index');
+            Route::get('/buyers/create', [AdminbuyerController::class, 'create'])->name('admin.buyers.create');
+            Route::post('/buyers', [AdminbuyerController::class, 'store'])->name('admin.buyers.store');
+            Route::get('/buyers/{id}/edit', [AdminbuyerController::class, 'edit'])->name('admin.buyers.edit');
+            Route::put('/buyers/{id}', [AdminbuyerController::class, 'update'])->name('admin.buyers.update');
+            Route::delete('/buyers/{id}', [AdminbuyerController::class, 'destroy'])->name('admin.buyers.destroy');
+            Route::get('/show-buyers/{id}', [AdminbuyerController::class, 'show'])->name('admin.buyers.show');
+            // Your additional route
+            Route::get('/buyer', [AdminbuyerController::class, 'index'])->name('admin.buyer.list');
+
+
+            Route::get('/categories', [AdminCategoryController::class, 'index'])->name('admin.categories.index');
+            Route::get('/categories/create', [AdminCategoryController::class, 'create'])->name('admin.categories.create');
+            Route::post('/categories', [AdminCategoryController::class, 'store'])->name('admin.categories.store');
+            Route::get('/categories/{id}/edit', [AdminCategoryController::class, 'edit'])->name('admin.categories.edit');
+            Route::put('/categories/{id}', [AdminCategoryController::class, 'update'])->name('admin.categories.update');
+            Route::delete('/categories/{id}', [AdminCategoryController::class, 'destroy'])->name('admin.categories.destroy');
+            Route::get('/show-category/{id}', [AdminCategoryController::class, 'show'])->name('admin.categories.show');
+            // Your additional route
+            Route::get('/category', [AdminCategoryController::class, 'index'])->name('admin.category.list');
+
+
+
+            Route::get('/sliders', [AdminSliderController::class, 'index'])->name('admin.sliders.index');
+            Route::get('/sliders/create', [AdminSliderController::class, 'create'])->name('admin.sliders.create');
+            Route::post('/sliders', [AdminSliderController::class, 'store'])->name('admin.sliders.store');
+            Route::get('/sliders/{id}/edit', [AdminSliderController::class, 'edit'])->name('admin.sliders.edit');
+            Route::put('/sliders/{id}', [AdminSliderController::class, 'update'])->name('admin.sliders.update');
+            Route::delete('/sliders/{id}', [AdminSliderController::class, 'destroy'])->name('admin.sliders.destroy');
+
+
+
+            Route::get('/news', [AdminNewsController::class, 'index'])->name('admin.news.index');
+            Route::get('/news/create', [AdminNewsController::class, 'create'])->name('admin.news.create');
+            Route::post('/news', [AdminNewsController::class, 'store'])->name('admin.news.store');
+            Route::get('/news/{id}/edit', [AdminNewsController::class, 'edit'])->name('admin.news.edit');
+            Route::put('/news/{id}', [AdminNewsController::class, 'update'])->name('admin.news.update');
+            Route::delete('/news/{id}', [AdminNewsController::class, 'destroy'])->name('admin.news.destroy');
+
+
+
+            Route::get('/blogs', [AdminBlogController::class, 'index'])->name('admin.blogs.index');
+            Route::get('/blogs/create', [AdminBlogController::class, 'create'])->name('admin.blogs.create');
+            Route::post('/blogs', [AdminBlogController::class, 'store'])->name('admin.blogs.store');
+            Route::get('/blogs/{id}/edit', [AdminBlogController::class, 'edit'])->name('admin.blogs.edit');
+            Route::put('/blogs/{id}', [AdminBlogController::class, 'update'])->name('admin.blogs.update');
+            Route::delete('/blogs/{id}', [AdminBlogController::class, 'destroy'])->name('admin.blogs.destroy');
+
+
+
+            Route::get('/faqs', [AdminFaqController::class, 'index'])->name('admin.faqs.index');
+            Route::get('/faqs/create', [AdminFaqController::class, 'create'])->name('admin.faqs.create');
+            Route::post('/faqs', [AdminFaqController::class, 'store'])->name('admin.faqs.store');
+            Route::get('/faqs/{id}/edit', [AdminFaqController::class, 'edit'])->name('admin.faqs.edit');
+            Route::put('/faqs/{id}', [AdminFaqController::class, 'update'])->name('admin.faqs.update');
+            Route::delete('/faqs/{id}', [AdminFaqController::class, 'destroy'])->name('admin.faqs.destroy');
+
+
+
+            Route::get('/currencies', [AdminCurrencyController::class, 'index'])->name('admin.currencies.index');
+            Route::get('/currencies/create', [AdminCurrencyController::class, 'create'])->name('admin.currencies.create');
+            Route::post('/currencies', [AdminCurrencyController::class, 'store'])->name('admin.currencies.store');
+            Route::get('/currencies/{id}/edit', [AdminCurrencyController::class, 'edit'])->name('admin.currencies.edit');
+            Route::put('/currencies/{id}', [AdminCurrencyController::class, 'update'])->name('admin.currencies.update');
+            Route::delete('/currencies/{id}', [AdminCurrencyController::class, 'destroy'])->name('admin.currencies.destroy');
+
+
+
+
+
+
         });
 
 

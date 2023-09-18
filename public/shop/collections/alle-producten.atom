@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/alle-producten.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-09-04T16:07:07+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8484597432666</id>
+    <published>2023-09-04T16:07:07+02:00</published>
+    <updated>2023-09-04T16:07:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-tifo"/>
+    <title>Hoodie &apos;Tifo&apos; Beige</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Hoodie_Beige_01.jpg?v=1689884863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Een kwalitatieve hoodie met onze spionkop als design.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:beige</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484597432666</id>
+      <title>XS</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-016.XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484597432666</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-016.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484597432666</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-016.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484597432666</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-016.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484597432666</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-016.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484597432666</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-016.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484597432666</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-016.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8492416663898</id>
+    <published>2023-09-04T16:02:46+02:00</published>
+    <updated>2023-09-04T16:02:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-nsng"/>
+    <title>T-shirt &apos;No Sweat No Glory&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/T-shirt_NSNG_1.jpg?v=1693836153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een wit T-shirt met onze leuze No Sweat No Glory.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8492416663898</id>
+      <title>XS</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-052.XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8492416663898</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-052.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8492416663898</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-052.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8492416663898</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-052.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8492416663898</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-052.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8492416663898</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-052.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8492416663898</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-052.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8000502268121</id>
+    <published>2023-09-01T11:17:18+02:00</published>
+    <updated>2023-09-01T11:17:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/world-club-t-shirt-buchanan"/>
+    <title>World Club T-shirt - Buchanan</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20221115_ClubBrugge_WC-Normal-Shirt_Buchanan_1080x1080_0f51e47f-5f03-417b-8dcd-015780823bfa.jpg?v=1668602250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Club Brugge lanceert aan de vooravond van het grootste voetbaltoernooi ter wereld de #WorldClubSquad in samenwerking met Meneer Heirman. Onze collectie van 8 posters, t-shirts of shirt prints toont het fascinerende verhaal van het thuisland van één van onze internationale sterren.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Canada</strong></p>
+<p data-mce-fragment="1">Onze aanvallers Tajon Buchanan en Cyle Larin reizen mee met Canada.</p>
+<p data-mce-fragment="1">Het Noord-Amerikaanse land staat bekend als een van de mooiste bestemmingen ter wereld. De vele Nationale Parken zijn één voor één juweeltjes die op je bucketlist horen te staan.</p>
+<p data-mce-fragment="1">Een witte Spirit Bear, inheems in British Columbia, staat links bovenaan het kunstwerk.</p>
+<p data-mce-fragment="1">Rechtsboven ziet u het Canadese esdoornblad. Het rode symbool wordt sinds 1964 gebruikt in de Canadese vlag, ter vervanging van de Union Jack. De esdoornsiroop is één van de typische Canadese nationale producten.</p>
+<p data-mce-fragment="1">Onderaan het ontwerp zijn zowel links als rechts sparrenbomen te zien, de meest voorkomende boom in het land.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>world-club</s:tag>
+    <s:tag>worldclubsquad</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502268121</id>
+      <title>S</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-546.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502268121</id>
+      <title>M</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-546.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502268121</id>
+      <title>L</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-546.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502268121</id>
+      <title>Xl</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-546.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502268121</id>
+      <title>XXL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-546.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502268121</id>
+      <title>3XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-546.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8000502202585</id>
+    <published>2023-09-01T11:17:17+02:00</published>
+    <updated>2023-09-01T11:17:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/world-club-t-shirt-vanaken"/>
+    <title>World Club T-shirt - Vanaken</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20221115_ClubBrugge_WC-Normal-Shirt_Vanaken_1080x1080_c61f2660-c162-408e-8b29-b3ef720c745e.jpg?v=1668602552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Club Brugge lanceert aan de vooravond van het grootste voetbaltoernooi ter wereld de #WorldClubSquad in samenwerking met Meneer Heirman. Onze collectie van 8 posters, t-shirts of shirt prints toont het fascinerende verhaal van het thuisland van één van onze internationale sterren.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">België</strong></p>
+<p data-mce-fragment="1">Simon Mignolet en Hans Vanaken zijn de Brugse spelers die België dit najaar vertegenwoordigen.</p>
+<p data-mce-fragment="1">Bovenaan domineert een duivel de illustratie, een knipoog naar de bijnaam van de nationale ploeg. Een papieren puntzak met frietjes verwijst naar de eeuwenoude friettraditie van ons land.</p>
+<p data-mce-fragment="1">In het midden maakte onze illustrator zijn eigen interpretatie van René Magritte's beroemde 'Le fils de l’homme', en linksonder staat het Belfort van Brugge, de mooiste stad van België.</p>
+<p data-mce-fragment="1">Onderaan kon een Belgisch biertje niet ontbreken , het exportproduct dat ons land relevantie geeft in de rest van de wereld.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>world-club</s:tag>
+    <s:tag>worldclubsquad</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502202585</id>
+      <title>S</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-545.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502202585</id>
+      <title>M</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-545.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502202585</id>
+      <title>L</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-545.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502202585</id>
+      <title>Xl</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-545.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502202585</id>
+      <title>XXL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-545.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8000502202585</id>
+      <title>3XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-545.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868752691417</id>
+    <published>2023-09-01T11:16:35+02:00</published>
+    <updated>2023-09-01T11:16:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/travelbomber-volw-21-22"/>
+    <title>Travelbomber volw. 21/22</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/m21-bomber-2.jpg?v=1662064679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze jas ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>S</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>M</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>L</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>XXL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>3XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>4XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749054169</id>
+    <published>2023-09-01T11:16:03+02:00</published>
+    <updated>2023-09-01T11:16:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-zip-keeper-volw"/>
+    <title>Sweater zip keeper volw. 19/20</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/51101637490-8b2e67aaea-c_e9ed8ec3-793f-4a4d-9c20-b54617e04382.jpg?v=1662064576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze sweater zweef je alle ballen uit doel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:bordeaux</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749054169</id>
+      <title>S</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-448.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749054169</id>
+      <title>XXL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-448.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749054169</id>
+      <title>3XL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-448.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868748824793</id>
+    <published>2023-09-01T11:16:03+02:00</published>
+    <updated>2023-09-01T11:16:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-zip-grijs-kids"/>
+    <title>Sweater zip grijs kids 19/20</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sweater-zip-grijs-macron-18-19-copy.jpg?v=1662064566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__size:macronkids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748824793</id>
+      <title>128</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB18-449.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868748267737</id>
+    <published>2023-09-01T11:16:02+02:00</published>
+    <updated>2023-09-01T11:16:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-130-years-zwart"/>
+    <title>Sweater 130 Years zwart</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sweaterheritage.jpg?v=1665088512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een uniek exemplaar om het 130-jarig bestaan te vieren van onze club. Deze sweater houd je warm tijdens de koude winterdagen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748267737</id>
+      <title>XS</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-315.XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748267737</id>
+      <title>S</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-315.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748267737</id>
+      <title>M</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-315.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748267737</id>
+      <title>L</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-315.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748267737</id>
+      <title>XL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-315.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748267737</id>
+      <title>XXL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-315.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748267737</id>
+      <title>3XL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-315.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734734553</id>
+    <published>2023-09-01T11:15:28+02:00</published>
+    <updated>2023-09-01T11:15:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/handschoen-blauw-kids"/>
+    <title>Handschoen Blauw Kids</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/dsc01782-kids.jpg?v=1662063974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze blauwe handschoenen houden je in de winter lekker warm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Handschoen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734734553</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21-535.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8132484563161</id>
+    <published>2023-09-01T11:09:38+02:00</published>
+    <updated>2023-09-01T11:09:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/slabbetje-dubbelzijdig-1-stuk-niet-activeren"/>
+    <title>Slabbetjes (2 stuks)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/4260674790331.jpg?v=1678738433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dubbelzijdig slabbetje van Club Brugge met een uniek design aan elke kant. Perfect als babycadeau voor de jongste Club fans.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>CB_Kleding_Baby</s:tag>
+    <s:tag>CB_TargetGroup_BabyPeuter</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8132484563161</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.00</s:price>
+      <s:sku>FCB23-106.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743123161</id>
+    <published>2023-09-01T11:09:14+02:00</published>
+    <updated>2023-09-01T11:09:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/regenjas-blauw-volw-21-22"/>
+    <title>Regenjas blauw volw. 21/22</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/regenjas-adult-low.jpg?v=1662064375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            49.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze regenjas houd je droog tijdens het supporteren op regenachtige matchdagen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:blauw</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Jas</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>S</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>M</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>L</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>XL</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>XXL</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>3XL</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734636249</id>
+    <published>2023-09-01T11:08:35+02:00</published>
+    <updated>2023-09-01T11:08:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/grote-beer-1m"/>
+    <title>Pluche Beer 1m</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Beer1M.jpg?v=1665091076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">De favoriete knuffelbeer van iedereen is er nu ook in groot formaat: 100cm.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>50-100</s:tag>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734636249</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-031.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868741812441</id>
+    <published>2023-09-01T11:08:04+02:00</published>
+    <updated>2023-09-01T11:08:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-quality"/>
+    <title>Pet Quality</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/mata-pet-quality-web.jpg?v=1662064320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is quality! Een pet speciaal ontworpen voor de allergrootste Clinton Mata fans.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868741812441</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-531.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7930539147481</id>
+    <published>2023-08-29T10:35:28+02:00</published>
+    <updated>2023-08-29T10:35:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-hans-vanaken"/>
+    <title>Framed shirt - Hans Vanaken</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Vanaken_web.jpg?v=1665087009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We all agree! Hans Vanaken is magic! Het Club icoon van het laatste decennium krijgt opnieuw een klassevol frame voor zijn gesigneerd shirt van dit seizoen.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Vanaken</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7930539147481</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>FCB22-502.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7930530595033</id>
+    <published>2023-08-29T10:35:28+02:00</published>
+    <updated>2023-08-29T10:35:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-ferran-jutgla"/>
+    <title>Framed shirt - Ferran Jutglà</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Jutgla_web.jpg?v=1665086637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ferran Jutglà kwam deze zomer over van FC Barcelona en de spits stelt allerminst teleur. Mijn zijn neus voor goals en oeverloze inzet is hij nu al een publiekslieveling op Jan Breydel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Jutglà</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7930530595033</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>FCB22-501.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734341337</id>
+    <published>2023-08-29T10:35:27+02:00</published>
+    <updated>2023-08-29T10:35:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-skov-olsen"/>
+    <title>Framed shirt - Skov Olsen</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/brugge960x960-0009-layer-0.png?v=1662063952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Danish Dynamite. Andreas Skov Olsen kwam in de januari 2022 over naar Blauw-Zwart en maakte meteen indruk. Dit Framed Shirt, met daarop zijn handtekening, is hét collectorsitem.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S21/22</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Skov Olsen</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734341337</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">300.00</s:price>
+      <s:sku>FCB21-508.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734275801</id>
+    <published>2023-08-29T10:35:27+02:00</published>
+    <updated>2023-08-29T10:35:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/framed-shirt-mata"/>
+    <title>Framed shirt - Mata</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/mata-brugge.png?v=1662063942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clinton Mata is een van de architecten van onze drie opeenvolgende titels. Haal nu zijn gesigneerde Framed Shirt in huis!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S21/22</s:tag>
+    <s:tag>__status:exclusief</s:tag>
+    <s:tag>CB_player_Mata</s:tag>
+    <s:tag>framed_shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734275801</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">300.00</s:price>
+      <s:sku>FCB21-493.OS</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868736012505</id>
+    <published>2023-08-28T15:54:24+02:00</published>
+    <updated>2023-08-28T15:54:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-away-days"/>
+    <title>Hoodie Away Days</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/tajon-buchanan-transfer69-vierkant.jpg?v=1662064049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Away days = best days? Loods Club naar de overwinning met deze hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736012505</id>
+      <title>XS</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-310.XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736012505</id>
+      <title>S</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-310.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736012505</id>
+      <title>M</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-310.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736012505</id>
+      <title>L</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-310.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736012505</id>
+      <title>XXL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-310.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736012505</id>
+      <title>3XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-310.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7863200776409</id>
+    <published>2023-08-28T15:54:04+02:00</published>
+    <updated>2023-08-28T15:54:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-short-volw-22-23"/>
+    <title>Home short volw. 22/23</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/home-short-volw-22-23.jpg?v=1661861069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De home short voor het seizoen 22/23 is zwart met een opvallende, blauwe driehoek die langs de zij in een punt loopt. De elastiek is 'open' aan de achterkant en biedt zo een extra comfortabel gevoel.</p>
+ 
+ <p><strong>Kenmerken:</strong></p>
+ 
+ <ul>
+ 
+ <li>Wedstrijdkwaliteit: dit is de short die de spelers dragen op het veld,</li>
+ 
+ <li>Topkwaliteit van het Italiaanse Macron,</li>
+ 
+ <li>100% polyester,</li>
+ 
+ <li>Comfortabele en ademende stof: Macron Performance System,</li>
+ 
+ <li>Beschikbaar in maat S tot 3XL,</li>
+ 
+ <li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur.</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__CB_Season_S22/23</s:tag>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__status:promo</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_season:22/23</s:tag>
+    <s:tag>CB_Wedstrijd_Home</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7863200776409</id>
+      <title>S</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>FCB22-415.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7863200776409</id>
+      <title>M</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>FCB22-415.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7863200776409</id>
+      <title>L</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>FCB22-415.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7863200776409</id>
+      <title>XL</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>FCB22-415.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7863200776409</id>
+      <title>XXL</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>FCB22-415.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7863200776409</id>
+      <title>3XL</title>
+      <s:price currency="EUR">39.00</s:price>
+      <s:sku>FCB22-415.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8092731146457</id>
+    <published>2023-08-28T15:53:52+02:00</published>
+    <updated>2023-08-28T15:53:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/happy-birthday-wenskaarten-6-st"/>
+    <title>Happy Birthday Wenskaarten (6 st.)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018573088_01.jpg?v=1674229668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Deze verjaardagskaarten zijn er speciaal om de Club Brugge supporter een erg fijne verjaardag te wensen. Verpakt per 6 kaarten in 3 designs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8092731146457</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21.528.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868732342489</id>
+    <published>2023-08-28T15:53:12+02:00</published>
+    <updated>2023-08-28T15:53:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/drinkbus-yla"/>
+    <title>Drinkbus YLA</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/drinkbus-yla.jpg?v=1662063859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zwarte drinkbus van Club YLA is ideaal om te hydrateren na het sporten.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868732342489</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB21-023.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868730507481</id>
+    <published>2023-08-28T15:52:59+02:00</published>
+    <updated>2023-08-28T15:52:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/away-shirt-kids-20-21"/>
+    <title>Away shirt kids 20/21</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/away-kids.jpg?v=1662063749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Er werd opnieuw gekozen voor ons klassieke witte shirt. Mooi in zijn eenvoud, hierdoor gaan de prestaties van onze spelers nog meer tot hun recht komen.</p>
+ 
+ <h5><strong>Belangrijk!</strong></h5>
+ 
+ <p>Bedrukte shirts kunnen niet geruild of terugbetaald worden, tenzij de bedrukking defect is. Dit geldt ook als een speler Club verlaat of van rugnummer/naam verandert gedurende zijn periode bij Club.</p>
+ 
+ <p><strong>Kenmerken:</strong></p>
+ 
+ <ul>
+ 
+ <li>Onze leuze 'No Sweat/No Glory" prijkt op de nek</li>
+ 
+ <li>Macron is Italiaanse topkwaliteit</li>
+ 
+ <li>100% polyester</li>
+ 
+ <li>Comfortabele en ademende stof: M Performance System</li>
+ 
+ <li>Beschikbaar in maat 128 tot 164</li>
+ 
+ <li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__size:macronkids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>blackfriday</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:tag>CB_Wedstrijd_Away</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730507481</id>
+      <title>128</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB20-421.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868735750361</id>
+    <published>2023-08-28T15:30:56+02:00</published>
+    <updated>2023-08-28T15:30:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-iconic-khaki"/>
+    <title>Hoodie 1891 Iconic Khaki</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/20220414_1891_SHOP-41.jpg?v=1689155855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een khaki hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:khaki</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8484608475482</id>
+    <published>2023-08-17T13:00:59+02:00</published>
+    <updated>2023-08-17T13:00:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-no-sweat-no-glory"/>
+    <title>Hoodie &apos;No Sweat No Glory&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Hoodie_Black_01.jpg?v=1689885132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Een zwarte hoodie met onze slogan 'No Sweat No Glory' als print.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484608475482</id>
+      <title>XS</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB23-053.XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484608475482</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB23-053.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484608475482</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB23-053.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484608475482</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB23-053.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484608475482</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB23-053.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484608475482</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB23-053.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484608475482</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB23-053.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8498684887386</id>
+    <published>2023-08-16T17:46:38+02:00</published>
+    <updated>2023-08-16T17:46:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-summer-blue"/>
+    <title>Pet &apos;summer blue&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Pet_Light_Blue_01_1.jpg?v=1692024444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zomerse pet van Club Brugge met handige clip sluiting achteraan, is perfect voor je zomerse look compleet te maken.</p>
+<p>Je hebt de bijhorende zwemshort toch ook al in huis gehaald?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:roze</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8498684887386</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-070.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

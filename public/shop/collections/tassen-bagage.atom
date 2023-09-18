@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/tassen-bagage.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-03T17:50:25+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868750299353</id>
+    <published>2023-08-03T17:50:25+02:00</published>
+    <updated>2023-08-03T17:50:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/toiletzak-1891"/>
+    <title>Toiletzak 1891</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Toiletzak1891.jpg?v=1665091379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De 1891 toiletzak is ideaal om al je wasgerief bij te houden zodat je je na het sporten meteen kan douchen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Toiletzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750299353</id>
+      <title>OS</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-035.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8441375621466</id>
+    <published>2023-07-13T16:13:06+02:00</published>
+    <updated>2023-07-13T16:13:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/zwemzak-fcb-striped"/>
+    <title>Zwemzak FCB Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/backpack.jpg?v=1686392387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nog op zoek naar een gymzakje of een zwemzakje om te gaan sporten met het school?<br></p>
+<p>Met deze zwemzak hou je je sportgerief gescheiden van je schoolgerief. De blauwe reflecterende strips zorgen bovendien voor een veilige trip richting school. Het logo maakt als eye catcher meteen duidelijk dat jij onderdeel bent van de FCB-familie.</p>
+<p><strong>Eigenschappen:</strong></p>
+<ul>
+<li>Materiaal: Polyester met nylon afwerking</li>
+<li>afmetingen: 34x43 cm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8441375621466</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-025.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868750495961</id>
+    <published>2023-07-12T12:27:50+02:00</published>
+    <updated>2023-07-12T12:27:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/toiletzak-fcb-striped"/>
+    <title>Toiletzak FCB Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Toiletzakfcb.jpg?v=1665091470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In deze Blauw-Zwart gestreepte toiletzak berg je makkelijk al jouw toiletgerief op</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Toiletzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750495961</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-002.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734865625</id>
+    <published>2023-06-10T14:34:34+02:00</published>
+    <updated>2023-06-10T14:34:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/heuptas"/>
+    <title>Heuptas</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/9200000096383906.jpg?v=1662063979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Voortdurend een grote rugzak of handtas meenemen kan vervelend zijn. Deze Blauw-Zwarte heuptas is ideaal om jouw meest waardevolle bezittingen in op te bergen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bags_Heuptas</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734865625</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB18-019.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868739289305</id>
+    <published>2023-04-07T15:23:56+02:00</published>
+    <updated>2023-04-07T15:23:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/lederen-portefeuille"/>
+    <title>Lederen portefeuille</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/fcb19-320-1.jpg?v=1662064176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bewaar jij jouw abonnement in deze zwarte lederen portefeuille?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Portefeuille</s:tag>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868739289305</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-320.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118326067417</id>
+    <published>2023-03-24T11:28:32+01:00</published>
+    <updated>2023-03-24T11:28:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/heuptas-upcycled-home-shirt"/>
+    <title>Heuptas Upcycled Home Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20230322_SHOP_RECYCLE-15.jpg?v=1679653631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze nieuwe heuptas is gemaakt van upcycled home shirts van het seizoen 22/23, wat het tot het perfecte accessoire voor wedstrijden op Jan Breydel maakt. Toon met trots de Club kleuren en de echte badge van op het shirt. </p>
+<p>Hiermee laat je ook zien dat je duurzaamheid hoog in het vaandel draagt terwijl je Blauw-Zwart steunt, zo zie je er niet alleen goed uit, maar draag je ook je steentje bij aan het milieu.</p>
+<p>Alle items werden met de hand gemaakt voor het beste eindresultaat.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>__color:BlauwZwart</s:tag>
+    <s:tag>CB_Bags_Heuptas</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118326067417</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-004.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972628791513</id>
+    <published>2023-02-16T11:41:49+01:00</published>
+    <updated>2023-02-16T11:41:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-leather-grande-backpack"/>
+    <title>BALR. Leather Grande Backpack</title>
+    <s:type>backpack</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Shopify-B10016299101_101_750x_e8a5dfe2-015d-400b-abdc-52bac85d38a4.jpg?v=1666895989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>backpack<br>
+        <strong>Prijs: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. </p>
+<p data-mce-fragment="1"><span>Deze Grande Backpack van leer is met de grootste zorg vervaardigd in Italië en zal je favoriete reisgenoot worden, of je hem nu gebruikt voor je dagelijkse woon-werkverkeer of voor een lang weekend weg. Het ontwerp is voorzien van een grote zak aan de voorkant met een logo in reliëf en grote ritsen in de vorm van het iconische BALR. hexagon. Naast een gedurfd modestatement is de rugzak voorzien van verstelbare leren riemen en een intern steekvak om je meest waardevolle bezittingen veilig te houden, waar je ook naartoe gaat. De Leather Grande Backpack, gemaakt van uiterst soepel leer in Italië, biedt zowel stijl als functionaliteit. Met een statement zak en een grote rits is dit een must voor elke BALR.</span></p>
+<ul>
+<li>Zwart leer</li>
+<li>Gemaakt in Italië</li>
+<li>Twee ruime vakken</li>
+<li>Logo in reliëf</li>
+<li>Verstelbare schouderriemen</li>
+<li>Zak met rits aan de voorkant</li>
+<li>33 CM B x 44 CM H x 15 CM D</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972628791513</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>FCB22-202.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972621680857</id>
+    <published>2023-02-16T11:41:49+01:00</published>
+    <updated>2023-02-16T11:41:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-leather-toiletry-kit"/>
+    <title>BALR. Leather Toiletry Kit</title>
+    <s:type>toiletry bag</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Shopify-B10018299101_101_750x_e9f4e109-19a7-426f-b517-2d3c48a1dfd4.jpg?v=1666895322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>toiletry bag<br>
+        <strong>Prijs: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. </p>
+<p data-mce-fragment="1"><span>Een echte BALR. gaat nooit op reis zonder deze toilettas. De tas met dubbele ritssluiting is gemaakt van verfijnd leer en houdt je verzorgingsset perfect georganiseerd. De Toilettas van leer is gemaakt in Italië en heeft meerdere binnenvakken om je kleinere spullen, zoals je scheerapparaat en kam, snel op te bergen. Dit item is gemakkelijk in te pakken en plooibaar genoeg om de kit in je volgepakte koffer te laten passen. Afgewerkt met de iconische BALR. hexagon en een afneembare riem, is deze Kit de nieuwe all-star in je reisopstelling. <br></span><span>De leren toilettas is onmisbaar voor elke reizende BALR. Met twee vakken en gemaakt van de beste materialen, combineert deze kit ongekende luxe en bruikbaarheid.</span></p>
+<ul>
+<li>Zwart leer</li>
+<li>Gemaakt in Italië</li>
+<li>2 vakken met rits</li>
+<li>Afneembare riem</li>
+<li>Ingestempeld logo</li>
+<li>26 CM B x 16 CM H x 9 CM D</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>CB_Bags_Toiletzak</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972621680857</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>FCB22-201.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019728367833</id>
+    <published>2022-11-25T20:37:13+01:00</published>
+    <updated>2022-11-25T20:37:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/kaarthouder"/>
+    <title>Kaarthouder</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Kaarthouder_befa7cc4-64ca-4786-99e4-849a7d964cb1.jpg?v=1670425714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bewaar jij jouw abonnement in deze zwarte lederen kaarthouder?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Portefeuille</s:tag>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019728367833</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>FCB22-021.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868747546841</id>
+    <published>2022-09-01T22:34:41+02:00</published>
+    <updated>2022-09-01T22:34:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sports-bag-1891"/>
+    <title>Sports Bag 1891</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sporttas1891.jpg?v=1665091309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Neem al je Club Brugge spullen mee in deze handige rugzak.</p> <p>Height: 36cm Width: 50cm Depth: 25cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50-100</s:tag>
+    <s:tag>CB_Bags_Sporttas</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868747546841</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-032.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743450841</id>
+    <published>2022-09-01T22:33:13+02:00</published>
+    <updated>2022-09-01T22:33:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/rugzak-fcb-striped"/>
+    <title>Rugzak FCB Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/rugzak-sfeer.jpg?v=1662064397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De punten op zak steken na een nieuwe overwinning van Blauw-Zwart? Dat doe je binnekort in deze rugzak! </p>
+ <p>Een schoolrugzak kan al snel slordig worden. Deze Club Brugge boekentas, voorzien van alle compartimenten, biedt de opslossing! De blauwe reflecterende strips zorgen bovendien voor een veilige trip richting school. Het logo maakt als eye catcher meteen duidelijk dat jij onderdeel bent van de FCB-familie.</p>
+ <p><strong>Eigenschappen:</strong></p>
+ 
+ <ul>
+ 
+ <li>Afmetingen: 26 x 19 x 42 cm</li>
+ 
+ <li>Bevat een voorzakje, ruim boekencompartiment, laptopvak en binnenzak.</li>
+ 
+ <li>Ook handige zijzakjes voor je drinkfles</li>
+ 
+ <li>Materiaal: Polyester met nylon afwerking</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743450841</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-001.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743385305</id>
+    <published>2022-09-01T22:33:07+02:00</published>
+    <updated>2022-09-01T22:33:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/rugzak-clubkids-3d"/>
+    <title>Rugzak Clubkids 3D</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/bibi-rugzak-sfeer.jpg?v=1662064393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze leuke rugzak voor de kleinste Club fans staat volledig in het teken van Bibi de Beer, onze trouwe mascotte. De rugzak heeft een 3D print van Bibi op de voorkant en springt er letterlijk en figuurlijk uit.</p>
+ 
+ <p>Deze boekentas heeft een ritssluiting en aanpasbare schoudergordels. Ideaal voor een brooddoos, drinkfles en de koeken of fruit voor de speelpauze. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743385305</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB20-335.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868741550297</id>
+    <published>2022-09-01T22:31:46+02:00</published>
+    <updated>2022-09-01T22:31:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pennenzak-fcb-striped"/>
+    <title>Pennenzak FCB Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/pennenzak-sfeer.jpg?v=1662064307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze Club Brugge pennenzak maakt meteen duidelijk wie de echte voetbalkenners zijn in de klas. De Blauw-Zwart gestreepte pennenzak is:</p>
+ <p>- Groot genoeg om zowel je schrijfgerei als kleine rekenmachine in op te bergen.<br>- Gemaakt van stevig, krasvrij materiaal en heeft een sterke ritssluiting</p>
+ 
+ <p><strong>Eigenschappen:</strong></p>
+ 
+ <ul>
+ 
+ <li>Afmetingen: 21 x 9 x 8 cm</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bags_Pennenzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868741550297</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-003.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868739092697</id>
+    <published>2022-09-01T22:29:32+02:00</published>
+    <updated>2022-09-01T22:29:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/laptoptas"/>
+    <title>Laptoptas</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/laptoptas.jpg?v=1662064174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hou jouw computer veilig in deze Club Brugge laptoptas.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bags_Laptop</s:tag>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868739092697</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB20-331.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868731818201</id>
+    <published>2022-09-01T22:23:35+02:00</published>
+    <updated>2022-09-01T22:23:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/cosmolite-samsonite-koffer-zwart"/>
+    <title>Cosmolite Samsonite koffer ZWART</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/zwart.jpg?v=1662063816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kom jij overal ter wereld toe in Club stijl? Met deze zwarte koffer laat je iedereen zien dat jij een Club fan bent.</p>
+<p>Hoogte: 55 cm<br>Breedte: 40 cm<br>Diepte: 20 cm</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bags_Trolley</s:tag>
+    <s:tag>CB_Bureau</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731818201</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">399.00</s:price>
+      <s:sku>FCB19-302.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868731752665</id>
+    <published>2022-09-01T22:23:34+02:00</published>
+    <updated>2022-09-01T22:23:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/cosmolite-samsonite-koffer-marine"/>
+    <title>Cosmolite Samsonite koffer MARINE</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/marine.jpg?v=1662063815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kom jij overal ter wereld toe in Club stijl? Met deze marine koffer laat je iedereen zien dat jij een Club fan bent.</p>
+<p>Hoogte: 55 cm<br>Breedte: 40 cm<br>Diepte: 20 cm</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bags_Trolley</s:tag>
+    <s:tag>CB_Bureau</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731752665</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">399.00</s:price>
+      <s:sku>FCB19-303.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868731457753</id>
+    <published>2022-09-01T22:23:15+02:00</published>
+    <updated>2022-09-01T22:23:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/boekentas"/>
+    <title>Boekentas</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/boekentas-sfeer.jpg?v=1662063800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731457753</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB18-056.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

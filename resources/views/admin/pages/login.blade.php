@@ -2,114 +2,112 @@
 <html lang="en">
 
 <head>
-    <base href="../../../">
-    <title>Metronic - the world's #1 selling Bootstrap Admin Theme Ecosystem for HTML, Vue, React, Angular & Laravel by
-        Keenthemes</title>
     <meta charset="utf-8" />
-    <meta name="description"
-        content="The most advanced Bootstrap Admin Theme on Themeforest trusted by 94,000 beginners and professionals. Multi-demo, Dark Mode, RTL support and complete React, Angular, Vue & Laravel versions. Grab your copy now and get life-time updates for free." />
-    <meta name="keywords"
-        content="Metronic, bootstrap, bootstrap 5, Angular, VueJs, React, Laravel, admin themes, web design, figma, web development, free templates, free admin themes, bootstrap theme, bootstrap template, bootstrap dashboard, bootstrap dak mode, bootstrap button, bootstrap datepicker, bootstrap timepicker, fullcalendar, datatables, flaticon" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title"
-        content="Metronic - Bootstrap 5 HTML, VueJS, React, Angular & Laravel Admin Dashboard Theme" />
-    <meta property="og:url" content="https://keenthemes.com/metronic" />
-    <meta property="og:site_name" content="Keenthemes | Metronic" />
-    <link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
-    <link rel="shortcut icon" href="{{ asset('assets/media/logos/favicon.ico') }}" />
-
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
-
-    <link href="{{ asset('theme/demo2/dist/assets/plugins/global/plugins.bundle.css') }}" rel="stylesheet"
-        type="text/css" />
-    <link href="{{ asset('theme/demo2/dist/assets/css/style.bundle.css') }}" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
+    <link rel="icon" type="image/png" href="../assets/img/favicon.png">
+    <title>
+        Argon Dashboard 2 by Creative Tim
+    </title>
+    <!--     Fonts and icons     -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+    <!-- Nucleo Icons -->
+    <link href="{{ asset('admin/assets/css/nucleo-icons.css') }}" rel="stylesheet" />
+    <link href="{{ asset('admin/assets/css/nucleo-svg.css') }}" rel="stylesheet" />
+    <!-- Font Awesome Icons -->
+    <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+    <link href="{{ asset('admin//assets/css/nucleo-svg.css') }}" rel="stylesheet" />
+    <!-- CSS Files -->
+    <link id="pagestyle" href="{{ asset('admin/assets/css/argon-dashboard.css?v=2.0.4') }}" rel="stylesheet" />
 </head>
 
-<body id="kt_body" class="bg-body">
-    <div class="d-flex flex-column flex-root">
-        <div class="d-flex flex-column flex-lg-row flex-column-fluid">
-            <div class="d-flex flex-column flex-lg-row-auto w-xl-600px positon-xl-relative"
-                style="background-color: #F2C98A">
-                <div class="d-flex flex-column position-xl-fixed top-0 bottom-0 w-xl-600px scroll-y">
-                    <div class="d-flex flex-row-fluid flex-column text-center p-10 pt-lg-20">
-                        <a href="../../demo2/dist/index.html" class="py-9 mb-5">
-                            <img alt="Logo" src="{{ asset('assets/media/logos/logo-2.svg') }}" class="h-60px" />
-                        </a>
-                        <h1 class="fw-bolder fs-2qx pb-5 pb-md-10" style="color: #986923;">Welcome to Metronic</h1>
-                        <p class="fw-bold fs-2" style="color: #986923;">Discover Amazing Metronic<br />with great build
-                            tools</p>
-                    </div>
-                    <div class="d-flex flex-row-auto bgi-no-repeat bgi-position-x-center bgi-size-contain bgi-position-y-bottom min-h-100px min-h-lg-350px"
-                        style="background-image: url({{ asset('assets/media/illustrations/sigma-1/13.png') }}"></div>
-                </div>
-            </div>
-            <div class="d-flex flex-column flex-lg-row-fluid py-10">
-                <div class="d-flex flex-center flex-column flex-column-fluid">
-                    <div class="w-lg-500px p-10 p-lg-15 mx-auto">
-                        <form class="form w-100" novalidate="novalidate" id="kt_sign_in_form" action="{{ route('admin.post.login') }}" method="POST">
-                            @csrf
-                            <div class="text-center mb-10">
-                                <h1 class="text-dark mb-3">Sign In to Metronic</h1>
-                                <div class="text-gray-400 fw-bold fs-4">New Here?
-                                    <a href="../../demo2/dist/authentication/layouts/aside/sign-up.html"
-                                        class="link-primary fw-bolder">Create an Account</a>
+<body class="">
+
+    <main class="main-content  mt-0">
+        <section>
+            <div class="page-header min-vh-100">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-4 col-lg-5 col-md-7 d-flex flex-column mx-lg-0 mx-auto">
+                            <div class="card card-plain">
+                                <div class="card-header pb-0 text-start">
+                                    <h4 class="font-weight-bolder">Sign In</h4>
+                                    <p class="mb-0">Enter your email and password to sign in</p>
+                                </div>
+                                <div class="card-body">
+
+                                    <form role="form" action="{{ route('admin.post.login') }}" method="POST">
+                                        @csrf
+                                        <div class="mb-3">
+                                            <input type="email" class="form-control form-control-lg"
+                                                placeholder="Email" name="email" aria-label="Email">
+                                            @error('email')
+                                                <div class="invalid-feedback">{{ $message }}</div>
+                                            @enderror
+                                        </div>
+                                        <div class="mb-3">
+                                            <input type="password" name="password" class="form-control form-control-lg"
+                                                placeholder="Password" aria-label="Password">
+                                            @error('password')
+                                                <div class="invalid-feedback">{{ $message }}</div>
+                                            @enderror
+                                        </div>
+                                        <div class="form-check form-switch">
+                                            <input class="form-check-input" type="checkbox" id="rememberMe"
+                                                name="remember">
+                                            <label class="form-check-label" for="rememberMe">Remember me</label>
+                                        </div>
+                                        <div class="text-center">
+                                            <button type="submit"
+                                                class="btn btn-lg btn-primary btn-lg w-100 mt-4 mb-0">Sign in</button>
+                                        </div>
+                                    </form>
+
+                                </div>
+                                <div class="card-footer text-center pt-0 px-lg-2 px-1">
+                                    <p class="mb-4 text-sm mx-auto">
+                                        Don't have an account?
+                                        <a href="javascript:;" class="text-primary text-gradient font-weight-bold">Sign
+                                            up</a>
+                                    </p>
                                 </div>
                             </div>
-                            <div class="fv-row mb-10">
-                                <label class="form-label fs-6 fw-bolder text-dark">Email</label>
-                                <input class="form-control form-control-lg form-control-solid @error('email') is-invalid @enderror" type="text" name="email" value="{{ old('email') }}" autocomplete="off" />
-                                @error('email')
-                                    <div class="invalid-feedback">{{ $message }}</div>
-                                @enderror
+                        </div>
+                        <div
+                            class="col-6 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 end-0 text-center justify-content-center flex-column">
+                            <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center overflow-hidden"
+                                style="background-image: url('https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro/assets/img/signin-ill.jpg');
+          background-size: cover;">
+                                <span class="mask bg-gradient-primary opacity-6"></span>
+                                <h4 class="mt-5 text-white font-weight-bolder position-relative">"Attention is the new
+                                    currency"</h4>
+                                <p class="text-white position-relative">The more effortless the writing looks, the more
+                                    effort the writer actually put into the process.</p>
                             </div>
-                            <div class="fv-row mb-10">
-                                <div class="d-flex flex-stack mb-2">
-                                    <label class="form-label fw-bolder text-dark fs-6 mb-0">Password</label>
-                                    <a href="../../demo2/dist/authentication/layouts/aside/password-reset.html"
-                                        class="link-primary fs-6 fw-bolder">Forgot Password ?</a>
-                                </div>
-                                <input class="form-control form-control-lg form-control-solid @error('password') is-invalid @enderror" type="password" name="password" autocomplete="off" />
-                                @error('password')
-                                    <div class="invalid-feedback">{{ $message }}</div>
-                                @enderror
-                            </div>
-                            <div class="text-center">
-                                @if($errors->has('login'))
-    <div class="alert alert-danger">{{ $errors->first('login') }}</div>
-@endif
-                                <button type="submit" id="kt_sign_in_submit" class="btn btn-lg btn-primary w-100 mb-5">
-                                    <span class="indicator-label">Continue</span>
-                                    <span class="indicator-progress">Please wait...
-                                        <span class="spinner-border spinner-border-sm align-middle ms-2"></span></span>
-                                </button>
-                                <div class="text-center text-muted text-uppercase fw-bolder mb-5">or</div>
-                                <a href="#" class="btn btn-flex flex-center btn-light btn-lg w-100 mb-5">
-                                    <img alt="Logo"
-                                        src="{{ asset('assets/media/svg/brand-logos/google-icon.svg') }}"
-                                        class="h-20px me-3" />Continue with Google</a>
-                                <a href="#" class="btn btn-flex flex-center btn-light btn-lg w-100 mb-5">
-                                    <img alt="Logo" src="{{ asset('assets/media/svg/brand-logos/facebook-4.svg') }}"
-                                        class="h-20px me-3" />Continue with Facebook </a>
-
-
-                                <a href="#" class="btn btn-flex flex-center btn-light btn-lg w-100">
-                                    <img alt="Logo"
-                                        src="{{ asset('assets/media/svg/brand-logos/apple-black.svg') }}"
-                                        class="h-20px me-3" />Continue with Apple</a>
-                            </div>
-                        </form>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
+        </section>
+    </main>
+    <!--   Core JS Files   -->
+    <script src="{{ asset('admin/assets/js/core/popper.min.js') }}"></script>
+    <script src="{{ asset('admin/assets/js/core/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('admin/assets/js/plugins/perfect-scrollbar.min.js') }}"></script>
+    <script src="{{ asset('admin/assets/js/plugins/smooth-scrollbar.min.js') }}"></script>
     <script>
-        var hostUrl = "assets/";
+        var win = navigator.platform.indexOf('Win') > -1;
+        if (win && document.querySelector('#sidenav-scrollbar')) {
+            var options = {
+                damping: '0.5'
+            }
+            Scrollbar.init(document.querySelector('#sidenav-scrollbar'), options);
+        }
     </script>
-    <script src="{{ asset('assets/plugins/global/plugins.bundle.js') }}"></script>
-    <script src="{{ asset('assets/js/scripts.bundle.js') }}"></script>
+    <!-- Github buttons -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <!-- Control Center for Soft Dashboard: parallax effects, scripts for the example pages etc -->
+    <script src="{{ asset('admin/assets/js/argon-dashboard.min.js?v=2.0.4') }}"></script>
 </body>
 
 </html>

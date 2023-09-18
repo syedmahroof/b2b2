@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/home-kit-23-24.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-07-20T07:31:19+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667905370</id>
+    <published>2023-07-20T07:31:19+02:00</published>
+    <updated>2023-07-20T07:31:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-socks-23-24"/>
+    <title>Home Socks 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/homesocks.jpg?v=1688141806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Vervolledig je home kit met de officiële wedstrijdsocks. Op de achterkant van de kousen prijkt het oprichtingsjaar '1891'.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667905370</id>
+      <title>36-38</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>FCB23-421.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667905370</id>
+      <title>39-42</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>FCB23-421.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667905370</id>
+      <title>43-46</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>FCB23-421.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667905370</id>
+      <title>47-50</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>FCB23-421.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667872602</id>
+    <published>2023-07-20T07:31:18+02:00</published>
+    <updated>2023-07-20T07:31:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-short-kids-23-24"/>
+    <title>Home Short Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856989105_01.jpg?v=1687525194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">De nieuwe home short kids voor het seizoen 2023-2024.</p>
+<p data-mce-fragment="1">De short is volledig zwart met enkel het Club logo op de heup. De ademende stof zorgt voor een aangenaam gevoel tijdens het sporten.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667872602</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-420.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667872602</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-420.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667872602</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-420.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667872602</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-420.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667807066</id>
+    <published>2023-07-20T07:31:18+02:00</published>
+    <updated>2023-07-20T07:31:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-short-volw-23-24"/>
+    <title>Home Short Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856989008_01.jpg?v=1687525231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De nieuwe home short voor het seizoen 2023-2024.</p>
+<p>De short is volledig zwart met enkel het Club logo op de heup. De ademende stof zorgt voor een aangenaam gevoel tijdens het sporten.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667807066</id>
+      <title>S</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-419.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667807066</id>
+      <title>M</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-419.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667807066</id>
+      <title>L</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-419.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667807066</id>
+      <title>XL</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-419.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667807066</id>
+      <title>XXL</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-419.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667807066</id>
+      <title>3XL</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-419.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667708762</id>
+    <published>2023-07-20T07:31:18+02:00</published>
+    <updated>2023-07-20T07:31:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-minikit-baby-23-24"/>
+    <title>Home Minikit Baby 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856988901_01.jpg?v=1690221479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Ontdek het nieuwe home shirt van Club Brugge voor het seizoen 2023-2024 in babymaten. De klassieke blauw-zwarte uitrusting is te krijgen in 3 maten en komt altijd inclusief de zwarte short:</span></p>
+<ul>
+<li><span data-mce-fragment="1">3-6 maand</span></li>
+<li><span data-mce-fragment="1">6-9 maand</span></li>
+<li><span data-mce-fragment="1">9-12 maand</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>CB_TargetGroup_BabyPeuter</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667708762</id>
+      <title>3/6 M</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-418.62</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667708762</id>
+      <title>6/9 M</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-418.74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667708762</id>
+      <title>9/12 M</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-418.86</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667675994</id>
+    <published>2023-07-20T07:31:17+02:00</published>
+    <updated>2023-07-20T07:31:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-minikit-peuter-23-24"/>
+    <title>Home Minikit Peuter 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856988804_01.jpg?v=1690221496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Ontdek het nieuwe home shirt van Club Brugge voor het seizoen 2023-2024 in peuter en kleutermaten. De klassieke blauw-zwarte uitrusting is te krijgen in drie leeftijden en komt altijd inclusief de zwarte short:</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">1/2 jaar</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">3/4 jaar</span></li>
+<li data-mce-fragment="1"><span mce-data-marked="1" data-mce-fragment="1">5/6 jaar</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>CB_TargetGroup_BabyPeuter</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667675994</id>
+      <title>1/2 Y</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>FCB23-417.92</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667675994</id>
+      <title>3/4 Y</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>FCB23-417.104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667675994</id>
+      <title>5/6 Y</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>FCB23-417.116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667643226</id>
+    <published>2023-07-20T07:31:17+02:00</published>
+    <updated>2023-07-20T07:31:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-shirt-meisjes-23-24"/>
+    <title>Home Shirt Meisjes 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/20230706_HOME_KIDS-64.jpg?v=1689587910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontdek het nieuwe home shirt voor meisjes van Club Brugge voor het seizoen 2023-2024. De klassieke blauw-zwarte strepen zijn er nog steeds, maar vertrekken vanuit een volledig zwarte bovenkant. Dit geeft het shirt zijn typische uitstraling waaraan kracht en assertiviteit aan toegevoegd zijn.</p>
+<p>Want dat is Jan Breydel, onze thuis. De spanning vooraf. Op de trappen richting jouw zitje. En dan plots, een mensenmassa. Duizenden blauw-zwarte sjaals, vlaggen, gezangen. Het blauw van de hemel en het zwart van de nacht. Iconische shirts in legendarische kleuren. Jouw kleuren. Samenhorigheid en kameraadschap doorheen het hele stadion.</p>
+<p><em>Mouwsponsors zijn niet inbegrepen.</em></p>
+<p><strong data-mce-fragment="1">ECO shirt</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Wist je dat het shirt gemaakt is van Macron Eco Fabric? Een draad die gemaakt is van 100% PET recycled polyester en gecertificeerd is door de Global Recyle Standard. voor elk shirt werden 13 liter flessen gerecycleerd.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">De draad verliest niets van zijn originele kwaliteit tijdens het wassen en het productieproces vergt bovendien een pak minder energie. Voor alle shirts van Club komt dit neer op maar liefst 260.000 PET flessen per jaar!</span></p>
+<p><strong>Kenmerken:</strong></p>
+<ul>
+<li>Wedstrijdkwaliteit: dit is het shirt dat de spelers dragen op het veld,</li>
+<li>No Sweat No Glory staat geborduurd in de nek</li>
+<li>De 'We Are Bruges' overwinningskreet gedrukt op de binnenzoom</li>
+<li>Topkwaliteit van het Italiaanse Macron,</li>
+<li>100% polyester,</li>
+<li>Comfortabele en ademende stof: Macron Performance System,</li>
+<li>Beschikbaar in maat 128-140-152</li>
+<li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur.</li>
+</ul>
+<p><span><strong>Belangrijk!<br></strong>Bedrukte shirts kunnen niet geruild of terugbetaald worden. Dit geldt ook als een speler Club verlaat of van rugnummer/naam verandert gedurende zijn periode bij Club, tenzij de bedrukking defect is.</span></p>
+<p><em data-mce-fragment="1">Mouwsponsors zijn niet inbegrepen.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__personalised:shirt-23-24</s:tag>
+    <s:tag>__pp-color:#ffffff</s:tag>
+    <s:tag>__pp-font:albertusnova</s:tag>
+    <s:tag>__pp-image-suffix:2324homeshirtwhite</s:tag>
+    <s:tag>__type:Home</s:tag>
+    <s:tag>__variant:Meisje</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667643226</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-416.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667643226</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-416.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667643226</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-416.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667610458</id>
+    <published>2023-07-20T07:31:16+02:00</published>
+    <updated>2023-07-20T07:31:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-shirt-dames-23-24"/>
+    <title>Home Shirt Dames 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/20230706_HOME_KIDS-81.jpg?v=1689597081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ontdek het nieuwe home shirt van Club Brugge voor het seizoen 2023-2024. De klassieke blauw-zwarte strepen zijn er nog steeds, maar vertrekken vanuit een volledig zwarte bovenkant. Dit geeft het shirt zijn typische uitstraling waar kracht en assertiviteit aan toegevoegd zijn.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Want dat is Jan Breydel, onze thuis. De spanning vooraf. Op de trappen richting jouw zitje. En dan plots, een mensenmassa. Duizenden blauw-zwarte sjaals, vlaggen, gezangen. Het blauw van de hemel en het zwart van de nacht. Iconische shirts in legendarische kleuren. Jouw kleuren. Samenhorigheid en kameraadschap doorheen het hele stadion.</p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">Mouwsponsors zijn niet inbegrepen.</em></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ECO shirt</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Wist je dat het shirt gemaakt is van Macron Eco Fabric? Een draad die gemaakt is van 100% PET recycled polyester en gecertificeerd is door de Global Recyle Standard. voor elk shirt werden 13 liter flessen gerecycleerd.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">De draad verliest niets van zijn originele kwaliteit tijdens het wassen en het productieproces vergt bovendien een pak minder energie. Voor alle shirts van Club komt dit neer op maar liefst 260.000 PET flessen per jaar!</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Kenmerken:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Wedstrijdkwaliteit: dit is het shirt dat de spelers dragen op het veld,</li>
+<li data-mce-fragment="1">No Sweat No Glory staat geborduurd in de nek</li>
+<li data-mce-fragment="1">De 'We Are Bruges'<span data-mce-fragment="1"> </span>overwinningskreet gedrukt op<span data-mce-fragment="1"> </span>de binnenzoom</li>
+<li data-mce-fragment="1">Topkwaliteit van het Italiaanse Macron,</li>
+<li data-mce-fragment="1">100% polyester,</li>
+<li data-mce-fragment="1">Comfortabele en ademende stof: Macron Performance System,</li>
+<li data-mce-fragment="1">Beschikbaar in maat S tot 5XL,</li>
+<li data-mce-fragment="1">Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur.</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Belangrijk!<br data-mce-fragment="1"></strong>Bedrukte shirts kunnen niet geruild of terugbetaald worden. Dit geldt ook als een speler Club verlaat of van rugnummer/naam verandert gedurende zijn periode bij Club, tenzij de bedrukking defect is.</span></p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">Mouwsponsors zijn niet inbegrepen.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__personalised:shirt-23-24</s:tag>
+    <s:tag>__pp-color:#ffffff</s:tag>
+    <s:tag>__pp-font:albertusnova</s:tag>
+    <s:tag>__pp-image-suffix:2324homeshirtwhite</s:tag>
+    <s:tag>__type:Home</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667610458</id>
+      <title>S</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-415.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667610458</id>
+      <title>M</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-415.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667610458</id>
+      <title>L</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-415.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667610458</id>
+      <title>XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-415.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667610458</id>
+      <title>XXL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-415.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667610458</id>
+      <title>3XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-415.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667610458</id>
+      <title>4XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-415.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667610458</id>
+      <title>5XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-415.5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667577690</id>
+    <published>2023-07-20T07:31:16+02:00</published>
+    <updated>2023-07-20T07:31:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-shirt-kids-23-24"/>
+    <title>Home Shirt Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/20230706_HOME_KIDS-18.jpg?v=1689587947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontdek het nieuwe home shirt van Club Brugge voor het seizoen 2023-2024. De klassieke blauw-zwarte strepen zijn er nog steeds, maar vertrekken vanuit een volledig zwarte bovenkant. Dit geeft het shirt zijn typische uitstraling waaraan kracht en assertiviteit aan toegevoegd zijn.<br data-mce-fragment="1"></p>
+<p>Want dat is Jan Breydel, onze thuis. De spanning vooraf. Op de trappen richting jouw zitje. En dan plots, een mensenmassa. Duizenden blauw-zwarte sjaals, vlaggen, gezangen. Het blauw van de hemel en het zwart van de nacht. Iconische shirts in legendarische kleuren. Jouw kleuren. Samenhorigheid en kameraadschap doorheen het hele stadion.</p>
+<p><em data-mce-fragment="1">Mouwsponsors zijn niet inbegrepen.</em></p>
+<p><strong data-mce-fragment="1">ECO shirt</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Wist je dat het shirt gemaakt is van Macron Eco Fabric? Een draad die gemaakt is van 100% PET recycled polyester en gecertificeerd is door de Global Recyle Standard. voor elk shirt werden 13 liter flessen gerecycleerd.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">De draad verliest niets van zijn originele kwaliteit tijdens het wassen en het productieproces vergt bovendien een pak minder energie. Voor alle shirts van Club komt dit neer op maar liefst 260.000 PET flessen per jaar!</span></p>
+<p><strong>Kenmerken:</strong></p>
+<ul>
+<li>Wedstrijdkwaliteit: dit is het shirt dat de spelers dragen op het veld,</li>
+<li>No Sweat No Glory staat geborduurd in de nek</li>
+<li>De 'We Are Bruges'<span> </span>overwinningskreet gedrukt op<span> </span>de binnenzoom</li>
+<li>Topkwaliteit van het Italiaanse Macron,</li>
+<li>100% polyester,</li>
+<li>Comfortabele en ademende stof: Macron Performance System,</li>
+<li>Beschikbaar in maat 128-140-152-164</li>
+<li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur.</li>
+</ul>
+<p><span><strong>Belangrijk!<br></strong>Bedrukte shirts kunnen niet geruild of terugbetaald worden. Dit geldt ook als een speler Club verlaat of van rugnummer/naam verandert gedurende zijn periode bij Club, tenzij de bedrukking defect is.</span></p>
+<p><em data-mce-fragment="1">Mouwsponsors zijn niet inbegrepen.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__personalised:shirt-23-24</s:tag>
+    <s:tag>__pp-color:#ffffff</s:tag>
+    <s:tag>__pp-font:albertusnova</s:tag>
+    <s:tag>__pp-image-suffix:2324homeshirtwhite</s:tag>
+    <s:tag>__type:Home</s:tag>
+    <s:tag>__variant:Jongen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667577690</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-414.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667577690</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-414.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667577690</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-414.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667577690</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-414.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667544922</id>
+    <published>2023-07-20T07:31:15+02:00</published>
+    <updated>2023-07-20T07:31:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/home-shirt-volw-23-24"/>
+    <title>Home Shirt Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Product1.jpg?v=1690539053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ontdek het nieuwe home shirt van Club Brugge voor het seizoen 2023-2024. De klassieke blauw-zwarte strepen zijn er nog steeds, maar vertrekken vanuit een volledig zwarte bovenkant. Dit geeft het shirt zijn typische uitstraling waaraan kracht en assertiviteit aan toegevoegd zijn.</p>
+<p data-mce-fragment="1">Want dat is Jan Breydel, onze thuis. De spanning vooraf. Op de trappen richting jouw zitje. En dan plots, een mensenmassa. Duizenden blauw-zwarte sjaals, vlaggen, gezangen. <span data-mce-fragment="1">Het blauw van de hemel en het zwart van de nacht. Iconische shirts in legendarische kleuren. Jouw kleuren. </span><span data-mce-fragment="1">Samenhorigheid en kameraadschap doorheen het hele stadion. </span></p>
+<p data-mce-fragment="1">Samenhorigheid en kameraadschap doorheen het hele stadion. Als het goed gaat, maar ook als het wat minder gaat. En hoe het laatste seizoen ook gelopen is, We Rise Again!</p>
+<p data-mce-fragment="1"><em>Mouwsponsors zijn niet ingebrepen.</em></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">ECO shirt</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Wist je dat het shirt gemaakt is van Macron Eco Fabric? Een draad die gemaakt is van 100% PET recycled polyester en gecertificeerd is door de Global Recyle Standard. voor elk shirt werden 13 liter flessen gerecycleerd.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">De draad verliest niets van zijn originele kwaliteit tijdens het wassen en het productieproces vergt bovendien een pak minder energie. Voor alle shirts van Club komt dit neer op maar liefst 260.000 PET flessen per jaar!</span></p>
+<p><strong>Kenmerken:</strong></p>
+<ul>
+<li>Wedstrijdkwaliteit: dit is het shirt dat de spelers dragen op het veld,</li>
+<li>No Sweat No Glory staat geborduurd in de nek</li>
+<li>De 'We Are Bruges'<span> </span>overwinningskreet gedrukt op<span> </span>de binnenzoom</li>
+<li>Topkwaliteit van het Italiaanse Macron,</li>
+<li>100% polyester,</li>
+<li>Comfortabele en ademende stof: Macron Performance System,</li>
+<li>Beschikbaar in maat S tot 5XL,</li>
+<li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur.</li>
+</ul>
+<p><span><strong>Belangrijk!<br></strong>Bedrukte shirts kunnen niet geruild of terugbetaald worden. Dit geldt ook als een speler Club verlaat of van rugnummer/naam verandert gedurende zijn periode bij Club, tenzij de bedrukking defect is.</span></p>
+<p><span><em>Mouwsponsors zijn niet ingebrepen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__personalised:shirt-23-24</s:tag>
+    <s:tag>__pp-color:#ffffff</s:tag>
+    <s:tag>__pp-font:albertusnova</s:tag>
+    <s:tag>__pp-image-suffix:2324homeshirtwhite</s:tag>
+    <s:tag>__type:Home</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667544922</id>
+      <title>S</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-413.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667544922</id>
+      <title>M</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-413.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667544922</id>
+      <title>L</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-413.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667544922</id>
+      <title>XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-413.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667544922</id>
+      <title>XXL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-413.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667544922</id>
+      <title>3XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-413.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667544922</id>
+      <title>4XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-413.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667544922</id>
+      <title>5XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-413.5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

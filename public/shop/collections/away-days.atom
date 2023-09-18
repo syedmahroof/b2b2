@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/away-days.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2022-09-01T22:48:01+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868773531865</id>
+    <published>2022-09-01T22:48:01+02:00</published>
+    <updated>2022-09-01T22:48:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-bruges-are-winning-kids"/>
+    <title>T-shirt Bruges Are Winning Kids</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/T-shirtawaydaysbrugesarewinning_kids.jpg?v=1664643945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bruges are winning, everywhere we go! Deze t-shirt toont meteen aan wat jij het liefste doet: winnen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>awaydays</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868773531865</id>
+      <title>128</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-112.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868773531865</id>
+      <title>140</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-112.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868773531865</id>
+      <title>152</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-112.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868773531865</id>
+      <title>164</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-112.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868755411161</id>
+    <published>2022-09-01T22:39:05+02:00</published>
+    <updated>2022-09-01T22:39:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-bruges-are-winning"/>
+    <title>T-shirt Bruges Are Winning</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/T-shirtawaydaysbrugesarewinning.jpg?v=1664643737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bruges are winning, everywhere we go! Deze t-shirt toont meteen aan wat jij het liefste doet: winnen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>awaydays</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868755411161</id>
+      <title>S</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-113.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868755411161</id>
+      <title>M</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-113.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868755411161</id>
+      <title>L</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-113.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868755411161</id>
+      <title>XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-113.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868755411161</id>
+      <title>XXL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-113.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868755411161</id>
+      <title>3XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-113.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868754526425</id>
+    <published>2022-09-01T22:38:45+02:00</published>
+    <updated>2022-09-01T22:38:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-away-days"/>
+    <title>T-shirt Away Days</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/T-shirtawaydays_1.jpg?v=1665266678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Away days, best days! Met deze t-shirt schreeuw je Blauw-Zwart naar de overwinning vanuit het uitvak</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>awaydays</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754526425</id>
+      <title>S</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-114.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754526425</id>
+      <title>M</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-114.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754526425</id>
+      <title>L</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-114.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754526425</id>
+      <title>XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-114.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754526425</id>
+      <title>XXL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-114.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754526425</id>
+      <title>3XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-114.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868748398809</id>
+    <published>2022-09-01T22:35:37+02:00</published>
+    <updated>2022-09-01T22:35:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-away-days"/>
+    <title>Sweater Away Days</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/SweaterAwayDays_0d7b2c30-73cc-4cd3-b677-3e37372a0468.jpg?v=1665267135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Away days, best days! Deze sweater maakt uitwedstrijden helemaal compleet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>awaydays</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748398809</id>
+      <title>S</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-115.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748398809</id>
+      <title>M</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-115.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748398809</id>
+      <title>L</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-115.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748398809</id>
+      <title>XL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-115.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748398809</id>
+      <title>XXL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-115.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748398809</id>
+      <title>3XL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-115.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868736045273</id>
+    <published>2022-09-01T22:27:30+02:00</published>
+    <updated>2022-09-01T22:27:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-away-days-22"/>
+    <title>Hoodie Bruges Are Winning</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Hoodieawaydays_1.jpg?v=1664641827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Away days, best days! Met deze hoodie nemen we samen de punten mee richting Brugge.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>awaydays</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736045273</id>
+      <title>S</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB22-116.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736045273</id>
+      <title>M</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB22-116.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736045273</id>
+      <title>L</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB22-116.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736045273</id>
+      <title>XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB22-116.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736045273</id>
+      <title>XXL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB22-116.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736045273</id>
+      <title>3XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB22-116.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

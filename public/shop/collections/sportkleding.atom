@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/sportkleding.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-09-01T11:16:35+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868752691417</id>
+    <published>2023-09-01T11:16:35+02:00</published>
+    <updated>2023-09-01T11:16:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/travelbomber-volw-21-22"/>
+    <title>Travelbomber volw. 21/22</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/m21-bomber-2.jpg?v=1662064679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze jas ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>S</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>M</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>L</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>XXL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>3XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868752691417</id>
+      <title>4XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB21-458.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749054169</id>
+    <published>2023-09-01T11:16:03+02:00</published>
+    <updated>2023-09-01T11:16:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-zip-keeper-volw"/>
+    <title>Sweater zip keeper volw. 19/20</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/51101637490-8b2e67aaea-c_e9ed8ec3-793f-4a4d-9c20-b54617e04382.jpg?v=1662064576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze sweater zweef je alle ballen uit doel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:bordeaux</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749054169</id>
+      <title>S</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-448.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749054169</id>
+      <title>XXL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-448.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749054169</id>
+      <title>3XL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-448.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868748824793</id>
+    <published>2023-09-01T11:16:03+02:00</published>
+    <updated>2023-09-01T11:16:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-zip-grijs-kids"/>
+    <title>Sweater zip grijs kids 19/20</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sweater-zip-grijs-macron-18-19-copy.jpg?v=1662064566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__size:macronkids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748824793</id>
+      <title>128</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB18-449.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743123161</id>
+    <published>2023-09-01T11:09:14+02:00</published>
+    <updated>2023-09-01T11:09:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/regenjas-blauw-volw-21-22"/>
+    <title>Regenjas blauw volw. 21/22</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/regenjas-adult-low.jpg?v=1662064375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            49.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze regenjas houd je droog tijdens het supporteren op regenachtige matchdagen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:blauw</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Jas</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>S</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>M</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>L</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>XL</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>XXL</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743123161</id>
+      <title>3XL</title>
+      <s:price currency="EUR">49.50</s:price>
+      <s:sku>FCB21-448.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450670330202</id>
+    <published>2023-07-14T15:22:16+02:00</published>
+    <updated>2023-07-14T15:22:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/anthem-jacket-wit-23-24"/>
+    <title>Anthem Jacket Wit 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/8058847439240_01.jpg?v=1687525165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Dit witte anthem jacket met opvallende zwarte rits zullen de spelers van Club Brugge dragen als ze het veld opkomen bij away games. </p>
+<p data-mce-fragment="1">De witte kleur van de sweater straalt eenvoud en tijdloosheid uit, terwijl de dikke zwarte strip op de rits het nodige contrast toevoegt. Met een praktische hoodie biedt deze sweater een casual en sportieve uitstraling die perfect is voor dagelijks gebruik. Bovendien heeft de hooded sweat twee onzichtbare zakken aan de buik.</p>
+<p data-mce-fragment="1">De sweater is gemaakt van hoogwaardige materialen die zacht aanvoelen dankzij de brushed afwerking. Met het subtiele Club Brugge-logo op de borst laat je zien waar jouw loyaliteit ligt.</p>
+<p data-mce-fragment="1">Met de witte sweater met hoodie van Macron kun je vol vertrouwen je clubtrots uitdragen. Het is een veelzijdig kledingstuk dat gemakkelijk te combineren is en geschikt is voor verschillende gelegenheden. Ga voor een praktische keuze met deze comfortabele en stijlvolle sweater.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Jacket</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450670330202</id>
+      <title>S</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>FCB23-486.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450670330202</id>
+      <title>M</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>FCB23-486.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450670330202</id>
+      <title>L</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>FCB23-486.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450670330202</id>
+      <title>XL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>FCB23-486.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450670330202</id>
+      <title>XXL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>FCB23-486.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450670330202</id>
+      <title>3XL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>FCB23-486.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450670330202</id>
+      <title>4XL</title>
+      <s:price currency="EUR">89.00</s:price>
+      <s:sku>FCB23-486.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669314394</id>
+    <published>2023-06-30T21:42:15+02:00</published>
+    <updated>2023-06-30T21:42:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-hoodie-kids-23-24"/>
+    <title>Travel Jacket Blauw Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/00585699530501_01.jpg?v=1687786871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Jacket</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669314394</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-461.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669314394</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-461.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669314394</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-461.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669314394</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-461.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669281626</id>
+    <published>2023-06-30T21:42:14+02:00</published>
+    <updated>2023-06-30T21:42:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-hoodie-volw-23-24"/>
+    <title>Travel Jacket Blauw Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856995207_01.jpg?v=1687786887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Jacket</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669281626</id>
+      <title>S</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-460.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669281626</id>
+      <title>M</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-460.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669281626</id>
+      <title>L</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-460.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669281626</id>
+      <title>XL</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-460.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669281626</id>
+      <title>XXL</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-460.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669281626</id>
+      <title>3XL</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-460.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669281626</id>
+      <title>4XL</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-460.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450668986714</id>
+    <published>2023-06-30T21:42:13+02:00</published>
+    <updated>2023-06-30T21:42:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-singlet-blauw-23-24"/>
+    <title>Training Singlet Blauw 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/8058847744443_01.jpg?v=1687969368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Dit blauwe trainingssinglet van Club Brugge is de perfecte keuze voor alle sportliefhebbers die op zoek zijn naar een combinatie van stijl en functionaliteit. Met zijn opvallende design en technische kenmerken biedt dit shirt optimale prestaties tijdens trainingssessies.</p>
+<p data-mce-fragment="1">Na vele jaren maakt het singlet zijn comeback in de trainingscollectie. Het Club Brugge logo is subtiel aanwezig op de borst, waardoor je met trots je clubliefde kunt tonen.</p>
+<p data-mce-fragment="1">Dit technische product is speciaal ontworpen om beweeglijkheid en comfort te bieden tijdens het sporten. De stof van het shirt is ademend, waardoor zweet snel wordt afgevoerd en je koel en droog blijft, zelfs tijdens intense inspanningen. Bovendien zorgt het opvallende metal-look patroon voor een modieuze touch.</p>
+<p data-mce-fragment="1">Of je nu voetbalt, traint in de sportschool of gewoon actief bent, dit blauwe trainingssinglet van Club Brugge biedt de perfecte combinatie van stijl en functionaliteit. Met zijn comfortabele pasvorm en opvallende details ben je klaar om te presteren met de trots van je favoriete club.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668986714</id>
+      <title>S</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-452.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668986714</id>
+      <title>M</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-452.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668986714</id>
+      <title>L</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-452.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668986714</id>
+      <title>XL</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-452.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668986714</id>
+      <title>XXL</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-452.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668986714</id>
+      <title>3XL</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-452.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668986714</id>
+      <title>4XL</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-452.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669642074</id>
+    <published>2023-06-30T21:41:59+02:00</published>
+    <updated>2023-06-30T21:41:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/padded-jacket-kids-23-24"/>
+    <title>Padded Jacket Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/8058847745327_01.jpg?v=1687969325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669642074</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-469.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669642074</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-469.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669642074</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-469.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669609306</id>
+    <published>2023-06-30T21:41:59+02:00</published>
+    <updated>2023-06-30T21:41:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/padded-jacket-volw-23-24"/>
+    <title>Padded Jacket Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/8058847745327_01_774bd0be-17cc-49cd-bae3-985e9ba516cf.jpg?v=1687969332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669609306</id>
+      <title>S</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB23-468.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669609306</id>
+      <title>M</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB23-468.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669609306</id>
+      <title>L</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB23-468.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669609306</id>
+      <title>XL</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB23-468.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669609306</id>
+      <title>XXL</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB23-468.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669609306</id>
+      <title>3XL</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB23-468.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669609306</id>
+      <title>4XL</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB23-468.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669511002</id>
+    <published>2023-06-30T21:41:59+02:00</published>
+    <updated>2023-06-30T21:41:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-zip-zwart-kids-23-24"/>
+    <title>Sweater Zip Zwart Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/8058847745143_01_7ebb13b8-617d-4af8-8141-a7460d524a09.jpg?v=1688140878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Deze zwarte sweater van Club Brugge is een veelzijdig kledingstuk dat perfect is voor alle fans die hun liefde voor de club willen tonen. Met zijn stijlvolle ontwerp en functionele kenmerken is deze sweater ideaal voor zowel sportieve activiteiten als casual gelegenheden.</p>
+<p data-mce-fragment="1">Met een handige 1/4 ritssluiting biedt deze sweater een moderne twist aan een klassiek ontwerp. De zwarte kleur straalt elegantie en tijdloosheid uit, terwijl de blauwe accenten op de mouwen een vleugje dynamiek toevoegen aan het geheel.</p>
+<p data-mce-fragment="1">Het Club Brugge logo is prominent aanwezig op de borst, waardoor je met trots je favoriete team kunt vertegenwoordigen. Op de rug staat Club Brugge voluit geschreven, waardoor je je clubtrots op een opvallende manier kunt tonen.</p>
+<p data-mce-fragment="1">Deze sweater is gemaakt van technische materialen die zorgen voor optimaal comfort en prestaties. De ademende stof houdt je koel en droog, zelfs tijdens intensieve activiteiten, terwijl de elastische eigenschappen van de stof zorgen voor bewegingsvrijheid en flexibiliteit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669511002</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-465.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669511002</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-465.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669511002</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-465.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669511002</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-465.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669445466</id>
+    <published>2023-06-30T21:41:58+02:00</published>
+    <updated>2023-06-30T21:41:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-zip-zwart-volw-23-24"/>
+    <title>Sweater Zip Zwart Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Trainingjacketzwart.jpg?v=1688151520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Deze zwarte sweater van Club Brugge is een veelzijdig kledingstuk dat perfect is voor alle fans die hun liefde voor de club willen tonen. Met zijn stijlvolle ontwerp en functionele kenmerken is deze sweater ideaal voor zowel sportieve activiteiten als casual gelegenheden.</p>
+<p data-mce-fragment="1">Met een handige 1/4 ritssluiting biedt deze sweater een moderne twist aan een klassiek ontwerp. De zwarte kleur straalt elegantie en tijdloosheid uit, terwijl de blauwe accenten op de mouwen een vleugje dynamiek toevoegen aan het geheel.</p>
+<p data-mce-fragment="1">Het Club Brugge logo is prominent aanwezig op de borst, waardoor je met trots je favoriete team kunt vertegenwoordigen. Op de rug staat Club Brugge voluit geschreven, waardoor je je clubtrots op een opvallende manier kunt tonen.</p>
+<p data-mce-fragment="1">Deze sweater is gemaakt van technische materialen die zorgen voor optimaal comfort en prestaties. De ademende stof houdt je koel en droog, zelfs tijdens intensieve activiteiten, terwijl de elastische eigenschappen van de stof zorgen voor bewegingsvrijheid en flexibiliteit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669445466</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-464.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669445466</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-464.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669445466</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-464.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669445466</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-464.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669445466</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-464.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669445466</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-464.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669445466</id>
+      <title>4XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-464.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450668691802</id>
+    <published>2023-06-30T21:41:57+02:00</published>
+    <updated>2023-06-30T21:41:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/anthem-jacket-kids-23-24"/>
+    <title>Anthem Jacket &apos;College&apos; Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856992705_01.jpg?v=1687786364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Maak kennis met het zwarte Anthem Jack in collegestijl van Club Brugge: een waar symbool van teamgeest en tijdloze elegantie.</p>
+<p data-mce-fragment="1">De jacket is in strak, zwarte uitvoering en straalt dankzij de blauwe details een gevoel van verfijning uit, terwijl de kleuren van de Club weerspiegelt worden. Het opvallende Club Brugge logo, prominent weergegeven in helderblauw op de borst, is de eye catcher van deze jas.<br data-mce-fragment="1"><br data-mce-fragment="1">Ontworpen voor zowel comfort als stijl, heeft het jack een klassieke kraag en geribbelde details, allemaal elegant omlijnd in dezelfde opvallende blauwe tint. De knopen aan de voorkant voegen een vleugje veelzijdigheid toe, zodat je het open of gesloten kunt dragen naar jouw voorkeur en het weer.<br data-mce-fragment="1"><br data-mce-fragment="1">Een van de opvallende kenmerken van dit jack is de subtiele knipoog naar de rijke geschiedenis van Club Brugge. Op een van de mouwen prijkt het oprichtingsjaar van de club, 1891, als eerbetoon aan de blijvende erfenis van Blauw-Zwart.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">Eigenschappen:</strong><br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Bewust gekozen voor<span data-mce-fragment="1"> </span>het stevige<span data-mce-fragment="1"> </span>rockland textiel,</span></li>
+<li data-mce-fragment="1"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Handige zakken: voor extra functionaliteit zijn er twee zakken aan de voorzijde van het jack geplaatst.</span></li>
+<li data-mce-fragment="1"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">De sportieve kraag van dit jack geeft het een dynamisch en jeugdig tintje.</span></li>
+<li data-mce-fragment="1"><span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">Dit jack is zorgvuldig ontworpen om zowel comfort als stijl te bieden.</span></li>
+<li data-mce-fragment="1">
+<span style="font-size: 0.875rem;" data-mce-fragment="1" data-mce-style="font-size: 0.875rem;">De stof voelt zacht aan op de huid en zorgt ervoor dat je je de hele dag door comfortabel voelt.</span> </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Jacket</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668691802</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-443.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668691802</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-443.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668691802</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-443.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668691802</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-443.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450668626266</id>
+    <published>2023-06-30T21:41:57+02:00</published>
+    <updated>2023-06-30T21:41:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/anthem-jacket-volw-23-24"/>
+    <title>Anthem Jacket &apos;College&apos; volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856992607_01.jpg?v=1687786391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Maak kennis met het zwarte Anthem Jack in collegestijl van Club Brugge: een waar symbool van teamgeest en tijdloze elegantie.</p>
+<p>De jacket is in strak, zwarte uitvoering en straalt dankzij de blauwe details een gevoel van verfijning uit, terwijl de kleuren van de Club weerspiegelt worden. Het opvallende Club Brugge logo, prominent weergegeven in helderblauw op de borst, is de eye catcher van deze jas.<br data-mce-fragment="1"><br data-mce-fragment="1">Ontworpen voor zowel comfort als stijl, heeft het jack een klassieke kraag en geribbelde details, allemaal elegant omlijnd in dezelfde opvallende blauwe tint. De knopen aan de voorkant voegen een vleugje veelzijdigheid toe, zodat je het open of gesloten kunt dragen naar jouw voorkeur en het weer.<br data-mce-fragment="1"><br data-mce-fragment="1">Een van de opvallende kenmerken van dit jack is de subtiele knipoog naar de rijke geschiedenis van Club Brugge. Op een van de mouwen prijkt het oprichtingsjaar van de club, 1891, als eerbetoon aan de blijvende erfenis van Blauw-Zwart.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Eigenschappen:</strong><br></p>
+<ul>
+<li><span style="font-size: 0.875rem;">Bewust gekozen voor het stevige rockland textiel,</span></li>
+<li><span style="font-size: 0.875rem;">Handige zakken: voor extra functionaliteit zijn er twee zakken aan de voorzijde van het jack geplaatst.</span></li>
+<li><span style="font-size: 0.875rem;">De sportieve kraag van dit jack geeft het een dynamisch en jeugdig tintje.</span></li>
+<li><span style="font-size: 0.875rem;">Dit jack is zorgvuldig ontworpen om zowel comfort als stijl te bieden.</span></li>
+<li>
+<span style="font-size: 0.875rem;">De stof voelt zacht aan op de huid en zorgt ervoor dat je je de hele dag door comfortabel voelt.</span> </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Jacket</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668626266</id>
+      <title>S</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-442.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668626266</id>
+      <title>M</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-442.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668626266</id>
+      <title>L</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-442.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668626266</id>
+      <title>XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-442.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668626266</id>
+      <title>XXL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-442.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668626266</id>
+      <title>3XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-442.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668626266</id>
+      <title>4XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-442.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669576538</id>
+    <published>2023-06-30T21:27:47+02:00</published>
+    <updated>2023-06-30T21:27:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-jacket-kids-23-24"/>
+    <title>Travel jacket Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856996007_01.jpg?v=1688141386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Deze zwarte sweater van Club Brugge is een veelzijdig kledingstuk dat perfect is voor alle fans die hun liefde voor de club willen tonen. Met zijn stijlvolle ontwerp en functionele kenmerken is deze sweater ideaal voor zowel sportieve activiteiten als casual gelegenheden.</p>
+<p data-mce-fragment="1">Met een handige 1/4 ritssluiting biedt deze sweater een moderne twist aan een klassiek ontwerp. De zwarte kleur straalt elegantie en tijdloosheid uit, terwijl de blauwe accenten op de mouwen een vleugje dynamiek toevoegen aan het geheel.</p>
+<p data-mce-fragment="1">Het Club Brugge logo is prominent aanwezig op de borst, waardoor je met trots je favoriete team kunt vertegenwoordigen. Op de rug staat Club Brugge voluit geschreven, waardoor je je clubtrots op een opvallende manier kunt tonen.</p>
+<p data-mce-fragment="1">Deze sweater is gemaakt van technische materialen die zorgen voor optimaal comfort en prestaties. De ademende stof houdt je koel en droog, zelfs tijdens intensieve activiteiten, terwijl de elastische eigenschappen van de stof zorgen voor bewegingsvrijheid en flexibiliteit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Jacket</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669576538</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-467.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669576538</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-467.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669576538</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-467.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669576538</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-467.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669543770</id>
+    <published>2023-06-30T21:27:39+02:00</published>
+    <updated>2023-06-30T21:27:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-jacket-volw-23-24"/>
+    <title>Travel Jacket Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/8058847745259_01.jpg?v=1688152351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Deze zwarte sweater van Club Brugge is een veelzijdig kledingstuk dat perfect is voor alle fans die hun liefde voor de club willen tonen. Met zijn stijlvolle ontwerp en functionele kenmerken is deze sweater ideaal voor zowel sportieve activiteiten als casual gelegenheden.</p>
+<p data-mce-fragment="1">Met een handige 1/4 ritssluiting biedt deze sweater een moderne twist aan een klassiek ontwerp. De zwarte kleur straalt elegantie en tijdloosheid uit, terwijl de blauwe accenten op de mouwen een vleugje dynamiek toevoegen aan het geheel.</p>
+<p data-mce-fragment="1">Het Club Brugge logo is prominent aanwezig op de borst, waardoor je met trots je favoriete team kunt vertegenwoordigen. Op de rug staat Club Brugge voluit geschreven, waardoor je je clubtrots op een opvallende manier kunt tonen.</p>
+<p data-mce-fragment="1">Deze sweater is gemaakt van technische materialen die zorgen voor optimaal comfort en prestaties. De ademende stof houdt je koel en droog, zelfs tijdens intensieve activiteiten, terwijl de elastische eigenschappen van de stof zorgen voor bewegingsvrijheid en flexibiliteit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Jacket</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669543770</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-466.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669543770</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-466.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669543770</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-466.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669543770</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-466.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669543770</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-466.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669543770</id>
+      <title>4XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-466.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669543770</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-466.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669412698</id>
+    <published>2023-06-27T16:46:01+02:00</published>
+    <updated>2023-06-27T16:46:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-t-shirt-zwart-kids-23-24"/>
+    <title>Training T-Shirt Zwart Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/8058847745037_01.jpg?v=1687786809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Dit zwarte trainingsshirt van Club Brugge met blauwe details is de ideale keuze voor sportliefhebbers die op zoek zijn naar zowel stijl als functionaliteit. Met zijn opvallende ontwerp en technische eigenschappen biedt dit shirt optimale prestaties tijdens trainingssessies.</p>
+<p data-mce-fragment="1">Het shirt heeft een zwarte kleur en wordt gekenmerkt door de blauwe details die zorgen voor een dynamisch contrast. Het subtiel geplaatste Club Brugge logo op de borst toont je trots en toewijding aan de club.</p>
+<p data-mce-fragment="1">Dit technische product is speciaal ontworpen om bewegingsvrijheid en comfort te bieden tijdens het sporten. De ademende stof zorgt ervoor dat zweet snel wordt afgevoerd, waardoor je koel en droog blijft, zelfs tijdens intensieve inspanningen. Het opvallende metal-look patroon voegt een modieuze uitstraling toe aan het geheel.</p>
+<p data-mce-fragment="1">Of je nu voetbalt, traint in de sportschool of actief bent in andere sporten, dit zwarte trainingsshirt van Club Brugge met blauwe details biedt de perfecte combinatie van stijl en functionaliteit. Met zijn comfortabele pasvorm en opvallende accenten ben je klaar om met trots en prestaties je favoriete club te vertegenwoordigen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669412698</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-463.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669412698</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-463.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669412698</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-463.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669412698</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-463.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669347162</id>
+    <published>2023-06-27T16:46:00+02:00</published>
+    <updated>2023-06-27T16:46:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-t-shirt-zwart-volw-23-24"/>
+    <title>Training T-Shirt Zwart Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Trainingshirtzwart.jpg?v=1687792177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Dit zwarte trainingsshirt van Club Brugge met blauwe details is de ideale keuze voor sportliefhebbers die op zoek zijn naar zowel stijl als functionaliteit. Met zijn opvallende ontwerp en technische eigenschappen biedt dit shirt optimale prestaties tijdens trainingssessies.</p>
+<p data-mce-fragment="1">Het shirt heeft een zwarte kleur en wordt gekenmerkt door de blauwe details die zorgen voor een dynamisch contrast. Het subtiel geplaatste Club Brugge logo op de borst toont je trots en toewijding aan de club.</p>
+<p data-mce-fragment="1">Dit technische product is speciaal ontworpen om bewegingsvrijheid en comfort te bieden tijdens het sporten. De ademende stof zorgt ervoor dat zweet snel wordt afgevoerd, waardoor je koel en droog blijft, zelfs tijdens intensieve inspanningen. Het opvallende metal-look patroon voegt een modieuze uitstraling toe aan het geheel.</p>
+<p data-mce-fragment="1">Of je nu voetbalt, traint in de sportschool of actief bent in andere sporten, dit zwarte trainingsshirt van Club Brugge met blauwe details biedt de perfecte combinatie van stijl en functionaliteit. Met zijn comfortabele pasvorm en opvallende accenten ben je klaar om met trots en prestaties je favoriete club te vertegenwoordigen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669347162</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-462.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669347162</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-462.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669347162</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-462.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669347162</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-462.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669347162</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-462.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669347162</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-462.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669347162</id>
+      <title>4XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-462.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669248858</id>
+    <published>2023-06-27T16:46:00+02:00</published>
+    <updated>2023-06-27T16:46:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-pants-kids-23-24"/>
+    <title>Training Pants Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/8058847744771_01.jpg?v=1687969644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Deze zwarte trainingsbroek van Club Brugge is gemaakt van duurzaam polyester en ontworpen om bestand te zijn tegen intensieve trainingssessies. De zwarte kleur straalt een tijdloze elegantie uit, terwijl de blauwe accenten in de knieholtes een sportieve en dynamische touch toevoegen.</p>
+<p data-mce-fragment="1">De broek is voorzien van zakken met rits, waardoor je je waardevolle spullen veilig kunt opbergen tijdens het sporten. Of het nu gaat om je telefoon, sleutels of andere benodigdheden, je kunt erop vertrouwen dat ze veilig opgeborgen zijn.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669248858</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-459.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669248858</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-459.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669248858</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-459.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669248858</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-459.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669216090</id>
+    <published>2023-06-27T16:46:00+02:00</published>
+    <updated>2023-06-27T16:46:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-pants-volw-23-24"/>
+    <title>Training Pants Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Trainingpants.jpg?v=1687792096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Deze zwarte trainingsbroek van Club Brugge is gemaakt van duurzaam polyester en ontworpen om bestand te zijn tegen intensieve trainingssessies. De zwarte kleur straalt een tijdloze elegantie uit, terwijl de blauwe accenten in de knieholtes een sportieve en dynamische touch toevoegen.</p>
+<p data-mce-fragment="1">De broek is voorzien van zakken met rits, waardoor je je waardevolle spullen veilig kunt opbergen tijdens het sporten. Of het nu gaat om je telefoon, sleutels of andere benodigdheden, je kunt erop vertrouwen dat ze veilig opgeborgen zijn.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669216090</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-458.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669216090</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-458.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669216090</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-458.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669216090</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-458.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669216090</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-458.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669216090</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-458.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669183322</id>
+    <published>2023-06-27T16:46:00+02:00</published>
+    <updated>2023-06-27T16:46:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/bermuda-short-23-24"/>
+    <title>Bermuda Short 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/bermuda_1fc63a2f-2408-4828-ae48-92a10dad7708.jpg?v=1687792193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Deze zwarte Bermuda Short van Club Brugge is een must-have voor elke fan van de club. Met zijn opvallende blauwe accenten straalt deze short pure Clubliefde uit. De zwarte kleur geeft een tijdloze en klassieke uitstraling, terwijl de blauwe elementen een vleugje levendigheid toevoegen.</p>
+<p data-mce-fragment="1">Deze short is ontworpen voor comfort en functionaliteit. Gemaakt van hoogwaardig micro stretch materiaal, biedt het een perfecte pasvorm en bewegingsvrijheid. Het micro stretch materiaal zorgt ervoor dat de short zich aanpast aan je lichaamsvorm en je alle flexibiliteit geeft die je nodig hebt tijdens sportieve activiteiten of gewoon tijdens ontspannen momenten.</p>
+<p data-mce-fragment="1">De twee zijzakken met ritssluiting bieden voldoende ruimte om je waardevolle spullen veilig op te bergen. Of het nu gaat om je telefoon, portemonnee of sleutels, je kunt erop vertrouwen dat ze veilig opgeborgen zijn in deze handige zakken.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669183322</id>
+      <title>S</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-457.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669183322</id>
+      <title>M</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-457.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669183322</id>
+      <title>L</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-457.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669183322</id>
+      <title>XL</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-457.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669183322</id>
+      <title>XXL</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-457.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669150554</id>
+    <published>2023-06-27T16:45:59+02:00</published>
+    <updated>2023-06-27T16:45:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-blauw-kids-23-24"/>
+    <title>Sweater Blauw Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/8058847744665_01.jpg?v=1687786476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Deze blauwe sweater van Club Brugge is met zijn opvallende design en functionele kenmerken perfect geschikt voor zowel sportieve activiteiten als casual gebruik.</p>
+<p data-mce-fragment="1">Op de borst van de sweater is het Club Brugge logo prominent aanwezig en op de rug staat 'Club Brugge', waardoor je met trots je favoriete team kunt vertegenwoordigen.</p>
+<p data-mce-fragment="1">Deze sweater is speciaal ontworpen voor optimale trainingsprestaties. Gemaakt van technische materialen, biedt het ademend vermogen en vochtregulatie, zodat je comfortabel en droog blijft, zelfs tijdens intense trainingssessies. De elastische eigenschappen van de stof zorgen voor een optimale bewegingsvrijheid, zodat je moeiteloos kunt bewegen op het veld.</p>
+<p data-mce-fragment="1">Of je nu traint op het voetbalveld of gewoon casual wilt genieten van een comfortabele en stijlvolle sweater, deze blauwe sweater van Club Brugge voldoet aan al je behoeften. Met deze sweater ben je altijd klaar om je clubtrots te tonen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:blauw</s:tag>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669150554</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-456.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669150554</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-456.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669150554</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-456.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669150554</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-456.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669117786</id>
+    <published>2023-06-27T16:45:59+02:00</published>
+    <updated>2023-06-27T16:45:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-blauw-volw-23-24"/>
+    <title>Sweater Blauw Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/TrainingSweater_blauw.jpg?v=1687792128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Deze blauwe sweater van Club Brugge is met zijn opvallende design en functionele kenmerken perfect geschikt voor zowel sportieve activiteiten als casual gebruik.</p>
+<p data-mce-fragment="1">Op de borst van de sweater is het Club Brugge logo prominent aanwezig en op de rug staat 'Club Brugge', waardoor je met trots je favoriete team kunt vertegenwoordigen.</p>
+<p data-mce-fragment="1">Deze sweater is speciaal ontworpen voor optimale trainingsprestaties. Gemaakt van technische materialen, biedt het ademend vermogen en vochtregulatie, zodat je comfortabel en droog blijft, zelfs tijdens intense trainingssessies. De elastische eigenschappen van de stof zorgen voor een optimale bewegingsvrijheid, zodat je moeiteloos kunt bewegen op het veld.</p>
+<p data-mce-fragment="1">Of je nu traint op het voetbalveld of gewoon casual wilt genieten van een comfortabele en stijlvolle sweater, deze blauwe sweater van Club Brugge voldoet aan al je behoeften. Met deze sweater ben je altijd klaar om je clubtrots te tonen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:blauw</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669117786</id>
+      <title>S</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-455.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669117786</id>
+      <title>M</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-455.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669117786</id>
+      <title>L</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-455.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669117786</id>
+      <title>XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-455.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669117786</id>
+      <title>XXL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-455.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669117786</id>
+      <title>3XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-455.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669117786</id>
+      <title>4XL</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>FCB23-455.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669085018</id>
+    <published>2023-06-27T16:45:59+02:00</published>
+    <updated>2023-06-27T16:45:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-t-shirt-blauw-kids-23-24"/>
+    <title>Training T-Shirt Blauw Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Trainingshirtblauwkids.jpg?v=1687854112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Dit blauwe trainingsshirt van Club Brugge is de perfecte keuze voor alle sportliefhebbers die op zoek zijn naar een combinatie van stijl en functionaliteit. Met zijn opvallende design en technische kenmerken biedt dit shirt optimale prestaties tijdens trainingssessies.</p>
+<p data-mce-fragment="1">Het blauwe shirt is voorzien van zwarte accenten op de mouwen, wat zorgt voor een dynamische uitstraling. Het Club Brugge logo is subtiel aanwezig op de borst, waardoor je met trots je clubliefde kunt tonen.</p>
+<p data-mce-fragment="1">Dit technische product is speciaal ontworpen om beweeglijkheid en comfort te bieden tijdens het sporten. De stof van het shirt is ademend, waardoor zweet snel wordt afgevoerd en je koel en droog blijft, zelfs tijdens intense inspanningen. Bovendien zorgt het opvallende metal-look patroon voor een modieuze touch.</p>
+<p data-mce-fragment="1">Of je nu voetbalt, traint in de sportschool of gewoon actief bent, dit blauwe trainingsshirt van Club Brugge biedt de perfecte combinatie van stijl en functionaliteit. Met zijn comfortabele pasvorm en opvallende details ben je klaar om te presteren met de trots van je favoriete club.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:blauw</s:tag>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669085018</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-454.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669085018</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-454.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669085018</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-454.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669085018</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>FCB23-454.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450669019482</id>
+    <published>2023-06-27T16:45:58+02:00</published>
+    <updated>2023-06-27T16:45:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/training-t-shirt-blauw-volw-23-24"/>
+    <title>Training T-Shirt Blauw Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Trainingshirtblauw.jpg?v=1687792155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Dit blauwe trainingsshirt van Club Brugge is de perfecte keuze voor alle sportliefhebbers die op zoek zijn naar een combinatie van stijl en functionaliteit. Met zijn opvallende design en technische kenmerken biedt dit shirt optimale prestaties tijdens trainingssessies.</p>
+<p data-mce-fragment="1">Het blauwe shirt is voorzien van zwarte accenten op de mouwen, wat zorgt voor een dynamische uitstraling. Het Club Brugge logo is subtiel aanwezig op de borst, waardoor je met trots je clubliefde kunt tonen.</p>
+<p data-mce-fragment="1">Dit technische product is speciaal ontworpen om beweeglijkheid en comfort te bieden tijdens het sporten. De stof van het shirt is ademend, waardoor zweet snel wordt afgevoerd en je koel en droog blijft, zelfs tijdens intense inspanningen. Bovendien zorgt het opvallende metal-look patroon voor een modieuze touch.</p>
+<p data-mce-fragment="1">Of je nu voetbalt, traint in de sportschool of gewoon actief bent, dit blauwe trainingsshirt van Club Brugge biedt de perfecte combinatie van stijl en functionaliteit. Met zijn comfortabele pasvorm en opvallende details ben je klaar om te presteren met de trots van je favoriete club.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:blauw</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669019482</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-453.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669019482</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-453.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669019482</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-453.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669019482</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-453.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669019482</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-453.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669019482</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-453.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450669019482</id>
+      <title>4XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-453.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

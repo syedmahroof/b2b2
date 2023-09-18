@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/collecties.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-28T15:30:56+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868735750361</id>
+    <published>2023-08-28T15:30:56+02:00</published>
+    <updated>2023-08-28T15:30:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-iconic-khaki"/>
+    <title>Hoodie 1891 Iconic Khaki</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/20220414_1891_SHOP-41.jpg?v=1689155855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een khaki hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:khaki</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868750299353</id>
+    <published>2023-08-03T17:50:25+02:00</published>
+    <updated>2023-08-03T17:50:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/toiletzak-1891"/>
+    <title>Toiletzak 1891</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Toiletzak1891.jpg?v=1665091379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De 1891 toiletzak is ideaal om al je wasgerief bij te houden zodat je je na het sporten meteen kan douchen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Toiletzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750299353</id>
+      <title>OS</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-035.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868754362585</id>
+    <published>2023-08-03T17:49:12+02:00</published>
+    <updated>2023-08-03T17:49:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-refined-sky-blue"/>
+    <title>T-shirt 1891 Refined Sky Blue</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220414-1891-shop-62.jpg?v=1662064722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een lichtblauwe t-shirt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:skyblue</s:tag>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8001755939033</id>
+    <published>2023-08-02T17:20:10+02:00</published>
+    <updated>2023-08-02T17:20:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-refined-black"/>
+    <title>Hoodie 1891 Refined Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220414_1891_SHOP-56.jpg?v=1668430770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een zwarte hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:skyblue</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749185241</id>
+    <published>2023-05-11T14:35:14+02:00</published>
+    <updated>2023-05-11T14:35:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweatpants-1891-black"/>
+    <title>Sweatpants 1891 Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/pants-zwart-web.jpg?v=1662064590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Deze zwarte sweatpants tonen dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:1891_sweatpants</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110738243801</id>
+    <published>2023-05-09T22:06:21+02:00</published>
+    <updated>2023-05-09T22:06:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-artwork"/>
+    <title>Amokachi Artwork Limited Edition</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/ArtworkAmokachi_2.jpg?v=1683663281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dit limited edition kunstwerk is een eerbetoon aan de iconische Daniël Amokachi. The Bull van Club Brugge scoorde het eerste doelpunt ooit in de moderne Champions League tegen CSKA Moskou op 25 november 1992. Hiermee schreef hij voetbalgeschiedenis.<br></p>
+<p>Dit kader van 40 op 40 cm gemaakt uit aluminium is door de hand van de Nederlandse kunstenaar Barry Pirovano, die van het stylistisch weergeven van unieke voetbalmomenten zijn handelsmerk heeft gemaakt.</p>
+<p>Van dit werk zijn slechts 30 stuks gemaakt, waarvan jij er eentje kan bemachtigen mét certificaat. Een uniek pronkstuk voor elke Club fan. <span data-mce-fragment="1">Het eert een legendarische speler en een onvergetelijke prestatie die altijd in het Club geheugen zal blijven bestaan.</span></p>
+<p><strong>Over Barry Pirovano</strong></p>
+<p>De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:BlauwZwart</s:tag>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110738243801</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>FCB23-105.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868753838297</id>
+    <published>2023-05-08T12:49:06+02:00</published>
+    <updated>2023-05-08T12:49:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-iconic-black"/>
+    <title>T-shirt 1891 Iconic Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/1891-iconic-black-tshirt-pack.jpg?v=1662064709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Dit zwarte t-shirt toont dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868754034905</id>
+    <published>2023-04-27T11:37:53+02:00</published>
+    <updated>2023-04-27T11:37:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-refined-black"/>
+    <title>T-shirt 1891 Refined Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220414-1891-shop-31.jpg?v=1662064716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een zwarte T-shirt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7960111448281</id>
+    <published>2023-04-27T11:34:23+02:00</published>
+    <updated>2023-04-27T11:34:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-balr-x-club-jet-black"/>
+    <title>T-shirt CLUB x BALR. Jet Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Balr_hero.jpg?v=1666296951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. Van daaruit is ook dit eerste, limited edition t-shirt ontstaan.</p>
+<ul>
+<li>Op de borst de typische BALR. 'hexagon' die staat voor de panelen op een voetbal met 1891 en Club Brugge in het logo verwerkt,</li>
+<li>Club &amp; BALR. op de rug,</li>
+<li>Blauw-Zwarte punt, als referentie naar onze kleuren.</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__status:noa&apos;s keuze</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7960111448281</id>
+      <title>XS</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-474.XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7960111448281</id>
+      <title>S</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-474.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7960111448281</id>
+      <title>M</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-474.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7960111448281</id>
+      <title>L</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-474.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7960111448281</id>
+      <title>XL</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-474.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7960111448281</id>
+      <title>XXL</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-474.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749381849</id>
+    <published>2023-04-07T15:25:25+02:00</published>
+    <updated>2023-04-07T15:25:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweatpants-rfcb"/>
+    <title>Sweatpants RFCB</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/RFCBPants_1.jpg?v=1665266594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Football Club Brugeois. Van 1920, het eerste jaar waarin Blauw-Zwart kampioen werd, tot 1972 de officiële naam van Club. Deze sweatpants verwijzen naar die succesvolle periode.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_supplier_SDS</s:tag>
+    <s:tag>RFCB</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8033879032025</id>
+    <published>2023-04-07T15:25:06+02:00</published>
+    <updated>2023-04-07T15:25:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweatpants-1891-sand"/>
+    <title>Sweatpants 1891 Sand</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sweatpantssand.jpg?v=1670272498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Deze zandkleurige sweatpants tonen dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:beige</s:tag>
+    <s:tag>__size:1891_sweatpants</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868735914201</id>
+    <published>2023-03-02T16:49:16+01:00</published>
+    <updated>2023-03-02T16:49:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-refined-sky-blue"/>
+    <title>Hoodie 1891 Refined Sky Blue</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220414-1891-shop-72.jpg?v=1662064042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een lichtblauwe hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:skyblue</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972628791513</id>
+    <published>2023-02-16T11:41:49+01:00</published>
+    <updated>2023-02-16T11:41:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-leather-grande-backpack"/>
+    <title>BALR. Leather Grande Backpack</title>
+    <s:type>backpack</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Shopify-B10016299101_101_750x_e8a5dfe2-015d-400b-abdc-52bac85d38a4.jpg?v=1666895989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>backpack<br>
+        <strong>Prijs: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. </p>
+<p data-mce-fragment="1"><span>Deze Grande Backpack van leer is met de grootste zorg vervaardigd in Italië en zal je favoriete reisgenoot worden, of je hem nu gebruikt voor je dagelijkse woon-werkverkeer of voor een lang weekend weg. Het ontwerp is voorzien van een grote zak aan de voorkant met een logo in reliëf en grote ritsen in de vorm van het iconische BALR. hexagon. Naast een gedurfd modestatement is de rugzak voorzien van verstelbare leren riemen en een intern steekvak om je meest waardevolle bezittingen veilig te houden, waar je ook naartoe gaat. De Leather Grande Backpack, gemaakt van uiterst soepel leer in Italië, biedt zowel stijl als functionaliteit. Met een statement zak en een grote rits is dit een must voor elke BALR.</span></p>
+<ul>
+<li>Zwart leer</li>
+<li>Gemaakt in Italië</li>
+<li>Twee ruime vakken</li>
+<li>Logo in reliëf</li>
+<li>Verstelbare schouderriemen</li>
+<li>Zak met rits aan de voorkant</li>
+<li>33 CM B x 44 CM H x 15 CM D</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972628791513</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>FCB22-202.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972621680857</id>
+    <published>2023-02-16T11:41:49+01:00</published>
+    <updated>2023-02-16T11:41:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-leather-toiletry-kit"/>
+    <title>BALR. Leather Toiletry Kit</title>
+    <s:type>toiletry bag</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Shopify-B10018299101_101_750x_e9f4e109-19a7-426f-b517-2d3c48a1dfd4.jpg?v=1666895322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>toiletry bag<br>
+        <strong>Prijs: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. </p>
+<p data-mce-fragment="1"><span>Een echte BALR. gaat nooit op reis zonder deze toilettas. De tas met dubbele ritssluiting is gemaakt van verfijnd leer en houdt je verzorgingsset perfect georganiseerd. De Toilettas van leer is gemaakt in Italië en heeft meerdere binnenvakken om je kleinere spullen, zoals je scheerapparaat en kam, snel op te bergen. Dit item is gemakkelijk in te pakken en plooibaar genoeg om de kit in je volgepakte koffer te laten passen. Afgewerkt met de iconische BALR. hexagon en een afneembare riem, is deze Kit de nieuwe all-star in je reisopstelling. <br></span><span>De leren toilettas is onmisbaar voor elke reizende BALR. Met twee vakken en gemaakt van de beste materialen, combineert deze kit ongekende luxe en bruikbaarheid.</span></p>
+<ul>
+<li>Zwart leer</li>
+<li>Gemaakt in Italië</li>
+<li>2 vakken met rits</li>
+<li>Afneembare riem</li>
+<li>Ingestempeld logo</li>
+<li>26 CM B x 16 CM H x 9 CM D</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>CB_Bags_Toiletzak</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972621680857</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>FCB22-201.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972611522777</id>
+    <published>2023-02-16T11:41:49+01:00</published>
+    <updated>2023-02-16T11:41:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-cap"/>
+    <title>BALR. Cap</title>
+    <s:type>Pet</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Shopify-B10015523101_101_750x_7daa440d-812c-4316-92c9-3bd83d2dcb09.jpg?v=1666894623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>Pet<br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. </p>
+<p data-mce-fragment="1"><span>De BALR. Cap is een moeiteloze manier om je look af te maken. Draag hem in het weekend als je geen zin hebt om je haar te doen of gebruik hem als de basis van je streetstyle look. Met zijn PU-band en metalen pinnen voegt de cap wat flair toe aan een klassieker. Deze pet is een BALR. interpretatie van een absolute klassieker, met het iconische logo en een verstelbaar achterlipje voor een persoonlijke pasvorm.</span></p>
+<ul>
+<li>Zwart PU-bandje aan achterkant met metalen pinnen</li>
+<li>3D BALR. borduursel</li>
+<li>Verstelbaar achterlipje</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972611522777</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-208.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972604805337</id>
+    <published>2023-02-16T11:41:48+01:00</published>
+    <updated>2023-02-16T11:41:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-brand-straight-hoodie-navy"/>
+    <title>BALR. Brand Straight Hoodie - Navy</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/16234704_5.jpg?v=1666893986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Prijs: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. </p>
+<p data-mce-fragment="1"><span>Niets voelt beter dan een perfect passende hoodie als je van het veld of van het werk komt. De BALR. Hoodie is precies dat: een bevredigende mix tussen sportieve styling en luxe kleding. Gemaakt van het zachtste katoen, wordt dit stuk je go- tot een trui die goed past bij een jeans of een trainingsbroek.</span><br><br><span>De klassieke BALR. Brand Hoodie is een nietje in elke collectie. Met een logo op de borst en een atletische pasvorm is de hoodie een echte essential.</span></p>
+<ul>
+<li>kleur: Navy<br>
+</li>
+<li>Perfecte pasvorm</li>
+<li>Geribde boorden<br>
+</li>
+<li>Extreem zacht katoen<br>
+</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972604805337</id>
+      <title>XS</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>FCB22-210.XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972604805337</id>
+      <title>S</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>FCB22-210.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972604805337</id>
+      <title>M</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>FCB22-210.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972604805337</id>
+      <title>L</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>FCB22-210.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972604805337</id>
+      <title>XL</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>FCB22-210.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972604805337</id>
+      <title>XXL</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>FCB22-210.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972591894745</id>
+    <published>2023-02-16T11:41:48+01:00</published>
+    <updated>2023-02-16T11:41:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-brand-straight-hoodie-wit"/>
+    <title>BALR. Brand Straight Hoodie - wit</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/B1261.1017.906_121_750x_9c53dd0f-0a8b-4f29-8b81-b03db5b4f4a2.jpg?v=1666892932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Prijs: </strong>
+            122.50 - 175.00
+            <a href="https://shop.clubbrugge.be/products/balr-brand-straight-hoodie-wit">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. </p>
+<p data-mce-fragment="1"><span>Niets voelt beter dan een perfect passende hoodie als je van het veld of van het werk komt. De BALR. Hoodie is precies dat: een bevredigende mix tussen sportieve styling en luxe kleding. Gemaakt van het zachtste katoen, wordt dit stuk je go- tot een trui die goed past bij een jeans of een trainingsbroek.</span><br><br><span>De klassieke BALR. Brand Hoodie is een nietje in elke collectie. Met een logo op de borst en een atletische pasvorm is de hoodie een echte essential.</span></p>
+<ul>
+<li>kleur: wit<br>
+</li>
+<li>Perfecte pasvorm</li>
+<li>Geribde boorden<br>
+</li>
+<li>Extreem zacht katoen<br>
+</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972591894745</id>
+      <title>S</title>
+      <s:price currency="EUR">122.50</s:price>
+      <s:sku>FCB22-207.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972591894745</id>
+      <title>M</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>FCB22-207.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972591894745</id>
+      <title>L</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>FCB22-207.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972591894745</id>
+      <title>XL</title>
+      <s:price currency="EUR">122.50</s:price>
+      <s:sku>FCB22-207.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972582031577</id>
+    <published>2023-02-16T11:41:47+01:00</published>
+    <updated>2023-02-16T11:41:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/copy-of-balr-athletic-small-branded-chest-t-shirt-navy"/>
+    <title>BALR. Athletic Small Branded Chest T-shirt - Navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/t-shirt-balr-athletic-small-branded-chest-navy.jpg?v=1666892275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. . </p>
+<ul>
+<li>kleur: Navy<br>
+</li>
+<li>Athletic pasvorm</li>
+<li>klein BALR. logo op de borst</li>
+<li>95% Biologisch katoen, 5% Elastaan</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972582031577</id>
+      <title>S</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB22-209.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972582031577</id>
+      <title>M</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB22-209.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972582031577</id>
+      <title>L</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB22-209.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972582031577</id>
+      <title>XL</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB22-209.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972576461017</id>
+    <published>2023-02-16T11:41:47+01:00</published>
+    <updated>2023-02-16T11:41:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-athletic-small-branded-chest-t-shirt-wit"/>
+    <title>BALR. Athletic Small Branded Chest T-shirt - Wit</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Shopify-B1112.1050.906_123_750x_fbaab5e1-4ac6-46a6-8861-2c9c38964fe6.jpg?v=1666892053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. . </p>
+<ul>
+<li>kleur: Bright White<br>
+</li>
+<li>Athletic pasvorm</li>
+<li>klein BALR. logo op de borst</li>
+<li>95% Biologisch katoen, 5% Elastaan</li>
+<li><span>Model is 185 cm lang en het getoonde product is maat M</span></li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972576461017</id>
+      <title>S</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB22-206.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972576461017</id>
+      <title>M</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB22-206.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972576461017</id>
+      <title>L</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB22-206.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972566827225</id>
+    <published>2023-02-16T11:41:46+01:00</published>
+    <updated>2023-02-16T11:41:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/copy-of-balr-brand-straight-t-shirt-wit"/>
+    <title>BALR. Brand Straight T-Shirt - Wit</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/B1112.1048.906_121_750x_e5d3a3e0-103f-4487-b854-125954250e75.jpg?v=1666891093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. . </p>
+<ul>
+<li>kleur: wit<br>
+</li>
+<li>Recht model</li>
+<li>BALR. logo op de borst</li>
+<li>100% biologisch katoen</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p>
+<p data-mce-fragment="1"><span>This T-shirt is a must-have for every BALR. The black-colored logo on the front gives this iconic item a unique touch and symbolizes the BALR. lifestyle.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972566827225</id>
+      <title>M</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-205.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972566827225</id>
+      <title>L</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-205.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972548903129</id>
+    <published>2023-02-16T11:41:46+01:00</published>
+    <updated>2023-02-16T11:41:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-brand-straight-t-shirt-navy"/>
+    <title>BALR. Brand Straight T-Shirt - Navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Shopify-B1112.1048.1047_121_750x_0e4a66f2-a4b8-4332-b358-b5a5b6320b38.jpg?v=1666889714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. . </p>
+<ul>
+<li>kleur: Navy<br>
+</li>
+<li>Recht model</li>
+<li>BALR. logo op de borst</li>
+<li>100% biologisch katoen</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p>
+<p data-mce-fragment="1"><span>This T-shirt is a must-have for every BALR. The white-colored logo on the front gives this iconic item a unique touch and symbolizes the BALR. lifestyle.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972548903129</id>
+      <title>S</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-204.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972548903129</id>
+      <title>M</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-204.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972548903129</id>
+      <title>L</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-204.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972548903129</id>
+      <title>XL</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB22-204.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972495130841</id>
+    <published>2023-02-16T11:41:45+01:00</published>
+    <updated>2023-02-16T11:41:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/olaf-straight-down-jacket"/>
+    <title>BALR. Olaf Straight Down Jacket</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/webshop-B1388.1003.102_121_750x_4d3c535a-5b67-4e1f-b23e-2d0f92bb805b.jpg?v=1666885576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. </p>
+<p data-mce-fragment="1"><span>De BALR. down wind jacket is de ideale tussenjas. Dit slanke design heeft een regular fit en is verkrijgbaar in de kleur jet black. Het BALR. logo komt terug op de mouw en in de nek. </span></p>
+<ul>
+<li>kleur: Jet Black<br>
+</li>
+<li>Regular Fit</li>
+<li>BALR. logo op de mouw en in de nek</li>
+<li>100% Nylon, 100% Polyestser</li>
+<li>Filling: 90% down, 10% feather</li>
+<li>Model is 1m89 en draagt een medium (M)</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Jacket</s:tag>
+    <s:tag>CB_Kleding_Jas</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972495130841</id>
+      <title>S</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>FCB22-200.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972495130841</id>
+      <title>M</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>FCB22-200.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972495130841</id>
+      <title>L</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>FCB22-200.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972495130841</id>
+      <title>XL</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>FCB22-200.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972495130841</id>
+      <title>XXL</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>FCB22-200.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110735818969</id>
+    <published>2023-02-08T10:52:28+01:00</published>
+    <updated>2023-02-08T10:52:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-sweater-navy"/>
+    <title>Amokachi Sweater Navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/7423326579570_01.jpg?v=1678353812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Eén van Club Brugge's grootste voetbalhelden uit ons roemrijke verleden is natuurlijk 'The Bull': Daniël Amokachi. Hij is de eerste speler die opgenomen wordt in de Club Iconic reeks, een eerbetoon aan al onze legends. Geïllustreerd door de Nederlandse designer Barry Pirovano.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Deze sweater uit donkerblauw bio katoen is van de beste kwaliteit en zeer wasbestendig. De print op de borst toont het moment waarop Amokachi het eerste doelpunt uit de geschiedenis van de moderne Champions League maakt. Zijn iconische glimlach siert de mouw van de sweater.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Deze sweater heeft een unisex fit en is geschikt voor iedereen. Controleer zeker de maattabel voor jouw perfecte maat.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Over Barry Pirovano</strong></p>
+<p data-mce-fragment="1">﻿De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>__size:sweater_iconic</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110733525209</id>
+    <published>2023-02-08T10:52:27+01:00</published>
+    <updated>2023-02-08T10:52:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-hoodie-champion-black"/>
+    <title>Amokachi Hoodie Champion Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/7423326575510_01.jpg?v=1678739260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Draag één van Club Brugge's grootste cult helden met deze hoodie! Niemand minder dan Daniël Amokachi, the Bull, siert dit prachtige stuk als een echt icoon van de Club. Geïllustreerd door de Nederlandse designer Barry Pirovano.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Deze katoenen trui zit erg comfortabel dankzij het zachte bio katoen. De legendarische spits met eeuwige glimlach siert de borst én rug. Hij is vereeuwigd in het moment net voor hij het eerste doelpunt ooit in de moderne Champions League scoort, en dan nog voor Club Brugge. Echte voetbalgeschiedenis.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dit t-shirt heeft een unisex fit en is geschikt voor iedereen. Controleer zeker de maattabel voor jouw perfecte maat. </span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Over Barry Pirovano</strong></p>
+<p data-mce-fragment="1">﻿De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:hoodie_iconic</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>S</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>M</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>L</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>XL</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>XXL</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>3XL</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110732083417</id>
+    <published>2023-02-08T10:52:27+01:00</published>
+    <updated>2023-02-08T10:52:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-t-shirt-champion-black"/>
+    <title>Amokachi T-shirt Champion Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/7423326575565_01.jpg?v=1678353911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Draag één van Club Brugge's grootste cult helden als t-shirt! Niemand minder dan Daniël Amokachi, the Bull, siert dit prachtige t-shirt als echt icoon van de Club. Geïllustreerd door de Nederlandse designer Barry Pirovano.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dit katoenen t-shirt zit erg comfortabel dankzij het zachte bio katoen. De legendarische spits met eeuwige glimlach siert het t-shirt, net voor hij het eerste doelpunt ooit in de moderne Champions League scoort, en dan nog voor Club Brugge. Echte voetbalgeschiedenis.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dit t-shirt heeft een unisex fit en is geschikt voor iedereen. Controleer zeker de maattabel voor jouw perfecte maat.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Over Barry Pirovano</strong></p>
+<p data-mce-fragment="1">﻿De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:tshirt_iconic</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>S</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>M</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>L</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>XL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>XXL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>3XL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

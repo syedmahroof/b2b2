@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/away-kit-s23-24.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-06-28T16:54:23+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450668069210</id>
+    <published>2023-06-28T16:54:23+02:00</published>
+    <updated>2023-06-28T16:54:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/away-socks-23-24"/>
+    <title>Away Socks 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/awaysocks_a9f95aaa-276a-463d-84c6-c35e31319d61.jpg?v=1690810042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Deze witte socks vervolledigen het witte away kit voor het seizoen S23/24</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668069210</id>
+      <title>36-38</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>FCB23-426.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668069210</id>
+      <title>39-42</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>FCB23-426.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668069210</id>
+      <title>43-46</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>FCB23-426.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668069210</id>
+      <title>47-50</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>FCB23-426.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450668036442</id>
+    <published>2023-06-28T16:54:23+02:00</published>
+    <updated>2023-06-28T16:54:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/away-short-kids-23-24"/>
+    <title>Away Short Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856989707_01.jpg?v=1690810026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Maak je away kit compleet met deze witte voetbalshort van Club Brugge. </span><span data-mce-fragment="1">Of je nu deelneemt aan een intense wedstrijd of gewoon een potje voetbal speelt met vrienden, deze short biedt comfort en bewegingsvrijheid voor optimale prestaties op het veld. </span></p>
+<p><span data-mce-fragment="1">Gemaakt van hoogwaardige materialen, is de witte voetbalshort van Club Brugge een must-have voor elke fan die stijl en functionaliteit wil combineren.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668036442</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-425.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668036442</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-425.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668036442</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-425.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668036442</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-425.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450668003674</id>
+    <published>2023-06-28T16:54:22+02:00</published>
+    <updated>2023-06-28T16:54:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/away-short-volw-23-24"/>
+    <title>Away Short Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/005856989805_01.jpg?v=1690810032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Maak je away kit compleet met deze witte voetbalshort van Club Brugge. </span><span data-mce-fragment="1">Of je nu deelneemt aan een intense wedstrijd of gewoon een potje voetbal speelt met vrienden, deze short biedt comfort en bewegingsvrijheid voor optimale prestaties op het veld.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Gemaakt van hoogwaardige materialen, is de witte voetbalshort van Club Brugge een must-have voor elke fan die stijl en functionaliteit wil combineren.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668003674</id>
+      <title>S</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-424.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668003674</id>
+      <title>M</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-424.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668003674</id>
+      <title>L</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-424.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668003674</id>
+      <title>XL</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-424.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668003674</id>
+      <title>XXL</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-424.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450668003674</id>
+      <title>3XL</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-424.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667970906</id>
+    <published>2023-06-28T16:54:22+02:00</published>
+    <updated>2023-06-28T16:54:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/away-shirt-kids-23-24"/>
+    <title>Away Shirt Kids 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/kidsawayshirt.jpg?v=1687813397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Embrace the past, inspire the future.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">10 mei 1978. Een datum die voor vele Clubfans nog steeds in het geheugen gegrift staat. Met meer dan 25.000 het kanaal over richting Wembley voor de Europa Cup I-finale tegen Liverpool. De herinneringen van toen opnieuw bovenhalen kan vanaf vandaag met ons nieuwe away shirt.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Zo is er de opvallende V-kraag zoals toen en zorgen de blauwe mouwen met zwarte accenten voor een extra touch én knipoog naar ons Blauw en Zwart. Bovendien komt het patroon vanop de mouwen ook terug in het witte vlak én in de shorts om alles één geheel te maken. Het monotone logo werd ook uit de goeie oude tijd geteleporteerd en onze No Sweat No Glory-slogan werd opnieuw in de nek geborduurd. Op de achterkant van de sokken prijkt 1891.</span></p>
+<p><em data-mce-fragment="1">Mouwsponsors zijn niet inbegrepen.</em><strong data-mce-fragment="1"><br data-mce-fragment="1"></strong><br data-mce-fragment="1"><strong data-mce-fragment="1">ECO shirt</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Wist je dat het shirt gemaakt is van Macron Eco Fabric? Een draad die gemaakt is van 100% PET recycled polyester en gecertificeerd is door de Global Recyle Standard. voor elk shirt werden 13 liter flessen gerecycleerd.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">De draad verliest niets van zijn originele kwaliteit tijdens het wassen en het productieproces vergt bovendien een pak minder energie. Voor alle shirts van Club komt dit neer op maar liefst 260.000 PET flessen per jaar!</span><br></p>
+<p><strong>Kenmerken:</strong></p>
+<ul>
+<li>Wedstrijdkwaliteit: dit is het shirt dat de spelers dragen op het veld,</li>
+<li>No Sweat No Glory staat geborduurd in de nek</li>
+<li>Topkwaliteit van het Italiaanse Macron,<br>
+</li>
+<li>100% polyester,</li>
+<li>Comfortabele en ademende stof: Macron Performance System,</li>
+<li>Beschikbaar in maat 128 - 164.</li>
+<li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur.</li>
+</ul>
+<p><span data-mce-fragment="1"><em data-mce-fragment="1">Mouwsponsors zijn niet inbegrepen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__personalised:shirt-23-24</s:tag>
+    <s:tag>__pp-color:#000000</s:tag>
+    <s:tag>__pp-font-size:40</s:tag>
+    <s:tag>__pp-font:triakis</s:tag>
+    <s:tag>__pp-image-suffix:2324awayshirtblack</s:tag>
+    <s:tag>__type:Away</s:tag>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667970906</id>
+      <title>JS - 128</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-423.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667970906</id>
+      <title>JM - 140</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-423.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667970906</id>
+      <title>JL - 152</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-423.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667970906</id>
+      <title>JXL - 164</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-423.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8450667938138</id>
+    <published>2023-06-28T16:54:22+02:00</published>
+    <updated>2023-06-28T16:54:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/away-shirt-volw-23-24"/>
+    <title>Away Shirt Volw. 23/24</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/awayshirtonye.jpg?v=1687813444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Embrace the past, inspire the future.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">10 mei 1978. Een datum die voor vele Clubfans nog steeds in het geheugen gegrift staat. Met meer dan 25.000 het kanaal over richting Wembley voor de Europa Cup I-finale tegen Liverpool. De herinneringen van toen opnieuw bovenhalen kan vanaf vandaag met ons nieuwe away shirt.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Zo is er de opvallende V-kraag zoals toen en zorgen de blauwe mouwen met zwarte accenten voor een extra touch én knipoog naar ons Blauw en Zwart. Bovendien komt het patroon vanop de mouwen ook terug in het witte vlak én in de shorts om alles één geheel te maken. Het monotone logo werd ook uit de goeie oude tijd geteleporteerd en onze No Sweat No Glory-slogan werd opnieuw in de nek geborduurd. Op de achterkant van de sokken prijkt 1891.</span></p>
+<p><em data-mce-fragment="1">Mouwsponsors zijn niet inbegrepen.</em><strong data-mce-fragment="1"><br data-mce-fragment="1"><br data-mce-fragment="1">ECO shirt</strong><br data-mce-fragment="1"><span data-mce-fragment="1">Wist je dat het shirt gemaakt is van Macron Eco Fabric? Een draad die gemaakt is van 100% PET recycled polyester en gecertificeerd is door de Global Recyle Standard. voor elk shirt werden 13 liter flessen gerecycleerd.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">De draad verliest niets van zijn originele kwaliteit tijdens het wassen en het productieproces vergt bovendien een pak minder energie. Voor alle shirts van Club komt dit neer op maar liefst 260.000 PET flessen per jaar!</span></p>
+<p><strong>Kenmerken:</strong></p>
+<ul>
+<li>Wedstrijdkwaliteit: dit is het shirt dat de spelers dragen op het veld,</li>
+<li>No Sweat No Glory staat geborduurd in de nek</li>
+<li>Topkwaliteit van het Italiaanse Macron,<br>
+</li>
+<li>100% polyester,</li>
+<li>Comfortabele en ademende stof: Macron Performance System,</li>
+<li>Beschikbaar in maat 128 - 164.</li>
+<li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur.</li>
+</ul>
+<p><span data-mce-fragment="1"><em data-mce-fragment="1">Mouwsponsors zijn niet inbegrepen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__personalised:shirt-23-24</s:tag>
+    <s:tag>__pp-color:#000000</s:tag>
+    <s:tag>__pp-font-size:40</s:tag>
+    <s:tag>__pp-font:triakis</s:tag>
+    <s:tag>__pp-image-suffix:2324awayshirtblack</s:tag>
+    <s:tag>__type:Away</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_CB_Season_S23/24</s:tag>
+    <s:tag>_season:23/24</s:tag>
+    <s:tag>CB_Supplier_Macron</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>speler</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667938138</id>
+      <title>S</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-422.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667938138</id>
+      <title>M</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-422.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667938138</id>
+      <title>L</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-422.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667938138</id>
+      <title>XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-422.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667938138</id>
+      <title>XXL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-422.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667938138</id>
+      <title>3XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-422.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667938138</id>
+      <title>4XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-422.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8450667938138</id>
+      <title>5XL</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>FCB23-422.5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

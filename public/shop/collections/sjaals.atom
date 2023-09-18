@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/sjaals.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-11T12:44:56+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8500874019162</id>
+    <published>2023-08-11T12:44:56+02:00</published>
+    <updated>2023-08-11T12:44:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-club-brugge-ka-akureyri"/>
+    <title>Sjaal Club Brugge - KA Akureyri</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/IMG-20230816_175621.jpg?v=1692201454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">In de 3e ronde van de Conference League treft Club Brugge de IJslandse ploeg AK Akureyri. Een aandenken aan deze zeer unieke wedstrijd is alvast deze sjaal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8500874019162</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB23-142.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8472251695450</id>
+    <published>2023-07-14T12:46:01+02:00</published>
+    <updated>2023-07-14T12:46:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-brugse-metten-club-az-alkaar"/>
+    <title>Sjaal Brugse Metten Club - AZ Alkmaar</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/SjaalBrugseMetten.jpg?v=1689331555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een aandenken aan de Brugse Metten. De eerste krachtmeting van een nieuw seizoen.</p>
+<p>Club speelt op 22 juli haar eerste Brugse Metten sinds 2020.  In deze galamatch neemt Club het op tegen het Nederlandse AZ Alkaar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8472251695450</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.50</s:price>
+      <s:sku>FCB23-099.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004880203993</id>
+    <published>2023-04-07T15:24:35+02:00</published>
+    <updated>2023-04-07T15:24:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-club-benfica-fc-round-of-16"/>
+    <title>Sjaal Club - SL Benfica (Round of 16)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5056667900288.jpg?v=1674728609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Voor het eerst in onze blauwzwarte geschiedenis hebben we ons geplaatst voor de 8e finales van het kampioenenbal! Haal de matchsjaal nu in huis en vermijd zo wachtrijen aan de verkooppunten rondom Jan Breydel op matchday!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004880203993</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-097.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8098025177305</id>
+    <published>2023-01-25T21:56:43+01:00</published>
+    <updated>2023-01-25T21:56:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-gouden-schoen"/>
+    <title>Sjaal Gouden Schoen</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sjaal_2467e4e9-5b1c-4e67-a168-006df51d436d.jpg?v=1674660851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">He did it. Onze Simon Mignolet is de gouden schoen van 2022! Als keeper een huzarenstukje en na meer dan 30 jaar de terechte opvolger van Michel Preud'homme.</p>
+<p data-mce-fragment="1">De volgende wedstrijd moedigen we hem allemaal aan, met deze uniek fansjaal, want het is verdiend.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:BlauwZwart</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8098025177305</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-149.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8014052098265</id>
+    <published>2022-11-21T22:30:15+01:00</published>
+    <updated>2022-11-21T22:30:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-club-brugge-1"/>
+    <title>Sjaal Club Brugge</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sjaal-club-brugge-2.jpg?v=1669066216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8014052098265</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21-576.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868744794329</id>
+    <published>2022-10-09T21:46:28+02:00</published>
+    <updated>2022-10-09T21:46:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-nxt"/>
+    <title>Sjaal NXT</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sjaal-nxt-2.jpg?v=1662064436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Onze youngsters van Club NXT aanmoedigen in The Nest? Dat doe je binnenkort met deze NXT-sjaal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868744794329</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21-579.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868744925401</id>
+    <published>2022-10-09T21:45:58+02:00</published>
+    <updated>2022-10-09T21:45:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-yla"/>
+    <title>Sjaal YLA</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sjaal-yla-1.jpg?v=1662064440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze sjaal houd je warm tijdens het kijken naar een match van onze vrouwenploeg.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868744925401</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21-078.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868744663257</id>
+    <published>2022-09-01T22:33:50+02:00</published>
+    <updated>2022-09-01T22:33:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-no-sweat-no-glory"/>
+    <title>Sjaal No Sweat No Glory</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sjaal_NSNG_2cee3a16-1665-42e5-b940-fb41ecef7922.jpg?v=1678741044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You'll never walk alone, Wonderwall en nog zoveel meer. Met deze sjaal ben je helemaal klaar om alle liedjes luidkeels in het stadion mee te zingen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868744663257</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21-087.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868744466649</id>
+    <published>2022-09-01T22:33:49+02:00</published>
+    <updated>2022-09-01T22:33:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-club-porto"/>
+    <title>Sjaal Club - FC Porto</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Club-Porto_1.jpg?v=1664641783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Porto away. Wat een avond hadden we daar met de 0-4 overwinning en een eerste 6 op 6 in onze Champions League geschiedenis.</p>
+<p>Haal dit aandenken in huis en help ons mee ook de thuismatch tegen de Portugezen naar ons toe te trekken.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868744466649</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-062.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868744433881</id>
+    <published>2022-09-01T22:33:49+02:00</published>
+    <updated>2022-09-01T22:33:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-club-leverkusen"/>
+    <title>Sjaal Club - Bayer Leverkusen</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sjaal-club-bayer-leverkusen.jpg?v=1664639745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In groep B van de Champions League treffen we de Duitse traditieploeg Bayer Leverkusen, waar onze voormalige verdediger Odilon Koussounou in de ploeg staat.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868744433881</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-060.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868744270041</id>
+    <published>2022-09-01T22:33:44+02:00</published>
+    <updated>2022-09-01T22:33:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-fijne-streepjes"/>
+    <title>Sjaal fijne streepjes</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sjaal_Streepjes.jpg?v=1678741014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze gestreepte sjaal toont onze hoofdkleuren: Blauw, Zwart en Wit. Draag jij binnenkort de mooiste kleuren van het land rond jouw nek?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868744270041</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB14-073.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743942361</id>
+    <published>2022-09-01T22:33:35+02:00</published>
+    <updated>2022-09-01T22:33:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-brugse-metten"/>
+    <title>Sjaal Brugse Metten</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/fcb19-324-1.jpg?v=1662064416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een aandenken aan de Brugse Metten. De eerste krachtmeting van een nieuw seizoen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743942361</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB19-324.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868731359449</id>
+    <published>2022-09-01T22:23:13+02:00</published>
+    <updated>2022-09-01T22:23:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/bloksjaal"/>
+    <title>Bloksjaal</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sjaal_Blokjes.jpg?v=1678740918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blauw-Zwart geblokte sjaal om Club aan te moedigen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731359449</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB19-022.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

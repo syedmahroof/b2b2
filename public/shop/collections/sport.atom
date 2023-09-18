@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/sport.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-28T15:53:12+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868732342489</id>
+    <published>2023-08-28T15:53:12+02:00</published>
+    <updated>2023-08-28T15:53:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/drinkbus-yla"/>
+    <title>Drinkbus YLA</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/drinkbus-yla.jpg?v=1662063859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zwarte drinkbus van Club YLA is ideaal om te hydrateren na het sporten.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868732342489</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB21-023.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868732309721</id>
+    <published>2023-08-11T12:00:46+02:00</published>
+    <updated>2023-08-11T12:00:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/drinkbus-nxt"/>
+    <title>Drinkbus NXT</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/drinkbus-nxt.jpg?v=1662063857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zwarte drinkbus van Club NXT is ideaal om te hydrateren na het sporten.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868732309721</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB21-022.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868733128921</id>
+    <published>2023-08-03T17:44:16+02:00</published>
+    <updated>2023-08-03T17:44:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/fietspakket"/>
+    <title>Fietspakket</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018592475_01.jpg?v=1671648884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Momenteel geen info over dus moeilijk om hier iets bij te bedenken</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868733128921</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-066.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8402802606426</id>
+    <published>2023-07-17T14:42:30+02:00</published>
+    <updated>2023-07-17T14:42:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/darts-vloermat"/>
+    <title>Darts Vloermat (300 x 60 cm)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Dartsmat.jpg?v=1683127571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8402802606426</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>FCB23-064.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8402809192794</id>
+    <published>2023-06-16T16:22:37+02:00</published>
+    <updated>2023-06-16T16:22:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/darts-cabinet"/>
+    <title>Darts Cabinet (55 x 50 cm)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/clubbruggecabinetweb.jpg?v=1683037003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Houd je dartbord en pijlen veilig en georganiseerd met dit Club Brugge darts kabinet.</span></p>
+<p><span>Een darts kabinet heeft vele voordelen. Het zorgt ervoor dat je dartbord en accessoires veilig en beschermd zijn wanneer je ze niet gebruikt. Daarnaast is het ook een handige bewaarplaats voor je dartpijlen, zodat je ze altijd bij de hand hebt wanneer je wilt spelen. </span></p>
+<p><span>Het wordt geleverd met een ophangsysteem, bevestigingsmateriaal, 2 schrijfborden inclusief pin en wiper.</span></p>
+<p><span>De kast is gemaakt door het kwaliteitsmerk Bulls, sponsor van onder andere pro darter Kim Huybrechts.</span></p>
+<p><span><strong>Wordt geleverd vanaf 16 mei.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8402809192794</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>FCB23-066.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868742041817</id>
+    <published>2023-06-10T14:39:17+02:00</published>
+    <updated>2023-06-10T14:39:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pluche-bal-15-cm"/>
+    <title>Pluche bal (15 cm)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/balpluche.jpg?v=1665091046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pluche Blauw-Zwarte bal met een diameter van 15 cm om op een veilige manier binnen jouw skills aan te scherpen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868742041817</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB21-004.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8402805752154</id>
+    <published>2023-05-04T22:20:33+02:00</published>
+    <updated>2023-05-04T22:20:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/darts-surround"/>
+    <title>Darts Surround</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/ClubBruggeSurround_2.jpg?v=1683230794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dit darts surround van Club Brugge is een ring die rondom het dartbord wordt geplaatst om de muur en het dartbord te beschermen tegen eventuele schade die kan ontstaan door gemiste darts. Deze biedt 12cm extra bescherming van uw muur en is geschikt voor elk dartbord met de officiële afmetingen.</span></p>
+<p><span>Het is een praktische en betaalbare oplossing om je muur en dartbord te beschermen tijdens het spelen van darts, en wordt vaak gebruikt door professionele en recreatieve darters.</span></p>
+<p><span>Bij bestelling ontvang je enkel de surround, er wordt standaard geen dartbord bijgeleverd.</span></p>
+<p><span>De surround is gemaakt door het kwaliteitsmerk Bulls, sponsor van onder andere pro darter Kim Huybrechts.</span></p>
+<p><span><strong>Wordt geleverd vanaf 16 mei.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8402805752154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>FCB23-065.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8402753093978</id>
+    <published>2023-05-04T22:20:33+02:00</published>
+    <updated>2023-05-04T22:20:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/dartbord"/>
+    <title>Dartsbord</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Digitaleproefdrukdartboardclubbrugge.jpg?v=1683034327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dit Club Brugge dartboard is perfect voor de fanatieke darters die ook fan zijn van Club Brugge. Het dartbord is geschikt voor zowel beginners als gevorderde spelers en biedt eindeloos speelplezier. Met dit dartbord in je huis of in je fancave zul je gegarandeerd indruk maken op je vrienden en familie.</span></p>
+<p><span>Dit bord is gemaakt door het kwaliteitsmerk Bulls, sponsor van onder andere pro darter Kim Huybrechts<strong>.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8402753093978</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-063.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8392926658906</id>
+    <published>2023-04-26T14:39:25+02:00</published>
+    <updated>2023-04-26T14:39:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/voetbal-size-3"/>
+    <title>Voetbal Logo (size 3)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Voetbal_logo_1.jpg?v=1683038439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze voetbal is ideaal voor onze kleinere voetbalfans van 8 jaar of jonger. (58,5-61 cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8392926658906</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-157.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8078395998425</id>
+    <published>2023-01-20T17:24:06+01:00</published>
+    <updated>2023-01-20T17:24:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pop-up-goal"/>
+    <title>Pop-up goal (120 x 80 cm)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/4255625105791_03.jpg?v=1674673949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wil jij je traptechniek nog wat extra bijtrainen in de tuin of in het park? Dan is deze pop-up goal ideaal voor jou! </p>
+<p>Neem je pop-up goal mee in de handige draagzak en train waar je wil. Je kan de goal op 2 verschillende manieren gebruiken. </p>
+<p><strong>Afmetingen:</strong></p>
+<ul>
+<li>Breedte: 120 cm</li>
+<li>Hoogte: 80 cm</li>
+</ul>
+<p>De witte voetbal op de foto is niet inbegrepen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>__color:BlauwZwart</s:tag>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8078395998425</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-019.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868733882585</id>
+    <published>2022-12-19T11:58:35+01:00</published>
+    <updated>2022-12-19T11:58:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/flights"/>
+    <title>Flights Darts (9 st.)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5425037257633.jpg?v=1678353678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aan het verliezen tijdens een potje darts? Probeer het met deze Club Brugge fligts en haal de zege binnen!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868733882585</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>FCB22-045.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7981028114649</id>
+    <published>2022-12-12T10:13:35+01:00</published>
+    <updated>2022-12-12T10:13:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/keeperhandschoen"/>
+    <title>Keeperhandschoenen</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/8719497141623_01.jpg?v=1671649159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De nieuwe keeperhandschoenen van Club Brugge zijn van erg goede kwaliteit en beschikbaar in 4 maten. Het design is blauw-zwart gestreept en bevat het logo maar ook onze slogan 'No Sweat No Glory'.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Wedstrijd_Keeper</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7981028114649</id>
+      <title>6-8 jaar</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-519.4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7981028114649</id>
+      <title>9-12 jaar</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-519.6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7981028114649</id>
+      <title>12-18 jaar</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-519.8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7981028114649</id>
+      <title>+18 jaar</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-519.10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7930525515993</id>
+    <published>2022-11-17T12:43:14+01:00</published>
+    <updated>2022-11-17T12:43:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/handdoekset-3-delig"/>
+    <title>Handdoekset (3-delig)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Handdoekenset_002.jpg?v=1671139260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zwarte, driedelige handdoek set van Club Brugge is perfect voor na de voetbaltraining. Dit pakket is een echte voordeelbundel met een grote handoek, klein handdoekje voor je haar of om op te staan en uiteraard: het washandje.</p>
+<p>Proper spel op het veld, proper naast het veld.</p>
+<p><strong>Afmetingen handdoeken en washandje:</strong><br></p>
+<ul>
+<li>70 x 140 (L) cm</li>
+<li>50 x 70 (L) cm</li>
+<li>14 x 20 (L) cm</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>50-100</s:tag>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7930525515993</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-077.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7937114767577</id>
+    <published>2022-11-17T12:08:44+01:00</published>
+    <updated>2022-11-17T12:08:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/handdoek-zwart"/>
+    <title>Handdoek Zwart</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Handdoekzwart.jpg?v=1668683311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">De zwarte badhandoek van Club Brugge is in 1 kleur gemaakt, maar door het relief van de imprint komt het logo mét slogan mooi tot zijn recht. Eerder subtiel dan opvallend.</p>
+<p data-mce-fragment="1">Perfect voor na de zwemles, voetbaltraining of op het strand.</p>
+<p data-mce-fragment="1">Afmetingen: 70 x 140 (L) cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7937114767577</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB22-038.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7937107722457</id>
+    <published>2022-11-17T12:08:13+01:00</published>
+    <updated>2022-11-17T12:08:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/handdoek-blauw"/>
+    <title>Handdoek Blauw</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/handdoekblauw.jpg?v=1670923338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De badhandoek van Club in helder blauw. De handdoek is in 1 kleur, maar door het relief van de imprint komt het logo mét slogan mooi tot zijn recht.</p>
+<p>Perfect voor na de zwemles, voetbaltraining of op het strand.</p>
+<p>Afmetingen: 70 x 140 (L) cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>__color:blauw</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7937107722457</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB22-037.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868760195289</id>
+    <published>2022-10-09T21:45:59+02:00</published>
+    <updated>2022-10-09T21:45:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/yla-haarband-3-stuks"/>
+    <title>YLA Haarband (3 stuks)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/yla-headband.jpg?v=1662064910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Klaar om een hattrick te scoren? Met deze haarband focus je helemaal op de wedstrijd.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868760195289</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB20-474.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759703769</id>
+    <published>2022-09-01T22:41:28+02:00</published>
+    <updated>2022-09-01T22:41:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershort-striped"/>
+    <title>Wielershort Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/wielerbroek-web.jpg?v=1662064892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Club Brugge en Bioracer slaan als twee topmerken in de sportwereld opnieuw de handen in elkaar voor de creatie van een stijlvolle wieleroutfit. Er werd gekozen voor een subtiel design waarbij de blauwe strepen zorgen voor een retro gevoel.</p>
+ 
+ <p><strong>Vapor Pad<br><br></strong>Het Vapor pad zorgt voor comfortabele demping en ondersteunt op de juiste plaats. De ademende stof zorgt voor een aangenaam gevoel en een goede zit op de fiets.</p>
+ 
+ <p><strong>Eigenschappen:</strong></p>
+ 
+ <ul>
+ 
+ <li>Belgische topkwaliteit</li>
+ 
+ <li>World Tour proof</li>
+ 
+ <li>Flexibel en frictieloos</li>
+ 
+ <li>Unisex</li>
+ 
+ <li>Duurzaam</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50-100</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>plus100</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>S</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>M</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>L</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>XL</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>XXL</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>3XL</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759605465</id>
+    <published>2022-09-01T22:41:27+02:00</published>
+    <updated>2022-09-01T22:41:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershort-fcb"/>
+    <title>Wielershort FCB</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/prj20-011432-prof-short-men-front.jpg?v=1662064887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze wielershort laat je iedereen achter jou!</p>
+<p>De short heeft ook bretellen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759605465</id>
+      <title>M</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB20-486.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759605465</id>
+      <title>XXL</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB20-486.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759572697</id>
+    <published>2022-09-01T22:41:19+02:00</published>
+    <updated>2022-09-01T22:41:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershort"/>
+    <title>Wielershort</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/dsc-4109-copy.jpg?v=1662064881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759572697</id>
+      <title>S</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB18-505.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759507161</id>
+    <published>2022-09-01T22:41:08+02:00</published>
+    <updated>2022-09-01T22:41:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershirt-striped"/>
+    <title>Wielershirt Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/wielertrui-web.jpg?v=1662064878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Club Brugge en Bioracer slaan als twee topmerken in de sportwereld opnieuw de handen in elkaar voor de creatie van een stijlvolle wieleroutfit. Er werd gekozen voor een subtiel design waarbij de blauwe strepen zorgen voor een retro gevoel.</p>
+ 
+ <p><strong>Body Fit<br><br></strong>Gemaakt van Lycra die naar 4 kanten strecht voor maximale flexibiliteit tijdens het dragen. De zijkant van het shirt is voorzien van mesh, waardoor je lichaamswarmte goed verdeeld en afgevoerd wordt zodat jou core temperatuur stabiel blijft.</p>
+ 
+ <p>De mouwen sluiten perfect aan en vermijden zo alle mogelijke frictie tijdens je rit.</p>
+ 
+ <p><strong>Eigenschappen:</strong></p>
+ 
+ <ul>
+ 
+ <li>Belgische topkwaliteit</li>
+ 
+ <li>World Tour proof</li>
+ 
+ <li>Flexibel en frictieloos</li>
+ 
+ <li>Unisex</li>
+ 
+ <li>Duurzaam</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50-100</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759343321</id>
+    <published>2022-09-01T22:41:02+02:00</published>
+    <updated>2022-09-01T22:41:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershirt-2021-2022"/>
+    <title>Wielershirt 2021-2022</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/v20210916-wielrennen-16.jpg?v=1662064868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wielershirt van Club Brugge gebaseerd op het home shirt uit het seizoen 2021-2022. Past perfect bij de wielershort en is gemaakt door het gekende en kwaliteitsvolle fietsmerk Bioracer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868758950105</id>
+    <published>2022-09-01T22:40:44+02:00</published>
+    <updated>2022-09-01T22:40:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/voetbal-wit"/>
+    <title>Voetbal Wit</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/voetbal-wit-0.jpg?v=1662064844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een witte bal volledig in de stijl van onze nieuwe Away Kit!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868758950105</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-573.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868758851801</id>
+    <published>2022-09-01T22:40:36+02:00</published>
+    <updated>2022-09-01T22:40:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/voetbal-logo"/>
+    <title>Voetbal Logo</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/voetbal-logo-1.jpg?v=1662064839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Jaag jij deze Club Brugge bal binnenkort tegen de netten?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868758851801</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-571.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868758786265</id>
+    <published>2022-09-01T22:40:33+02:00</published>
+    <updated>2022-09-01T22:40:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/voetbal-blauw-club-brugge"/>
+    <title>Voetbal Blauw</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/voetbal-club-0.jpg?v=1662064835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ben jij aan het oefenen om later profvoetballer te worden? Met deze blauwe Club Brugge bal oefen je alvast jouw balgevoel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>spelen</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868758786265</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-574.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868747546841</id>
+    <published>2022-09-01T22:34:41+02:00</published>
+    <updated>2022-09-01T22:34:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sports-bag-1891"/>
+    <title>Sports Bag 1891</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sporttas1891.jpg?v=1665091309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Neem al je Club Brugge spullen mee in deze handige rugzak.</p> <p>Height: 36cm Width: 50cm Depth: 25cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50-100</s:tag>
+    <s:tag>CB_Bags_Sporttas</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868747546841</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-032.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

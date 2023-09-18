@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/stadion.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-09-01T11:15:28+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734734553</id>
+    <published>2023-09-01T11:15:28+02:00</published>
+    <updated>2023-09-01T11:15:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/handschoen-blauw-kids"/>
+    <title>Handschoen Blauw Kids</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/dsc01782-kids.jpg?v=1662063974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze blauwe handschoenen houden je in de winter lekker warm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Handschoen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734734553</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21-535.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868741812441</id>
+    <published>2023-09-01T11:08:04+02:00</published>
+    <updated>2023-09-01T11:08:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-quality"/>
+    <title>Pet Quality</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/mata-pet-quality-web.jpg?v=1662064320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is quality! Een pet speciaal ontworpen voor de allergrootste Clinton Mata fans.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868741812441</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-531.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8498684887386</id>
+    <published>2023-08-16T17:46:38+02:00</published>
+    <updated>2023-08-16T17:46:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-summer-blue"/>
+    <title>Pet &apos;summer blue&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Pet_Light_Blue_01_1.jpg?v=1692024444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zomerse pet van Club Brugge met handige clip sluiting achteraan, is perfect voor je zomerse look compleet te maken.</p>
+<p>Je hebt de bijhorende zwemshort toch ook al in huis gehaald?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:roze</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8498684887386</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-070.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8484642881882</id>
+    <published>2023-08-14T17:46:35+02:00</published>
+    <updated>2023-08-14T17:46:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-summer-pink"/>
+    <title>Pet &apos;summer pink&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Pet_Pink_01_1.jpg?v=1689886290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zomerse pet van Club Brugge met handige clip sluiting achteraan, is perfect voor je zomerse look compleet te maken.</p>
+<p>Je hebt de bijhorende zwemshort toch ook al in huis gehaald?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:roze</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484642881882</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-071.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8500874019162</id>
+    <published>2023-08-11T12:44:56+02:00</published>
+    <updated>2023-08-11T12:44:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-club-brugge-ka-akureyri"/>
+    <title>Sjaal Club Brugge - KA Akureyri</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/IMG-20230816_175621.jpg?v=1692201454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">In de 3e ronde van de Conference League treft Club Brugge de IJslandse ploeg AK Akureyri. Een aandenken aan deze zeer unieke wedstrijd is alvast deze sjaal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8500874019162</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB23-142.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8472251695450</id>
+    <published>2023-07-14T12:46:01+02:00</published>
+    <updated>2023-07-14T12:46:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-brugse-metten-club-az-alkaar"/>
+    <title>Sjaal Brugse Metten Club - AZ Alkmaar</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/SjaalBrugseMetten.jpg?v=1689331555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een aandenken aan de Brugse Metten. De eerste krachtmeting van een nieuw seizoen.</p>
+<p>Club speelt op 22 juli haar eerste Brugse Metten sinds 2020.  In deze galamatch neemt Club het op tegen het Nederlandse AZ Alkaar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8472251695450</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.50</s:price>
+      <s:sku>FCB23-099.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019320045785</id>
+    <published>2023-04-18T13:55:24+02:00</published>
+    <updated>2023-04-18T13:55:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/kerstmuts"/>
+    <title>Kerst Muts Zwart</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5060743630549.jpg?v=1681818917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Kom in de kerstsfeer met deze leuke kerstmuts.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019320045785</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-173.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019340853465</id>
+    <published>2023-04-18T13:55:00+02:00</published>
+    <updated>2023-04-18T13:55:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/kerstmuts-1"/>
+    <title>Kerst Muts Blauw</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5060743630556.jpg?v=1681818896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Kom in de kerstsfeer met deze leuke kerstmuts.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019340853465</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-174.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004880203993</id>
+    <published>2023-04-07T15:24:35+02:00</published>
+    <updated>2023-04-07T15:24:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-club-benfica-fc-round-of-16"/>
+    <title>Sjaal Club - SL Benfica (Round of 16)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5056667900288.jpg?v=1674728609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Voor het eerst in onze blauwzwarte geschiedenis hebben we ons geplaatst voor de 8e finales van het kampioenenbal! Haal de matchsjaal nu in huis en vermijd zo wachtrijen aan de verkooppunten rondom Jan Breydel op matchday!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004880203993</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-097.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004827349209</id>
+    <published>2023-03-09T10:15:01+01:00</published>
+    <updated>2023-03-09T10:15:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/muts-club-brugge"/>
+    <title>Muts Club Brugge</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018582131_01.jpg?v=1678353286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze muts, waarop Club Brugge te zien is, ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004827349209</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-086.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7972611522777</id>
+    <published>2023-02-16T11:41:49+01:00</published>
+    <updated>2023-02-16T11:41:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/balr-cap"/>
+    <title>BALR. Cap</title>
+    <s:type>Pet</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Shopify-B10015523101_101_750x_7daa440d-812c-4316-92c9-3bd83d2dcb09.jpg?v=1666894623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>Pet<br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Club Brugge en BALR. slaan de handen in elkaar</strong></p>
+<p data-mce-fragment="1">Sinds dit seizoen is het Nederlandse lifestyle merk de officiële kledijpartner van de spelers en staff van Club. Het is een echt voetbalmerk dat 100% beseft welke emoties voor, tijdens en na de wedstrijd spelen in de harten van de fans. </p>
+<p data-mce-fragment="1"><span>De BALR. Cap is een moeiteloze manier om je look af te maken. Draag hem in het weekend als je geen zin hebt om je haar te doen of gebruik hem als de basis van je streetstyle look. Met zijn PU-band en metalen pinnen voegt de cap wat flair toe aan een klassieker. Deze pet is een BALR. interpretatie van een absolute klassieker, met het iconische logo en een verstelbaar achterlipje voor een persoonlijke pasvorm.</span></p>
+<ul>
+<li>Zwart PU-bandje aan achterkant met metalen pinnen</li>
+<li>3D BALR. borduursel</li>
+<li>Verstelbaar achterlipje</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dressed in Ambition</strong></p>
+<p data-mce-fragment="1">BALR. and Club Brugge share an ambitious mind-set, one that is reflected both on and off the pitch. This limited edition T-shirt celebrates the partnership between the two with all Club lovers around the world.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:tag>CB_supplier_BALR</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7972611522777</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-208.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8113330913497</id>
+    <published>2023-02-09T22:04:58+01:00</published>
+    <updated>2023-02-09T22:04:58+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/beanie-1891-zwart-1"/>
+    <title>Beanie 1891 zwart</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Beanienavy1891B.jpg?v=1675976954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze hippe beanie in zwart met het witte 1891 logo is net binnen. Een extra aanvulling op de mutsen waarmee jij de kou in Jan Breydel kan trotseren.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8113330913497</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-151.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004831936729</id>
+    <published>2023-01-26T13:37:34+01:00</published>
+    <updated>2023-01-26T13:37:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/muts-gestreept"/>
+    <title>Muts Gestreept</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018583763_01.jpg?v=1674736633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze muts, blauwzwart gestreept, ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:BlauwZwart</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004831936729</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-085.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004829872345</id>
+    <published>2023-01-26T13:36:51+01:00</published>
+    <updated>2023-01-26T13:36:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/muts-away-days"/>
+    <title>Muts Away days</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018583886_01.jpg?v=1674736593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze muts, in hetzelfde motief als onze away shirts, ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004829872345</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-084.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8098025177305</id>
+    <published>2023-01-25T21:56:43+01:00</published>
+    <updated>2023-01-25T21:56:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-gouden-schoen"/>
+    <title>Sjaal Gouden Schoen</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sjaal_2467e4e9-5b1c-4e67-a168-006df51d436d.jpg?v=1674660851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">He did it. Onze Simon Mignolet is de gouden schoen van 2022! Als keeper een huzarenstukje en na meer dan 30 jaar de terechte opvolger van Michel Preud'homme.</p>
+<p data-mce-fragment="1">De volgende wedstrijd moedigen we hem allemaal aan, met deze uniek fansjaal, want het is verdiend.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:BlauwZwart</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8098025177305</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-149.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004839997657</id>
+    <published>2022-12-16T12:18:57+01:00</published>
+    <updated>2022-12-16T12:18:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/beanie-1891-zwart"/>
+    <title>Beanie 1891 Fisherman zwart</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/beaniezwart1891C.jpg?v=1671189530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zware, kortere beanie in fisherman stijl is zwart en geborduurd met het witte 1891 logo. Zo ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004839997657</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-094.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004848156889</id>
+    <published>2022-12-16T12:18:10+01:00</published>
+    <updated>2022-12-16T12:18:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/beanie-1891-navy"/>
+    <title>Beanie 1891 navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20221216_1891Beanies-13.jpg?v=1675976566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze hippe beanie, navy met 1891, ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004848156889</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-095.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004851728601</id>
+    <published>2022-12-16T12:17:25+01:00</published>
+    <updated>2022-12-16T12:17:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/beanie-1891-grijs"/>
+    <title>Beanie 1891 grijs</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/beaniegrijs1891.jpg?v=1671189506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze hippe beanie, grijs met 1891, ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004851728601</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-096.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8014052098265</id>
+    <published>2022-11-21T22:30:15+01:00</published>
+    <updated>2022-11-21T22:30:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-club-brugge-1"/>
+    <title>Sjaal Club Brugge</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sjaal-club-brugge-2.jpg?v=1669066216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8014052098265</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21-576.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868741877977</id>
+    <published>2022-11-08T10:46:50+01:00</published>
+    <updated>2022-11-08T10:46:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-rfcb"/>
+    <title>Pet RFCB Heritage</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/RFCBCap.jpg?v=1665266544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Football Club Brugeois. Van 1920, het eerste jaar waarin Blauw-Zwart kampioen werd, tot 1972 de officiële naam van Club. Deze pet verwijst naar die succesvolle periode.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:tag>CB_supplier_SDS</s:tag>
+    <s:tag>RFCB</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868741877977</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-106.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7955030638809</id>
+    <published>2022-10-18T15:09:27+02:00</published>
+    <updated>2022-10-18T15:09:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/vlag-heritage-color"/>
+    <title>Vlag Heritage Color</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/8720629458694.jpg?v=1678740567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mens Sana in Corpore Saum</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>CB_Fan_Vlag</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7955030638809</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-070.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868744794329</id>
+    <published>2022-10-09T21:46:28+02:00</published>
+    <updated>2022-10-09T21:46:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-nxt"/>
+    <title>Sjaal NXT</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sjaal-nxt-2.jpg?v=1662064436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Onze youngsters van Club NXT aanmoedigen in The Nest? Dat doe je binnenkort met deze NXT-sjaal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868744794329</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21-579.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868744925401</id>
+    <published>2022-10-09T21:45:58+02:00</published>
+    <updated>2022-10-09T21:45:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sjaal-yla"/>
+    <title>Sjaal YLA</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sjaal-yla-1.jpg?v=1662064440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze sjaal houd je warm tijdens het kijken naar een match van onze vrouwenploeg.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Fan_Sjaal</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sjaal</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868744925401</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB21-078.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7930498515161</id>
+    <published>2022-10-06T21:42:51+02:00</published>
+    <updated>2022-10-06T21:42:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-navy"/>
+    <title>Pet Logo Navy Ribbed</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/pet-winter.jpg?v=1665085373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7930498515161</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-073.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7930498023641</id>
+    <published>2022-10-06T21:42:15+02:00</published>
+    <updated>2022-10-06T21:42:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-zwart"/>
+    <title>Pet Logo Zwart</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/pet-zwart_2aff93dd-9ec1-4cb8-aa32-a1b0d8c77769.jpg?v=1665085336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7930498023641</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-072.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

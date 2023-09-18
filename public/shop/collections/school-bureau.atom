@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/school-bureau.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-03T17:50:36+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004975460569</id>
+    <published>2023-08-03T17:50:36+02:00</published>
+    <updated>2023-08-03T17:50:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/tovermok"/>
+    <title>Tovermok</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/tovermok.jpg?v=1668683172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze mok is een speciale, want die verandert van kleur naarmate je er warme koffie of water in doet. Heel erg leuk en altijd fijn om in Blauw-Zwart wakker te worden.</p>
+<p> </p>
+<p>Opgelet! </p>
+<p>Dit product is niet geschikt voor in de vaatwas.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004975460569</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB22-087.OS</s:sku>
+      <s:grams>150000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868750299353</id>
+    <published>2023-08-03T17:50:25+02:00</published>
+    <updated>2023-08-03T17:50:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/toiletzak-1891"/>
+    <title>Toiletzak 1891</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Toiletzak1891.jpg?v=1665091379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De 1891 toiletzak is ideaal om al je wasgerief bij te houden zodat je je na het sporten meteen kan douchen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Toiletzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750299353</id>
+      <title>OS</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-035.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868733128921</id>
+    <published>2023-08-03T17:44:16+02:00</published>
+    <updated>2023-08-03T17:44:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/fietspakket"/>
+    <title>Fietspakket</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018592475_01.jpg?v=1671648884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Momenteel geen info over dus moeilijk om hier iets bij te bedenken</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868733128921</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-066.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8441375621466</id>
+    <published>2023-07-13T16:13:06+02:00</published>
+    <updated>2023-07-13T16:13:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/zwemzak-fcb-striped"/>
+    <title>Zwemzak FCB Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/backpack.jpg?v=1686392387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nog op zoek naar een gymzakje of een zwemzakje om te gaan sporten met het school?<br></p>
+<p>Met deze zwemzak hou je je sportgerief gescheiden van je schoolgerief. De blauwe reflecterende strips zorgen bovendien voor een veilige trip richting school. Het logo maakt als eye catcher meteen duidelijk dat jij onderdeel bent van de FCB-familie.</p>
+<p><strong>Eigenschappen:</strong></p>
+<ul>
+<li>Materiaal: Polyester met nylon afwerking</li>
+<li>afmetingen: 34x43 cm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8441375621466</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-025.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868750495961</id>
+    <published>2023-07-12T12:27:50+02:00</published>
+    <updated>2023-07-12T12:27:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/toiletzak-fcb-striped"/>
+    <title>Toiletzak FCB Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Toiletzakfcb.jpg?v=1665091470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In deze Blauw-Zwart gestreepte toiletzak berg je makkelijk al jouw toiletgerief op</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Toiletzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750495961</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-002.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868740206809</id>
+    <published>2023-06-10T14:37:56+02:00</published>
+    <updated>2023-06-10T14:37:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/notitieboekje-a5"/>
+    <title>Notitieboekje A5</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/notaboekje-a5-1.jpg?v=1662064225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Schrijf al je favoriete momenten van Club in dit notitieboekje.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868740206809</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB21-027.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8365796131162</id>
+    <published>2023-04-23T20:33:09+02:00</published>
+    <updated>2023-04-23T20:33:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/badeendje-met-vissershoed"/>
+    <title>Badeendje met vissershoed</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/badeend.jpg?v=1683839790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Met dit badeendje ga je met plezier in bad! Het stoere blauwzwarte design en het vissershoedje toveren een glimlach op het gezicht van iedere Clubfan.</p>
+<p data-mce-fragment="1">Veilig en duurzaam materiaal zorgt ervoor dat het bestand is tegen veel waterspel.</p>
+<p data-mce-fragment="1">Ben jij klaar voor de zomer?</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_Vrijetijd_Speelgoed</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8365796131162</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB22-154.OS</s:sku>
+      <s:grams>150000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8142023000281</id>
+    <published>2023-04-18T13:51:46+02:00</published>
+    <updated>2023-04-18T13:51:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/herbruikbare-rietjes"/>
+    <title>Herbruikbare rietjes</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/4255625103070.jpg?v=1681818690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Herbruikbare rietjes zijn een milieuvriendelijke herbruikbare rietjes-oplossing. </p>
+<p>Gemaakt van food-grade roestvrij staal, zijn ze een duurzaam alternatief voor de plastieken rietjes. De rietjes zijn vaatwasbestendig en gemakkelijk schoon te maken en te onderhouden. Veilig voor warme of koude dranken. <br>Ze zijn een geweldige manier om je plastieken afvalberg te verminderen en te genieten van je favoriete drankje. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>dup-review-publication</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8142023000281</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.00</s:price>
+      <s:sku>FCB22-020.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868739289305</id>
+    <published>2023-04-07T15:23:56+02:00</published>
+    <updated>2023-04-07T15:23:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/lederen-portefeuille"/>
+    <title>Lederen portefeuille</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/fcb19-320-1.jpg?v=1662064176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bewaar jij jouw abonnement in deze zwarte lederen portefeuille?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Portefeuille</s:tag>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868739289305</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-320.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019728367833</id>
+    <published>2022-11-25T20:37:13+01:00</published>
+    <updated>2022-11-25T20:37:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/kaarthouder"/>
+    <title>Kaarthouder</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Kaarthouder_befa7cc4-64ca-4786-99e4-849a7d964cb1.jpg?v=1670425714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bewaar jij jouw abonnement in deze zwarte lederen kaarthouder?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Portefeuille</s:tag>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>supporteren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019728367833</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>FCB22-021.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019716571353</id>
+    <published>2022-11-25T20:29:36+01:00</published>
+    <updated>2022-11-25T20:29:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/zwemzak"/>
+    <title>Sportzak</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/ZwemzakC.jpg?v=1670452744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Met deze kwalitatieve sportzak heb je je sportgerief meteen bij de hand voor de gym of het zwembad. Afgewerkt met een waterdichte bodem in voetbalpatroon, is deze zak met monotoon logo een echt hebbeding voor wie zijn Club op een subtiele manier wil steunen.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019716571353</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-017.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019269681369</id>
+    <published>2022-11-25T14:12:30+01:00</published>
+    <updated>2022-11-25T14:12:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/samsung-cover"/>
+    <title>Samsung cover</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/SamsungGalaxyS21.png?v=1669381935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">De Club Brugge App raadplegen op je smartphone? Dan wil je toch ook de juiste cover hebben!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Multimedia</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy S21</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-050.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy S22</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-172.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy A52</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-049.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy A53</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-170.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy A71</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-048.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019247136985</id>
+    <published>2022-11-25T14:03:28+01:00</published>
+    <updated>2022-11-25T14:03:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/iphone-cover"/>
+    <title>iPhone cover</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Iphone12PRO.png?v=1669380710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">De Club Brugge App raadplegen op je smartphone? Dan wil je toch ook de juiste cover hebben!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Multimedia</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 7/7/SE2020</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-041.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 11</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-043.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 12/12Pro</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-044.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 12 Pro Max</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-046.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 13</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-569.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 13 Pro</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-570.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 14</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-171.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004974117081</id>
+    <published>2022-11-16T14:50:10+01:00</published>
+    <updated>2022-11-16T14:50:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/mok"/>
+    <title>Mok Logo Wit</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Web_Mok_Wit.jpg?v=1670923475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Een witte mok mehet Club Brugge logo als enige design. Wil je die zwart? Neen, doe mij maar Blauw-Zwart!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004974117081</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB22-036.OS</s:sku>
+      <s:grams>150000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868758294745</id>
+    <published>2022-09-01T22:40:19+02:00</published>
+    <updated>2022-09-01T22:40:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/usb-stick"/>
+    <title>USB stick (8GB)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/dsc-9254-copy.jpg?v=1662064820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wil jij jouw bezoek aan het mytische Jan Breydel voor altijd opslaan? Op deze USB stick (8GB) bewaar je al jouw foto's en video's.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Multimedia</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868758294745</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB18-075.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868748169433</id>
+    <published>2022-09-01T22:35:22+02:00</published>
+    <updated>2022-09-01T22:35:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/strijkpatch-3-stuks"/>
+    <title>Strijkpatch broek (3 stuks)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/strijkpatch_11ad55bd-4dda-4ef2-8836-54a08b470627.jpg?v=1665091337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 strijklappen voor op je kleren</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_School</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748169433</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB21-028.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743745753</id>
+    <published>2022-09-01T22:33:29+02:00</published>
+    <updated>2022-09-01T22:33:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/schrijfset"/>
+    <title>Schrijfset</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/8719325353006.jpg?v=1678353935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Club fans geven niet enkel op de tribune het beste van zichzelf, maar ook op school! Deze schrijfset helpt je om die 10 op 10 te halen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743745753</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>FCB21-003.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743680217</id>
+    <published>2022-09-01T22:33:25+02:00</published>
+    <updated>2022-09-01T22:33:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/schooletiketten-2-x-8-st"/>
+    <title>Schooletiketten (2 x 8 st.)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/etiket-sfeer_714c74cd-b3c3-431a-9314-055c87f1ef0c.jpg?v=1662064409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze schooletiketten ben je helemaal voorbereid voor het nieuwe schooljaar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743680217</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.00</s:price>
+      <s:sku>FCB21-053.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743450841</id>
+    <published>2022-09-01T22:33:13+02:00</published>
+    <updated>2022-09-01T22:33:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/rugzak-fcb-striped"/>
+    <title>Rugzak FCB Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/rugzak-sfeer.jpg?v=1662064397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De punten op zak steken na een nieuwe overwinning van Blauw-Zwart? Dat doe je binnekort in deze rugzak! </p>
+ <p>Een schoolrugzak kan al snel slordig worden. Deze Club Brugge boekentas, voorzien van alle compartimenten, biedt de opslossing! De blauwe reflecterende strips zorgen bovendien voor een veilige trip richting school. Het logo maakt als eye catcher meteen duidelijk dat jij onderdeel bent van de FCB-familie.</p>
+ <p><strong>Eigenschappen:</strong></p>
+ 
+ <ul>
+ 
+ <li>Afmetingen: 26 x 19 x 42 cm</li>
+ 
+ <li>Bevat een voorzakje, ruim boekencompartiment, laptopvak en binnenzak.</li>
+ 
+ <li>Ook handige zijzakjes voor je drinkfles</li>
+ 
+ <li>Materiaal: Polyester met nylon afwerking</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743450841</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB22-001.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743385305</id>
+    <published>2022-09-01T22:33:07+02:00</published>
+    <updated>2022-09-01T22:33:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/rugzak-clubkids-3d"/>
+    <title>Rugzak Clubkids 3D</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/bibi-rugzak-sfeer.jpg?v=1662064393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze leuke rugzak voor de kleinste Club fans staat volledig in het teken van Bibi de Beer, onze trouwe mascotte. De rugzak heeft een 3D print van Bibi op de voorkant en springt er letterlijk en figuurlijk uit.</p>
+ 
+ <p>Deze boekentas heeft een ritssluiting en aanpasbare schoudergordels. Ideaal voor een brooddoos, drinkfles en de koeken of fruit voor de speelpauze. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bags_Rugzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743385305</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB20-335.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743254233</id>
+    <published>2022-09-01T22:33:00+02:00</published>
+    <updated>2022-09-01T22:33:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/ringmap-21"/>
+    <title>Ringmap</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/kaft.jpg?v=1662064382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laat je leerkrachten op school weten voor welke club je supportert door al je lesmateriaal in deze Club Brugge ringmap te steken.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743254233</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>FCB21-058.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868743221465</id>
+    <published>2022-09-01T22:32:58+02:00</published>
+    <updated>2022-09-01T22:32:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/ringmap-18"/>
+    <title>Ringmap</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/dsc-9920.jpg?v=1662064380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868743221465</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB18-076.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868741550297</id>
+    <published>2022-09-01T22:31:46+02:00</published>
+    <updated>2022-09-01T22:31:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pennenzak-fcb-striped"/>
+    <title>Pennenzak FCB Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/pennenzak-sfeer.jpg?v=1662064307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze Club Brugge pennenzak maakt meteen duidelijk wie de echte voetbalkenners zijn in de klas. De Blauw-Zwart gestreepte pennenzak is:</p>
+ <p>- Groot genoeg om zowel je schrijfgerei als kleine rekenmachine in op te bergen.<br>- Gemaakt van stevig, krasvrij materiaal en heeft een sterke ritssluiting</p>
+ 
+ <p><strong>Eigenschappen:</strong></p>
+ 
+ <ul>
+ 
+ <li>Afmetingen: 21 x 9 x 8 cm</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bags_Pennenzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868741550297</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-003.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868741320921</id>
+    <published>2022-09-01T22:31:31+02:00</published>
+    <updated>2022-09-01T22:31:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/paraplu"/>
+    <title>Paraplu</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/paraplu.jpg?v=1662064295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze paraplu beschermt je op regenachtige avonden in Fort Jan Breydel!</p><p>MiniMAX® platte opvouwbare paraplu.</p>
+ 
+ <ul>
+ 
+ <li>windproof</li>
+ 
+ <li>6 banen</li>
+ 
+ <li>3-delig</li>
+ 
+ <li>metalen stok</li>
+ 
+ <li>zwart frame</li>
+ 
+ <li>zwart handvat</li>
+ 
+ <li>met foedraal.</li>
+ 
+ <li>Handvatrecht</li>
+ 
+ <li>Mechanismehandopening</li>
+ 
+ <li>Windproof</li>
+ 
+ <li>Materiaal: doekpolyester pongee</li>
+ 
+ </ul>
+ 
+ <p><strong>Afmetingen</strong><br>Lengte: 22cm<br>Diameter 90cm<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868741320921</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-010.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868737749209</id>
+    <published>2022-09-01T22:29:13+02:00</published>
+    <updated>2022-09-01T22:29:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/koffiebeker"/>
+    <title>Koffiebeker</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/drinkbeker.jpg?v=1662064156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze beker blijft je koffie heerlijk warm en toon je meteen aan je collega's wie de beste ploeg van het land is.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868737749209</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB22-007.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

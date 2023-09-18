@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/macron-oude-collectie-s20-21.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-28T15:52:59+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868730507481</id>
+    <published>2023-08-28T15:52:59+02:00</published>
+    <updated>2023-08-28T15:52:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/away-shirt-kids-20-21"/>
+    <title>Away shirt kids 20/21</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/away-kids.jpg?v=1662063749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Er werd opnieuw gekozen voor ons klassieke witte shirt. Mooi in zijn eenvoud, hierdoor gaan de prestaties van onze spelers nog meer tot hun recht komen.</p>
+ 
+ <h5><strong>Belangrijk!</strong></h5>
+ 
+ <p>Bedrukte shirts kunnen niet geruild of terugbetaald worden, tenzij de bedrukking defect is. Dit geldt ook als een speler Club verlaat of van rugnummer/naam verandert gedurende zijn periode bij Club.</p>
+ 
+ <p><strong>Kenmerken:</strong></p>
+ 
+ <ul>
+ 
+ <li>Onze leuze 'No Sweat/No Glory" prijkt op de nek</li>
+ 
+ <li>Macron is Italiaanse topkwaliteit</li>
+ 
+ <li>100% polyester</li>
+ 
+ <li>Comfortabele en ademende stof: M Performance System</li>
+ 
+ <li>Beschikbaar in maat 128 tot 164</li>
+ 
+ <li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__size:macronkids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>blackfriday</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:tag>CB_Wedstrijd_Away</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730507481</id>
+      <title>128</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB20-421.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868737192153</id>
+    <published>2023-06-10T14:36:56+02:00</published>
+    <updated>2023-06-10T14:36:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/keeper-short-geel-volw-20-21"/>
+    <title>Keeper short geel volw. 20/21</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/dsc00317-1.jpg?v=1662064122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stop jij alle schoten op doel met deze gele keeper short?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Geel</s:tag>
+    <s:tag>blackfriday</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:tag>CB_Wedstrijd_Keeper</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868737192153</id>
+      <title>XXL</title>
+      <s:price currency="EUR">19.00</s:price>
+      <s:sku>FCB20-436.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868736733401</id>
+    <published>2023-06-10T14:36:48+02:00</published>
+    <updated>2023-06-10T14:36:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/keeper-shirt-blauw-volw-20-21"/>
+    <title>Keeper shirt blauw volw. 20/21</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/keeper-blauw-web.jpg?v=1662064094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            42.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><strong>Belangrijk!</strong></h5>
+ 
+ <p>Bedrukte shirts kunnen niet geruild of terugbetaald worden, tenzij de bedrukking defect is. Dit geldt ook als een speler Club verlaat of van rugnummer/naam verandert gedurende zijn periode bij Club.</p>
+ 
+ <p><strong>Kenmerken:</strong></p>
+ 
+ <ul>
+ 
+ <li>Onze leuze 'No Sweat/No Glory" prijkt op de nek</li>
+ 
+ <li>Macron is Italiaanse topkwaliteit</li>
+ 
+ <li>100% polyester</li>
+ 
+ <li>Comfortabele en ademende stof: M Performance System</li>
+ 
+ <li>Beschikbaar in maat S tot 5XL</li>
+ 
+ <li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:skyblue</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>__status:promo</s:tag>
+    <s:tag>blackfriday</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:tag>CB_Wedstrijd_Keeper</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736733401</id>
+      <title>S</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-430.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736733401</id>
+      <title>M</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-430.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736733401</id>
+      <title>3XL</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-430.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868750069977</id>
+    <published>2022-09-01T22:37:06+02:00</published>
+    <updated>2022-09-01T22:37:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/third-shirt-kids-20-21"/>
+    <title>Third shirt kids 20/21</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/third-shirt-kids.jpg?v=1662064630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In dit oranje shirt speelde Blauw-Zwart enkele legendarische wedstrijden, jij binnenkort ook?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:oranje</s:tag>
+    <s:tag>__size:macronkids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>blackfriday</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:tag>CB_Wedstrijd_Third</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750069977</id>
+      <title>128</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB20-426.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750069977</id>
+      <title>140</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB20-426.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750069977</id>
+      <title>152</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB20-426.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750069977</id>
+      <title>164</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB20-426.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749840601</id>
+    <published>2022-09-01T22:37:00+02:00</published>
+    <updated>2022-09-01T22:37:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/third-shirt-heren-20-21"/>
+    <title>Third shirt heren 20/21</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/third-web.jpg?v=1662064625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            42.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In dit oranje shirt speelde Blauw-Zwart enkele legendarische wedstrijden, jij binnenkort ook?</p> <h5><strong>Belangrijk!</strong></h5>
+ 
+ <p>Bedrukte shirts kunnen niet geruild of terugbetaald worden, tenzij de bedrukking defect is. Dit geldt ook als een speler Club verlaat of van rugnummer/naam verandert gedurende zijn periode bij Club.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:oranje</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>blackfriday</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:tag>CB_Wedstrijd_Third</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749840601</id>
+      <title>S</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-425.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749840601</id>
+      <title>XXL</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-425.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749840601</id>
+      <title>3XL</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-425.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749840601</id>
+      <title>4XL</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-425.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749840601</id>
+      <title>5XL</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-425.5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868730441945</id>
+    <published>2022-09-01T22:22:20+02:00</published>
+    <updated>2022-09-01T22:22:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/away-shirt-heren-20-21"/>
+    <title>Away shirt heren 20/21</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/away-web.jpg?v=1662063745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            42.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Er werd opnieuw gekozen voor ons klassieke witte shirt. Mooi in zijn eenvoud, hierdoor gaan de prestaties van onze spelers nog meer tot hun recht komen.</p>
+ 
+ <h5><strong>Belangrijk!</strong></h5>
+ 
+ <p>Bedrukte shirts kunnen niet geruild of terugbetaald worden, tenzij de bedrukking defect is. Dit geldt ook als een speler Club verlaat of van rugnummer/naam verandert gedurende zijn periode bij Club.</p>
+ 
+ <p><strong>Kenmerken:</strong></p>
+ 
+ <ul>
+ 
+ <li>Onze leuze 'No Sweat/No Glory" prijkt op de nek</li>
+ 
+ <li>Macron is Italiaanse topkwaliteit</li>
+ 
+ <li>100% polyester</li>
+ 
+ <li>Comfortabele en ademende stof: M Performance System</li>
+ 
+ <li>Beschikbaar in maat S tot 5XL</li>
+ 
+ <li>Wassen op 30°C - mag niet in de droogmachine - niet stomen - strijken op lage temperatuur</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>__status:promo</s:tag>
+    <s:tag>blackfriday</s:tag>
+    <s:tag>CB_Productstatus_EOL</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:tag>CB_Wedstrijd_Away</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730441945</id>
+      <title>S</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-420.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730441945</id>
+      <title>XXL</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-420.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730441945</id>
+      <title>3XL</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-420.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730441945</id>
+      <title>4XL</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-420.4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730441945</id>
+      <title>5XL</title>
+      <s:price currency="EUR">42.50</s:price>
+      <s:sku>FCB20-420.5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

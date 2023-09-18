@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/macron-oude-collectie-19-20.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-09-01T11:16:03+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749054169</id>
+    <published>2023-09-01T11:16:03+02:00</published>
+    <updated>2023-09-01T11:16:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-zip-keeper-volw"/>
+    <title>Sweater zip keeper volw. 19/20</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/51101637490-8b2e67aaea-c_e9ed8ec3-793f-4a4d-9c20-b54617e04382.jpg?v=1662064576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze sweater zweef je alle ballen uit doel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:bordeaux</s:tag>
+    <s:tag>__size:macron</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749054169</id>
+      <title>S</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-448.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749054169</id>
+      <title>XXL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-448.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749054169</id>
+      <title>3XL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB19-448.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868748824793</id>
+    <published>2023-09-01T11:16:03+02:00</published>
+    <updated>2023-09-01T11:16:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-zip-grijs-kids"/>
+    <title>Sweater zip grijs kids 19/20</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sweater-zip-grijs-macron-18-19-copy.jpg?v=1662064566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__size:macronkids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748824793</id>
+      <title>128</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB18-449.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868748988633</id>
+    <published>2022-09-01T22:36:08+02:00</published>
+    <updated>2022-09-01T22:36:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-zip-keeper-kids"/>
+    <title>Sweater zip keeper kids 19/20</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/51101637490-8b2e67aaea-c.jpg?v=1662064571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Staff sweater zip. Kindermaten. 90% polyester, 10% elastan</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:bordeaux</s:tag>
+    <s:tag>__size:macronkids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748988633</id>
+      <title>128</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB19-449.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748988633</id>
+      <title>140</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB19-449.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868742500569</id>
+    <published>2022-09-01T22:32:24+02:00</published>
+    <updated>2022-09-01T22:32:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/polo-macron-kids"/>
+    <title>Polo Macron kids 19/20</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/fcb19-465-kid.jpg?v=1662064345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bordeaux polo. Kindermaten. 50% katoen, 50% polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:rood</s:tag>
+    <s:tag>__size:macronkids</s:tag>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>_clothing:training</s:tag>
+    <s:tag>CB_Kleding_Polo</s:tag>
+    <s:tag>CB_supplier_Macron</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868742500569</id>
+      <title>128</title>
+      <s:price currency="EUR">22.50</s:price>
+      <s:sku>FCB19-466.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868742500569</id>
+      <title>140</title>
+      <s:price currency="EUR">22.50</s:price>
+      <s:sku>FCB19-466.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868742500569</id>
+      <title>152</title>
+      <s:price currency="EUR">22.50</s:price>
+      <s:sku>FCB19-466.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868742500569</id>
+      <title>164</title>
+      <s:price currency="EUR">22.50</s:price>
+      <s:sku>FCB19-466.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

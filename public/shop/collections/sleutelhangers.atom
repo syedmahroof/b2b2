@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/sleutelhangers.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-03-27T17:09:11+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019795345625</id>
+    <published>2023-03-27T17:09:11+02:00</published>
+    <updated>2023-03-27T17:09:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/magneetset"/>
+    <title>Magneetset</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/4255625103100_02.jpg?v=1681818774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fleur jouw koelkast op met deze Club Brugge magneten.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sieraden</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sleutelhangers</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019795345625</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB22-013.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019799015641</id>
+    <published>2023-03-27T17:08:20+02:00</published>
+    <updated>2023-03-27T17:08:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/magneet-logo"/>
+    <title>Magneet logo PVC</title>
+    <s:type>Refrigerator Magnets</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/4255625103117.jpg?v=1681818810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>Refrigerator Magnets<br>
+        <strong>Prijs: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fleur jouw koelkast op met deze Club Brugge magneet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sieraden</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Sleutelhangers</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019799015641</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.00</s:price>
+      <s:sku>FCB22-032.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

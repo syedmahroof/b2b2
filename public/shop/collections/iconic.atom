@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/iconic.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-05-09T22:06:21+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110738243801</id>
+    <published>2023-05-09T22:06:21+02:00</published>
+    <updated>2023-05-09T22:06:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-artwork"/>
+    <title>Amokachi Artwork Limited Edition</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/ArtworkAmokachi_2.jpg?v=1683663281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dit limited edition kunstwerk is een eerbetoon aan de iconische Daniël Amokachi. The Bull van Club Brugge scoorde het eerste doelpunt ooit in de moderne Champions League tegen CSKA Moskou op 25 november 1992. Hiermee schreef hij voetbalgeschiedenis.<br></p>
+<p>Dit kader van 40 op 40 cm gemaakt uit aluminium is door de hand van de Nederlandse kunstenaar Barry Pirovano, die van het stylistisch weergeven van unieke voetbalmomenten zijn handelsmerk heeft gemaakt.</p>
+<p>Van dit werk zijn slechts 30 stuks gemaakt, waarvan jij er eentje kan bemachtigen mét certificaat. Een uniek pronkstuk voor elke Club fan. <span data-mce-fragment="1">Het eert een legendarische speler en een onvergetelijke prestatie die altijd in het Club geheugen zal blijven bestaan.</span></p>
+<p><strong>Over Barry Pirovano</strong></p>
+<p>De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:BlauwZwart</s:tag>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110738243801</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>FCB23-105.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110735818969</id>
+    <published>2023-02-08T10:52:28+01:00</published>
+    <updated>2023-02-08T10:52:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-sweater-navy"/>
+    <title>Amokachi Sweater Navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/7423326579570_01.jpg?v=1678353812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Eén van Club Brugge's grootste voetbalhelden uit ons roemrijke verleden is natuurlijk 'The Bull': Daniël Amokachi. Hij is de eerste speler die opgenomen wordt in de Club Iconic reeks, een eerbetoon aan al onze legends. Geïllustreerd door de Nederlandse designer Barry Pirovano.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Deze sweater uit donkerblauw bio katoen is van de beste kwaliteit en zeer wasbestendig. De print op de borst toont het moment waarop Amokachi het eerste doelpunt uit de geschiedenis van de moderne Champions League maakt. Zijn iconische glimlach siert de mouw van de sweater.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Deze sweater heeft een unisex fit en is geschikt voor iedereen. Controleer zeker de maattabel voor jouw perfecte maat.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Over Barry Pirovano</strong></p>
+<p data-mce-fragment="1">﻿De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>__size:sweater_iconic</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110735818969</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-104.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110733525209</id>
+    <published>2023-02-08T10:52:27+01:00</published>
+    <updated>2023-02-08T10:52:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-hoodie-champion-black"/>
+    <title>Amokachi Hoodie Champion Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/7423326575510_01.jpg?v=1678739260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Draag één van Club Brugge's grootste cult helden met deze hoodie! Niemand minder dan Daniël Amokachi, the Bull, siert dit prachtige stuk als een echt icoon van de Club. Geïllustreerd door de Nederlandse designer Barry Pirovano.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Deze katoenen trui zit erg comfortabel dankzij het zachte bio katoen. De legendarische spits met eeuwige glimlach siert de borst én rug. Hij is vereeuwigd in het moment net voor hij het eerste doelpunt ooit in de moderne Champions League scoort, en dan nog voor Club Brugge. Echte voetbalgeschiedenis.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dit t-shirt heeft een unisex fit en is geschikt voor iedereen. Controleer zeker de maattabel voor jouw perfecte maat. </span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Over Barry Pirovano</strong></p>
+<p data-mce-fragment="1">﻿De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:hoodie_iconic</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>S</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>M</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>L</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>XL</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>XXL</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110733525209</id>
+      <title>3XL</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB23-103.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110732083417</id>
+    <published>2023-02-08T10:52:27+01:00</published>
+    <updated>2023-02-08T10:52:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-t-shirt-champion-black"/>
+    <title>Amokachi T-shirt Champion Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/7423326575565_01.jpg?v=1678353911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Draag één van Club Brugge's grootste cult helden als t-shirt! Niemand minder dan Daniël Amokachi, the Bull, siert dit prachtige t-shirt als echt icoon van de Club. Geïllustreerd door de Nederlandse designer Barry Pirovano.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dit katoenen t-shirt zit erg comfortabel dankzij het zachte bio katoen. De legendarische spits met eeuwige glimlach siert het t-shirt, net voor hij het eerste doelpunt ooit in de moderne Champions League scoort, en dan nog voor Club Brugge. Echte voetbalgeschiedenis.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dit t-shirt heeft een unisex fit en is geschikt voor iedereen. Controleer zeker de maattabel voor jouw perfecte maat.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Over Barry Pirovano</strong></p>
+<p data-mce-fragment="1">﻿De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:tshirt_iconic</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>S</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>M</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>L</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>XL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>XXL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110732083417</id>
+      <title>3XL</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB23-102.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110730838233</id>
+    <published>2023-02-08T10:52:26+01:00</published>
+    <updated>2023-02-08T10:52:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-hoodie-offwhite"/>
+    <title>Amokachi Hoodie Off-White</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/7423326579501_01.jpg?v=1678353842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Draag één van Club Brugge's grootste cult helden als hoodie! Niemand minder dan Daniël Amokachi, the Bull, siert deze prachtige sweater als echt icoon van de Club. Geïllustreerd door de Nederlandse designer Barry Pirovano.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Deze katoenen trui in warm witte kleur zit erg comfortabel dankzij het zachte bio katoen. De legendarische spits met eeuwige glimlach siert de borst van de hoodie. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Dit hoodie heeft een unisex fit en is geschikt voor iedereen. Controleer zeker de maattabel voor jouw perfecte maat.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Over Barry Pirovano</strong></p>
+<p data-mce-fragment="1">﻿De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:offwhite</s:tag>
+    <s:tag>__size:hoodie_iconic</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110730838233</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-101.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110730838233</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-101.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110730838233</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-101.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110730838233</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-101.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110730838233</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-101.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110730838233</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB23-101.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8110729429209</id>
+    <published>2023-02-08T10:52:25+01:00</published>
+    <updated>2023-02-08T10:52:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/amokachi-t-shirt-offwhite"/>
+    <title>Amokachi T-shirt Off-White</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/7423326578535_01.jpg?v=1678353874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Draag één van Club Brugge's grootste cult helden als t-shirt! Niemand minder dan Daniël Amokachi, the Bull, siert dit prachtige t-shirt als echt icoon van de Club.</span></p>
+<p><span data-mce-fragment="1">Dit katoenen t-shirt in warm witte kleur zit erg comfortabel dankzij het zachte bio katoen. De legendarische spits met eeuwige glimlach siert de borst van het t-shirt. V</span>oeg dit uniek item toe aan je Club Brugge-verzameling.</p>
+<p><span data-mce-fragment="1">Dit t-shirt heeft een unisex fit en is geschikt voor iedereen. Controleer zeker de maattabel voor jouw perfecte maat.</span></p>
+<p><strong>Over Barry Pirovano</strong></p>
+<p>﻿De Nederlandse kunstenaar is erg bekend bij onze Noorderburen en creërde unieke kunstwerken voor topspelers als Frenkie De Jong, Johan Cruyf en is kind aan huis bij Ajax Amsterdam. Een van zijn recentste werken is een 25 meter lang kunstwerk in Schiphol.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:offwhite</s:tag>
+    <s:tag>__size:tshirt_iconic</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_Pirovano</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110729429209</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-100.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110729429209</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-100.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110729429209</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-100.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110729429209</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-100.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110729429209</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-100.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8110729429209</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB23-100.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -6,9 +6,18 @@ use App\Http\Controllers\Controller;
 use App\Models\Buyer;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use App\Services\CategoryService;
+
 
 class BuyerAuthController extends Controller
 {
+    protected $categoryService;
+
+    public function __construct(CategoryService $categoryService)
+    {
+        $this->categoryService = $categoryService;
+    }
+
     // Show login form
     public function showLoginForm()
     {
@@ -28,15 +37,16 @@ class BuyerAuthController extends Controller
             'email' => 'required|email',
             'password' => 'required',
         ]);
-
+    
         if (Auth::guard('buyer')->attempt($credentials)) {
             // Authentication passed
-            return response()->json(['success' => true]);
+            return redirect()->route('buyer.home'); // Replace 'dashboard' with the name of your desired route
         } else {
             // Authentication failed
-            return response()->json(['success' => false]);
+            return redirect()->back()->withInput()->withErrors(['email' => 'Invalid email or password']);
         }
     }
+    
 
     // Show login form
     public function showRegisterForm()

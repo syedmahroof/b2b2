@@ -86,14 +86,14 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="card-body d-flex flex-column">
                             <!--begin::Chart-->
                             <div class="mixed-widget-5-chart card-rounded-top" data-kt-chart-color="success"
                                 style="height: 150px"></div>
                             <!--begin::Items-->
                             <div class="mt-5">
-                                
+
                                 <div class="d-flex flex-stack mb-5">
                                     <div class="d-flex align-items-center me-2">
                                         <div class="symbol symbol-50px me-3">
@@ -111,7 +111,7 @@
                                     </div>
                                     <div class="badge badge-light fw-bold py-4 px-3">+82$</div>
                                 </div>
-                                
+
                                 <div class="d-flex flex-stack mb-5">
                                     <div class="d-flex align-items-center me-2">
                                         <div class="symbol symbol-50px me-3">
@@ -128,7 +128,7 @@
                                     </div>
                                     <div class="badge badge-light fw-bold py-4 px-3">+82$</div>
                                 </div>
-                                
+
                                 <div class="d-flex flex-stack">
                                     <div class="d-flex align-items-center me-2">
                                         <div class="symbol symbol-50px me-3">
@@ -272,7 +272,7 @@
                                                     fill="black" />
                                             </svg>
                                         </span>
-                                       </a>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -362,7 +362,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="card-body p-0">
                             <!--begin::Chart-->
                             <div class="mixed-widget-2-chart card-rounded-bottom bg-danger" data-kt-color="danger"
@@ -479,7 +479,7 @@
                                     <div class="px-7 py-5">
                                         <div class="fs-5 text-dark fw-bolder">Filter Options</div>
                                     </div>
-                                    
+
                                     <div class="separator border-gray-200"></div>
                                     <!--begin::Form-->
                                     <div class="px-7 py-5">
@@ -551,11 +551,11 @@
                                 <!--end::Menu 1-->
                             </div>
                         </div>
-                        
+
                         <div class="card-body pt-5">
                             <!--begin::Timeline-->
                             <div class="timeline-label">
-                                
+
                                 <div class="timeline-item">
                                     <div class="timeline-label fw-bolder text-gray-800 fs-6">08:42</div>
                                     <!--begin::Badge-->
@@ -563,12 +563,12 @@
                                         <i class="fa fa-genderless text-warning fs-1"></i>
                                     </div>
                                     <!--end::Badge-->
-                                    
+
                                     <div class="fw-mormal timeline-content text-muted ps-3">Outlines keep you
                                         honest. And keep structure</div>
-                                   
+
                                 </div>
-                                
+
                                 <div class="timeline-item">
                                     <div class="timeline-label fw-bolder text-gray-800 fs-6">10:00</div>
                                     <!--begin::Badge-->
@@ -582,7 +582,7 @@
                                     </div>
                                     <!--end::Content-->
                                 </div>
-                                
+
                                 <div class="timeline-item">
                                     <div class="timeline-label fw-bolder text-gray-800 fs-6">14:37</div>
                                     <!--begin::Badge-->
@@ -596,7 +596,7 @@
                                     </div>
                                     <!--end::Desc-->
                                 </div>
-                                
+
                                 <div class="timeline-item">
                                     <div class="timeline-label fw-bolder text-gray-800 fs-6">16:50</div>
                                     <!--begin::Badge-->
@@ -604,12 +604,12 @@
                                         <i class="fa fa-genderless text-primary fs-1"></i>
                                     </div>
                                     <!--end::Badge-->
-                                    
+
                                     <div class="timeline-content fw-mormal text-muted ps-3">Indulging in
                                         poorly driving and keep structure keep great</div>
-                                   
+
                                 </div>
-                                
+
                                 <div class="timeline-item">
                                     <div class="timeline-label fw-bolder text-gray-800 fs-6">21:03</div>
                                     <!--begin::Badge-->
@@ -623,7 +623,7 @@
                                     </div>
                                     <!--end::Desc-->
                                 </div>
-                                
+
                                 <div class="timeline-item">
                                     <div class="timeline-label fw-bolder text-gray-800 fs-6">16:50</div>
                                     <!--begin::Badge-->
@@ -631,12 +631,12 @@
                                         <i class="fa fa-genderless text-primary fs-1"></i>
                                     </div>
                                     <!--end::Badge-->
-                                    
+
                                     <div class="timeline-content fw-mormal text-muted ps-3">Indulging in
                                         poorly driving and keep structure keep great</div>
-                                   
+
                                 </div>
-                                
+
                                 <div class="timeline-item">
                                     <div class="timeline-label fw-bolder text-gray-800 fs-6">21:03</div>
                                     <!--begin::Badge-->
@@ -650,7 +650,7 @@
                                     </div>
                                     <!--end::Desc-->
                                 </div>
-                                
+
                                 <div class="timeline-item">
                                     <div class="timeline-label fw-bolder text-gray-800 fs-6">10:30</div>
                                     <!--begin::Badge-->
@@ -658,10 +658,10 @@
                                         <i class="fa fa-genderless text-success fs-1"></i>
                                     </div>
                                     <!--end::Badge-->
-                                    
+
                                     <div class="timeline-content fw-mormal text-muted ps-3">Finance KPI Mobile
                                         app launch preparion meeting</div>
-                                   
+
                                 </div>
                             </div>
                             <!--end::Timeline-->
@@ -795,9 +795,9 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="card-body pt-2">
-                            
+
                             <div class="d-flex align-items-center mb-8">
                                 <!--begin::Bullet-->
                                 <span class="bullet bullet-vertical h-40px bg-success"></span>
@@ -817,7 +817,7 @@
                                 <span class="badge badge-light-success fs-8 fw-bolder">New</span>
                             </div>
                             <!--end:Item-->
-                            
+
                             <div class="d-flex align-items-center mb-8">
                                 <!--begin::Bullet-->
                                 <span class="bullet bullet-vertical h-40px bg-primary"></span>
@@ -837,7 +837,7 @@
                                 <span class="badge badge-light-primary fs-8 fw-bolder">New</span>
                             </div>
                             <!--end:Item-->
-                            
+
                             <div class="d-flex align-items-center mb-8">
                                 <!--begin::Bullet-->
                                 <span class="bullet bullet-vertical h-40px bg-warning"></span>
@@ -858,7 +858,7 @@
                                 <span class="badge badge-light-warning fs-8 fw-bolder">New</span>
                             </div>
                             <!--end:Item-->
-                            
+
                             <div class="d-flex align-items-center mb-8">
                                 <!--begin::Bullet-->
                                 <span class="bullet bullet-vertical h-40px bg-primary"></span>
@@ -878,7 +878,7 @@
                                 <span class="badge badge-light-primary fs-8 fw-bolder">New</span>
                             </div>
                             <!--end:Item-->
-                            
+
                             <div class="d-flex align-items-center mb-8">
                                 <!--begin::Bullet-->
                                 <span class="bullet bullet-vertical h-40px bg-danger"></span>
@@ -898,7 +898,7 @@
                                 <span class="badge badge-light-danger fs-8 fw-bolder">New</span>
                             </div>
                             <!--end:Item-->
-                            
+
                             <div class="d-flex align-items-center">
                                 <!--begin::Bullet-->
                                 <span class="bullet bullet-vertical h-40px bg-success"></span>
@@ -946,10 +946,10 @@
                                                 rx="1" fill="black" />
                                         </svg>
                                     </span>
-                                   New Member</a>
+                                    New Member</a>
                             </div>
                         </div>
-                        
+
                         <div class="card-body py-3">
                             <!--begin::Table container-->
                             <div class="table-responsive">
@@ -1514,81 +1514,81 @@
                                         </div>
                                     </div>
                                 </div>
-                               
+
                             </div>
                         </div>
-                        
+
                         <div class="card-body pt-2">
-                            
+
                             <div class="d-flex align-items-center mb-7">
-                               
+
                                 <div class="symbol symbol-50px me-5">
                                     <img src="assets/media/avatars/150-1.jpg" class="" alt="" />
                                 </div>
-                                
-                                
+
+
                                 <div class="flex-grow-1">
                                     <a href="#" class="text-dark fw-bolder text-hover-primary fs-6">Emma Smith</a>
                                     <span class="text-muted d-block fw-bold">Project Manager</span>
                                 </div>
-                               
+
                             </div>
-                            
+
                             <div class="d-flex align-items-center mb-7">
-                               
+
                                 <div class="symbol symbol-50px me-5">
                                     <img src="assets/media/avatars/150-4.jpg" class="" alt="" />
                                 </div>
-                                
-                                
+
+
                                 <div class="flex-grow-1">
                                     <a href="#" class="text-dark fw-bolder text-hover-primary fs-6">Sean Bean</a>
                                     <span class="text-muted d-block fw-bold">PHP, SQLite, Artisan CLI</span>
                                 </div>
-                               
+
                             </div>
-                            
+
                             <div class="d-flex align-items-center mb-7">
-                               
+
                                 <div class="symbol symbol-50px me-5">
                                     <img src="assets/media/avatars/150-12.jpg" class="" alt="" />
                                 </div>
-                                
-                                
+
+
                                 <div class="flex-grow-1">
                                     <a href="#" class="text-dark fw-bolder text-hover-primary fs-6">Brian Cox</a>
                                     <span class="text-muted d-block fw-bold">PHP, SQLite, Artisan CLI</span>
                                 </div>
-                               
+
                             </div>
-                            
+
                             <div class="d-flex align-items-center mb-7">
-                               
+
                                 <div class="symbol symbol-50px me-5">
                                     <img src="assets/media/avatars/150-8.jpg" class="" alt="" />
                                 </div>
-                                
-                                
+
+
                                 <div class="flex-grow-1">
                                     <a href="#" class="text-dark fw-bolder text-hover-primary fs-6">Francis
                                         Mitcham</a>
                                     <span class="text-muted d-block fw-bold">PHP, SQLite, Artisan CLI</span>
                                 </div>
-                               
+
                             </div>
-                            
+
                             <div class="d-flex align-items-center">
-                               
+
                                 <div class="symbol symbol-50px me-5">
                                     <img src="assets/media/avatars/150-6.jpg" class="" alt="" />
                                 </div>
-                                
-                                
+
+
                                 <div class="flex-grow-1">
                                     <a href="#" class="text-dark fw-bolder text-hover-primary fs-6">Dan Wilson</a>
                                     <span class="text-muted d-block fw-bold">PHP, SQLite, Artisan CLI</span>
                                 </div>
-                               
+
                             </div>
                         </div>
                     </div>
@@ -1676,9 +1676,9 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="card-body pt-0">
-                            
+
                             <div class="d-flex align-items-center bg-light-warning rounded p-5 mb-7">
                                 <!--begin::Icon-->
                                 <span class="svg-icon svg-icon-warning me-5">
@@ -1706,7 +1706,7 @@
                                 <span class="fw-bolder text-warning py-1">+28%</span>
                                 <!--end::Lable-->
                             </div>
-                            
+
                             <div class="d-flex align-items-center bg-light-success rounded p-5 mb-7">
                                 <!--begin::Icon-->
                                 <span class="svg-icon svg-icon-success me-5">
@@ -1733,7 +1733,7 @@
                                 <span class="fw-bolder text-success py-1">+50%</span>
                                 <!--end::Lable-->
                             </div>
-                            
+
                             <div class="d-flex align-items-center bg-light-danger rounded p-5 mb-7">
                                 <!--begin::Icon-->
                                 <span class="svg-icon svg-icon-danger me-5">
@@ -1760,7 +1760,7 @@
                                 <span class="fw-bolder text-danger py-1">-27%</span>
                                 <!--end::Lable-->
                             </div>
-                            
+
                             <div class="d-flex align-items-center bg-light-info rounded p-5">
                                 <!--begin::Icon-->
                                 <span class="svg-icon svg-icon-info me-5">
@@ -1877,9 +1877,9 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="card-body pt-5">
-                            
+
                             <div class="d-flex align-items-sm-center mb-7">
                                 <div class="symbol symbol-50px me-5">
                                     <span class="symbol-label">
@@ -1897,7 +1897,7 @@
                                     <span class="badge badge-light fw-bolder my-2">+82$</span>
                                 </div>
                             </div>
-                            
+
                             <div class="d-flex align-items-sm-center mb-7">
                                 <div class="symbol symbol-50px me-5">
                                     <span class="symbol-label">
@@ -1916,7 +1916,7 @@
                                     <span class="badge badge-light fw-bolder my-2">+280$</span>
                                 </div>
                             </div>
-                            
+
                             <div class="d-flex align-items-sm-center mb-7">
                                 <div class="symbol symbol-50px me-5">
                                     <span class="symbol-label">
@@ -1933,7 +1933,7 @@
                                     <span class="badge badge-light fw-bolder my-2">+4500$</span>
                                 </div>
                             </div>
-                            
+
                             <div class="d-flex align-items-sm-center mb-7">
                                 <div class="symbol symbol-50px me-5">
                                     <span class="symbol-label">
@@ -1951,7 +1951,7 @@
                                     <span class="badge badge-light fw-bolder my-2">+686$</span>
                                 </div>
                             </div>
-                            
+
                             <div class="d-flex align-items-sm-center mb-7">
                                 <div class="symbol symbol-50px me-5">
                                     <span class="symbol-label">

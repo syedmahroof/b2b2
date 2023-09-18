@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/zomer.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-16T17:46:38+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8498684887386</id>
+    <published>2023-08-16T17:46:38+02:00</published>
+    <updated>2023-08-16T17:46:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-summer-blue"/>
+    <title>Pet &apos;summer blue&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Pet_Light_Blue_01_1.jpg?v=1692024444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zomerse pet van Club Brugge met handige clip sluiting achteraan, is perfect voor je zomerse look compleet te maken.</p>
+<p>Je hebt de bijhorende zwemshort toch ook al in huis gehaald?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:roze</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8498684887386</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-070.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8484642881882</id>
+    <published>2023-08-14T17:46:35+02:00</published>
+    <updated>2023-08-14T17:46:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-summer-pink"/>
+    <title>Pet &apos;summer pink&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Pet_Pink_01_1.jpg?v=1689886290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zomerse pet van Club Brugge met handige clip sluiting achteraan, is perfect voor je zomerse look compleet te maken.</p>
+<p>Je hebt de bijhorende zwemshort toch ook al in huis gehaald?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:roze</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484642881882</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-071.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8487052149082</id>
+    <published>2023-07-27T12:21:15+02:00</published>
+    <updated>2023-07-27T12:21:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/copy-of-zwemshort-volw-reactive"/>
+    <title>Zwemshort volw. &apos;reactive&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Kids_Short_01_4e365218-aa7f-4444-a7ba-3cf9f288ff5c.jpg?v=1690273217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze zwemshort is waterpret gegarandeerd!</p>
+<p>Spring in het water en er komt een toffe FCB-print tevoorschijn.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8487052149082</id>
+      <title>S</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-067.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8487052149082</id>
+      <title>M</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-067.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8487052149082</id>
+      <title>L</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-067.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8487052149082</id>
+      <title>XL</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-067.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8487052149082</id>
+      <title>XXL</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-067.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8484635640154</id>
+    <published>2023-07-27T12:21:15+02:00</published>
+    <updated>2023-07-27T12:21:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/zwemshort-kids-reactive"/>
+    <title>Zwemshort kids &apos;reactive&apos;</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/Kids_Short_01.jpg?v=1689886068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze zwemshort is waterpret gegarandeerd!</p>
+<p>Spring in het water en er komt een toffe FCB-print tevoorschijn.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Kids</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484635640154</id>
+      <title>116</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-072.116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484635640154</id>
+      <title>128</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-072.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484635640154</id>
+      <title>140</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-072.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484635640154</id>
+      <title>152</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-072.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8484635640154</id>
+      <title>164</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>FCB23-072.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868734865625</id>
+    <published>2023-06-10T14:34:34+02:00</published>
+    <updated>2023-06-10T14:34:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/heuptas"/>
+    <title>Heuptas</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/9200000096383906.jpg?v=1662063979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Voortdurend een grote rugzak of handtas meenemen kan vervelend zijn. Deze Blauw-Zwarte heuptas is ideaal om jouw meest waardevolle bezittingen in op te bergen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bags_Heuptas</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868734865625</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB18-019.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868736471257</id>
+    <published>2023-06-06T10:17:25+02:00</published>
+    <updated>2023-06-06T10:17:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/houten-snijplank"/>
+    <title>Houten snijplank</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Snijplank_136a4601-9380-4e1b-ab37-7c9b62f9e34e.jpg?v=1665091283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Apéro-time! Geniet van de wedstrijd op televisie met een lekker hapje, mooi gepresenteerd op deze houten snijplank van Club.</p>
+ <p>Het logo is in het hout gebrand, wat garandeert dat het nooit zal vervagen.</p>
+ <p>Afmetingen: 20 x 40 x 1,5 cm (BxLxD)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736471257</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-041.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8142023000281</id>
+    <published>2023-04-18T13:51:46+02:00</published>
+    <updated>2023-04-18T13:51:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/herbruikbare-rietjes"/>
+    <title>Herbruikbare rietjes</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/4255625103070.jpg?v=1681818690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Herbruikbare rietjes zijn een milieuvriendelijke herbruikbare rietjes-oplossing. </p>
+<p>Gemaakt van food-grade roestvrij staal, zijn ze een duurzaam alternatief voor de plastieken rietjes. De rietjes zijn vaatwasbestendig en gemakkelijk schoon te maken en te onderhouden. Veilig voor warme of koude dranken. <br>Ze zijn een geweldige manier om je plastieken afvalberg te verminderen en te genieten van je favoriete drankje. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>dup-review-publication</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8142023000281</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.00</s:price>
+      <s:sku>FCB22-020.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019813990617</id>
+    <published>2023-03-27T17:10:03+02:00</published>
+    <updated>2023-03-27T17:10:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/coasters-6-stuks"/>
+    <title>Coasters (6 stuks)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/4255625103094.jpg?v=1681818789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze onderzetters zijn ontworpen om je dranken veilig te houden en tegelijkertijd je meubels te beschermen tegen het morsen en vochtschade. </p>
+<p>Santé!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>CB_Wonen_Woonkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019813990617</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">6.00</s:price>
+      <s:sku>FCB22-012.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868739485913</id>
+    <published>2023-03-23T12:19:49+01:00</published>
+    <updated>2023-03-23T12:19:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/lederen-coasters-4-stuks"/>
+    <title>Lederen coasters (4 stuks)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/lederenonderzetters.jpg?v=1665091177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vier stijlvolle lederen coasters gemaakt van echt Belgisch leer met een diameter van 10 cm. Santé!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>CB_Wonen_Woonkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868739485913</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">15.00</s:price>
+      <s:sku>FCB22-040.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8064794624217</id>
+    <published>2022-12-22T17:52:09+01:00</published>
+    <updated>2022-12-22T17:52:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/zwemshort"/>
+    <title>Zwemshort</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Zwemshort.jpg?v=1671727930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Deze zwemshort van Club Brugge heeft twee kleurvakken in, hoe kan het ook anders, blauw en zwart. De zwemshort is een ruim en wijd model, ideaal voor wie actief wil zijn in en rond het water.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8064794624217</id>
+      <title>S</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-130.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8064794624217</id>
+      <title>M</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-130.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8064794624217</id>
+      <title>L</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-130.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8064794624217</id>
+      <title>XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-130.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8064794624217</id>
+      <title>XXL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-130.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8064794624217</id>
+      <title>3XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB22-130.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019716571353</id>
+    <published>2022-11-25T20:29:36+01:00</published>
+    <updated>2022-11-25T20:29:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/zwemzak"/>
+    <title>Sportzak</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/ZwemzakC.jpg?v=1670452744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Met deze kwalitatieve sportzak heb je je sportgerief meteen bij de hand voor de gym of het zwembad. Afgewerkt met een waterdichte bodem in voetbalpatroon, is deze zak met monotoon logo een echt hebbeding voor wie zijn Club op een subtiele manier wil steunen.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>studeren</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019716571353</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-017.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7937110016217</id>
+    <published>2022-11-17T12:10:14+01:00</published>
+    <updated>2022-11-17T12:10:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/strandlaken-1891"/>
+    <title>Strandlaken 1891</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/strandlaken1891.jpg?v=1668683353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Het strandlaken heeft een afmeting van 140cm op 70 cm.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7937110016217</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB22-039.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7937114767577</id>
+    <published>2022-11-17T12:08:44+01:00</published>
+    <updated>2022-11-17T12:08:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/handdoek-zwart"/>
+    <title>Handdoek Zwart</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Handdoekzwart.jpg?v=1668683311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">De zwarte badhandoek van Club Brugge is in 1 kleur gemaakt, maar door het relief van de imprint komt het logo mét slogan mooi tot zijn recht. Eerder subtiel dan opvallend.</p>
+<p data-mce-fragment="1">Perfect voor na de zwemles, voetbaltraining of op het strand.</p>
+<p data-mce-fragment="1">Afmetingen: 70 x 140 (L) cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7937114767577</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB22-038.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7937107722457</id>
+    <published>2022-11-17T12:08:13+01:00</published>
+    <updated>2022-11-17T12:08:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/handdoek-blauw"/>
+    <title>Handdoek Blauw</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/handdoekblauw.jpg?v=1670923338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De badhandoek van Club in helder blauw. De handdoek is in 1 kleur, maar door het relief van de imprint komt het logo mét slogan mooi tot zijn recht.</p>
+<p>Perfect voor na de zwemles, voetbaltraining of op het strand.</p>
+<p>Afmetingen: 70 x 140 (L) cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>__color:blauw</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7937107722457</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>FCB22-037.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868762226905</id>
+    <published>2022-09-01T22:42:29+02:00</published>
+    <updated>2022-09-01T22:42:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/zwemshort-kids"/>
+    <title>Zwemshort kids</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/zwemshort-kids.jpg?v=1662064950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ga je naast voetballen ook graag zwemmen? Met deze blauw zwemshort beleef je uren plezier.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__variant:Kind</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868762226905</id>
+      <title>104</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB20-311.104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868762226905</id>
+      <title>128</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB20-311.128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868762226905</id>
+      <title>116</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB20-311.116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868762226905</id>
+      <title>140</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB20-311.140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868762226905</id>
+      <title>152</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB20-311.152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868762226905</id>
+      <title>164</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB20-311.164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759867609</id>
+    <published>2022-09-01T22:41:33+02:00</published>
+    <updated>2022-09-01T22:41:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wijnkoeler"/>
+    <title>Wijnkoeler</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220921_ITEMS1_web.jpg?v=1665090940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Als Club-supporters hebben we natuurlijk heel wat overwinningen om op te klinken. Deze koeler is ideaal om wijn, cava of champagne in fris te houden.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:tag>CB_Wonen_Keuken</s:tag>
+    <s:tag>CB_Wonen_Woonkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759867609</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB20-585.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868731293913</id>
+    <published>2022-09-01T22:23:07+02:00</published>
+    <updated>2022-09-01T22:23:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/beach-tennisset"/>
+    <title>Beach tennisset</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/beachpallets.jpg?v=1662063788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Geef op het strand het beste van jezelf met deze beach tennisset.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>CB_Vrijetijd_Zomer</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868731293913</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.00</s:price>
+      <s:sku>FCB20-318.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

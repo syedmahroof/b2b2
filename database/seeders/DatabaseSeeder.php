@@ -15,6 +15,7 @@ class DatabaseSeeder extends Seeder
         $this->call(AdminSeeder::class);
         $this->call(BuyerSeeder::class);
         $this->call(SupplierSeeder::class);
+        $this->call(CategorySeeder::class);
 
         // You can also include other seeders here as needed
         // $this->call(OtherSeeder::class);

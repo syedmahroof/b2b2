@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/1891.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-28T15:30:56+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868735750361</id>
+    <published>2023-08-28T15:30:56+02:00</published>
+    <updated>2023-08-28T15:30:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-iconic-khaki"/>
+    <title>Hoodie 1891 Iconic Khaki</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/files/20220414_1891_SHOP-41.jpg?v=1689155855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een khaki hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:khaki</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735750361</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-601.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868750299353</id>
+    <published>2023-08-03T17:50:25+02:00</published>
+    <updated>2023-08-03T17:50:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/toiletzak-1891"/>
+    <title>Toiletzak 1891</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Toiletzak1891.jpg?v=1665091379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>De 1891 toiletzak is ideaal om al je wasgerief bij te houden zodat je je na het sporten meteen kan douchen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20-50</s:tag>
+    <s:tag>CB_Bags_Toiletzak</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:tag>CB_Wonen_Badkamer</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>kind</s:tag>
+    <s:tag>min20</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:tag>wonen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868750299353</id>
+      <title>OS</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-035.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868754362585</id>
+    <published>2023-08-03T17:49:12+02:00</published>
+    <updated>2023-08-03T17:49:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-refined-sky-blue"/>
+    <title>T-shirt 1891 Refined Sky Blue</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220414-1891-shop-62.jpg?v=1662064722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een lichtblauwe t-shirt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:skyblue</s:tag>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754362585</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-608.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8001755939033</id>
+    <published>2023-08-02T17:20:10+02:00</published>
+    <updated>2023-08-02T17:20:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-refined-black"/>
+    <title>Hoodie 1891 Refined Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220414_1891_SHOP-56.jpg?v=1668430770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een zwarte hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:skyblue</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8001755939033</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-602.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749185241</id>
+    <published>2023-05-11T14:35:14+02:00</published>
+    <updated>2023-05-11T14:35:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweatpants-1891-black"/>
+    <title>Sweatpants 1891 Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/pants-zwart-web.jpg?v=1662064590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Deze zwarte sweatpants tonen dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:1891_sweatpants</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749185241</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-525.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868753838297</id>
+    <published>2023-05-08T12:49:06+02:00</published>
+    <updated>2023-05-08T12:49:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-iconic-black"/>
+    <title>T-shirt 1891 Iconic Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/1891-iconic-black-tshirt-pack.jpg?v=1662064709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Dit zwarte t-shirt toont dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753838297</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-520.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868754034905</id>
+    <published>2023-04-27T11:37:53+02:00</published>
+    <updated>2023-04-27T11:37:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-refined-black"/>
+    <title>T-shirt 1891 Refined Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220414-1891-shop-31.jpg?v=1662064716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een zwarte T-shirt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868754034905</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-607.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8033879032025</id>
+    <published>2023-04-07T15:25:06+02:00</published>
+    <updated>2023-04-07T15:25:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweatpants-1891-sand"/>
+    <title>Sweatpants 1891 Sand</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sweatpantssand.jpg?v=1670272498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Deze zandkleurige sweatpants tonen dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:beige</s:tag>
+    <s:tag>__size:1891_sweatpants</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033879032025</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-186.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868735914201</id>
+    <published>2023-03-02T16:49:16+01:00</published>
+    <updated>2023-03-02T16:49:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-refined-sky-blue"/>
+    <title>Hoodie 1891 Refined Sky Blue</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220414-1891-shop-72.jpg?v=1662064042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een lichtblauwe hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:skyblue</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735914201</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-603.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8033875067097</id>
+    <published>2023-01-17T16:44:23+01:00</published>
+    <updated>2023-01-17T16:44:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-refined-sand"/>
+    <title>T-shirt 1891 Refined Sand</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018589505_01.jpg?v=1681470690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een zandkleurige T-shirt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:beige</s:tag>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033875067097</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-185.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033875067097</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-185.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033875067097</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-185.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033875067097</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-185.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033875067097</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-185.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033875067097</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-185.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8033888501977</id>
+    <published>2023-01-17T16:42:08+01:00</published>
+    <updated>2023-01-17T16:42:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-iconic-burgundy"/>
+    <title>Hoodie 1891 Iconic Burgundy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5425037256698_01.jpg?v=1683321052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Deze wijnrode hoodie toont dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:bordeaux</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033888501977</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-187.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033888501977</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-187.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033888501977</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-187.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033888501977</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-187.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033888501977</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-187.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033888501977</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-187.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8033896530137</id>
+    <published>2023-01-11T10:38:46+01:00</published>
+    <updated>2023-01-11T10:38:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-iconic-dark-grey"/>
+    <title>Hoodie 1891 Iconic Dark Grey</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018584449_01.jpg?v=1683321037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Deze donkergrijze hoodie toont dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033896530137</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-189.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033896530137</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-189.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033896530137</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-189.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033896530137</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-189.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033896530137</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-189.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033896530137</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-189.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8033906786521</id>
+    <published>2023-01-06T10:48:54+01:00</published>
+    <updated>2023-01-06T10:48:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-iconic-burgdundy"/>
+    <title>T-shirt 1891 Iconic Burgundy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018589703_01.jpg?v=1681470660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Dit wjinrode T-shirt toont dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:bordeaux</s:tag>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033906786521</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-188.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033906786521</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-188.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033906786521</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-188.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033906786521</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-188.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033906786521</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-188.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033906786521</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-188.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8033912783065</id>
+    <published>2023-01-06T10:47:12+01:00</published>
+    <updated>2023-01-06T10:47:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-iconic-dark-grey"/>
+    <title>T-shirt 1891 Iconic Dark Grey</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018589772_01.jpg?v=1681470670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Dit donkergrijze T-shirt toont dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033912783065</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-190.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033912783065</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-190.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033912783065</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-190.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033912783065</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-190.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033912783065</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-190.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033912783065</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB22-190.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8033855406297</id>
+    <published>2023-01-06T10:44:55+01:00</published>
+    <updated>2023-01-06T10:44:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-refined-sand"/>
+    <title>Hoodie 1891 Refined Sand</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/5404018581387_01.jpg?v=1682587713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een zandkleurige hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:beige</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033855406297</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-184.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033855406297</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-184.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033855406297</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-184.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033855406297</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-184.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033855406297</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-184.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8033855406297</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-184.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004848156889</id>
+    <published>2022-12-16T12:18:10+01:00</published>
+    <updated>2022-12-16T12:18:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/beanie-1891-navy"/>
+    <title>Beanie 1891 navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20221216_1891Beanies-13.jpg?v=1675976566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze hippe beanie, navy met 1891, ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004848156889</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-095.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8004851728601</id>
+    <published>2022-12-16T12:17:25+01:00</published>
+    <updated>2022-12-16T12:17:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/beanie-1891-grijs"/>
+    <title>Beanie 1891 grijs</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/beaniegrijs1891.jpg?v=1671189506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze hippe beanie, grijs met 1891, ben je zelf bij ijskoude omstandigheden klaar om naar Jan Breydel te komen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Muts</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8004851728601</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-096.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868753936601</id>
+    <published>2022-09-01T22:38:30+02:00</published>
+    <updated>2022-09-01T22:38:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-1891-iconic-white"/>
+    <title>T-shirt 1891 Iconic White</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/1891-iconic-white-tshirt-pack.jpg?v=1679585160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Dit witte t-shirt toont dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__size:1891_tshirt</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753936601</id>
+      <title>S</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-521.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753936601</id>
+      <title>M</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-521.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753936601</id>
+      <title>L</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-521.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753936601</id>
+      <title>XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-521.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753936601</id>
+      <title>XXL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-521.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868753936601</id>
+      <title>3XL</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB21-521.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749349081</id>
+    <published>2022-09-01T22:36:42+02:00</published>
+    <updated>2022-09-01T22:36:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweatpants-1891-navy"/>
+    <title>Sweatpants 1891 Navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sweatpants-navy.jpg?v=1662064603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een navy trainingsbroek.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>__size:1891_sweatpants</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749349081</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-606.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749349081</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-606.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749349081</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-606.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749349081</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-606.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749349081</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-606.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749349081</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-606.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749283545</id>
+    <published>2022-09-01T22:36:36+02:00</published>
+    <updated>2022-09-01T22:36:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweatpants-1891-khaki"/>
+    <title>Sweatpants 1891 Khaki</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/sweatpants-khaki.jpg?v=1662064597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een khaki trainingsbroek.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:khaki</s:tag>
+    <s:tag>__size:1891_sweatpants</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749283545</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-605.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749283545</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-605.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749283545</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-605.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749283545</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-605.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749283545</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-605.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749283545</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-605.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749250777</id>
+    <published>2022-09-01T22:36:30+02:00</published>
+    <updated>2022-09-01T22:36:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweatpants-1891-grey"/>
+    <title>Sweatpants 1891 Grey</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/1891-pants-grey.jpg?v=1662064595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Deze grijze sweatpants tonen dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__size:1891_sweatpants</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749250777</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-526.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749250777</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-526.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749250777</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-526.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749250777</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-526.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749250777</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-526.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749250777</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB21-526.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868748366041</id>
+    <published>2022-09-01T22:35:30+02:00</published>
+    <updated>2022-09-01T22:35:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-1891-black"/>
+    <title>Sweater 1891 Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/1891-crew-black-1.jpg?v=1662064536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Deze zwarte sweater toont dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__size:1891_sweater</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748366041</id>
+      <title>S</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-524.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748366041</id>
+      <title>M</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-524.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748366041</id>
+      <title>L</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-524.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748366041</id>
+      <title>XL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-524.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748366041</id>
+      <title>XXL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-524.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748366041</id>
+      <title>3XL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-524.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868747546841</id>
+    <published>2022-09-01T22:34:41+02:00</published>
+    <updated>2022-09-01T22:34:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sports-bag-1891"/>
+    <title>Sports Bag 1891</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Sporttas1891.jpg?v=1665091309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Neem al je Club Brugge spullen mee in deze handige rugzak.</p> <p>Height: 36cm Width: 50cm Depth: 25cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50-100</s:tag>
+    <s:tag>CB_Bags_Sporttas</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868747546841</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB21-032.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868735979737</id>
+    <published>2022-09-01T22:27:22+02:00</published>
+    <updated>2022-09-01T22:27:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-refined-white"/>
+    <title>Hoodie 1891 Refined White</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/20220414-1891-shop-9.png?v=1662064046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Het iconische jaar 1891. Nu verwerkt op een witte hoodie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:Wit</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735979737</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-604.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735979737</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-604.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735979737</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-604.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735979737</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-604.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735979737</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-604.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735979737</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-604.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868735815897</id>
+    <published>2022-09-01T22:27:11+02:00</published>
+    <updated>2022-09-01T22:27:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-1891-iconic-navy"/>
+    <title>Hoodie 1891 Iconic Navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/1891navy.jpg?v=1665088180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Een ode aan het legendarische jaar 1891. Deze navy hoodie toont dat jij onderdeel bent van onze familie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>__size:1891_hoodie</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_1891</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735815897</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-522.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735815897</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-522.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735815897</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-522.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735815897</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-522.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735815897</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-522.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868735815897</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB21-522.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

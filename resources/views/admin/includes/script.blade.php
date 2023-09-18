@@ -1,26 +1,102 @@
-<div id="kt_scrolltop" class="scrolltop" data-kt-scrolltop="true">
-    <!--begin::Svg Icon | path: icons/duotune/arrows/arr066.svg-->
-    <span class="svg-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-            <rect opacity="0.5" x="13" y="6" width="13" height="2" rx="1" transform="rotate(90 13 6)" fill="black" />
-            <path d="M12.5657 8.56569L16.75 12.75C17.1642 13.1642 17.8358 13.1642 18.25 12.75C18.6642 12.3358 18.6642 11.6642 18.25 11.25L12.7071 5.70711C12.3166 5.31658 11.6834 5.31658 11.2929 5.70711L5.75 11.25C5.33579 11.6642 5.33579 12.3358 5.75 12.75C6.16421 13.1642 6.83579 13.1642 7.25 12.75L11.4343 8.56569C11.7467 8.25327 12.2533 8.25327 12.5657 8.56569Z" fill="black" />
-        </svg>
-    </span>
-    <!--end::Svg Icon-->
-</div>
-<script>var hostUrl = "assets/";</script>
+  <!--   Core JS Files   -->
+  <script src="{{ asset('admin/assets/js/core/popper.min.js')}}"></script>
+  <script src="{{ asset('admin/assets/js/core/bootstrap.min.js')}}"></script>
+  <script src="{{ asset('admin/assets/js/plugins/perfect-scrollbar.min.js')}}"></script>
+  <script src="{{ asset('admin/assets/js/plugins/smooth-scrollbar.min.js')}}"></script>
+  <script src="{{ asset('admin/assets/js/plugins/chartjs.min.js')}}"></script>
+  <script>
+    var ctx1 = document.getElementById("chart-line").getContext("2d");
 
-<script src="{{ asset('theme/demo1/dist/assets/plugins/global/plugins.bundle.js') }}"></script>
-<script src="{{ asset('theme/demo1/dist/assets/js/scripts.bundle.js') }}"></script>
-<!--end::Global Javascript Bundle-->
-<!--begin::Page Vendors Javascript(used by this page)-->
-<script src="{{ asset('theme/demo1/dist/assets/plugins/custom/fullcalendar/fullcalendar.bundle.js') }}"></script>
-<!--end::Page Vendors Javascript-->
-<!--begin::Page Custom Javascript(used by this page)-->
-<script src="{{ asset('theme/demo1/dist/assets/js/custom/widgets.js') }}"></script>
-<script src="{{ asset('theme/demo1/dist/assets/js/custom/apps/chat/chat.js') }}"></script>
-<script src="{{ asset('theme/demo1/dist/assets/js/custom/modals/create-app.js') }}"></script>
-<script src="{{ asset('theme/demo1/dist/assets/js/custom/modals/upgrade-plan.js') }}"></script>
-<!--end::Page Custom Javascript-->
-<!--end::Javascript-->
+    var gradientStroke1 = ctx1.createLinearGradient(0, 230, 0, 50);
 
+    gradientStroke1.addColorStop(1, 'rgba(94, 114, 228, 0.2)');
+    gradientStroke1.addColorStop(0.2, 'rgba(94, 114, 228, 0.0)');
+    gradientStroke1.addColorStop(0, 'rgba(94, 114, 228, 0)');
+    new Chart(ctx1, {
+      type: "line",
+      data: {
+        labels: ["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+        datasets: [{
+          label: "Mobile apps",
+          tension: 0.4,
+          borderWidth: 0,
+          pointRadius: 0,
+          borderColor: "#5e72e4",
+          backgroundColor: gradientStroke1,
+          borderWidth: 3,
+          fill: true,
+          data: [50, 40, 300, 220, 500, 250, 400, 230, 500],
+          maxBarThickness: 6
+
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            display: false,
+          }
+        },
+        interaction: {
+          intersect: false,
+          mode: 'index',
+        },
+        scales: {
+          y: {
+            grid: {
+              drawBorder: false,
+              display: true,
+              drawOnChartArea: true,
+              drawTicks: false,
+              borderDash: [5, 5]
+            },
+            ticks: {
+              display: true,
+              padding: 10,
+              color: '#fbfbfb',
+              font: {
+                size: 11,
+                family: "Open Sans",
+                style: 'normal',
+                lineHeight: 2
+              },
+            }
+          },
+          x: {
+            grid: {
+              drawBorder: false,
+              display: false,
+              drawOnChartArea: false,
+              drawTicks: false,
+              borderDash: [5, 5]
+            },
+            ticks: {
+              display: true,
+              color: '#ccc',
+              padding: 20,
+              font: {
+                size: 11,
+                family: "Open Sans",
+                style: 'normal',
+                lineHeight: 2
+              },
+            }
+          },
+        },
+      },
+    });
+  </script>
+  <script>
+    var win = navigator.platform.indexOf('Win') > -1;
+    if (win && document.querySelector('#sidenav-scrollbar')) {
+      var options = {
+        damping: '0.5'
+      }
+      Scrollbar.init(document.querySelector('#sidenav-scrollbar'), options);
+    }
+  </script>
+  <!-- Github buttons -->
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  <!-- Control Center for Soft Dashboard: parallax effects, scripts for the example pages etc -->
+  <script src="{{ asset('admin/assets/js/argon-dashboard.min.js?v=2.0.4')}}"></script>

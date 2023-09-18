@@ -13,6 +13,9 @@ return new class extends Migration
     {
         Schema::create('sliders', function (Blueprint $table) {
             $table->id();
+            $table->string('title'); // Add a column for title
+            $table->string('attachment'); // Add a column for attachment (file path or URL)
+            $table->text('description'); // Add a column for description
             $table->timestamps();
         });
     }
@@ -25,3 +28,4 @@ return new class extends Migration
         Schema::dropIfExists('sliders');
     }
 };
+

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/rfcb.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-04-07T15:25:25+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868749381849</id>
+    <published>2023-04-07T15:25:25+02:00</published>
+    <updated>2023-04-07T15:25:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweatpants-rfcb"/>
+    <title>Sweatpants RFCB</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/RFCBPants_1.jpg?v=1665266594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Football Club Brugeois. Van 1920, het eerste jaar waarin Blauw-Zwart kampioen werd, tot 1972 de officiële naam van Club. Deze sweatpants verwijzen naar die succesvolle periode.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_supplier_SDS</s:tag>
+    <s:tag>RFCB</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>XS</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868749381849</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB22-109.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868748529881</id>
+    <published>2022-11-08T10:46:51+01:00</published>
+    <updated>2022-11-08T10:46:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-rfcb"/>
+    <title>Sweater RFCB</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/RFCBsweater_1.jpg?v=1665266566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Football Club Brugeois. Van 1920, het eerste jaar waarin Blauw-Zwart kampioen werd, tot 1972 de officiële naam van Club. Deze sweater verwijst naar die succesvolle periode.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_SDS</s:tag>
+    <s:tag>RFCB</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748529881</id>
+      <title>S</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-110.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748529881</id>
+      <title>M</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-110.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748529881</id>
+      <title>L</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-110.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748529881</id>
+      <title>XL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-110.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748529881</id>
+      <title>XXL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-110.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868748529881</id>
+      <title>3XL</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>FCB22-110.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868741877977</id>
+    <published>2022-11-08T10:46:50+01:00</published>
+    <updated>2022-11-08T10:46:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/pet-rfcb"/>
+    <title>Pet RFCB Heritage</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/RFCBCap.jpg?v=1665266544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Football Club Brugeois. Van 1920, het eerste jaar waarin Blauw-Zwart kampioen werd, tot 1972 de officiële naam van Club. Deze pet verwijst naar die succesvolle periode.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>_clothing:accessoires</s:tag>
+    <s:tag>CB_Kleding_Accessoires_Pet</s:tag>
+    <s:tag>CB_supplier_SDS</s:tag>
+    <s:tag>RFCB</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868741877977</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-106.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868736372953</id>
+    <published>2022-11-08T10:46:49+01:00</published>
+    <updated>2022-11-08T10:46:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/hoodie-zip-rfcb"/>
+    <title>Hoodie Zip RFCB</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/RFCBHoodie.jpg?v=1665266525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Football Club Brugeois. Van 1920, het eerste jaar waarin Blauw-Zwart kampioen werd, tot 1972 de officiële naam van Club. Deze hoodie, met rits, verwijst naar die succesvolle periode.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Volwassen</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Casual</s:tag>
+    <s:tag>CB_Kleding_Hoodie</s:tag>
+    <s:tag>CB_supplier_SDS</s:tag>
+    <s:tag>RFCB</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736372953</id>
+      <title>S</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-111.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736372953</id>
+      <title>M</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-111.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736372953</id>
+      <title>L</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-111.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736372953</id>
+      <title>XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-111.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736372953</id>
+      <title>XXL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-111.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868736372953</id>
+      <title>3XL</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>FCB22-111.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868730048729</id>
+    <published>2022-11-08T10:46:49+01:00</published>
+    <updated>2022-11-08T10:46:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/anorak-rfcb"/>
+    <title>Anorak RFCB</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/RFCBAnorak.jpg?v=1665266487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Football Club Brugeois. Van 1920, het eerste jaar waarin Blauw-Zwart kampioen werd, tot 1972 de officiële naam van Club. Deze anorak verwijst naar die succesvolle periode.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_supplier_SDS</s:tag>
+    <s:tag>RFCB</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730048729</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB22-107.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730048729</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB22-107.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730048729</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB22-107.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730048729</id>
+      <title>Xl</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB22-107.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730048729</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB22-107.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868730048729</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB22-107.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

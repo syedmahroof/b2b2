@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/wielerkledij.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-01-19T14:40:24+01:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8091032289497</id>
+    <published>2023-01-19T14:40:24+01:00</published>
+    <updated>2023-01-19T14:40:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershort-21-22"/>
+    <title>Wielershort 21-22</title>
+    <s:type>Clothing</s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/v20210916-wielrennen-23.jpg?v=1674135626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong>Clothing<br>
+        <strong>Prijs: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wielershort van het seizoen 21-22 in eenvoudige zwarte stijl met het logo in full color op de bil. Hoge kwaliteit van het Belgische wielermerk Bioracer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8091032289497</id>
+      <title>S</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-080.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8091032289497</id>
+      <title>M</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-080.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8091032289497</id>
+      <title>L</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-080.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8091032289497</id>
+      <title>XL</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-080.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759703769</id>
+    <published>2022-09-01T22:41:28+02:00</published>
+    <updated>2022-09-01T22:41:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershort-striped"/>
+    <title>Wielershort Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/wielerbroek-web.jpg?v=1662064892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Club Brugge en Bioracer slaan als twee topmerken in de sportwereld opnieuw de handen in elkaar voor de creatie van een stijlvolle wieleroutfit. Er werd gekozen voor een subtiel design waarbij de blauwe strepen zorgen voor een retro gevoel.</p>
+ 
+ <p><strong>Vapor Pad<br><br></strong>Het Vapor pad zorgt voor comfortabele demping en ondersteunt op de juiste plaats. De ademende stof zorgt voor een aangenaam gevoel en een goede zit op de fiets.</p>
+ 
+ <p><strong>Eigenschappen:</strong></p>
+ 
+ <ul>
+ 
+ <li>Belgische topkwaliteit</li>
+ 
+ <li>World Tour proof</li>
+ 
+ <li>Flexibel en frictieloos</li>
+ 
+ <li>Unisex</li>
+ 
+ <li>Duurzaam</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50-100</s:tag>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>plus100</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>S</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>M</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>L</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>XL</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>XXL</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759703769</id>
+      <title>3XL</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku>FCB21-578.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759605465</id>
+    <published>2022-09-01T22:41:27+02:00</published>
+    <updated>2022-09-01T22:41:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershort-fcb"/>
+    <title>Wielershort FCB</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/prj20-011432-prof-short-men-front.jpg?v=1662064887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Met deze wielershort laat je iedereen achter jou!</p>
+<p>De short heeft ook bretellen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759605465</id>
+      <title>M</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB20-486.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759605465</id>
+      <title>XXL</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB20-486.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759572697</id>
+    <published>2022-09-01T22:41:19+02:00</published>
+    <updated>2022-09-01T22:41:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershort"/>
+    <title>Wielershort</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/dsc-4109-copy.jpg?v=1662064881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Kleding_Broek</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759572697</id>
+      <title>S</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>FCB18-505.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759507161</id>
+    <published>2022-09-01T22:41:08+02:00</published>
+    <updated>2022-09-01T22:41:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershirt-striped"/>
+    <title>Wielershirt Striped</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/wielertrui-web.jpg?v=1662064878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Club Brugge en Bioracer slaan als twee topmerken in de sportwereld opnieuw de handen in elkaar voor de creatie van een stijlvolle wieleroutfit. Er werd gekozen voor een subtiel design waarbij de blauwe strepen zorgen voor een retro gevoel.</p>
+ 
+ <p><strong>Body Fit<br><br></strong>Gemaakt van Lycra die naar 4 kanten strecht voor maximale flexibiliteit tijdens het dragen. De zijkant van het shirt is voorzien van mesh, waardoor je lichaamswarmte goed verdeeld en afgevoerd wordt zodat jou core temperatuur stabiel blijft.</p>
+ 
+ <p>De mouwen sluiten perfect aan en vermijden zo alle mogelijke frictie tijdens je rit.</p>
+ 
+ <p><strong>Eigenschappen:</strong></p>
+ 
+ <ul>
+ 
+ <li>Belgische topkwaliteit</li>
+ 
+ <li>World Tour proof</li>
+ 
+ <li>Flexibel en frictieloos</li>
+ 
+ <li>Unisex</li>
+ 
+ <li>Duurzaam</li>
+ 
+ </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50-100</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:tag>gift-finder</s:tag>
+    <s:tag>sporten</s:tag>
+    <s:tag>volwassen</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759507161</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-577.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868759343321</id>
+    <published>2022-09-01T22:41:02+02:00</published>
+    <updated>2022-09-01T22:41:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/wielershirt-2021-2022"/>
+    <title>Wielershirt 2021-2022</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/v20210916-wielrennen-16.jpg?v=1662064868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wielershirt van Club Brugge gebaseerd op het home shirt uit het seizoen 2021-2022. Past perfect bij de wielershort en is gemaakt door het gekende en kwaliteitsvolle fietsmerk Bioracer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_Kleding_Wielrennen</s:tag>
+    <s:tag>CB_Vrijetijd_Sport</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>S</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>M</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>L</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>XXL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868759343321</id>
+      <title>3XL</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>FCB21-079.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

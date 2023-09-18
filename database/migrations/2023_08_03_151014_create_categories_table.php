@@ -13,7 +13,14 @@ return new class extends Migration
     {
         Schema::create('categories', function (Blueprint $table) {
             $table->id();
+            $table->string('name');
+            $table->unsignedBigInteger('parent_id')->nullable();
+            $table->string('status')->default('active');
+            $table->string('image')->nullable(); // Add 'image' column for category images
             $table->timestamps();
+
+            // Define foreign key constraint for parent_id referencing id in categories table
+            $table->foreign('parent_id')->references('id')->on('categories')->onDelete('cascade');
         });
     }
 

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/multimedia.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2022-11-25T14:12:30+01:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019269681369</id>
+    <published>2022-11-25T14:12:30+01:00</published>
+    <updated>2022-11-25T14:12:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/samsung-cover"/>
+    <title>Samsung cover</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/SamsungGalaxyS21.png?v=1669381935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">De Club Brugge App raadplegen op je smartphone? Dan wil je toch ook de juiste cover hebben!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Multimedia</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy S21</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-050.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy S22</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-172.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy A52</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-049.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy A53</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-170.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019269681369</id>
+      <title>Samsung Galaxy A71</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-048.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8019247136985</id>
+    <published>2022-11-25T14:03:28+01:00</published>
+    <updated>2022-11-25T14:03:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/iphone-cover"/>
+    <title>iPhone cover</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/Iphone12PRO.png?v=1669380710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">De Club Brugge App raadplegen op je smartphone? Dan wil je toch ook de juiste cover hebben!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Multimedia</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 7/7/SE2020</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-041.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 11</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-043.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 12/12Pro</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-044.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 12 Pro Max</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-046.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 13</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-569.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 13 Pro</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB21-570.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8019247136985</id>
+      <title>iPhone 14</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB22-171.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868758294745</id>
+    <published>2022-09-01T22:40:19+02:00</published>
+    <updated>2022-09-01T22:40:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/usb-stick"/>
+    <title>USB stick (8GB)</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/dsc-9254-copy.jpg?v=1662064820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wil jij jouw bezoek aan het mytische Jan Breydel voor altijd opslaan? Op deze USB stick (8GB) bewaar je al jouw foto's en video's.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Bureau</s:tag>
+    <s:tag>CB_School</s:tag>
+    <s:tag>CB_Vrijetijd_Multimedia</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868758294745</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.00</s:price>
+      <s:sku>FCB18-075.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/7868742697177</id>
+    <published>2022-09-01T22:32:33+02:00</published>
+    <updated>2022-09-01T22:32:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/ps4-pro-skin"/>
+    <title>PS4 pro skin</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/ps4-pro-visual-front-clubbrugge.jpg?v=1662064355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ben jij een echte gamer? Voor onze gamende fans hebben we nu PS4 pro skins volledig in Club-thema!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CB_Vrijetijd_Multimedia</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/7868742697177</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB20-328.OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

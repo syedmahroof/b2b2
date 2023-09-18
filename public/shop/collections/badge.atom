@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="nl" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shop.clubbrugge.be/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shop.clubbrugge.be/collections/badge.atom"/>
+  <title>Club Brugge Shop</title>
+  <updated>2023-08-03T17:49:27+02:00</updated>
+  <author>
+    <name>Club Brugge Shop</name>
+  </author>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118963929305</id>
+    <published>2023-08-03T17:49:27+02:00</published>
+    <updated>2023-08-03T17:49:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-club-badge-grey"/>
+    <title>T-Shirt Club Badge Grey</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/7423326585588_01.jpg?v=1681819989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze grijze t-shirt Badge van bio katoen is de perfecte keuze voor wie op zoek is naar een stijlvolle manier om de liefde voor Club Brugge te tonen.</p>
+<p>Gemaakt van hoogwaardige materialen en met een comfortabele pasvorm, is dit t-shirt perfect om te dragen tijdens wedstrijden, in de stad of gewoon thuis in de zetel.</p>
+<p>Het grijze shirt is voorzien van een Club Brugge badge op de borst, waardoor het duidelijk is voor iedereen dat jij een trotse fan bent van deze geweldige voetbalclub. Verkrijgbaar in verschillende maten en geschikt voor zowel mannen als vrouwen.</p>
+<p><strong>Over de Club Badge collectie</strong></p>
+<p>Deze tijdloze kledinglijn van Club Brugge gaat terug naar de basis: kwaliteitsvolle kleding met de legendarische Club Brugge badge op de borst. Beschikbaar in zwart, grijs en navy.</p>
+<p>Deze collectiebiedt een breed scala aan stijlvolle en comfortabele kledingstukken, waarvan elk item gemaakt is van hoogwaardige materialen. Zo zorgen we ervoor dat je er niet alleen geweldig uitziet, maar ook comfortabel voelt tijdens het dragen. Of je nu op zoek bent naar een T-shirt, polo of trui.</p>
+<p>Elk stuk wordt geleverd met een official merchandise tag om te garanderen dat je het echte werk in handen hebt.Dit betekent dat je kunt vertrouwen op de authenticiteit en kwaliteit van elk item dat je koopt. Bovendien is alles gemaakt van bio katoen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_Basic</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118963929305</id>
+      <title>S</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-009.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118963929305</id>
+      <title>M</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-009.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118963929305</id>
+      <title>L</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-009.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118963929305</id>
+      <title>XL</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-009.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118963929305</id>
+      <title>XXL</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-009.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118963929305</id>
+      <title>3XL</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-009.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118964322521</id>
+    <published>2023-03-02T16:28:14+01:00</published>
+    <updated>2023-03-02T16:28:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-club-badge-grey"/>
+    <title>Sweater Club Badge Grey</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/BasicSweaterGrijs_0.jpg?v=1677768329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontdek premium kwaliteit gemixt met een klassieke stijl dankzij deze Sweater Club Badge Grey. Deze grijze sweater is dankzij het eenvoudige ontwerp met Club logo op de borst meteen stijlvol en bovendien gemaakt van hoogwaardig bio katoen- perfect om een statement te maken waar je ook gaat.</p>
+<p><strong>Over de Club Badge collectie</strong></p>
+<p>Deze tijdloze kledinglijn van Club Brugge gaat terug naar de basis: kwaliteitsvolle kleding met de legendarische Club Brugge badge op de borst. Beschikbaar in zwart, grijs en navy.</p>
+<p>Deze collectiebiedt een breed scala aan stijlvolle en comfortabele kledingstukken, waarvan elk item gemaakt is van hoogwaardige materialen. Zo zorgen we ervoor dat je er niet alleen geweldig uitziet, maar ook comfortabel voelt tijdens het dragen. Of je nu op zoek bent naar een T-shirt, polo of trui.</p>
+<p>Elk stuk wordt geleverd met een official merchandise tag om te garanderen dat je het echte werk in handen hebt.Dit betekent dat je kunt vertrouwen op de authenticiteit en kwaliteit van elk item dat je koopt. Bovendien is alles gemaakt van bio katoen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Basic</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964322521</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-015.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964322521</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-015.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964322521</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-015.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964322521</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-015.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964322521</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-015.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964322521</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-015.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118964256985</id>
+    <published>2023-03-02T16:28:14+01:00</published>
+    <updated>2023-03-02T16:28:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-club-badge-navy"/>
+    <title>Sweater Club Badge Navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/BasicSweaterNavy_1.jpg?v=1677768354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontdek premium kwaliteit gemixt met een klassieke stijl dankzij deze Sweater Club Badge<span> Navy</span>. Deze<span> donkerblauwe </span>sweater is dankzij het eenvoudige ontwerp met Club logo op de borst meteen stijlvol en bovendien gemaakt van hoogwaardig bio katoen- perfect om een statement te maken waar je ook gaat.</p>
+<p><strong>Over de Club Badge collectie</strong></p>
+<p>Deze tijdloze kledinglijn van Club Brugge gaat terug naar de basis: kwaliteitsvolle kleding met de legendarische Club Brugge badge op de borst. Beschikbaar in zwart, grijs en navy.</p>
+<p>Deze collectiebiedt een breed scala aan stijlvolle en comfortabele kledingstukken, waarvan elk item gemaakt is van hoogwaardige materialen. Zo zorgen we ervoor dat je er niet alleen geweldig uitziet, maar ook comfortabel voelt tijdens het dragen. Of je nu op zoek bent naar een T-shirt, polo of trui.</p>
+<p>Elk stuk wordt geleverd met een official merchandise tag om te garanderen dat je het echte werk in handen hebt.Dit betekent dat je kunt vertrouwen op de authenticiteit en kwaliteit van elk item dat je koopt. Bovendien is alles gemaakt van bio katoen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Basic</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964256985</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-014.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964256985</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-014.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964256985</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-014.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964256985</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-014.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964256985</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-014.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964256985</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-014.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118964224217</id>
+    <published>2023-03-02T16:28:14+01:00</published>
+    <updated>2023-03-02T16:28:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/sweater-club-badge-black"/>
+    <title>Sweater Club Badge Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/BasicSweaterZwart_1.jpg?v=1677768226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontdek premium kwaliteit gemixt met een klassieke stijl dankzij deze Sweater Club Badge Black. Deze zwarte sweater is dankzij het eenvoudige ontwerp met Club logo op de borst meteen stijlvol en bovendien gemaakt van hoogwaardig bio katoen- perfect om een statement te maken waar je ook gaat.</p>
+<p><strong>Over de Club Badge collectie</strong></p>
+<p>Deze tijdloze kledinglijn van Club Brugge gaat terug naar de basis: kwaliteitsvolle kleding met de legendarische Club Brugge badge op de borst. Beschikbaar in zwart, grijs en navy.</p>
+<p>Deze collectiebiedt een breed scala aan stijlvolle en comfortabele kledingstukken, waarvan elk item gemaakt is van hoogwaardige materialen. Zo zorgen we ervoor dat je er niet alleen geweldig uitziet, maar ook comfortabel voelt tijdens het dragen. Of je nu op zoek bent naar een T-shirt, polo of trui.</p>
+<p>Elk stuk wordt geleverd met een official merchandise tag om te garanderen dat je het echte werk in handen hebt.Dit betekent dat je kunt vertrouwen op de authenticiteit en kwaliteit van elk item dat je koopt. Bovendien is alles gemaakt van bio katoen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Sweater</s:tag>
+    <s:tag>CB_supplier_Basic</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964224217</id>
+      <title>S</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-013.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964224217</id>
+      <title>M</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-013.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964224217</id>
+      <title>L</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-013.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964224217</id>
+      <title>XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-013.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964224217</id>
+      <title>XXL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-013.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964224217</id>
+      <title>3XL</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>FCB23-013.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118964191449</id>
+    <published>2023-03-02T16:28:13+01:00</published>
+    <updated>2023-03-02T16:28:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/polo-club-badge-grey"/>
+    <title>Polo Club Badge Grey</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/BasicPoloGrijs_1.jpg?v=1677768197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontdek de Polo Club Badge Grey, de ultieme manier om je steun te tonen voor Club Brugge! Dit grijze poloshirt heeft alles wat je nodig hebt voor een klassieke en comfortabele look, met een tijdloos embleem om je loyaliteit te tonen. Simpel en betaalbaar - wat heb je nog meer nodig? Laat de wereld zien waar je loyaliteit ligt.</p>
+<p><strong>Over de Club Badge collectie</strong></p>
+<p>Deze tijdloze kledinglijn van Club Brugge gaat terug naar de basis: kwaliteitsvolle kleding met de legendarische Club Brugge badge op de borst.  Beschikbaar in zwart, grijs en navy.</p>
+<p>Deze collectie biedt een breed scala aan stijlvolle en comfortabele kledingstukken, waarvan elk item gemaakt is van hoogwaardige materialen. Zo zorgen we ervoor dat je er niet alleen geweldig uitziet, maar ook comfortabel voelt tijdens het dragen. Of je nu op zoek bent naar een T-shirt, polo of trui.</p>
+<p>Elk stuk wordt geleverd met een official merchandise tag om te garanderen dat je het echte werk in handen hebt. Dit betekent dat je kunt vertrouwen op de authenticiteit en kwaliteit van elk item dat je koopt. Bovendien is alles gemaakt van bio katoen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:grijs</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Polo</s:tag>
+    <s:tag>CB_supplier_Basic</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964191449</id>
+      <title>S</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-012.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964191449</id>
+      <title>M</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-012.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964191449</id>
+      <title>L</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-012.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964191449</id>
+      <title>XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-012.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964191449</id>
+      <title>XXL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-012.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964191449</id>
+      <title>3XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-012.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118964158681</id>
+    <published>2023-03-02T16:28:13+01:00</published>
+    <updated>2023-03-02T16:28:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/polo-club-badge-navy"/>
+    <title>Polo Club Badge Navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/BasicPoloNavy_1.jpg?v=1677768207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontdek de Polo Club Badge Navy, de ultieme manier om je steun te tonen voor Club Brugge! Dit donkerblauwe poloshirt heeft alles wat je nodig hebt voor een klassieke en comfortabele look, met een tijdloos embleem om je loyaliteit te tonen. Simpel en betaalbaar - wat heb je nog meer nodig? Laat de wereld zien waar je loyaliteit ligt.</p>
+<p><strong>Over de Club Badge collectie</strong></p>
+<p>Deze tijdloze kledinglijn van Club Brugge gaat terug naar de basis: kwaliteitsvolle kleding met de legendarische Club Brugge badge op de borst.  Beschikbaar in zwart, grijs en navy.</p>
+<p><span>Deze collectie biedt een breed scala aan stijlvolle en comfortabele kledingstukken, waarvan elk item gemaakt is van hoogwaardige materialen. Zo zorgen we ervoor dat je er niet alleen geweldig uitziet, maar ook comfortabel voelt tijdens het dragen. Of je nu op zoek bent naar een T-shirt, polo of trui.</span></p>
+<p><span>Elk stuk wordt geleverd met een official merchandise tag om te garanderen dat je het echte werk in handen hebt. Dit betekent dat je kunt vertrouwen op de authenticiteit en kwaliteit van elk item dat je koopt. Bovendien is alles gemaakt van bio katoen. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Polo</s:tag>
+    <s:tag>CB_supplier_Basic</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964158681</id>
+      <title>S</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-011.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964158681</id>
+      <title>M</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-011.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964158681</id>
+      <title>L</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-011.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964158681</id>
+      <title>XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-011.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964158681</id>
+      <title>XXL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-011.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964158681</id>
+      <title>3XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-011.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118964060377</id>
+    <published>2023-03-02T16:28:12+01:00</published>
+    <updated>2023-03-02T16:28:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/polo-club-badge-black"/>
+    <title>Polo Club Badge Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/BasicPoloZwart_1.jpg?v=1677768185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontdek de Polo Club Badge Black, de ultieme manier om je steun te tonen voor Club Brugge! Dit zwarte poloshirt heeft alles wat je nodig hebt voor een klassieke en comfortabele look, met een tijdloos embleem om je loyaliteit te tonen. Simpel en betaalbaar - wat heb je nog meer nodig? Laat de wereld zien waar je loyaliteit ligt.</p>
+<p><strong>Over de Club Badge collectie</strong></p>
+<p>Deze tijdloze kledinglijn van Club Brugge gaat terug naar de basis: kwaliteitsvolle kleding met de legendarische Club Brugge badge op de borst.  Beschikbaar in zwart, grijs en navy.</p>
+<p><span>Deze collectie biedt een breed scala aan stijlvolle en comfortabele kledingstukken, waarvan elk item gemaakt is van hoogwaardige materialen. Zo zorgen we ervoor dat je er niet alleen geweldig uitziet, maar ook comfortabel voelt tijdens het dragen. Of je nu op zoek bent naar een T-shirt, polo of trui.</span></p>
+<p><span>Elk stuk wordt geleverd met een official merchandise tag om te garanderen dat je het echte werk in handen hebt. Dit betekent dat je kunt vertrouwen op de authenticiteit en kwaliteit van elk item dat je koopt. Bovendien is alles gemaakt van bio katoen. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_Polo</s:tag>
+    <s:tag>CB_supplier_Basic</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964060377</id>
+      <title>S</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-010.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964060377</id>
+      <title>M</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-010.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964060377</id>
+      <title>L</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-010.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964060377</id>
+      <title>XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-010.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964060377</id>
+      <title>XXL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-010.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964060377</id>
+      <title>3XL</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>FCB23-010.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118964027609</id>
+    <published>2023-03-02T16:28:12+01:00</published>
+    <updated>2023-03-02T16:28:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-club-badge-navy"/>
+    <title>T-Shirt Club Badge Navy</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/BasicShirtNavy_1.jpg?v=1677768403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze<span> navy </span> t-shirt Badge van bio katoen is de perfecte keuze voor wie op zoek is naar een stijlvolle manier om de liefde voor Club Brugge te tonen.</p>
+<p>Gemaakt van hoogwaardige materialen en met een comfortabele pasvorm, is dit t-shirt perfect om te dragen tijdens wedstrijden, in de stad of gewoon thuis in de zetel.</p>
+<p>Het<span> donkerblauwe </span>shirt is voorzien van een Club Brugge badge op de borst, waardoor het duidelijk is voor iedereen dat jij een trotse fan bent van deze geweldige voetbalclub. Verkrijgbaar in verschillende maten en geschikt voor zowel mannen als vrouwen.</p>
+<p><strong>Over de Club Badge collectie</strong></p>
+<p>Deze tijdloze kledinglijn van Club Brugge gaat terug naar de basis: kwaliteitsvolle kleding met de legendarische Club Brugge badge op de borst. Beschikbaar in zwart, grijs en navy.</p>
+<p>Deze collectiebiedt een breed scala aan stijlvolle en comfortabele kledingstukken, waarvan elk item gemaakt is van hoogwaardige materialen. Zo zorgen we ervoor dat je er niet alleen geweldig uitziet, maar ook comfortabel voelt tijdens het dragen. Of je nu op zoek bent naar een T-shirt, polo of trui.</p>
+<p>Elk stuk wordt geleverd met een official merchandise tag om te garanderen dat je het echte werk in handen hebt.Dit betekent dat je kunt vertrouwen op de authenticiteit en kwaliteit van elk item dat je koopt. Bovendien is alles gemaakt van bio katoen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:navy</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_Basic</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964027609</id>
+      <title>S</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-008.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964027609</id>
+      <title>M</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-008.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964027609</id>
+      <title>L</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-008.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964027609</id>
+      <title>XL</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-008.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964027609</id>
+      <title>XXL</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-008.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118964027609</id>
+      <title>3XL</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-008.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shop.clubbrugge.be/products/8118952034521</id>
+    <published>2023-03-02T16:28:11+01:00</published>
+    <updated>2023-03-02T16:28:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://shop.clubbrugge.be/products/t-shirt-club-badge-black"/>
+    <title>T-Shirt Club Badge Black</title>
+    <s:type></s:type>
+    <s:vendor>Club Brugge Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/7881/8265/products/BasicShirtZwart_1.jpg?v=1677768372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Verkoper: </strong>Club Brugge Shop<br>
+        <strong>Type: </strong><br>
+        <strong>Prijs: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deze zwarte t-shirt Badge van bio katoen is de perfecte keuze voor wie op zoek is naar een stijlvolle manier om de liefde voor Club Brugge te tonen.</p>
+<p>Gemaakt van hoogwaardige materialen en met een comfortabele pasvorm, is<span> </span>dit<span> </span>t-shirt perfect om te dragen tijdens wedstrijden, in de stad of gewoon thuis in de zetel.</p>
+<p>Het zwarte shirt is voorzien van een Club Brugge badge op de borst, waardoor het duidelijk is voor iedereen dat jij een trotse fan bent van deze geweldige voetbalclub. Verkrijgbaar in verschillende maten en geschikt voor zowel mannen als vrouwen.</p>
+<p><strong>Over de Club Badge collectie</strong></p>
+<p>Deze tijdloze kledinglijn van Club Brugge gaat terug naar de basis: kwaliteitsvolle kleding met de legendarische Club Brugge badge op de borst. Beschikbaar in zwart, grijs en navy.</p>
+<p>Deze collectie biedt een breed scala aan stijlvolle en comfortabele kledingstukken, waarvan elk item gemaakt is van hoogwaardige materialen. Zo zorgen we ervoor dat je er niet alleen geweldig uitziet, maar ook comfortabel voelt tijdens het dragen. Of je nu op zoek bent naar een T-shirt, polo of trui.</p>
+<p>Elk stuk wordt geleverd met een official merchandise tag om te garanderen dat je het echte werk in handen hebt. Dit betekent dat je kunt vertrouwen op de authenticiteit en kwaliteit van elk item dat je koopt. Bovendien is alles gemaakt van bio katoen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__color:zwart</s:tag>
+    <s:tag>__variant:Man</s:tag>
+    <s:tag>__variant:Vrouw</s:tag>
+    <s:tag>_clothing:casual</s:tag>
+    <s:tag>CB_Kleding_T-shirt</s:tag>
+    <s:tag>CB_supplier_Basic</s:tag>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118952034521</id>
+      <title>S</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-007.S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118952034521</id>
+      <title>M</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-007.M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118952034521</id>
+      <title>L</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-007.L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118952034521</id>
+      <title>XL</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-007.XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118952034521</id>
+      <title>XXL</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-007.XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shop.clubbrugge.be/products/8118952034521</id>
+      <title>3XL</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>FCB23-007.3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
