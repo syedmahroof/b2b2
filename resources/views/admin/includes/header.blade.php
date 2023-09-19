@@ -49,21 +49,21 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="./pages/virtual-reality.html">
+                <a class="nav-link  {{ request()->routeIs('admin.news.*') ? 'active' : '' }}" href="{{ route('admin.news.index') }}">
                     <div
                         class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                         <i class="ni ni-app text-info text-sm opacity-10"></i>
                     </div>
-                    <span class="nav-link-text ms-1">Virtual Reality</span>
+                    <span class="nav-link-text ms-1">News</span>
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="./pages/rtl.html">
+                <a class="nav-link  {{ request()->routeIs('admin.blogs.*') ? 'active' : '' }}" href="{{ route('admin.blogs.index') }}">
                     <div
                         class="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                         <i class="ni ni-world-2 text-danger text-sm opacity-10"></i>
                     </div>
-                    <span class="nav-link-text ms-1">RTL</span>
+                    <span class="nav-link-text ms-1">Blog</span>
                 </a>
             </li>
             <li class="nav-item mt-3">

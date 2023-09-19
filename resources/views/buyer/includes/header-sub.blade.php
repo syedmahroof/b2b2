@@ -82,11 +82,11 @@
                             href="blog-classic.html">Blog</a></div>
                     <div class="topbar__spring"></div>
                     <div class="topbar__item">
-                        <div class="topbar-dropdown"><button class="topbar-dropdown__btn" type="button">My
-                                Account <svg width="7px" height="5px">
+                        <div class="topbar-dropdown">
+                            <a class="topbar-dropdown__btn" href="{{route('supplier.login')}}" type="button">Supplier<svg width="7px" height="5px">
                                     <use xlink:href="images/sprite.svg#arrow-rounded-down-7x5"></use>
-                                </svg></button>
-                            <div class="topbar-dropdown__body"><!-- .menu -->
+                                </svg></a>
+                            {{-- <div class="topbar-dropdown__body"><!-- .menu -->
                                 <div class="menu menu--layout--topbar">
                                     <div class="menu__submenus-container"></div>
                                     <ul class="menu__list">
@@ -127,7 +127,7 @@
                                         </li>
                                     </ul>
                                 </div><!-- .menu / end -->
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                     <div class="topbar__item">
@@ -281,7 +281,7 @@
                 <div class="nav-panel__container container">
                     <div class="nav-panel__row">
                         <div class="nav-panel__departments"><!-- .departments -->
-                            <div class="departments" data-departments-fixed-by="">
+                            <div class="departments" >
                                 <div class="departments__body">
                                     <div class="departments__links-wrapper">
                                         <div class="departments__submenus-container"></div>
@@ -1435,55 +1435,47 @@
                                     </div><!-- .dropcart / end -->
                                 </div>
                             </div>
-                            <div class="indicator indicator--trigger--click"><a href="account-login.html"
-                                    class="indicator__button"><span class="indicator__area"><svg width="20px"
-                                            height="20px">
-                                            <use xlink:href="images/sprite.svg#person-20"></use>
-                                        </svg></span></a>
-                                <div class="indicator__dropdown">
-                                    <div class="account-menu">
-                                        <form class="account-menu__form">
-                                            <div class="account-menu__form-title">Log In to Your Account</div>
-                                            <div class="form-group"><label for="header-signin-email"
-                                                    class="sr-only">Email address</label> <input
-                                                    id="header-signin-email" type="email"
-                                                    class="form-control form-control-sm"
-                                                    placeholder="Email address"></div>
-                                            <div class="form-group"><label for="header-signin-password"
-                                                    class="sr-only">Password</label>
-                                                <div class="account-menu__form-forgot"><input
-                                                        id="header-signin-password" type="password"
-                                                        class="form-control form-control-sm"
-                                                        placeholder="Password"> <a href="#"
-                                                        class="account-menu__form-forgot-link">Forgot?</a></div>
-                                            </div>
-                                            <div class="form-group account-menu__form-button"><button
-                                                    type="submit" class="btn btn-primary btn-sm">Login</button>
-                                            </div>
-                                            <div class="account-menu__form-link"><a
-                                                    href="account-login.html">Create An Account</a></div>
-                                        </form>
-                                        <div class="account-menu__divider"></div><a
-                                            href="account-dashboard.html" class="account-menu__user">
-                                            <div class="account-menu__user-avatar"><img
-                                                    src="images/avatars/avatar-3.jpg" alt=""></div>
-                                            <div class="account-menu__user-info">
-                                                <div class="account-menu__user-name">Helena Garcia</div>
-                                                <div class="account-menu__user-email">stroyka@example.com</div>
-                                            </div>
+                            <div class="indicator indicator--trigger--click">
+                                <div class="indicator indicator--trigger--click">
+
+                                    @if (auth()->guard('buyer')->check())
+                                        <a href="{{ route('buyer.login') }}" class="indicator__button"><span
+                                                class="indicator__area"><svg width="20px" height="20px">
+                                                    <use xlink:href="images/sprite.svg#person-20"></use>
+                                                </svg></span>
                                         </a>
-                                        <div class="account-menu__divider"></div>
-                                        <ul class="account-menu__links">
-                                            <li><a href="account-profile.html">Edit Profile</a></li>
-                                            <li><a href="account-orders.html">Order History</a></li>
-                                            <li><a href="account-addresses.html">Addresses</a></li>
-                                            <li><a href="account-password.html">Password</a></li>
-                                        </ul>
-                                        <div class="account-menu__divider"></div>
-                                        <ul class="account-menu__links">
-                                            <li><a href="account-login.html">Logout</a></li>
-                                        </ul>
-                                    </div>
+                                    @else
+                                        <a href="" class="indicator__button"><span class="indicator__area"><svg
+                                                    width="20px" height="20px">
+                                                    <use xlink:href="images/sprite.svg#person-20"></use>
+                                                </svg></span>
+                                        </a>
+                                        <div class="indicator__dropdown">
+                                            <div class="account-menu">
+                                                
+                                                <div class="account-menu__divider"></div><a href="account-dashboard.html"
+                                                    class="account-menu__user">
+                                                    <div class="account-menu__user-avatar"><img
+                                                            src="images/avatars/avatar-3.jpg" alt=""></div>
+                                                    <div class="account-menu__user-info">
+                                                        <div class="account-menu__user-name">Helena Garcia</div>
+                                                        <div class="account-menu__user-email">stroyka@example.com</div>
+                                                    </div>
+                                                </a>
+                                                <div class="account-menu__divider"></div>
+                                                <ul class="account-menu__links">
+                                                    <li><a href="account-profile.html">Edit Profile</a></li>
+                                                    <li><a href="account-orders.html">Order History</a></li>
+                                                    <li><a href="account-addresses.html">Addresses</a></li>
+                                                    <li><a href="account-password.html">Password</a></li>
+                                                </ul>
+                                                <div class="account-menu__divider"></div>
+                                                <ul class="account-menu__links">
+                                                    <li><a href="{{ route('buyer.logout') }}">Logout</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    @endif
                                 </div>
                             </div>
                         </div>

@@ -1,26 +1,4 @@
-{{-- <!DOCTYPE html>
-<html lang="en">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
-
-
-<body class="header-above is-content-header">
-    <div class="eu-location" data-eu="0"></div>
-    <div class="wrapper">
-
-
-        @include('buyer.includes.topbar')
-        @include('buyer.includes.header')
-       
-       @yield('content')
-
-        @include('buyer.includes.footer')
-       @include('buyer.includes.script')
-    </div>
-
-</body>
-
-</html> --}}
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">

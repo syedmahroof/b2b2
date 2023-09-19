@@ -4,87 +4,116 @@ namespace App\Http\Controllers\AdminControllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Models\Category; // Assuming you have a Category model
+use App\Models\News; // Assuming you have a News model
 
 class AdminNewsController extends Controller
 {
-    // Show category details
+    // Show news details
     public function show($id)
     {
-        $category = Category::findOrFail($id);
-        return view('admin.category-details', compact('category'));
+        $news = News::findOrFail($id);
+        return view('admin.news-details', compact('news'));
     }
 
-    // Show category list
+    // Show news list
     public function index()
     {
-        // Retrieve all categories from the database
-        $categories = Category::paginate(10);
+        // Retrieve all news articles from the database
+        $news = News::paginate(10);
 
-        return view('admin.pages.categories.index', compact('categories'));
+        return view('admin.pages.news.index', compact('news'));
     }
 
-    // Show create category form
+    // Show create news form
     public function create()
     {
-        return view('admin.pages.categories.create');
+        return view('admin.pages.news.create');
     }
 
-    // Store new category
+    // Store new news article
     public function store(Request $request)
     {
         // Validate the request data
         $validatedData = $request->validate([
-            'name' => 'required|string|max:255',
+            'title' => 'required|string|max:255',
+            'content' => 'required',
+            'image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048', // Adjust image validation as needed
+            'sub_title' => 'nullable|string|max:255', // Validate the sub_title field
             // Add more validation rules for other fields
         ]);
 
-        // Create the category in the database
-        Category::create($validatedData);
+        // Handle image upload
+        if ($request->hasFile('image')) {
+            $imagePath = $request->file('image')->store('news_images', 'public'); // Adjust the storage path
+            $validatedData['image'] = $imagePath;
+        }
+
+        // Create the news article in the database
+        News::create($validatedData);
 
         // Redirect back with a success message
-        return redirect()->route('admin.categories.index')
-            ->with('success', 'Category created successfully');
+        return redirect()->route('admin.news.index')
+            ->with('success', 'News article created successfully');
     }
 
-    // Show edit category form
+    // Show edit news form
     public function edit($id)
     {
-        // Retrieve the category by ID from the database
-        $category = Category::find($id);
+        // Retrieve the news article by ID from the database
+        $news = News::find($id);
 
-        return view('admin.pages.categories.edit', compact('category'));
+        return view('admin.pages.news.edit', compact('news'));
     }
 
-    // Update category data
+    // Update news article data
     public function update(Request $request, $id)
     {
         // Validate the request data
         $validatedData = $request->validate([
-            'name' => 'required|string|max:255',
+            'title' => 'required|string|max:255',
+            'content' => 'required',
+            'image' => 'nullable|image|mimes:jpeg,png,jpg,gif|max:2048', // Adjust image validation as needed
+            'sub_title' => 'nullable|string|max:255', // Validate the sub_title field
             // Add more validation rules for other fields
         ]);
 
-        // Update the category data in the database
-        $category = Category::find($id);
-        $category->update($validatedData);
+        // Retrieve the news article by ID from the database
+        $news = News::find($id);
+
+        // Handle image upload if a new image is provided
+        if ($request->hasFile('image')) {
+            $imagePath = $request->file('image')->store('news_images', 'public'); // Adjust the storage path
+            $validatedData['image'] = $imagePath;
+
+            // Delete the old image if it exists
+            if ($news->image) {
+                Storage::disk('public')->delete($news->image);
+            }
+        }
+
+        // Update the news article data in the database
+        $news->update($validatedData);
 
         // Redirect back with a success message
-        return redirect()->route('admin.categories.index')
-            ->with('success', 'Category updated successfully');
+        return redirect()->route('admin.news.index')
+            ->with('success', 'News article updated successfully');
     }
 
-    // Delete category
+    // Delete news article
     public function destroy($id)
     {
-        // Find the category by ID
-        $category = Category::find($id);
+        // Find the news article by ID
+        $news = News::find($id);
 
-        // Delete the category
-        $category->delete();
+        // Delete the news article and its associated image if it exists
+        if ($news->image) {
+            Storage::disk('public')->delete($news->image);
+        }
+
+        $news->delete();
 
         // Redirect back with a success message
-        return redirect()->route('admin.categories.index')
-            ->with('success', 'Category deleted successfully');
+        return redirect()->route('admin.news.index')
+            ->with('success', 'News article deleted successfully');
     }
 }

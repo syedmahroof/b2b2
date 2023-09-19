@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\BuyerControllers;
 
 use App\Http\Controllers\Controller;
+use App\Models\News;
 use App\Models\Product;
 use App\Models\Slider;
 use App\Services\CategoryService;
@@ -24,13 +25,15 @@ class BuyerController extends Controller
         if (Auth::guard('buyer')->check()) {
             $hotSellingProducts = Product::limit(12)->get();
             $sliders = Slider::limit(12)->get();
+            $latestNews = News::limit(12)->get();
             $categories = $this->categoryService->getCategoriesWithChildren(); // Fetch categories
-            return view('buyer.pages.home', compact('hotSellingProducts', 'categories','sliders')); // Pass categories to the view
+            return view('buyer.pages.home', compact('hotSellingProducts', 'categories','sliders','latestNews')); // Pass categories to the view
         } else {
             $categories = $this->categoryService->getCategoriesWithChildren(); // Fetch categories
             $hotSellingProducts = Product::limit(12)->get();
             $sliders = Slider::limit(12)->get();
-            return view('buyer.pages.guest_home', compact('hotSellingProducts','categories','sliders'));
+            $latestNews = News::limit(12)->get();
+            return view('buyer.pages.guest_home', compact('hotSellingProducts','categories','sliders','latestNews'));
         }
     }
 
@@ -75,9 +78,10 @@ class BuyerController extends Controller
         return view('buyer.pages.site_map');
     }
     
-    public function productDetails()
+    public function productDetails($id)
     {
-        return view('buyer.pages.product_details');
+        $categories = $this->categoryService->getCategoriesWithChildren(); 
+        return view('buyer.pages.product_details',compact('categories'));
     }
     
     public function supplierProfile()

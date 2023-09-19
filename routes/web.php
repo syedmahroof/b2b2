@@ -6,10 +6,10 @@ use App\Http\Controllers\AdminControllers\AdminAuthController;
 use App\Http\Controllers\AdminControllers\AdminBuyerController;
 use App\Http\Controllers\AdminControllers\AdminSupplierController;
 use App\Http\Controllers\AdminControllers\AdminController;
+use App\Http\Controllers\AdminControllers\AdminNewsController;
 use App\Http\Controllers\AdminControllers\AdminSliderController;
 use App\Http\Controllers\BuyerControllers\SocialController;
-use App\Http\Controllers\SupplierControllers\SupplierAuthController;
-use App\Http\Controllers\SupplierControllers\SupplierController;
+
 use App\Http\Controllers\BuyerControllers\BuyerAuthController;
 use App\Http\Controllers\BuyerControllers\BuyerController;
 use App\Http\Controllers\MarketingControllers\MarketingExecutiveAuthController;
@@ -35,7 +35,7 @@ Route::get('/site-map', [BuyerController::class, 'siteMap'])->name('siteMap');
 
 Route::get('/contact', [BuyerController::class, 'contact'])->name('contact');
 Route::get('/products', [BuyerController::class, 'products'])->name('buyer.products');
-Route::get('/product_details', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
+Route::get('/product_details/{id}', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
 Route::get('/signup', [BuyerAuthController::class, 'showRegisterForm'])->name('buyer.signup');
 Route::post('/signup', [BuyerAuthController::class, 'signup'])->name('buyer.submit.signup');
 Route::get('/login', [BuyerAuthController::class, 'showLoginForm'])->name('buyer.login');
@@ -82,9 +82,7 @@ Route::prefix('admin')->group(function () {
         Route::get('/admin/product', [AdminBuyerController::class, 'index'])->name('admin.products.list');
         Route::get('/admin/ticket', [AdminBuyerController::class, 'index'])->name('admin.tickets.list');
 
-
-        Route::group(['namespace' => 'AdminControllers', 'prefix' => 'admin'], function () {
-
+        Route::group(['namespace' => 'AdminControllers'], function () {
 
             Route::get('/suppliers', [AdminSupplierController::class, 'index'])->name('admin.suppliers.index');
             Route::get('/suppliers/create', [AdminSupplierController::class, 'create'])->name('admin.suppliers.create');
@@ -95,9 +93,6 @@ Route::prefix('admin')->group(function () {
             Route::get('/show-suppliers/{id}', [AdminSupplierController::class, 'show'])->name('admin.suppliers.show');
             // Your additional route
             Route::get('/supplier', [AdminSupplierController::class, 'index'])->name('admin.supplier.list');
-
-
-
             Route::get('/buyers', [AdminbuyerController::class, 'index'])->name('admin.buyers.index');
             Route::get('/buyers/create', [AdminbuyerController::class, 'create'])->name('admin.buyers.create');
             Route::post('/buyers', [AdminbuyerController::class, 'store'])->name('admin.buyers.store');
@@ -136,6 +131,7 @@ Route::prefix('admin')->group(function () {
             Route::get('/news/{id}/edit', [AdminNewsController::class, 'edit'])->name('admin.news.edit');
             Route::put('/news/{id}', [AdminNewsController::class, 'update'])->name('admin.news.update');
             Route::delete('/news/{id}', [AdminNewsController::class, 'destroy'])->name('admin.news.destroy');
+            Route::get('/admin/news/{id}', [AdminNewsController::class, 'show'])->name('admin.news.show');
 
 
 
@@ -181,19 +177,7 @@ Route::prefix('admin')->group(function () {
 });
 
 // Supplier routes
-Route::prefix('supplier')->group(function () {
-    // Show login form
-    Route::get('/login', [SupplierAuthController::class, 'showLoginForm'])->name('supplier.login');
-    // Handle login form submission
-    Route::post('/login-post', [SupplierAuthController::class, 'login'])->name('supplier.post.login');
-    // Other supplier routes can be defined here
-    Route::middleware('supplier.guard')->group(function () {
-        // Dashboard route
-        Route::get('/dashboard', [SupplierController::class, 'dashboard'])->name('supplier.dashboard');
-        // Logout route
-        Route::post('/logout', [SupplierAuthController::class, 'logout'])->name('supplier.logout');
-    });
-});
+
 
 // Buyer routes
 

@@ -4,87 +4,89 @@ namespace App\Http\Controllers\AdminControllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Models\Category; // Assuming you have a Category model
+use App\Models\Faq; // Assuming you have a Faq model
 
 class AdminFaqController extends Controller
 {
-    // Show category details
+    // Show FAQ details
     public function show($id)
     {
-        $category = Category::findOrFail($id);
-        return view('admin.category-details', compact('category'));
+        $faq = Faq::findOrFail($id);
+        return view('admin.faq-details', compact('faq'));
     }
 
-    // Show category list
+    // Show FAQ list
     public function index()
     {
-        // Retrieve all categories from the database
-        $categories = Category::paginate(10);
+        // Retrieve all FAQs from the database
+        $faqs = Faq::paginate(10);
 
-        return view('admin.pages.categories.index', compact('categories'));
+        return view('admin.pages.faqs.index', compact('faqs'));
     }
 
-    // Show create category form
+    // Show create FAQ form
     public function create()
     {
-        return view('admin.pages.categories.create');
+        return view('admin.pages.faqs.create');
     }
 
-    // Store new category
+    // Store new FAQ
     public function store(Request $request)
     {
         // Validate the request data
         $validatedData = $request->validate([
-            'name' => 'required|string|max:255',
+            'question' => 'required|string|max:255',
+            'answer' => 'required',
             // Add more validation rules for other fields
         ]);
 
-        // Create the category in the database
-        Category::create($validatedData);
+        // Create the FAQ in the database
+        Faq::create($validatedData);
 
         // Redirect back with a success message
-        return redirect()->route('admin.categories.index')
-            ->with('success', 'Category created successfully');
+        return redirect()->route('admin.faqs.index')
+            ->with('success', 'FAQ created successfully');
     }
 
-    // Show edit category form
+    // Show edit FAQ form
     public function edit($id)
     {
-        // Retrieve the category by ID from the database
-        $category = Category::find($id);
+        // Retrieve the FAQ by ID from the database
+        $faq = Faq::find($id);
 
-        return view('admin.pages.categories.edit', compact('category'));
+        return view('admin.pages.faqs.edit', compact('faq'));
     }
 
-    // Update category data
+    // Update FAQ data
     public function update(Request $request, $id)
     {
         // Validate the request data
         $validatedData = $request->validate([
-            'name' => 'required|string|max:255',
+            'question' => 'required|string|max:255',
+            'answer' => 'required',
             // Add more validation rules for other fields
         ]);
 
-        // Update the category data in the database
-        $category = Category::find($id);
-        $category->update($validatedData);
+        // Update the FAQ data in the database
+        $faq = Faq::find($id);
+        $faq->update($validatedData);
 
         // Redirect back with a success message
-        return redirect()->route('admin.categories.index')
-            ->with('success', 'Category updated successfully');
+        return redirect()->route('admin.faqs.index')
+            ->with('success', 'FAQ updated successfully');
     }
 
-    // Delete category
+    // Delete FAQ
     public function destroy($id)
     {
-        // Find the category by ID
-        $category = Category::find($id);
+        // Find the FAQ by ID
+        $faq = Faq::find($id);
 
-        // Delete the category
-        $category->delete();
+        // Delete the FAQ
+        $faq->delete();
 
         // Redirect back with a success message
-        return redirect()->route('admin.categories.index')
-            ->with('success', 'Category deleted successfully');
+        return redirect()->route('admin.faqs.index')
+            ->with('success', 'FAQ deleted successfully');
     }
 }

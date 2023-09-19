@@ -36,5 +36,30 @@ class RouteServiceProvider extends ServiceProvider
             Route::middleware('web')
                 ->group(base_path('routes/web.php'));
         });
+        
+        $this->mapSupplierRoutes(); // Call the mapSupplierRoutes method during boot
+        $this->mapAdminRoutes();
+    }
+
+    public function map()
+    {
+        $this->mapApiRoutes();
+
+        $this->mapWebRoutes();
+    }
+
+    protected function mapSupplierRoutes()
+    {
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/supplier.php'));
+    }
+
+
+    protected function mapAdminRoutes()
+    {
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/admin.php'));
     }
 }
