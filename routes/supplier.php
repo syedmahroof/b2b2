@@ -2,9 +2,10 @@
 
 // supplier.php
 
+use App\Http\Controllers\SupplierControllers\SupplierSliderController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SupplierDashboardController;
-use App\Http\Controllers\SupplierProductController;
+use App\Http\Controllers\SupplierControllers\SupplierProductController;
 use App\Http\Controllers\SupplierControllers\SupplierAuthController;
 use App\Http\Controllers\SupplierControllers\SupplierController;
 
@@ -25,6 +26,16 @@ Route::prefix('supplier')->group(function () {
         Route::get('/products/{id}/edit', [SupplierProductController::class, 'edit'])->name('supplier.products.edit');
         Route::put('/products/{id}', [SupplierProductController::class, 'update'])->name('supplier.products.update');
         Route::delete('/products/{id}', [SupplierProductController::class, 'destroy'])->name('supplier.products.destroy');
+
+
+        Route::get('/sliders', [SupplierSliderController::class, 'index'])->name('supplier.sliders.index');
+        Route::get('/sliders/create', [SupplierSliderController::class, 'create'])->name('supplier.sliders.create');
+        Route::post('/sliders', [SupplierSliderController::class, 'store'])->name('supplier.sliders.store');
+        Route::get('/sliders/{id}/edit', [SupplierSliderController::class, 'edit'])->name('supplier.sliders.edit');
+        Route::put('/sliders/{id}', [SupplierSliderController::class, 'update'])->name('supplier.sliders.update');
+        Route::delete('/sliders/{id}', [SupplierSliderController::class, 'destroy'])->name('supplier.sliders.destroy');
+
+
 
         // Logout route
         Route::post('/logout', [SupplierAuthController::class, 'logout'])->name('supplier.logout');

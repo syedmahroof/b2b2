@@ -9,12 +9,7 @@ class Product extends Model
 {
     use HasFactory;
 
-    protected $fillable = [
-        'supplier_id',
-        'name',
-        'description',
-        'price',
-    ];
+    protected $guarded = [];
 
     public function supplier()
     {
