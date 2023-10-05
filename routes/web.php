@@ -3,12 +3,16 @@
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\AdminControllers\AdminAuthController;
+
+use App\Http\Controllers\AdminControllers\AdminBlogController;
 use App\Http\Controllers\AdminControllers\AdminBuyerController;
 use App\Http\Controllers\AdminControllers\AdminSupplierController;
 use App\Http\Controllers\AdminControllers\AdminController;
 use App\Http\Controllers\AdminControllers\AdminNewsController;
 use App\Http\Controllers\AdminControllers\AdminSliderController;
 use App\Http\Controllers\BuyerControllers\SocialController;
+
+
 
 use App\Http\Controllers\BuyerControllers\BuyerAuthController;
 use App\Http\Controllers\BuyerControllers\BuyerController;
@@ -25,6 +29,11 @@ use App\Http\Controllers\InventoryManagementControllers\InventoryManagerControll
 Route::get('/', [BuyerController::class, 'index'])->name('buyer.home');
 
 Route::get('/about', [BuyerController::class, 'about'])->name('about');
+
+Route::get('/blogs', [BuyerController::class, 'blogs'])->name('blogs');
+Route::get('/blog/{id}', [BuyerController::class, 'blogDetails'])->name('blogs.show');
+
+
 Route::get('/delivery-information', [BuyerController::class, 'deliveryInformation'])->name('deliveryInformation');
 Route::get('/privacy-policy', [BuyerController::class, 'privacyPolicy'])->name('privacyPolicy');
 Route::get('/brands', [BuyerController::class, 'brands'])->name('brands');
@@ -34,8 +43,10 @@ Route::get('/site-map', [BuyerController::class, 'siteMap'])->name('siteMap');
 
 
 Route::get('/contact', [BuyerController::class, 'contact'])->name('contact');
+Route::post('/contactSave', [BuyerController::class, 'contactSave'])->name('save.contact');
+
 Route::get('/products', [BuyerController::class, 'products'])->name('buyer.products');
-Route::get('/product_details/{id}', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
+Route::get('/product/{id}', [BuyerController::class, 'productDetails'])->name('buyer.product.details');
 Route::get('/signup', [BuyerAuthController::class, 'showRegisterForm'])->name('buyer.signup');
 Route::post('/signup', [BuyerAuthController::class, 'signup'])->name('buyer.submit.signup');
 Route::get('/login', [BuyerAuthController::class, 'showLoginForm'])->name('buyer.login');
@@ -141,6 +152,8 @@ Route::prefix('admin')->group(function () {
             Route::get('/blogs/{id}/edit', [AdminBlogController::class, 'edit'])->name('admin.blogs.edit');
             Route::put('/blogs/{id}', [AdminBlogController::class, 'update'])->name('admin.blogs.update');
             Route::delete('/blogs/{id}', [AdminBlogController::class, 'destroy'])->name('admin.blogs.destroy');
+            Route::delete('blogs/{blog}', [AdminBlogController::class, 'show'])->name('admin.blogs.show');
+      
 
 
 

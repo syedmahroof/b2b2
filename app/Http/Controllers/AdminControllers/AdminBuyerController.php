@@ -4,31 +4,32 @@ namespace App\Http\Controllers\AdminControllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Models\Supplier;
+use App\Models\Buyer; // Assuming you have a Buyer model
 
 class AdminBuyerController extends Controller
 {
     public function show($id)
     {
-        $supplier = Supplier::findOrFail($id);
-        return view('admin.supplier-details', compact('supplier'));
+        $buyer = Buyer::findOrFail($id);
+        return view('admin.buyer-details', compact('buyer'));
     }
+
     // Show home page
     public function index()
     {
         // Retrieve all buyers from the database
-        $buyers = Supplier::paginate(10); 
+        $buyers = Buyer::paginate(10);
 
         return view('admin.pages.buyers.index', compact('buyers'));
     }
 
-    // Show create supplier form
+    // Show create buyer form
     public function create()
     {
         return view('admin.pages.buyers.create');
     }
 
-    // Store new supplier
+    // Store new buyer
     public function store(Request $request)
     {
         // Validate the request data
@@ -37,24 +38,24 @@ class AdminBuyerController extends Controller
             // Add more validation rules for other fields
         ]);
 
-        // Create the supplier in the database
-        Supplier::create($validatedData);
+        // Create the buyer in the database
+        Buyer::create($validatedData);
 
         // Redirect back with a success message
         return redirect()->route('admin.buyers.index')
-            ->with('success', 'Supplier created successfully');
+            ->with('success', 'Buyer created successfully');
     }
 
-    // Show edit supplier form
+    // Show edit buyer form
     public function edit($id)
     {
-        // Retrieve the supplier by ID from the database
-        $supplier = Supplier::find($id);
+        // Retrieve the buyer by ID from the database
+        $buyer = Buyer::find($id);
 
-        return view('admin.pages.buyers.edit', compact('supplier'));
+        return view('admin.pages.buyers.edit', compact('buyer'));
     }
 
-    // Update supplier data
+    // Update buyer data
     public function update(Request $request, $id)
     {
         // Validate the request data
@@ -63,26 +64,26 @@ class AdminBuyerController extends Controller
             // Add more validation rules for other fields
         ]);
 
-        // Update the supplier data in the database
-        $supplier = Supplier::find($id);
-        $supplier->update($validatedData);
+        // Update the buyer data in the database
+        $buyer = Buyer::find($id);
+        $buyer->update($validatedData);
 
         // Redirect back with a success message
         return redirect()->route('admin.buyers.index')
-            ->with('success', 'Supplier updated successfully');
+            ->with('success', 'Buyer updated successfully');
     }
 
-    // Delete supplier
+    // Delete buyer
     public function destroy($id)
     {
-        // Find the supplier by ID
-        $supplier = Supplier::find($id);
+        // Find the buyer by ID
+        $buyer = Buyer::find($id);
 
-        // Delete the supplier
-        $supplier->delete();
+        // Delete the buyer
+        $buyer->delete();
 
         // Redirect back with a success message
         return redirect()->route('admin.buyers.index')
-            ->with('success', 'Supplier deleted successfully');
+            ->with('success', 'Buyer deleted successfully');
     }
 }

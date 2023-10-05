@@ -10,6 +10,9 @@
         <!-- Navbar -->
         @include('supplier.includes.nav')
         <!-- End Navbar -->
+
+        @yield('sub')
+
         <div class="container-fluid py-4">
             @yield('content')
             @include('supplier.includes.footer')

@@ -93,10 +93,10 @@ class SupplierProductController extends Controller
             'schema_markup' => $request->input('schema_markup'),
             'og_title' => $request->input('og_title'),
             'og_description' => $request->input('og_description'),
-            // 'og_image' => $featuredImagePath,
+            // #ef233c
             'twitter_card_title' => $request->input('twitter_card_title'),
             'twitter_card_description' => $request->input('twitter_card_description'),
-            // 'twitter_card_image' => $featuredImagePath,
+            'twitter_card_image' => $featuredImagePath,
             'sitemap_priority' => $request->input('sitemap_priority', 0.5),
             'sitemap_frequency' => $request->input('sitemap_frequency', 'weekly'),
             // Add more fields as needed

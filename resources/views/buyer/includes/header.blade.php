@@ -71,16 +71,16 @@
             <div class="topbar__container container">
                 <div class="topbar__row">
                     <div class="topbar__item topbar__item--link"><a class="topbar-link"
-                            href="{{ route('contact') }}">About
+                            href="{{ route('about') }}">About
                             Us</a></div>
                     <div class="topbar__item topbar__item--link"><a class="topbar-link"
-                            href="contact-us.html">Contacts</a></div>
+                            href="{{ route('contactUs') }}">Contact</a></div>
                     <div class="topbar__item topbar__item--link"><a class="topbar-link" href="#">Store
                             Location</a></div>
                     <div class="topbar__item topbar__item--link"><a class="topbar-link" href="track-order.html">Track
                             Order</a></div>
                     <div class="topbar__item topbar__item--link"><a class="topbar-link"
-                            href="blog-classic.html">Blog</a></div>
+                            href="{{route('blogs')}}">Blog</a></div>
                     <div class="topbar__spring"></div>
 
 
@@ -669,7 +669,7 @@
 
 
                                 <li class="nav-links__item nav-links__item--has-submenu"><a
-                                        class="nav-links__item-link" href="blog-classic.html">
+                                        class="nav-links__item-link" href="{{route('blogs')}}">
                                         <div class="nav-links__item-body">Blog <svg class="nav-links__item-arrow"
                                                 width="9px" height="6px">
                                                 <use xlink:href="images/sprite.svg#arrow-rounded-down-9x6">

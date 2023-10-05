@@ -20,6 +20,12 @@ Route::prefix('supplier')->group(function () {
         // Dashboard route
         Route::get('/', [SupplierController::class, 'dashboard'])->name('supplier.dashboard');
 
+        Route::get('/profile', [SupplierController::class, 'profile'])->name('supplier.profile');
+
+        Route::any('/update-profile', [SupplierController::class, 'updateProfile'])->name('supplier.updateProfile');
+
+        
+
         Route::get('/products', [SupplierProductController::class, 'index'])->name('supplier.products.index');
         Route::get('/products/create', [SupplierProductController::class, 'create'])->name('supplier.products.create');
         Route::post('/products', [SupplierProductController::class, 'store'])->name('supplier.products.store');

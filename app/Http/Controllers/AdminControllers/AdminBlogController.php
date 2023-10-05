@@ -37,14 +37,25 @@ class AdminBlogController extends Controller
         $validatedData = $request->validate([
             'title' => 'required|string|max:255',
             'content' => 'required',
-            // Add more validation rules for other fields
+            'image' => 'required|image|mimes:jpeg,png,jpg,gif|max:2048', // Adjust validation rules for the image
         ]);
 
-        // Create the blog post in the database
-        BlogPost::create($validatedData);
+        // Handle image upload
+        $imagePath = $request->file('image')->store('blog_images', 'public');
+
+        // Create a new blog instance
+        $blog = new BlogPost;
+
+        // Fill the blog instance with the validated data
+        $blog->title = $validatedData['title'];
+        $blog->content = $validatedData['content'];
+        $blog->image = $imagePath;
+
+        // Save the blog post to the database
+        $blog->save();
 
         // Redirect back with a success message
-        return redirect()->route('admin.blog.index')
+        return redirect()->route('admin.blogs.index')
             ->with('success', 'Blog post created successfully');
     }
 
@@ -86,7 +97,7 @@ class AdminBlogController extends Controller
         $blogPost->delete();
 
         // Redirect back with a success message
-        return redirect()->route('admin.blog.index')
+        return redirect()->route('admin.blogs.index')
             ->with('success', 'Blog post deleted successfully');
     }
 }

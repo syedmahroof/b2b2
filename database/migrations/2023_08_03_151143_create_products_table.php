@@ -17,13 +17,13 @@ return new class extends Migration
             $table->string('featured_image')->nullable();
             $table->integer('min_order_quantity')->default(1);
             $table->integer('lead_time_days')->nullable();
-            $table->json('bulk_pricing')->nullable();
+            $table->string('bulk_pricing')->nullable();
             $table->boolean('sample_available')->default(false);
             $table->text('customization_options')->nullable();
             $table->text('payment_terms')->nullable();
             $table->string('bulk_order_enquiry_link')->nullable();
-            $table->boolean('bulk_order_available')->default(true);
-            $table->json('custom_pricing')->nullable();
+            $table->string('bulk_order_available')->default(true)->nullable();
+            $table->string('custom_pricing')->nullable();
             $table->string('quote_system_integration')->nullable();
             $table->integer('estimated_delivery_time')->nullable();
             $table->integer('manufacturing_lead_time')->nullable();
@@ -51,7 +51,7 @@ return new class extends Migration
             $table->enum('sitemap_frequency', ['always', 'hourly', 'daily', 'weekly', 'monthly', 'yearly', 'never'])->default('weekly');
 
             $table->text('description')->nullable();
-            $table->decimal('price', 10, 2);
+            $table->decimal('price', 10, 2)->nullable();
 
 
             $table->unsignedBigInteger('rating_count')->default(0);

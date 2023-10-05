@@ -15,6 +15,8 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('email')->nullable();
+            $table->string('logo')->nullable();
+            $table->string('slug')->nullable();
             $table->string('password');
             $table->string('website')->nullable();
             $table->string('mobile_primary')->nullable();
@@ -39,7 +41,7 @@ return new class extends Migration
             $table->string('youtube_channel')->nullable(); // YouTube Channel
             $table->string('tiktok_profile')->nullable(); // TikTok Profile
             $table->year('established_year')->nullable();
-            $table->string('logo')->nullable();
+
             $table->string('qr_code')->nullable();
             $table->string('license_number')->nullable();
             // Additional fields

@@ -27,59 +27,61 @@
                     <div class="product__content"><!-- .product__gallery -->
                         <div class="product__gallery">
                             <div class="product-gallery">
-                                <div class="product-gallery__featured"><button class="product-gallery__zoom"><svg
+                                <div class="product-gallery__featured">
+                                    <button class="product-gallery__zoom"><svg
                                             width="24px" height="24px">
                                             <use xlink:href="images/sprite.svg#zoom-in-24"></use>
-                                        </svg></button>
+                                        </svg>
+                                    </button>
                                     <div class="owl-carousel" id="product-image">
                                         <div class="product-image product-image--location--gallery"><!--
-                          The data-width and data-height attributes must contain the size of a larger version
-                          of the product image.
+                              The data-width and data-height attributes must contain the size of a larger version
+                              of the product image.
 
-                          If you do not know the image size, you can remove the data-width and data-height
-                          attribute, in which case the width and height will be obtained from the naturalWidth
-                          and naturalHeight property of img.product-image__img.
-                          --> <a href="images/products/product-16.jpg" data-width="700" data-height="700"
+                              If you do not know the image size, you can remove the data-width and data-height
+                              attribute, in which case the width and height will be obtained from the naturalWidth
+                              and naturalHeight property of img.product-image__img.
+                              --> <a href="{{asset($product->featured_image)}}" data-width="700" data-height="700"
                                                 class="product-image__body" target="_blank"><img class="product-image__img"
-                                                    src="images/products/product-16.jpg" alt=""></a></div>
+                                                    src="{{asset($product->featured_image)}}" alt=""></a></div>
                                         <div class="product-image product-image--location--gallery"><!--
-                          The data-width and data-height attributes must contain the size of a larger version
-                          of the product image.
+                              The data-width and data-height attributes must contain the size of a larger version
+                              of the product image.
 
-                          If you do not know the image size, you can remove the data-width and data-height
-                          attribute, in which case the width and height will be obtained from the naturalWidth
-                          and naturalHeight property of img.product-image__img.
-                          --> <a href="images/products/product-16-1.jpg" data-width="700" data-height="700"
+                              If you do not know the image size, you can remove the data-width and data-height
+                              attribute, in which case the width and height will be obtained from the naturalWidth
+                              and naturalHeight property of img.product-image__img.
+                              --> <a href="images/products/product-16-1.jpg" data-width="700" data-height="700"
                                                 class="product-image__body" target="_blank"><img class="product-image__img"
                                                     src="images/products/product-16-1.jpg" alt=""></a></div>
                                         <div class="product-image product-image--location--gallery"><!--
-                          The data-width and data-height attributes must contain the size of a larger version
-                          of the product image.
+                              The data-width and data-height attributes must contain the size of a larger version
+                              of the product image.
 
-                          If you do not know the image size, you can remove the data-width and data-height
-                          attribute, in which case the width and height will be obtained from the naturalWidth
-                          and naturalHeight property of img.product-image__img.
-                          --> <a href="images/products/product-16-2.jpg" data-width="700" data-height="700"
+                              If you do not know the image size, you can remove the data-width and data-height
+                              attribute, in which case the width and height will be obtained from the naturalWidth
+                              and naturalHeight property of img.product-image__img.
+                              --> <a href="images/products/product-16-2.jpg" data-width="700" data-height="700"
                                                 class="product-image__body" target="_blank"><img class="product-image__img"
                                                     src="images/products/product-16-2.jpg" alt=""></a></div>
                                         <div class="product-image product-image--location--gallery"><!--
-                          The data-width and data-height attributes must contain the size of a larger version
-                          of the product image.
+                              The data-width and data-height attributes must contain the size of a larger version
+                              of the product image.
 
-                          If you do not know the image size, you can remove the data-width and data-height
-                          attribute, in which case the width and height will be obtained from the naturalWidth
-                          and naturalHeight property of img.product-image__img.
-                          --> <a href="images/products/product-16-3.jpg" data-width="700" data-height="700"
+                              If you do not know the image size, you can remove the data-width and data-height
+                              attribute, in which case the width and height will be obtained from the naturalWidth
+                              and naturalHeight property of img.product-image__img.
+                              --> <a href="images/products/product-16-3.jpg" data-width="700" data-height="700"
                                                 class="product-image__body" target="_blank"><img class="product-image__img"
                                                     src="images/products/product-16-3.jpg" alt=""></a></div>
                                         <div class="product-image product-image--location--gallery"><!--
-                          The data-width and data-height attributes must contain the size of a larger version
-                          of the product image.
+                              The data-width and data-height attributes must contain the size of a larger version
+                              of the product image.
 
-                          If you do not know the image size, you can remove the data-width and data-height
-                          attribute, in which case the width and height will be obtained from the naturalWidth
-                          and naturalHeight property of img.product-image__img.
-                          --> <a href="images/products/product-16-4.jpg" data-width="700" data-height="700"
+                              If you do not know the image size, you can remove the data-width and data-height
+                              attribute, in which case the width and height will be obtained from the naturalWidth
+                              and naturalHeight property of img.product-image__img.
+                              --> <a href="images/products/product-16-4.jpg" data-width="700" data-height="700"
                                                 class="product-image__body" target="_blank"><img class="product-image__img"
                                                     src="images/products/product-16-4.jpg" alt=""></a></div>
                                     </div>
@@ -124,7 +126,7 @@
                                         height="16px">
                                         <use xlink:href="images/sprite.svg#compare-16"></use>
                                     </svg></button></div>
-                            <h1 class="product__name">Brandix Screwdriver SCREW1500ACC</h1>
+                            <h1 class="product__name">{{ $product->name }}</h1>
                             <div class="product__rating">
                                 <div class="product__rating-stars">
                                     <div class="rating">

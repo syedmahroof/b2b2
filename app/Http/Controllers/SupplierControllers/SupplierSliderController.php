@@ -24,37 +24,58 @@ class SupplierSliderController extends Controller
     // Store a newly created supplier slider in the database
     public function store(Request $request)
     {
+      
         $request->validate([
             'title' => 'required|string|max:255',
             'attachment' => 'required|image|mimes:jpeg,png,jpg,gif|max:2048',
             'description' => 'required|string',
         ]);
 
+        $data = [
+            'title' => $request->input('title'),
+            // 'attachment' => basename($imagePath),
+            'description' => $request->input('description'),
+            'supplier_id' => auth()->guard('supplier')->user()->id
+        ];
+
+        if ($request->hasFile('attachment')) {
+
+          
+            // Get the uploaded file
+            $slider = $request->file('attachment');
+
+            // Generate a unique filename for the logo
+            $sliderFileName = 'slider_' . rand(10000, 99999) . time() . '.' . $slider->getClientOriginalExtension();
+
+            // Store the logo in a designated directory (e.g., storage/app/public/logos)
+            $slider->storeAs('public/sliders', $sliderFileName);
+
+            $data['attachment'] = 'sliders/'.$sliderFileName;
+            // Save the logo file name in the supplier's profile
+            // $supplier->logo = $sliderFileName;
+        }
+
         // Handle file upload
-        $imagePath = $request->file('attachment')->storeAs('public/sliders', uniqid() . '.' . $request->file('attachment')->getClientOriginalExtension());
+        // $imagePath = $request->file('attachment')->storeAs('public/sliders', uniqid() . '.' . $request->file('attachment')->getClientOriginalExtension());
 
         // Create a new SupplierSlider instance
-        SupplierSlider::create([
-            'title' => $request->input('title'),
-            'attachment' => basename($imagePath),
-            'description' => $request->input('description'),
-        ]);
+        SupplierSlider::create($data);
 
-        return redirect()->route('admin.sliders.index')->with('success', 'Supplier Slider created successfully');
+        return redirect()->route('supplier.sliders.index')->with('success', 'Supplier Slider created successfully');
     }
 
     // Show the details of a specific supplier slider
     public function show($id)
     {
         $slider = SupplierSlider::findOrFail($id);
-        return view('admin.sliders.show', compact('slider'));
+        return view('supplier.sliders.show', compact('slider'));
     }
 
     // Show the form for editing a specific supplier slider
     public function edit($id)
     {
         $slider = SupplierSlider::findOrFail($id);
-        return view('admin.sliders.edit', compact('slider'));
+        return view('supplier.sliders.edit', compact('slider'));
     }
 
     // Update the specified supplier slider in the database
@@ -87,7 +108,7 @@ class SupplierSliderController extends Controller
 
         $slider->save();
 
-        return redirect()->route('admin.sliders.index')->with('success', 'Supplier Slider updated successfully');
+        return redirect()->route('supplier.sliders.index')->with('success', 'Supplier Slider updated successfully');
     }
 
     // Remove the specified supplier slider from the database
@@ -101,6 +122,6 @@ class SupplierSliderController extends Controller
         // Delete the slider
         $slider->delete();
 
-        return redirect()->route('admin.sliders.index')->with('success', 'Supplier Slider deleted successfully');
+        return redirect()->route('supplier.sliders.index')->with('success', 'Supplier Slider deleted successfully');
     }
 }
